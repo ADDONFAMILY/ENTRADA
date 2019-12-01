@@ -12,18 +12,48 @@
 </channels>
 
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
-
 <channels>
 <channel>
-<name>ENTRE AQUI</name>
-<thumbnail>http://ia801506.us.archive.org/24/items/entrar_20191128/Entrar.png</thumbnail>
-<externallink>http://raw.githubusercontent.com/ADDONFAMILY/ENTRADA/master/CATEGORIAS2</externallink>
-<fanart>http://ia601507.us.archive.org/12/items/entrar_20191127/fanart.jpg</fanart>
-<info>
-
-
- - O MELHOR ENTRETENIMENTO PARA TODA FAMÍLIA -</info>
+<name>>>>>FILMES<<<<</name>
+<thumbnail>https://ia801506.us.archive.org/24/items/entrar_20191128/filmes.png</thumbnail>
+<externallink>https://</externallink>
+<fanart>https://ia601405.us.archive.org/28/items/maxresdefault_20191127_0504/images.jpg</fanart>
+<info>Os Melhores Filmes</info>
 </channel>
 </channels>
 
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+<channels>
+<channel>
+<name><<<<Lançamentos>>>></name>
+<thumbnail>https://ia801506.us.archive.org/24/items/entrar_20191128/Lan%C3%A7amentos.png</thumbnail>
+<externallink>https://</externallink>
+<fanart>https://ia601405.us.archive.org/28/items/maxresdefault_20191127_0504/maxresdefault.jpg</fanart>
+<info><<Os Melhores Lançamentos>></info>
+</channel>
+</channels>
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+<channels>
+<channel>
+<name><<<<Gospel>>>></name>
+<thumbnail>https://ia801506.us.archive.org/24/items/entrar_20191128/gospel.png</thumbnail>
+<externallink>https://raw.githubusercontent.com/ADDONFAMILY/ENTRADA/master/FILME%20GOSPEL</externallink>
+<fanart>https://ia601505.us.archive.org/4/items/filmesgospel/filmes%20gospel.jpg</fanart>
+<info>O Melhor cinema gospel você encontra aqui</info>
+</channel>
+</channels>
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+<channels>
+<channel>
+<name>>>>>Clipes<<<<</name>
+<thumbnail>https://ia601407.us.archive.org/24/items/clipes_201911/Clipes.png</thumbnail>
+<externallink>https://</externallink>
+<fanart>https://ia601505.us.archive.org/7/items/fanart_20191128/fanart.jpg</fanart>
+<info><<Os Melhores Clipes>></info>
+</channel>
+</channels>
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
