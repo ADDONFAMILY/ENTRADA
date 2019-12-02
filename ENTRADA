@@ -1,7 +1,7 @@
 <channels>
 <channel>
-<name>SEJA BEM VINDO AO FAMILY TV</name>
-<thumbnail>https://ia801506.us.archive.org/24/items/entrar_20191128/bem%20vindo.png</thumbnail>
+<name>SEJA BEM VINDO AO ADDON FAMILY TV</name>
+<thumbnail>https://ia601507.us.archive.org/12/items/entrar_20191127/Bem%20vindo.png</thumbnail>
 <externallink>https://</externallink>
 <fanart>https://ia601507.us.archive.org/12/items/entrar_20191127/fanart.jpg</fanart>
 <info>
@@ -13,21 +13,17 @@
 
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
 
-<item>
-<title>Marcado pela Promessa</title>
-<link>https://www.youtube.com/watch?v=KjoMDN54sYo</link>
-<thumbnail>https://ia601400.us.archive.org/0/items/238_20191129/Marcado-Pela-Promessa.png</thumbnail>
-<fanart>https://ia601400.us.archive.org/0/items/238_20191129/238.jpg</fanart>
-<info>Brady Gray (Andrew Cheney) é o filho predileto, assim como José da história bíblica, e acaba despertando o ódio de seus irmãos, que cometem um crime imperdoável para afastá-lo do pai. Conduzido para um futuro incerto, após ser brutalmente ferido, ele segue para uma grande cidade, na esperança de esquecer o passado e começar uma nova vida.</info>
-</item>
+<channels>
+<channel>
+<name>ENTRE AQUI</name>
+<thumbnail>https://ia601507.us.archive.org/12/items/entrar_20191127/Entrar.png</thumbnail>
+<externallink>https://raw.githubusercontent.com/ADDONFAMILY/ENTRADA/master/CATEGORIAS2></externallink>
+<fanart>https://ia601507.us.archive.org/12/items/entrar_20191127/fanart.jpg</fanart>
+<info>
 
-<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
-<item>
-<title>Virtudes da Graça</title>
-<link>https://www.youtube.com/watch?v=x2m9-Z_zzhY</link>
-<thumbnail>https://ia601402.us.archive.org/16/items/virtudesdagraca1/virtudes-da-graca%20%281%29.png</thumbnail>
-<fanart>https://ia601402.us.archive.org/16/items/virtudesdagraca1/virtudes-da-graca.jpg</fanart>
-<info>Chase Morgan adoraria viver de acordo com o significado do seu nome (a caçada) e buscar algo grandioso. É seu último ano no colégio, mas ele ainda se sente inseguro. Porém, a mais nova aluna da escola Eastglenn está prestes a mudar isso. Graça é uma garota carismática, inteligente e convicta, mas ela não é tão “perfeita” quanto Chase e seu melhor amigo OB pensam. Um passado sombrio dá a ela uma conexão única com Bobbi, uma colega incompreendida que tem um namorado agressivo e um pai negligente. Enquanto Bobbi precisar tomar uma decisão de vida ou morte e Chase arrisca ser rejeitado, Graça desafia seus amigos e professores, e até ela mesma, a sair da zona de conforto. Por causa da força inspiradora de Graça, as pessoas ao seu redor estão achando mais fácil se expressar e se apaixonar.
-Virtudes da Graça pretende incentivar os jovens a desfrutar de um namoro saudável e a ter liberdade para expressar sua fé, além de dar apoio àqueles que enfrentam gravidezes não planejadas. Um filme incrível estrelado por Moriah (Peters) Smallbone, Chris Massoglia e Ben Davies que compreende a atmosfera, as lutas e as escolhas difíceis de ser um adolescente.</info>
-</item>
+
+ - O MELHOR ENTRETENIMENTO PARA TODA FAMÍLIA -</info>
+</channel>
+</channels>
+
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
