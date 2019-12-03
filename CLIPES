@@ -1,8 +1,14 @@
-<item>
-<title>CLIPES</title>
-<link>https://www.youtube.com/watch?v=LYsaKn8FRhc&list=PLPl-cIhgPUXPXuoqxDbR52mcQ3RwbwwHi</link>
+<channels>
+<channel>
+<name>Clipes</name>
 <thumbnail>https://ia601504.us.archive.org/32/items/entrar_201912/Clipes.png</thumbnail>
+<externallink>https://www.youtube.com/watch?v=LYsaKn8FRhc&list=PLPl-cIhgPUXPXuoqxDbR52mcQ3RwbwwHi</externallink>
 <fanart>https://ia601507.us.archive.org/12/items/entrar_20191127/fanart.jpg</fanart>
-<info>Os Melhores Vídeos Clipes</info>
-</info>
-</item>
+<info>
+
+
+ Os Melhores Vídeos Clipes </info>
+</channel>
+</channels>
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
