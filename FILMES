@@ -1,8 +1,11 @@
-<item>
-<title>Toy Story 4 (Dublado) HD</title>
-<link>http://cdnfe3.azureedge.net/RCFServer1/ondemand/TYSTRY4.mp4?attachment=true</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
+<channels>
+<channel>
+<name>Toy story 4 (Dublado) HD</name>
+<thumbnail>https://ia601402.us.archive.org/22/items/toy4_20191203/Toy4.png</thumbnail>
+<externallink>http://cdnfe3.azureedge.net/RCFServer1/ondemand/TYSTRY4.mp4?attachment=true</externallink>
+<fanart>https://ia601507.us.archive.org/12/items/entrar_20191127/fanart.jpg</fanart>
 <info>Agora morando na casa da pequena Bonnie, Woody apresenta aos amigos o novo brinquedo construído por ela: Forky, baseado em um garfo de verdade. O novo posto de brinquedo não o agrada nem um pouco, o que faz com que Forky fuja de casa. Decidido a trazer de volta o atual brinquedo favorito de Bonnie, Woody parte em seu encalço e, no caminho, reencontra Bo Peep, que agora vive em um parque de diversões.</info>
-</item>
-
+</info>
+</channel>
+</channels>
+>>>>>>>>>>>>>>>>>>>>>>
