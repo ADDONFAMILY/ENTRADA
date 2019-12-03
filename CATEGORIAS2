@@ -1,50 +1,44 @@
-<item>
-<title>CANAIS TV</title>
-<link>https://raw.githubusercontent.com/ADDONFAMILY/ENTRADA/master/CANAIS</link>
-<thumbnail></thumbnail>
+<channels>
+<channel>
+<name>CANAIS TV</name>
+<thumbnail>https://ia601504.us.archive.org/32/items/entrar_201912/filmes.png</thumbnail>
+<externallink>https://raw.githubusercontent.com/ADDONFAMILY/ENTRADA/master/CANAIS</externallink>
 <fanart></fanart>
-<info>Os Melhores Filmes você entra aqui!</info>
-</item>
-
+<info>- O MELHOR ENTRETENIMENTO PARA TODA FAMÍLIA -</info>
+</channel>
+</channels>
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
 <channels>
 <channel>
 <name>FILMES</name>
 <thumbnail>https://ia601504.us.archive.org/32/items/entrar_201912/filmes.png</thumbnail>
 <externallink>https://raw.githubusercontent.com/ADDONFAMILY/ENTRADA/master/FILMES</externallink>
-<fanart>https://ia601507.us.archive.org/12/items/entrar_20191127/fanart.jpg</fanart>
-<info>
-
-
- - O MELHOR ENTRETENIMENTO PARA TODA FAMÍLIA -</info>
+<fanart></fanart>
+<info>- O MELHOR ENTRETENIMENTO PARA TODA FAMÍLIA -</info>
 </channel>
 </channels>
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
-<item>
-<title>FILMES</title>
-<link>https://raw.githubusercontent.com/ADDONFAMILY/ENTRADA/master/FILMES</link>
-<thumbnail>https://ia601504.us.archive.org/32/items/entrar_201912/filmes.png</thumbnail>
-<fanart></fanart>
-<info>Os Melhores Filmes você entra aqui!</info>
-</item>
 
-<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
-<item>
-<title>GOSPEL</title>
-<link>https://raw.githubusercontent.com/ADDONFAMILY/ENTRADA/master/S%C3%89RIE%20A%20BIBLIA</link>
+<channels>
+<channel>
+<name>GOSPEL</name>
 <thumbnail>https://ia601504.us.archive.org/32/items/entrar_201912/gospel.png</thumbnail>
-<fanart>https://ia601504.us.archive.org/32/items/entrar_201912/fanart.jpg</fanart>
-<info>Filme Gospel na FamilyTv</info>
-</item>
-
+<externallink>https://raw.githubusercontent.com/ADDONFAMILY/ENTRADA/master/S%C3%89RIE%20A%20BIBLIA</externallink>
+<fanart></fanart>
+<info>- O MELHOR ENTRETENIMENTO PARA TODA FAMÍLIA -</info>
+</channel>
+</channels>
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
 
-<item>
-<title>CLIPES</title>
-<link>https://raw.githubusercontent.com</link>
+<channels>
+<channel>
+<name>CLIPES</name>
 <thumbnail>https://ia601504.us.archive.org/32/items/entrar_201912/Clipes.png</thumbnail>
+<externallink>https://raw.githubusercontent.com</externallink>
 <fanart></fanart>
-<info></info>
-</item>
+<info>- O MELHOR ENTRETENIMENTO PARA TODA FAMÍLIA -</info>
+</channel>
+</channels>
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
 
