@@ -7,6 +7,19 @@
 </item>
 
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+<channels>
+<channel>
+<name>FILMES</name>
+<thumbnail>https://ia601504.us.archive.org/32/items/entrar_201912/filmes.png</thumbnail>
+<externallink>https://raw.githubusercontent.com/ADDONFAMILY/ENTRADA/master/FILMES</externallink>
+<fanart>https://ia601507.us.archive.org/12/items/entrar_20191127/fanart.jpg</fanart>
+<info>
+
+
+ - O MELHOR ENTRETENIMENTO PARA TODA FAMÍLIA -</info>
+</channel>
+</channels>
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
 <item>
 <title>FILMES</title>
 <link>https://raw.githubusercontent.com/ADDONFAMILY/ENTRADA/master/FILMES</link>
