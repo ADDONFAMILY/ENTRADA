@@ -1,52 +1,9 @@
-
-<!DOCTYPE HTML>
-<html>
-  <head>
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta charset="utf-8">
-    <meta name="author" content=""/>
-    <meta name="Resource-type" content="document"/>
-    <meta name="Robots" content="all"/>
-    <meta name="Rating" content="general"/>
-    <title>TV aberta AOVIVO</title>
-    <link href="../img/favicon.png" rel="shortcut icon" type="image/x-icon">
-    <link href="../css/kajado.css" rel="stylesheet" type="text/css">
-    <style type="text/css">
-      @import url(https://fonts.googleapis.com/css?family=Raleway:300);
-      p { font-family: 'Raleway', sans-serif; font-weight: 300; }
-    </style>
-
-  </head>
-  <body class="black-3">
-
-    <header class="pad-tb f-center f-3em">
-      <p>TV aberta</p>
-    </header>
-
-    <section class="area-min pad-tb-max f-center">
-      <div class="grid">
-      
-        <!-- EMISSORA -->
-        <div class="col6-m-pad col4-n-pad">
-          <a href="http://www.sbt.com.br/aovivo/" class="bto med" target="_blank">
-            <img src="img/sbt.png" class="w80">
-          </a>
-        </div>
-        
-        <!-- EMISSORA -->
-        <div class="col6-m-pad col4-n-pad">
-          <a href="http://www.redetv.uol.com.br/aovivo/" class="bto med" target="_blank">
-            <img src="img/redetv.png" class="w80">
-          </a>
-        </div>
-        
-      </div>
-    </section>
-
-    <footer class="pad-tb f-center">
-      <p></p>
-      <small>Todos os Logotipos são de propriedade de suas respectivas empresas.</small>
-    </footer>
-
-  </body>
-</html>
+<item>
+<title>Canal X</title>
+<link>plugin://plugin.video.f4mTester/?url=http://stmv2.euroti.com.br:1935/gospelf/gospelf/live.m3u8</link>
+<item>
+<title>Canal Y</title>
+<link>plugin://plugin.video.f4mTester/?url=canalY.ts</link>
+<item>
+<title>Canal Z</title>
+<link>plugin://plugin.video.f4mTester/?url=canalZ.ts</link>
