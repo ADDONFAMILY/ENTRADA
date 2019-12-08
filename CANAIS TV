@@ -1,6 +1,6 @@
 <item>
 <title>Canal X</title>
-<link>plugin://plugin.video.f4mTester/?url=http://stmv2.euroti.com.br:1935/gospelf/gospelf/live.m3u8</link>
+<link>plugin://plugin.video.f4mTester/?url=http://stmv2.euroti.com.br:1935/gospelf/gospelf/live.ts</link>
 <item>
 <title>Canal Y</title>
 <link>plugin://plugin.video.f4mTester/?url=canalY.ts</link>
