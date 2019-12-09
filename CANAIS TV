@@ -1,802 +1,458 @@
-<item>
-<title>Canal X</title>
-<link>plugin://plugin.video.f4mTester/?url=http://stmv2.euroti.com.br:1935/gospelf/gospelf/live.ts</link>
-<item>
-<title>Canal Y</title>
-<link>plugin://plugin.video.f4mTester/?url=http://158.69.24.208:8081/live/netiptv208/208/513.ts
-</link>
-<item>
-<title>Canal Z</title>
-<link>plugin://plugin.video.f4mTester/?url=canalZ.ts</link>
-
 #EXTM3U
-
-#EXTINF:-1 group-title="Temporário",TV ANHANGUERA HD
-http://158.69.24.208:8081/live/netiptv208/208/834.ts
-
-
-#EXTINF:-1,GLOBO SP HD
-http://158.69.24.208:8081/live/netiptv208/208/513.ts
-
-
-#EXTINF:-1,GLOBO SP  SD
-http://158.69.24.208:8081/live/netiptv208/208/1065.ts
-
-
-#EXTINF:-1,GLOBO RJ HD
-http://158.69.24.208:8081/live/netiptv208/208/467.ts
-
-
-#EXTINF:-1,GLOBO MG HD
-http://158.69.24.208:8081/live/netiptv208/208/466.ts
-
-
-#EXTINF:-1,GLOBO VITORIA HD
-http://158.69.24.208:8081/live/netiptv208/208/152.ts
-
-
-#EXTINF:-1,GLOBO BAHIA HD
-http://158.69.24.208:8081/live/netiptv208/208/983.ts
-
-
-#EXTINF:-1,GLOBO NORDESTE HD
-http://158.69.24.208:8081/live/netiptv208/208/817.ts
-
-
-#EXTINF:-1,SBT HD
-http://158.69.24.208:8081/live/netiptv208/208/411.ts
-
-
-#EXTINF:-1,SBT SD
-http://158.69.24.208:8081/live/netiptv208/208/678.ts
-
-
-#EXTINF:-1,REDE RECORD HD
-http://158.69.24.208:8081/live/netiptv208/208/478.ts
-
-
-#EXTINF:-1,REDE RECORD SD
-http://158.69.24.208:8081/live/netiptv208/208/679.ts
-
-
-#EXTINF:-1,RECORD SD
-http://158.69.24.208:8081/live/netiptv208/208/659.ts
-
-
-#EXTINF:-1,BAND HD
-http://158.69.24.208:8081/live/netiptv208/208/523.ts
-
-
-#EXTINF:-1,BAND SD
-http://158.69.24.208:8081/live/netiptv208/208/959.ts
-
-
-#EXTINF:-1,REDE TV SD
-http://158.69.24.208:8081/live/netiptv208/208/414.ts
-
-
-#EXTINF:-1,TV CULTURA HD
-http://158.69.24.208:8081/live/netiptv208/208/681.ts
-
-
-#EXTINF:-1,CANAL RURAL SD
-http://158.69.24.208:8081/live/netiptv208/208/761.ts
-
-
-#EXTINF:-1,FISHTV SD
-http://158.69.24.208:8081/live/netiptv208/208/854.ts
-
-
-#EXTINF:-1,NBR SD
-http://158.69.24.208:8081/live/netiptv208/208/763.ts
-
-
-#EXTINF:-1,TV APARECIDA SD
-http://158.69.24.208:8081/live/netiptv208/208/790.ts
-
-
-#EXTINF:-1,TV GAZETA HD
-http://158.69.24.208:8081/live/netiptv208/208/789.ts
-
-
-#EXTINF:-1,REDE BRASIL  SD
-http://158.69.24.208:8081/live/netiptv208/208/788.ts
-
-
-#EXTINF:-1,GLOBO NEWS HD
-http://158.69.24.208:8081/live/netiptv208/208/663.ts
-
-
-#EXTINF:-1,GLOBO NEWS SD
-http://158.69.24.208:8081/live/netiptv208/208/1108.ts
-
-
-#EXTINF:-1,GLOBO INTERNACIONAL
-http://158.69.24.208:8081/live/netiptv208/208/153.ts
-
-
-#EXTINF:-1,RECORD NEWS SD
-http://158.69.24.208:8081/live/netiptv208/208/734.ts
-
-
-#EXTINF:-1,BAND NEWS HD
-http://158.69.24.208:8081/live/netiptv208/208/495.ts
-
-
-#EXTINF:-1,BAND NEWS  SD
-http://158.69.24.208:8081/live/netiptv208/208/726.ts
-
-
-#EXTINF:-1,CNN SD
-http://158.69.24.208:8081/live/netiptv208/208/724.ts
-
-
-#EXTINF:-1,BAND SPORTS HD
-http://158.69.24.208:8081/live/netiptv208/208/515.ts
-
-
-#EXTINF:-1,BAND SPORTS SD
-http://158.69.24.208:8081/live/netiptv208/208/717.ts
-
-
-#EXTINF:-1,FOX SPORTS-HD
-http://158.69.24.208:8081/live/netiptv208/208/464.ts
-
-
-#EXTINF:-1,FOX SPORTS SD
-http://158.69.24.208:8081/live/netiptv208/208/695.ts
-
-
-#EXTINF:-1,FOX SPORTS 2 HD
-http://158.69.24.208:8081/live/netiptv208/208/465.ts
-
-
-#EXTINF:-1,FOX SPORTS 2 SD
-http://158.69.24.208:8081/live/netiptv208/208/696.ts
-
-
-#EXTINF:-1,SPORTV  HD
-http://158.69.24.208:8081/live/netiptv208/208/512.ts
-
-
-#EXTINF:-1,SPORTV SD
-http://158.69.24.208:8081/live/netiptv208/208/212.ts
-
-
-#EXTINF:-1,SPORTV 2 HD
-http://158.69.24.208:8081/live/netiptv208/208/508.ts
-
-
-#EXTINF:-1,SPORTV 2 SD
-http://158.69.24.208:8081/live/netiptv208/208/213.ts
-
-
-#EXTINF:-1,SPORTV 3 HD
-http://158.69.24.208:8081/live/netiptv208/208/511.ts
-
-
-#EXTINF:-1,SPORTV 3 SD
-http://158.69.24.208:8081/live/netiptv208/208/214.ts
-
-
-#EXTINF:-1,ESPN BRASIL HD
-http://158.69.24.208:8081/live/netiptv208/208/1109.ts
-
-
-#EXTINF:-1,ESPN BRASIL- HD
-http://158.69.24.208:8081/live/netiptv208/208/520.ts
-
-
-#EXTINF:-1,ESPN BRASIL SD
-http://158.69.24.208:8081/live/netiptv208/208/1023.ts
-
-
-#EXTINF:-1,ESPN- HD
-http://158.69.24.208:8081/live/netiptv208/208/521.ts
-
-
-#EXTINF:-1,ESPN HD
-http://158.69.24.208:8081/live/netiptv208/208/697.ts
-
-
-#EXTINF:-1,ESPN + HD
-http://158.69.24.208:8081/live/netiptv208/208/522.ts
-
-
-#EXTINF:-1,ESPN +
-http://158.69.24.208:8081/live/netiptv208/208/698.ts
-
-
-#EXTINF:-1,ESPORTE INTERATIVO HD
-http://158.69.24.208:8081/live/netiptv208/208/662.ts
-
-
-#EXTINF:-1,EI MAXX - HD
-http://158.69.24.208:8081/live/netiptv208/208/660.ts
-
-
-#EXTINF:-1,EIMAX SD
-http://158.69.24.208:8081/live/netiptv208/208/1069.ts
-
-
-#EXTINF:-1,EI MAXX - 2 HD
-http://158.69.24.208:8081/live/netiptv208/208/661.ts
-
-
-#EXTINF:-1,EI MAXX 2 SD
-http://158.69.24.208:8081/live/netiptv208/208/1070.ts
-
-
-#EXTINF:-1,COMBATE HD
-http://158.69.24.208:8081/live/netiptv208/208/451.ts
-
-
-#EXTINF:-1,COMBATE SD
-http://158.69.24.208:8081/live/netiptv208/208/114.ts
-
-
-#EXTINF:-1,ALL SPORTS BR HD
-http://158.69.24.208:8081/live/netiptv208/208/765.ts
-
-
-#EXTINF:-1,MULTISHOW HD
-http://158.69.24.208:8081/live/netiptv208/208/476.ts
-
-
-#EXTINF:-1,MULTISHOW SD
-http://158.69.24.208:8081/live/netiptv208/208/174.ts
-
-
-#EXTINF:-1,MTV HD
-http://158.69.24.208:8081/live/netiptv208/208/620.ts
-
-
-#EXTINF:-1,OFF HD
-http://158.69.24.208:8081/live/netiptv208/208/183.ts
-
-
-#EXTINF:-1,VIVA HD
-http://158.69.24.208:8081/live/netiptv208/208/491.ts
-
-
-#EXTINF:-1,VIVA  SD
-http://158.69.24.208:8081/live/netiptv208/208/243.ts
-
-
-#EXTINF:-1,BIS HD
-http://158.69.24.208:8081/live/netiptv208/208/102.ts
-
-
-#EXTINF:-1,VH1 HD
-http://158.69.24.208:8081/live/netiptv208/208/676.ts
-
-
-#EXTINF:-1,VH 1 MEGA HITS SD
-http://158.69.24.208:8081/live/netiptv208/208/735.ts
-
-
-#EXTINF:-1,TruTV SD
-http://158.69.24.208:8081/live/netiptv208/208/1071.ts
-
-
-#EXTINF:-1,Play TV SD
-http://158.69.24.208:8081/live/netiptv208/208/1025.ts
-
-
-#EXTINF:-1,MUSIC BOX BRASIL  SD
-http://158.69.24.208:8081/live/netiptv208/208/762.ts
-
-
-#EXTINF:-1,PRIME BOX BRASIL  SD
-http://158.69.24.208:8081/live/netiptv208/208/764.ts
-
-
-#EXTINF:-1,GLOBOSAT HD
-http://158.69.24.208:8081/live/netiptv208/208/93.ts
-
-
-#EXTINF:-1,GNT HD
-http://158.69.24.208:8081/live/netiptv208/208/157.ts
-
-
-#EXTINF:-1,GNT SD
-http://158.69.24.208:8081/live/netiptv208/208/829.ts
-
-
-#EXTINF:-1,COMEDY CENTRAL SD
-http://158.69.24.208:8081/live/netiptv208/208/849.ts
-
-
-#EXTINF:-1,FOX HD
-http://158.69.24.208:8081/live/netiptv208/208/972.ts
-
-
-#EXTINF:-1,FOX SD
-http://158.69.24.208:8081/live/netiptv208/208/1110.ts
-
-
-#EXTINF:-1,FOX PREMIUM 1 HD
-http://158.69.24.208:8081/live/netiptv208/208/978.ts
-
-
-#EXTINF:-1,FX HD
-http://158.69.24.208:8081/live/netiptv208/208/462.ts
-
-
-#EXTINF:-1,FX  SD
-http://158.69.24.208:8081/live/netiptv208/208/1043.ts
-
-
-#EXTINF:-1,FOX ACTION HD
-http://158.69.24.208:8081/live/netiptv208/208/743.ts
-
-
-#EXTINF:-1,FOX LIFE - SD
-http://158.69.24.208:8081/live/netiptv208/208/463.ts
-
-
-#EXTINF:-1,UNIVERSAL CHANNEL HD
-http://158.69.24.208:8081/live/netiptv208/208/700.ts
-
-
-#EXTINF:-1,STUDIO UNIVERSAL SD
-http://158.69.24.208:8081/live/netiptv208/208/720.ts
-
-
-#EXTINF:-1,CANAL SONY  HD
-http://158.69.24.208:8081/live/netiptv208/208/507.ts
-
-
-#EXTINF:-1,CANAL SONY SD
-http://158.69.24.208:8081/live/netiptv208/208/719.ts
-
-
-#EXTINF:-1,WARNER CHANNEL HD
-http://158.69.24.208:8081/live/netiptv208/208/500.ts
-
-
-#EXTINF:-1,WARNER CHANNEL SD
-http://158.69.24.208:8081/live/netiptv208/208/1072.ts
-
-
-#EXTINF:-1,LIFETIME SD
-http://158.69.24.208:8081/live/netiptv208/208/725.ts
-
-
-#EXTINF:-1,AMC SD
-http://158.69.24.208:8081/live/netiptv208/208/701.ts
-
-
-#EXTINF:-1,SYFY SD
-http://158.69.24.208:8081/live/netiptv208/208/480.ts
-
-
-#EXTINF:-1,A&E HD
-http://158.69.24.208:8081/live/netiptv208/208/745.ts
-
-
-#EXTINF:-1,TBS SD
-http://158.69.24.208:8081/live/netiptv208/208/683.ts
-
-
-#EXTINF:-1,I-SAT  SD
-http://158.69.24.208:8081/live/netiptv208/208/727.ts
-
-
-#EXTINF:-1,AXN HD
-http://158.69.24.208:8081/live/netiptv208/208/447.ts
-
-
-#EXTINF:-1,AXN SD
-http://158.69.24.208:8081/live/netiptv208/208/1028.ts
-
-
-#EXTINF:-1,CINEMAX HD
-http://158.69.24.208:8081/live/netiptv208/208/450.ts
-
-
-#EXTINF:-1,CINEMAX SD
-http://158.69.24.208:8081/live/netiptv208/208/1044.ts
-
-
-#EXTINF:-1,PARAMOUNT CHANNEL HD
-http://158.69.24.208:8081/live/netiptv208/208/709.ts
-
-
-#EXTINF:-1,SPACE HD
-http://158.69.24.208:8081/live/netiptv208/208/479.ts
-
-
-#EXTINF:-1,SPACE - SD
-http://158.69.24.208:8081/live/netiptv208/208/1042.ts
-
-
-#EXTINF:-1,MEGAPIX HD
-http://158.69.24.208:8081/live/netiptv208/208/475.ts
-
-#EXTINF:-1,MEGAPIX SD
-http://158.69.24.208:8081/live/netiptv208/208/1026.ts
-
-
-#EXTINF:-1,MAX UP HD
-http://158.69.24.208:8081/live/netiptv208/208/503.ts
-
-
-#EXTINF:-1,MAX UP SD
-http://158.69.24.208:8081/live/netiptv208/208/730.ts
-
-
-#EXTINF:-1,MAX PRIME HD
-http://158.69.24.208:8081/live/netiptv208/208/502.ts
-
-
-#EXTINF:-1,MAX PRIME SD
-http://158.69.24.208:8081/live/netiptv208/208/729.ts
-
-
-#EXTINF:-1,MAX HD
-http://158.69.24.208:8081/live/netiptv208/208/501.ts
-
-
-#EXTINF:-1,MAX SD
-http://158.69.24.208:8081/live/netiptv208/208/728.ts
-
-
-#EXTINF:-1,TNT SERIES HD
-http://158.69.24.208:8081/live/netiptv208/208/1105.ts
-
-
-#EXTINF:-1,TNT SERIES SD
-http://158.69.24.208:8081/live/netiptv208/208/1046.ts
-
-
-#EXTINF:-1,TNT HD
-http://158.69.24.208:8081/live/netiptv208/208/482.ts
-
-
-#EXTINF:-1,TNT SD
-http://158.69.24.208:8081/live/netiptv208/208/1073.ts
-
-
-#EXTINF:-1,HBO SIGNATURE HD
-http://158.69.24.208:8081/live/netiptv208/208/474.ts
-
-
-#EXTINF:-1,HBO SIGNATURE SD
-http://158.69.24.208:8081/live/netiptv208/208/694.ts
-
-
-#EXTINF:-1,HBO PLUS HD
-http://158.69.24.208:8081/live/netiptv208/208/497.ts
-
-
-#EXTINF:-1,HBO PLUS SD
-http://158.69.24.208:8081/live/netiptv208/208/1032.ts
-
-
-#EXTINF:-1,HBO HD
-http://158.69.24.208:8081/live/netiptv208/208/473.ts
-
-
-#EXTINF:-1,HBO SD
-http://158.69.24.208:8081/live/netiptv208/208/1031.ts
-
-
-#EXTINF:-1,HBO FAMILY HD
-http://158.69.24.208:8081/live/netiptv208/208/472.ts
-
-
-#EXTINF:-1,HBO FAMILY SD
-http://158.69.24.208:8081/live/netiptv208/208/691.ts
-
-
-#EXTINF:-1,HBO 2 HD
-http://158.69.24.208:8081/live/netiptv208/208/690.ts
-
-
-#EXTINF:-1,HBO2 SD
-http://158.69.24.208:8081/live/netiptv208/208/1030.ts
-
-
-#EXTINF:-1,TELECINE TOUCH HD
-http://158.69.24.208:8081/live/netiptv208/208/488.ts
-
-
-#EXTINF:-1,TELECINE TOUCH SD
-http://158.69.24.208:8081/live/netiptv208/208/1057.ts
-
-
-#EXTINF:-1,TELECINE PREMIUM HD
-http://158.69.24.208:8081/live/netiptv208/208/487.ts
-
-
-#EXTINF:-1,TELECINE PREMIUM SD
-http://158.69.24.208:8081/live/netiptv208/208/1049.ts
-
-
-#EXTINF:-1,TELECINE PIPOCA HD
-http://158.69.24.208:8081/live/netiptv208/208/486.ts
-
-
-#EXTINF:-1,TELECINE PIPOCA SD
-http://158.69.24.208:8081/live/netiptv208/208/687.ts
-
-
-#EXTINF:-1,TELECINE FUN HD
-http://158.69.24.208:8081/live/netiptv208/208/485.ts
-
-
-#EXTINF:-1,TELECINE FUN SD
-http://158.69.24.208:8081/live/netiptv208/208/1047.ts
-
-
-#EXTINF:-1,TELECINE CULT HD
-http://158.69.24.208:8081/live/netiptv208/208/484.ts
-
-
-#EXTINF:-1,TELECINE CULT SD
-http://158.69.24.208:8081/live/netiptv208/208/685.ts
-
-
-#EXTINF:-1,TELECINE ACTION HD
-http://158.69.24.208:8081/live/netiptv208/208/483.ts
-
-
-#EXTINF:-1,TELECINE ACTION SD
-http://158.69.24.208:8081/live/netiptv208/208/1050.ts
-
-
-#EXTINF:-1,TCM SD
-http://158.69.24.208:8081/live/netiptv208/208/682.ts
-
-
-#EXTINF:-1,CANAL BRASIL HD
-http://158.69.24.208:8081/live/netiptv208/208/708.ts
-
-
-#EXTINF:-1,BOOMERANG HD
-http://158.69.24.208:8081/live/netiptv208/208/448.ts
-
-
-#EXTINF:-1,DISNEY XD - SD
-http://158.69.24.208:8081/live/netiptv208/208/460.ts
-
-
-#EXTINF:-1,DISNEY XD HD
-http://158.69.24.208:8081/live/netiptv208/208/590.ts
-
-
-#EXTINF:-1,DISNEY JUNIOR HD
-http://158.69.24.208:8081/live/netiptv208/208/459.ts
-
-
-#EXTINF:-1,DISNEY CHANNEL HD
-http://158.69.24.208:8081/live/netiptv208/208/494.ts
-
-
-#EXTINF:-1,DISCOVERY KIDS HD
-http://158.69.24.208:8081/live/netiptv208/208/455.ts
-
-
-#EXTINF:-1,DISCOVERY KIDS SD
-http://158.69.24.208:8081/live/netiptv208/208/1058.ts
-
-
-#EXTINF:-1,CARTOON NETWORK  HD
-http://158.69.24.208:8081/live/netiptv208/208/449.ts
-
-
-#EXTINF:-1,CARTOON NETWORK  SD
-http://158.69.24.208:8081/live/netiptv208/208/587.ts
-
-
-#EXTINF:-1,TOONCAST HD
-http://158.69.24.208:8081/live/netiptv208/208/489.ts
-
-
-#EXTINF:-1,TOONCAST SD
-http://158.69.24.208:8081/live/netiptv208/208/702.ts
-
-
-#EXTINF:-1,NICKLODEON SD
-http://158.69.24.208:8081/live/netiptv208/208/477.ts
-
-
-#EXTINF:-1,NICK JR SD
-http://158.69.24.208:8081/live/netiptv208/208/506.ts
-
-
-#EXTINF:-1,GLOOB HD
-http://158.69.24.208:8081/live/netiptv208/208/156.ts
-
-
-#EXTINF:-1,GLOOB  SD
-http://158.69.24.208:8081/live/netiptv208/208/823.ts
-
-
-#EXTINF:-1,HISTORY CHANNEL HD
-http://158.69.24.208:8081/live/netiptv208/208/499.ts
-
-
-#EXTINF:-1,HISTORY CHANNEL  SD
-http://158.69.24.208:8081/live/netiptv208/208/1067.ts
-
-
-#EXTINF:-1,H2 HD
-http://158.69.24.208:8081/live/netiptv208/208/470.ts
-
-
-#EXTINF:-1,H2 SD
-http://158.69.24.208:8081/live/netiptv208/208/714.ts
-
-
-#EXTINF:-1,TLC HD
-http://158.69.24.208:8081/live/netiptv208/208/644.ts
-
-
-#EXTINF:-1,TLC SD
-http://158.69.24.208:8081/live/netiptv208/208/825.ts
-
-
-#EXTINF:-1,E!  SD
-http://158.69.24.208:8081/live/netiptv208/208/632.ts
-
-
-#EXTINF:-1,NATGEO HD
-http://158.69.24.208:8081/live/netiptv208/208/498.ts
-
-
-#EXTINF:-1,NATGEO SD
-http://158.69.24.208:8081/live/netiptv208/208/1202.ts
-
-
-#EXTINF:-1,NAT GEO WILD HD
-http://158.69.24.208:8081/live/netiptv208/208/712.ts
-
-
-#EXTINF:-1,NATGEO WILD SD
-http://158.69.24.208:8081/live/netiptv208/208/787.ts
-
-
-#EXTINF:-1,DISCOVERY CHANNEL HD
-http://158.69.24.208:8081/live/netiptv208/208/516.ts
-
-
-#EXTINF:-1,DISCOVERY CHANNEL SD
-http://158.69.24.208:8081/live/netiptv208/208/1055.ts
-
-
-#EXTINF:-1,DISCOVERY TURBO HD
-http://158.69.24.208:8081/live/netiptv208/208/1059.ts
-
-
-#EXTINF:-1,DISCOVERY TURBO SD
-http://158.69.24.208:8081/live/netiptv208/208/1060.ts
-
-
-#EXTINF:-1,DISCOVERY CIVILIZATION  SD
-http://158.69.24.208:8081/live/netiptv208/208/737.ts
-
-
-#EXTINF:-1,DISCOVERY SCIENCE SD
-http://158.69.24.208:8081/live/netiptv208/208/736.ts
-
-
-#EXTINF:-1,DISCOVERY HOME & HEALTH  HD
-http://158.69.24.208:8081/live/netiptv208/208/656.ts
-
-
-#EXTINF:-1,DISCOVERY HOME & HEALTH SD
-http://158.69.24.208:8081/live/netiptv208/208/1054.ts
-
-
-#EXTINF:-1,DISCOVERY THEATER - HD
-http://158.69.24.208:8081/live/netiptv208/208/655.ts
-
-
-#EXTINF:-1,INVESTIGATION DISCOVERY - HD
-http://158.69.24.208:8081/live/netiptv208/208/658.ts
-
-
-#EXTINF:-1,ANIMAL PLANET SD
-http://158.69.24.208:8081/live/netiptv208/208/711.ts
-
-
-#EXTINF:-1,BENFICA TV HD
-http://158.69.24.208:8081/live/netiptv208/208/675.ts
-
-
-#EXTINF:-1,REAL MADRID TV - SD
-http://158.69.24.208:8081/live/netiptv208/208/766.ts
-
-
-#EXTINF:-1,BEIN SPORTS
-http://158.69.24.208:8081/live/netiptv208/208/758.ts
-
-
-#EXTINF:-1,UNIVISION HD
-http://158.69.24.208:8081/live/netiptv208/208/995.ts
-
-
-#EXTINF:-1,TELEMUNDO
-http://158.69.24.208:8081/live/netiptv208/208/996.ts
-
-
-#EXTINF:-1,PFC - SD
-http://158.69.24.208:8081/live/netiptv208/208/537.ts
-
-
-#EXTINF:-1,BR PFC
-http://158.69.24.208:8081/live/netiptv208/208/186.ts
-
-
-#EXTINF:-1,PREMIER 24HS HD
-http://158.69.24.208:8081/live/netiptv208/208/509.ts
-
-
-#EXTINF:-1,PREMIER 24HS SD
-http://158.69.24.208:8081/live/netiptv208/208/1090.ts
-
-
-#EXTINF:-1,PREMIER - 1
-http://158.69.24.208:8081/live/netiptv208/208/645.ts
-
-
-#EXTINF:-1,PREMIER - 2
-http://158.69.24.208:8081/live/netiptv208/208/646.ts
-
-
-#EXTINF:-1,PREMIER - 3
-http://158.69.24.208:8081/live/netiptv208/208/647.ts
-
-
-#EXTINF:-1,PREMIER  4
-http://158.69.24.208:8081/live/netiptv208/208/648.ts
-
-
-#EXTINF:-1,PREMIER - 5
-http://158.69.24.208:8081/live/netiptv208/208/649.ts
-
-
-#EXTINF:-1,PREMIER - 6
-http://158.69.24.208:8081/live/netiptv208/208/650.ts
-
-
-#EXTINF:-1,PREMIER - 7
-http://158.69.24.208:8081/live/netiptv208/208/651.ts
-
-
-#EXTINF:-1,PREMIER - 8
-http://158.69.24.208:8081/live/netiptv208/208/652.ts
-
-
-#EXTINF:-1,PREMIER - 9
-http://158.69.24.208:8081/live/netiptv208/208/653.ts
-
-
-#EXTINF:-1,PREMIER - 10
-http://158.69.24.208:8081/live/netiptv208/208/654.ts
-
-
-#EXTINF:-1,PREMIER 2 HD
-http://158.69.24.208:8081/live/netiptv208/208/510.ts
-
-
-#EXTINF:-1,PREMIER 3 HD
-http://158.69.24.208:8081/live/netiptv208/208/543.ts
-
-
-#EXTINF:-1,PREMIER 4 HD
-http://158.69.24.208:8081/live/netiptv208/208/544.ts
-
-
-#EXTINF:-1,PREMIER 5 HD
-http://158.69.24.208:8081/live/netiptv208/208/545.ts
-
-
-#EXTINF:-1,PREMIER 6 HD
-http://158.69.24.208:8081/live/netiptv208/208/976.ts
-
-
-#EXTINF:-1,PREMIER 7 HD
-http://158.69.24.208:8081/live/netiptv208/208/977.ts
+#EXTINF:-1 tvg-logo="" group-title="CANAIS" , A&e HD
+http://192.119.9.66/live/29327EAF-2FE3-4824-9199-CE7724892A6E.ts
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="CANAIS" , NAT GEO WILD
+http://192.119.9.66/live/EFB5A924-D3FD-4288-9493-DF88E50AEFF6.ts
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="CANAIS" , AXN
+http://192.119.9.66/live/4503BECE-DCEC-40D9-aa03-CF85F7B0ADB4.ts
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="CANAIS" , AMC
+http://192.119.9.66/live/CB9A2D16-F165-4B16-b69f-21FA119082D2.ts
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="CANAIS" , ART 1
+http://192.119.9.66/live/cyp-5f8a044dae954e69b787f0cb7600.ts
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="CANAIS" , ANIMAL PLANET
+http://192.119.9.66/live/022AC19C-0EC3-4C7D-b0fb-D889A5FC9B64.ts
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="CANAIS" , BAND
+http://192.119.9.66/live/9376F5C2-08FC-44AA-87e4-9D7E2B6C337E.ts
+ 
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="CANAIS" , BABY TV
+http://192.119.9.66/live/90FCECD9-B1BB-4C7A-93b7-08C627D5ED60.ts
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="CANAIS" , BAND NEWS
+http://192.119.9.66/live/A92D0C31-58A1-41D7-bdd0-1F60F3C78153.ts
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="CANAIS" , BAND SPORT
+http://192.119.9.66/live/mdPmLXj7Z4ON54iJDPNbWaiyZLyZU0Xl.ts
+ 
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="CANAIS" , BBC
+http://192.119.9.66/live/430453ED-E2E1-43DC-b234-85C04DBA4BA0.ts
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="CANAIS" , BIS
+http://192.119.9.66/live/EBA9713D-5D7E-4724-a1a7-C15AA741CC99.ts
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="CANAIS" , BOOMERANG
+http://192.119.9.66/live/0FB8A79C-18D3-4B08-b51d-D7AC5B1D1532.ts
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="CANAIS" , CANÇAO NOVA
+http://192.119.9.66/live/D61FEE44-2B94-44E5-bc4f-3390CF023093.ts
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="CANAIS" , CHEF TV
+http://192.119.9.66/live/SMX1XU8xv5CukzZRniYY3PnGkXDLkCF4.ts
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="CANAIS" , CINEMAX
+http://192.119.9.66/live/3CAE4BE6-1960-40EB-ab26-8EC37D983EB0.ts
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="CANAIS" , CARTON NETWORK
+http://192.119.9.66/live/ED194AE9-4613-4F1B-a6a7-244B4CA02C84.ts
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="CANAIS" , CNT
+http://192.119.9.66/live/mpA6F318N4bpsXild1mBUNv2eSPWC9ZH.ts
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="CANAIS" , COMBATE
+http://192.119.9.66/live/j0awpv1b2rzrv2w36ervr13ruaoc9jn4.ts
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="CANAIS" , COMEDY CENTRAL
+http://192.119.9.66/live/1234C617-A20F-4FE1-b962-12E55F7123A2.ts
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="CANAIS" , DICOVERY CIVILIZATION
+http://192.119.9.66/live/8CB72126-1270-4E09-a665-15E795921E44.ts
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="CANAIS" , DISCOVERY CHANNEL
+http://192.119.9.66/live/E3D2EB66-67DF-49EC-8eea-A24045A4A43F.ts
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="CANAIS" , DISCOVERY  H&H
+http://192.119.9.66/live/0A919ADC-82C8-4259-af50-B459EB091CE3.ts
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="CANAIS" , DISCOVERY KIDS
+http://192.119.9.66/live/ap1ebnx7uvtu8z5l6antbyhyu83azfpu.ts
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="CANAIS" , DISNEY XD
+http://192.119.9.66/live/0C303831-31F6-4DC7-ab23-BA6C3B8AB103.ts
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="CANAIS" , DISNEY JR
+http://192.119.9.66/live/39F4DB3E-9C76-4C09-8e9e-035473586DF2.ts
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="CANAIS" , DISNEY
+http://192.119.9.66/live/CA776AB1-E01C-49D4-b8cd-4757343C65B4.ts
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="CANAIS" ,DISCOVERY WORLD
+http://192.119.9.66/live/8FC3538A-EBEA-4941-9eea-C14E6A9281A2.ts
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="CANAIS" , DISCOVERY TURBO
+http://192.119.9.66/live/2E48E980-C169-4CCE-8349-9F46C28572FB.ts
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="CANAIS" , DISCOVERY THEATHER
+http://192.119.9.66/live/0BD6BE4E-0C48-4D33-b988-F4D3206BDFE7.ts
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="CANAIS" , DISCOVERY SCIENCE
+http://192.119.9.66/live/CA91C27F-50C9-4A62-8cc3-88344231A5E5.ts
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="CANAIS" , ESPN
+http://192.119.9.66/live/56D43D18-A44D-493Fa0c4-DA930F3CD127.ts
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="CANAIS" , ESPN EXTRA
+http://192.119.9.66/live/04FC1508-FAF2-49E6-944f-4821DD152F32.ts
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="CANAIS" , ESPN BRASIL
+http://192.119.9.66/live/EF2501AD-C1A1-4B88A-baba-4CEF4B5D356.ts
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="CANAIS" , ESPN 2
+http://192.119.9.66/live/EF2501AD-C1A1-4B8A-baba-4CEF4B5D3561.ts
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="CANAIS" , E!
+http://192.119.9.66/live/B86227E9-BCD6-4867-affb-9247B832A7EA.ts
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="CANAIS" , DRAGON BOLL SUPER
+http://192.119.9.66/live/r5b0AthVs9d6irVLMjbe9zHumN2v5dDw.ts
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="CANAIS" , FOX PREMIUM 02
+http://192.119.9.66/live/guI7VZMqqTfuxAzMWu6sQoE4ceTsRDqd.ts
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="CANAIS" , FOX PREMIUM 1
+http://192.119.9.66/live/6D65C787-24B5-4A10-ba47-CD1A02A14BED.ts
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="CANAIS" , FOX LIFE
+http://192.119.9.66/live/7E89A300-DC45-491E-8725-4A3563BCA55C.ts
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="CANAIS" ,  FOX
+http://192.119.9.66/live/DAD6B460-4635-4986-bad2-8E9673D54CB0.ts
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="CANAIS" , FOOD NET WORK
+http://192.119.9.66/live/B0DC1E0D-FFDD-4C20-a96d-4901AEB9C067.ts
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="CANAIS" , FISH TV
+http://192.119.9.66/live/117B9999-F674-46FC-9bad-2538AB606DA5.ts
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="CANAIS" , ESPN MOSAICO
+http://192.119.9.66/live/F17F8B9C-3510-4EEB-b30c-703934BD630E.ts
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="CANAIS" , GLOBO BRASILIA
+http://192.119.9.66/live/765F0119-14A6-4092-a1ac-B90749DF5BAC.ts
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="CANAIS" , GAZETA
+http://192.119.9.66/live/5B94A0A9-7EC1-49B4-badb-84FD0DC20AAC.ts
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="CANAIS" , FX
+http://192.119.9.66/live/C32B5BA2-7CE8-4091-b2f6-4E1FAD71D2F8.ts
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="CANAIS" , FUTURA
+http://192.119.9.66/live/A8726942-284D-498C-a81c-B9CC8817C83E.ts
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="CANAIS" , FOX SPORT NEWS
+http://192.119.9.66/live/cyp-3E89DE954D0C467Cbc656D45915A.ts
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="CANAIS" , FOX ESPORT 2
+http://192.119.9.66/live/9BCC50D8-5036-4E31-b223-A15E543AD01C.ts
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="CANAIS" , FOX ESPORT FHD
+http://192.119.9.66/live/lou03n5lzubyfxzpa56v8lx15t0dswro.ts
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="CANAIS" , GLOBO RS
+http://192.119.9.66/live/cyp-26AD03DA528647C7863b7F66CBDC.ts
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="CANAIS" , GLOBO SP HD +
+http://192.119.9.66/live/cyp-26AD03DA528647C7863b7F66CBDC.ts
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="CANAIS" , GLOBO SP
+http://192.119.9.66/live/0E71CD25-6207-4EB0-8545-DF56BF0F931E.ts
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="CANAIS" , GLOBO RJ
+http://192.119.9.66/live/f8fca31a11ed6b5b0a57847c830b59ef.ts
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="CANAIS" , GLOBO RECIFE
+http://192.119.9.66/live/BD685300-9662-43EA-b681-819E4DB047C1.ts
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="CANAIS" , GLOBO NEWS
+http://192.119.9.66/live/15DE5608-6BF5-46AA-8014-F4B47265CC59.ts
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="CANAIS" , GLOBO MINAS
+http://192.119.9.66/live/cbcc8be34dae221438ec265721521995.ts
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="CANAIS" , GLOBO CHANNEL
+http://192.119.9.66/live/cyp-ABA735B22C87436Dbe04CA6EA829.ts
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="CANAIS" , GNT
+http://192.119.9.66/live/502B64B6-554E-483A-97e5-1C6E6C17B2E8.ts
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="CANAIS" , GLOBINHO
+http://192.119.9.66/live/03EC0B5B-E340-4E07-8e2b-EEB637A89DFB.ts
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="CANAIS" , GLOOB
+http://192.119.9.66/live/1E14D87D-9DAA-469D-be48-33CF682FDC4D.ts
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="CANAIS" , GLOBO SAT
+http://192.119.9.66/live/6A9FCCB4-7148-4F7B-9c9b-0A773989DE95.ts
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="CANAIS" , GLOBO NORDESTE
+http://192.119.9.66/live/cyp-C4092F99E8AA42AE93b59A3C262B.ts
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="CANAIS" , GLOBO PR
+http://192.119.9.66/live/cyp-BACA93C15D1244B5a536244D1FBA.ts
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="CANAIS" , HISTORY
+http://192.119.9.66/live/58C743B4-554C-4A5C-918a-E34420842EA8.ts
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="CANAIS" , HBO SIGNATURE
+http://192.119.9.66/live/EFC82DA6-9F28-4F49-a4f1-70A528D971CE.ts
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="CANAIS" , HBO PLUS
+http://192.119.9.66/live/AD0EE87B-9728-4E4D-b636-D8CAF0CAF16C.ts
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="CANAIS" ,  HBO FAMILY
+http://192.119.9.66/live/4D5BDDC7-5CC3-42A0-97b7-FD21601AB745.ts
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="CANAIS" , HBO 2
+http://192.119.9.66/live/DCFC9E24-DE24-4E8A-8463-D8CD2AAAE0DD.ts
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="CANAIS" , HBO
+http://192.119.9.66/live/B2C15DCC-0260-41EE-a09b-C482C6A77623.ts
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="CANAIS" , H2
+http://192.119.9.66/live/C5906BD1-EDB6-48CB-bd4e-C2D2592C1036.ts
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="CANAIS" , MAX PRIME
+http://192.119.9.66/live/A85FC536-963C-4367-97a7-CFAC0EA0FD1E.ts
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="CANAIS" , MAX UP
+http://192.119.9.66/live/0288CECA-5616-4234-bf1a-4E33F4AD925C.ts
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="CANAIS" , MAX
+http://192.119.9.66/live/54BFA6BE-FFA2-4BA2-a4ac-6B86B553C157.ts
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="CANAIS" , LIKE
+http://192.119.9.66/live/cyp-0940006238764021b926D46BD5A9.ts
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="CANAIS" , LIFE TIME
+http://192.119.9.66/live/49C2E698-388C-46BF-8f3b-8734641AC499.ts
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="CANAIS" ,  I- SAT
+http://192.119.9.66/live/85Zgd48ymjb6GeRVR8AmvvrV5PHdrIKl.ts
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="CANAIS" , ID
+http://192.119.9.66/live/E427E4CB-9CAB-44CD-b114-47E69110202F.ts
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="CANAIS" ,NAT GEO KIDS
+http://192.119.9.66/live/99DE8F02-450F-4A9A-a27c-5A7B104F4047.ts
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="CANAIS" ,  NAT GEO
+http://192.119.9.66/live/01B287C6-63DB-4C2F-99b5-B1CA684E1866.ts
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="CANAIS" ,  MUSIC BRASIL
+http://192.119.9.66/live/RhSrBzQCshHfq1IWiBAOWn7ynb9IMCUj.ts
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="CANAIS" , MULTI SHOW
+http://192.119.9.66/live/ECF9E512-B7ED-48C5-8f1d-7A018EEFDDA7.ts
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="CANAIS" , MTV
+http://192.119.9.66/live/B2B33ABE-FAD3-466C-bd77-E80E6ECFD235.ts
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="CANAIS" , MEGA PIX
+http://192.119.9.66/live/D85A8E66-8B2A-4A9A-8ece-C152789B8ADF.ts
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="CANAIS" , OFF
+http://192.119.9.66/live/F9145F74-1B6B-41C9-bde5-1294E296346A.ts
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="CANAIS" , NOVO TEMPO
+http://192.119.9.66/live/lclZKrckTt9pIwAKyQ05l8Bb6pwsPl1t.ts
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="CANAIS" , NICKELODEON
+http://192.119.9.66/live/A7EB627F-7ECC-483C-b2db-AEA4F74838CE.ts
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="CANAIS" , NICK JR
+http://192.119.9.66/live/A83BF159-3B5E-46E2-a1cd-796E687767D3.ts
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="CANAIS" ,  NBR
+http://192.119.9.66/live/FD539875-2FD8-4EB1-b01d-AEC0FEF16C40.ts
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="CANAIS" ,  NBA
+http://192.119.9.66/live/cyp-3B8985C7D36A49AC8a33F31EA08B.ts
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="CANAIS" ,  PREMIER 5
+http://192.119.9.66/live/E4DCF817-BAF0-4EDE-86f5-60CD79018EE5.ts
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="CANAIS" ,  PREMIER 4
+http://192.119.9.66/live/5BA0EFD2-8BD0-40B9-bbbe-0BC662D4832D.ts
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="CANAIS" , PREMIER 3
+http://192.119.9.66/live/5FC2CEB5-C409-4291-b858-DA53CDAE87F5.ts
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="CANAIS" , PREMIER 2
+http://192.119.9.66/live/A4D507A1-D45B-482C-87bc-E3E74634E735.ts
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="CANAIS" ,  PREMIER CLUBES
+http://192.119.9.66/live/FE900457-AE7F-4887-88c6-C7536730CC2B.ts
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="CANAIS" , PREMIER 9
+http://192.119.9.66/live/95CA6681-41E8-440A-aa5e-C1DA574669E9.ts
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="CANAIS" ,  PREMIER 7
+http://192.119.9.66/live/5B98B7F8-3AD1-4E19-9d0a-51C4D091343F.ts
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="CANAIS" , PREMIER 6
+http://192.119.9.66/live/462B7807-1E95-4713-8c43-F865885A65E6.ts
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="CANAIS" , PREMIER
+http://192.119.9.66/live/AE8CD713-4646-4509-9867-98842B02F622.ts
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="CANAIS" , PREMIER 8
+http://192.119.9.66/live/cyp-644e34a6889c49bfbfab58e44471.ts
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="CANAIS" ,  PLAY
+http://192.119.9.66/live/19608283-36A9-4536-8b77-B5AB82CAA26E.ts
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="CANAIS" , PARAMOUNT
+http://192.119.9.66/live/34179B81-87C5-4711-8d8e-1B8D8E23D177.ts
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="CANAIS" , REDE VIDA
+http://192.119.9.66/live/3BA33101-06BB-4368-9d4d-8A21F5C97A2E.ts
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="CANAIS" , REDE TV
+http://192.119.9.66/live/25819AE5-B0CB-40FC-9274-A2F2EDD1FF86.ts
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="CANAIS" , REDE BRASIL
+http://192.119.9.66/live/C091D26A-6B9B-4DDB-ac68-5B2DCF2AF470.ts
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="CANAIS" , PRIME BOX BRASIL
+http://192.119.9.66/live/Su9BsOYuE9dCCm3Y924U5CcHZmRNkAMm.ts
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="CANAIS" ,  RECORD NEWS
+http://192.119.9.66/live/A8B8E44D-982E-4315-9817-BB3468F4D7CC.ts
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="CANAIS" , RECORD
+http://192.119.9.66/live/gy8sjex0hws25l5j3jq50mltk20z965m.ts
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="CANAIS" ,  RBI
+http://192.119.9.66/live/j7XAkAOFLswKszm024icpABKNcwXgwLD.ts
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="CANAIS" , RCI
+http://192.119.9.66/live/d4aweGxwGqWSkq3LB0LeIgKFiO82QCB8.ts
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="CANAIS" ,  RIT
+http://192.119.9.66/live/rULkV8n3IPFaqsKlU7zZqgHGM1LRx0rl.ts
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="CANAIS" , SPORTV 3
+http://192.119.9.66/live/005a976eea4c1007c79c9a917a254d1f.ts
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="CANAIS" ,  SPORTV 2
+http://192.119.9.66/live/B3G2G2DE-23FF-1S72-A125-CA23SGC3S3T3.ts
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="CANAIS" ,  SPORTV
+http://192.119.9.66/live/fa438bc17f8e511baeb385eb36b6fd54.ts
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="CANAIS" , TBS
+http://192.119.9.66/live/272047B5-CA93-4F30-8851-52ADF52DD547.ts
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="CANAIS" , SPACE
+http://192.119.9.66/live/D7E6E135-5520-406B-a08e-A51674E80667.ts
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="CANAIS" ,  SONY
+http://192.119.9.66/live/31758E4F-5422-465B-b2b0-5049F10E212B.ts
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="CANAIS" ,  SHOPING TIME
+http://192.119.9.66/live/2qlMKjK40anJvZGv9fzNeNSl0CvOHNx6.ts
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="CANAIS" ,  SBT
+http://192.119.9.66/live/A89AB93D-F7EE-421B-92ab-684C48F218DD.ts
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="CANAIS" , SYFY
+http://192.119.9.66/live/562366C6-6676-453E-96a9-E97D57F3C951.ts
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="CANAIS" , SUNDANCE
+http://192.119.9.66/live/260688AE-8D79-4408-a7e0-FAB04779057D.ts
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="CANAIS" ,  STUDIO UNIVERSAL
+http://192.119.9.66/live/C84F9203-7C0B-48DC-8020-04BAEC20A6FC.ts
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="CANAIS" , TELECINE
+http://192.119.9.66/live/7DB0D9C7-2185-49EB-bbb8-0B717185979E.ts
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="CANAIS" ,  TELECINE CUT
+http://192.119.9.66/live/8D84A824-DCB7-496F-b971-C9500AFA435E.ts
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="CANAIS" ,  TOON CAST
+http://192.119.9.66/live/778A0091-5DA8-417D-bd14-5DF4AB94240F.ts
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="CANAIS" , TNT SERIES
+http://192.119.9.66/live/XLpOozM8aS4MU5SdcazKc9chVmEzUY9G.ts
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="CANAIS" ,  TNT
+http://192.119.9.66/live/48A21980-EA88-4BA3-b128-267444A96B53.ts
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="CANAIS" ,  TCL
+http://192.119.9.66/live/0B9B3EE0-589F-4123-a462-BB240AB3A801.ts
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="CANAIS" , TELECINE TOUCH
+http://192.119.9.66/live/D45874BB-F421-4633-addf-0F8D59749CA8.ts
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="CANAIS" ,  TELECINE PREMIUM
+http://192.119.9.66/live/106FA860-511B-400C-b1e5-A9252CB8EE8A.ts
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="CANAIS" ,  TELECINE PIPOCA
+http://192.119.9.66/live/0895A939-61BE-4D12-b427-27123DB260E0.ts
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="CANAIS" , TELECINE ACTION
+http://192.119.9.66/live/39BF6921-889C-43C9-aef5-4E11BD9D6653.ts
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="CANAIS" ,  TRUE TV
+http://192.119.9.66/live/5D6C34CE-6824-407D-9d03-97EA487BB30D.ts
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="CANAIS" ,  TV JUSTIÇA
+http://192.119.9.66/live/E4A60DDB-6B9E-48E0-9c8a-1B0AFC747BA4.ts
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="CANAIS" , TV ESCOLA
+http://192.119.9.66/live/CA7023E4-9D1B-4DE0-a6a3-C30F9710B093.ts
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="CANAIS" ,  TV DIARIO
+http://192.119.9.66/live/35819A35-B0CB-40FC-9274-A2G2EDD1FF83.ts
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="CANAIS" ,  TV CULTURA
+http://192.119.9.66/live/4861F8C2-0DB8-4268-9815-D28C928CE4F7.ts
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="CANAIS" , TV CAMERA
+http://192.119.9.66/live/68D7EAF7-B4CF-47AD-8823-3CC460594A7A.ts
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="CANAIS" , TV BRASIL
+http://192.119.9.66/live/4D127A13-C38C-43FA-9100-453FD2B19A93.ts
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="CANAIS" , TV APARECIDA
+http://192.119.9.66/live/cyp-38256037D6124DBCbd57DED7B058.ts
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="CANAIS" ,  VHT1  MEGA HITS
+http://192.119.9.66/live/cyp-E4B26F02258046979810ABAF5C7F.ts
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="CANAIS" , VH1
+http://192.119.9.66/live/D2CC6786-2684-4BF6-83d1-14B961FE2AB4.ts
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="CANAIS" , URSO SEM CURSO
+http://192.119.9.66/live/5bnn4g1lbJwMgiBo3CJgBrvIbLfgXa5.ts
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="CANAIS" ,  UNIVERSAL
+http://192.119.9.66/live/16C30F29-5D48-43C5-a3a3-5C2A69320A57.ts
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="CANAIS" ,  TV5 MONDE
+http://192.119.9.66/live/F33976F8-7F3D-4D1D-bb90-9AFEE233086C.ts
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="CANAIS" , TV SENADO
+http://192.119.9.66/live/20F71D57-4E89-422B-99d2-554FD865A55E.ts
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="CANAIS" ,  TV RATIBOM
+http://192.119.9.66/live/4600ABD8-EF73-4E10-a6e1-A85FA6F626B7.ts
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="CANAIS" ,  WOOHOO
+http://192.119.9.66/live/cyp-D7BD65EC0BB34B689a3690000000.ts
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="CANAIS" , VIVA
+http://192.119.9.66/live/5BB0A0AE-00B9-426E-8cad-2372A6A24C08.ts
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="CANAIS" , WANNER CHANNEL
+http://192.119.9.66/live/5BB0A0AE-00B9-426E-8cad-2372A6A24C08.ts
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="CANAIS" , VIDEO ODEMAM
+http://192.119.9.66/live/izvEVcVeGFsxgElhIQSgp1io3tc1EzRO.ts
