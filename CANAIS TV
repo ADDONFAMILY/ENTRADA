@@ -1,3 +1,7 @@
+<item>
+<title>Band</title>
+<link>plugin://plugin.video.f4mTester/?url=http://192.119.9.66/live/9376F5C2-08FC-44AA-87e4-9D7E2B6C337E.ts</link>
+
 #EXTM3U
 #EXTINF:-1 tvg-logo="" group-title="CANAIS" , A&e HD
 http://192.119.9.66/live/29327EAF-2FE3-4824-9199-CE7724892A6E.ts
