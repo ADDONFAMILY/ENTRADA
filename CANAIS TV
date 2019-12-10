@@ -183,9 +183,6 @@ http://tv.factoryiptv.com/live/3548/3548/56897.ts
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Canais ABERTOS",REDETV
 http://tv.factoryiptv.com/live/3548/3548/36946.ts
  
-#EXTINF:-1 tvg-logo="" group-title="CANAIS" ,  SPORTV
-http://192.119.9.66/live/fa438bc17f8e511baeb385eb36b6fd54.ts
- 
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Canais",VIVA
 http://tv.factoryiptv.com/live/3548/3548/36931.ts
  
@@ -202,3 +199,646 @@ http://tv.factoryiptv.com/live/3548/3548/36923.ts
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="INFANTIL",DISNEY JUNIOR
 http://tv.factoryiptv.com/live/3548/3548/40517.ts
 
+
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+
+#EXTINF:-1 ,A&E
+http://tv.factoryiptv.com:80/987654/987654/37130
+#EXTINF:-1 ,A&E HD
+http://tv.factoryiptv.com:80/987654/987654/36929
+#EXTINF:-1 ,Aerosmith
+http://tv.factoryiptv.com:80/987654/987654/42571
+#EXTINF:-1 ,Agro Canal HD
+http://tv.factoryiptv.com:80/987654/987654/40244
+#EXTINF:-1 ,AMC
+http://tv.factoryiptv.com:80/987654/987654/41087
+#EXTINF:-1 ,AMC HD
+http://tv.factoryiptv.com:80/987654/987654/36928
+#EXTINF:-1 ,Animal Planet
+http://tv.factoryiptv.com:80/987654/987654/37128
+#EXTINF:-1 ,Animal Planet HD
+http://tv.factoryiptv.com:80/987654/987654/36992
+#EXTINF:-1 ,Arte 1
+http://tv.factoryiptv.com:80/987654/987654/37133
+#EXTINF:-1 ,AXN
+http://tv.factoryiptv.com:80/987654/987654/37132
+#EXTINF:-1 ,AXN HD
+http://tv.factoryiptv.com:80/987654/987654/36991
+#EXTINF:-1 ,BabyTV
+http://tv.factoryiptv.com:80/987654/987654/36993
+#EXTINF:-1 ,Band
+http://tv.factoryiptv.com:80/987654/987654/37127
+#EXTINF:-1 ,Band HD
+http://tv.factoryiptv.com:80/987654/987654/36990
+#EXTINF:-1 ,Band News
+http://tv.factoryiptv.com:80/987654/987654/37126
+#EXTINF:-1 ,Band SP HD
+http://tv.factoryiptv.com:80/987654/987654/41530
+#EXTINF:-1 ,Banda Calypso
+http://tv.factoryiptv.com:80/987654/987654/39787
+#EXTINF:-1 ,BANDA FORROZÃO DAS ANTIGAS
+http://tv.factoryiptv.com:80/987654/987654/39786
+#EXTINF:-1 ,BandNews HD
+http://tv.factoryiptv.com:80/987654/987654/42411
+#EXTINF:-1 ,BandSports
+http://tv.factoryiptv.com:80/987654/987654/37125
+#EXTINF:-1 ,BandSports HD
+http://tv.factoryiptv.com:80/987654/987654/36989
+#EXTINF:-1 ,Bis
+http://tv.factoryiptv.com:80/987654/987654/37131
+#EXTINF:-1 ,Bis HD
+http://tv.factoryiptv.com:80/987654/987654/36988
+#EXTINF:-1 ,Boomerang
+http://tv.factoryiptv.com:80/987654/987654/37123
+#EXTINF:-1 ,CABARE EDUARDO COSTA & LEONARDO
+http://tv.factoryiptv.com:80/987654/987654/39768
+#EXTINF:-1 ,Canal Brasil
+http://tv.factoryiptv.com:80/987654/987654/37122
+#EXTINF:-1 ,Canção Nova HD
+http://tv.factoryiptv.com:80/987654/987654/37023
+#EXTINF:-1 ,Cartoon Network
+http://tv.factoryiptv.com:80/987654/987654/37121
+#EXTINF:-1 ,Cartoon Network HD
+http://tv.factoryiptv.com:80/987654/987654/36927
+#EXTINF:-1 ,Cascavel Panorâmica
+http://tv.factoryiptv.com:80/987654/987654/40116
+#EXTINF:-1 ,Cinemax
+http://tv.factoryiptv.com:80/987654/987654/37120
+#EXTINF:-1 ,Cinemax HD
+http://tv.factoryiptv.com:80/987654/987654/36926
+#EXTINF:-1 ,Combate
+http://tv.factoryiptv.com:80/987654/987654/37119
+#EXTINF:-1 ,COMBATE 4K
+http://tv.factoryiptv.com:80/987654/987654/42635
+#EXTINF:-1 ,Combate HD
+http://tv.factoryiptv.com:80/987654/987654/36986
+#EXTINF:-1 ,Comedy Central
+http://tv.factoryiptv.com:80/987654/987654/37118
+#EXTINF:-1 ,Comedy Central HD
+http://tv.factoryiptv.com:80/987654/987654/36925
+#EXTINF:-1 ,Cultura
+http://tv.factoryiptv.com:80/987654/987654/40073
+#EXTINF:-1 ,Curta!
+http://tv.factoryiptv.com:80/987654/987654/37117
+#EXTINF:-1 ,David Guetta
+http://tv.factoryiptv.com:80/987654/987654/39785
+#EXTINF:-1 ,Discovery Channel
+http://tv.factoryiptv.com:80/987654/987654/37116
+#EXTINF:-1 ,Discovery Channel HD
+http://tv.factoryiptv.com:80/987654/987654/36985
+#EXTINF:-1 ,HGTV HD
+http://tv.factoryiptv.com:80/987654/987654/36924
+#EXTINF:-1 ,Discovery Home & Health
+http://tv.factoryiptv.com:80/987654/987654/36984
+#EXTINF:-1 ,Discovery Home & Health HD
+http://tv.factoryiptv.com:80/987654/987654/37115
+#EXTINF:-1 ,Discovery Kids
+http://tv.factoryiptv.com:80/987654/987654/37113
+#EXTINF:-1 ,Discovery Kids HD
+http://tv.factoryiptv.com:80/987654/987654/36923
+#EXTINF:-1 ,Discovery Science HD
+http://tv.factoryiptv.com:80/987654/987654/36922
+#EXTINF:-1 ,Discovery Theater HD
+http://tv.factoryiptv.com:80/987654/987654/36983
+#EXTINF:-1 ,Discovery Turbo
+http://tv.factoryiptv.com:80/987654/987654/37112
+#EXTINF:-1 ,Discovery Turbo HD
+http://tv.factoryiptv.com:80/987654/987654/36982
+#EXTINF:-1 ,Discovery World HD
+http://tv.factoryiptv.com:80/987654/987654/36981
+#EXTINF:-1 ,Disney Channel
+http://tv.factoryiptv.com:80/987654/987654/37111
+#EXTINF:-1 ,Disney Channel HD
+http://tv.factoryiptv.com:80/987654/987654/36921
+#EXTINF:-1 ,Disney Junior
+http://tv.factoryiptv.com:80/987654/987654/37110
+#EXTINF:-1 ,Disney XD
+http://tv.factoryiptv.com:80/987654/987654/37109
+#EXTINF:-1 ,E! Entertainment Television
+http://tv.factoryiptv.com:80/987654/987654/37108
+#EXTINF:-1 ,E! HD
+http://tv.factoryiptv.com:80/987654/987654/36920
+#EXTINF:-1 ,EPTV Campinas
+http://tv.factoryiptv.com:80/987654/987654/40248
+#EXTINF:-1 ,EPTV Ribeirão
+http://tv.factoryiptv.com:80/987654/987654/40514
+#EXTINF:-1 ,EPTV Ribeirão HD
+http://tv.factoryiptv.com:80/987654/987654/38640
+#EXTINF:-1 ,ESPN
+http://tv.factoryiptv.com:80/987654/987654/37105
+#EXTINF:-1 ,ESPN 2 HD
+http://tv.factoryiptv.com:80/987654/987654/36976
+#EXTINF:-1 ,Globo 4K
+http://tv.factoryiptv.com:80/987654/987654/43430
+#EXTINF:-1 ,ESPN Brasil
+http://tv.factoryiptv.com:80/987654/987654/37104
+#EXTINF:-1 ,ESPN Brasil HD
+http://tv.factoryiptv.com:80/987654/987654/36978
+#EXTINF:-1 ,ESPN Extra
+http://tv.factoryiptv.com:80/987654/987654/41977
+#EXTINF:-1 ,ESPN Extra HD
+http://tv.factoryiptv.com:80/987654/987654/42910
+#EXTINF:-1 ,ESPN HD
+http://tv.factoryiptv.com:80/987654/987654/36977
+#EXTINF:-1 ,FESTIVAL SERTANEJO
+http://tv.factoryiptv.com:80/987654/987654/39772
+#EXTINF:-1 ,Festival Sertanejo 2018
+http://tv.factoryiptv.com:80/987654/987654/39771
+#EXTINF:-1 ,FILM&Arts
+http://tv.factoryiptv.com:80/987654/987654/41374
+#EXTINF:-1 ,Fish TV
+http://tv.factoryiptv.com:80/987654/987654/37103
+#EXTINF:-1 ,Fish TV HD
+http://tv.factoryiptv.com:80/987654/987654/42911
+#EXTINF:-1 ,5 FM - Estúdio Ao Vivo
+http://tv.factoryiptv.com:80/987654/987654/40203
+#EXTINF:-1 ,Food Network
+http://tv.factoryiptv.com:80/987654/987654/37102
+#EXTINF:-1 ,Food Network HD
+http://tv.factoryiptv.com:80/987654/987654/36919
+#EXTINF:-1 ,Fox Channel
+http://tv.factoryiptv.com:80/987654/987654/37101
+#EXTINF:-1 ,Fox Channel HD
+http://tv.factoryiptv.com:80/987654/987654/36972
+#EXTINF:-1 ,Fox Premium 1
+http://tv.factoryiptv.com:80/987654/987654/37335
+#EXTINF:-1 ,Fox Premium 1  HD
+http://tv.factoryiptv.com:80/987654/987654/36974
+#EXTINF:-1 ,Fox Premium 2
+http://tv.factoryiptv.com:80/987654/987654/37336
+#EXTINF:-1 ,Fox Premium 2 HD
+http://tv.factoryiptv.com:80/987654/987654/36973
+#EXTINF:-1 ,FoxLife
+http://tv.factoryiptv.com:80/987654/987654/37100
+#EXTINF:-1 ,FoxLife HD
+http://tv.factoryiptv.com:80/987654/987654/36918
+#EXTINF:-1 ,FoxSports
+http://tv.factoryiptv.com:80/987654/987654/37099
+#EXTINF:-1 ,FoxSports 2
+http://tv.factoryiptv.com:80/987654/987654/37098
+#EXTINF:-1 ,FoxSports 2 HD
+http://tv.factoryiptv.com:80/987654/987654/36971
+#EXTINF:-1 ,FoxSports HD
+http://tv.factoryiptv.com:80/987654/987654/36970
+#EXTINF:-1 ,Frank Aguiar
+http://tv.factoryiptv.com:80/987654/987654/39788
+#EXTINF:-1 ,Futura
+http://tv.factoryiptv.com:80/987654/987654/40074
+#EXTINF:-1 ,FX
+http://tv.factoryiptv.com:80/987654/987654/37097
+#EXTINF:-1 ,Gazeta HD
+http://tv.factoryiptv.com:80/987654/987654/40120
+#EXTINF:-1 ,Globo Anhanguera
+http://tv.factoryiptv.com:80/987654/987654/38966
+#EXTINF:-1 ,Globo Bahia HD
+http://tv.factoryiptv.com:80/987654/987654/37096
+#EXTINF:-1 ,TV Bahia HD
+http://tv.factoryiptv.com:80/987654/987654/41402
+#EXTINF:-1 ,Globo Brasília
+http://tv.factoryiptv.com:80/987654/987654/37095
+#EXTINF:-1 ,Globo Brasília HD
+http://tv.factoryiptv.com:80/987654/987654/40513
+#EXTINF:-1 ,GLOBO EPTV ARARAQUARA
+http://tv.factoryiptv.com:80/987654/987654/42950
+#EXTINF:-1 ,GLOBO EPTV RIBEIRAO PRETO
+http://tv.factoryiptv.com:80/987654/987654/42954
+#EXTINF:-1 ,GLOBO EPTV RIBEIRÃO PRETO HD
+http://tv.factoryiptv.com:80/987654/987654/42953
+#EXTINF:-1 ,GLOBO EPTV SAO CARLOS
+http://tv.factoryiptv.com:80/987654/987654/42955
+#EXTINF:-1 ,Globo Florianopolis
+http://tv.factoryiptv.com:80/987654/987654/38641
+#EXTINF:-1 ,GLOBO INTER TV NATAL
+http://tv.factoryiptv.com:80/987654/987654/42956
+#EXTINF:-1 ,GLOBO MG
+http://tv.factoryiptv.com:80/987654/987654/40250
+#EXTINF:-1 ,GLOBO MG HD
+http://tv.factoryiptv.com:80/987654/987654/40251
+#EXTINF:-1 ,Globo Nordeste
+http://tv.factoryiptv.com:80/987654/987654/37092
+#EXTINF:-1 ,Globo Nordeste HD
+http://tv.factoryiptv.com:80/987654/987654/38971
+#EXTINF:-1 ,GLOBO NSC TV FLORIANOPOLIS HD
+http://tv.factoryiptv.com:80/987654/987654/42958
+#EXTINF:-1 ,GLOBO REDE AM. MANAUS
+http://tv.factoryiptv.com:80/987654/987654/42960
+#EXTINF:-1 ,Globo Rio
+http://tv.factoryiptv.com:80/987654/987654/37091
+#EXTINF:-1 ,Globo Rio HD
+http://tv.factoryiptv.com:80/987654/987654/36968
+#EXTINF:-1 ,Globo RPC Curitiba
+http://tv.factoryiptv.com:80/987654/987654/37366
+#EXTINF:-1 ,GLOBO RPC CURITIBA HD
+http://tv.factoryiptv.com:80/987654/987654/42961
+#EXTINF:-1 ,Globo SP
+http://tv.factoryiptv.com:80/987654/987654/37090
+#EXTINF:-1 ,Globo SP HD
+http://tv.factoryiptv.com:80/987654/987654/37361
+#EXTINF:-1 ,GLOBO TV ANHANGUERA
+http://tv.factoryiptv.com:80/987654/987654/42962
+#EXTINF:-1 ,GLOBO TV ANHANGUERA HD
+http://tv.factoryiptv.com:80/987654/987654/38967
+#EXTINF:-1 ,GLOBO TV C. AMERICA CUIABA
+http://tv.factoryiptv.com:80/987654/987654/42963
+#EXTINF:-1 ,GLOBO TV CLUBE TERESINA
+http://tv.factoryiptv.com:80/987654/987654/42975
+#EXTINF:-1 ,GLOBO TV CLUBE TERESINA HD
+http://tv.factoryiptv.com:80/987654/987654/42977
+#EXTINF:-1 ,GLOBO TV LIBERAL BELEM
+http://tv.factoryiptv.com:80/987654/987654/42964
+#EXTINF:-1 ,GLOBO TV MIRANTE SAO LUIS
+http://tv.factoryiptv.com:80/987654/987654/42990
+#EXTINF:-1 ,GLOBO TV MIRANTE SAO LUIS HD
+http://tv.factoryiptv.com:80/987654/987654/42989
+#EXTINF:-1 ,GLOBO TV MORENA CAMPO GRANDE
+http://tv.factoryiptv.com:80/987654/987654/42992
+#EXTINF:-1 ,GLOBO TV SERGIPE
+http://tv.factoryiptv.com:80/987654/987654/42908
+#EXTINF:-1 ,GLOBO TV SERGIPE HD
+http://tv.factoryiptv.com:80/987654/987654/42982
+#EXTINF:-1 ,GLOBO TV TEM SAO JOSE DO RIO PRETO
+http://tv.factoryiptv.com:80/987654/987654/40516
+#EXTINF:-1 ,GLOBO TV TEM SAO JOSE DO RIO PRETO HD
+http://tv.factoryiptv.com:80/987654/987654/40515
+#EXTINF:-1 ,GLOBO TV VANGUARDA S. J. DOS CAMPOS
+http://tv.factoryiptv.com:80/987654/987654/42967
+#EXTINF:-1 ,GloboNews
+http://tv.factoryiptv.com:80/987654/987654/37093
+#EXTINF:-1 ,GloboNews HD
+http://tv.factoryiptv.com:80/987654/987654/36917
+#EXTINF:-1 ,GloboSat HD
+http://tv.factoryiptv.com:80/987654/987654/36916
+#EXTINF:-1 ,Gloob
+http://tv.factoryiptv.com:80/987654/987654/37089
+#EXTINF:-1 ,Gloob HD
+http://tv.factoryiptv.com:80/987654/987654/36915
+#EXTINF:-1 ,Gloobinho HD
+http://tv.factoryiptv.com:80/987654/987654/38969
+#EXTINF:-1 ,GNT
+http://tv.factoryiptv.com:80/987654/987654/37088
+#EXTINF:-1 ,GNT HD
+http://tv.factoryiptv.com:80/987654/987654/36967
+#EXTINF:-1 ,HBO
+http://tv.factoryiptv.com:80/987654/987654/37087
+#EXTINF:-1 ,HBO 2
+http://tv.factoryiptv.com:80/987654/987654/37086
+#EXTINF:-1 ,HBO 2 HD
+http://tv.factoryiptv.com:80/987654/987654/36966
+#EXTINF:-1 ,HBO Family
+http://tv.factoryiptv.com:80/987654/987654/37085
+#EXTINF:-1 ,HBO Family HD
+http://tv.factoryiptv.com:80/987654/987654/36965
+#EXTINF:-1 ,HBO HD
+http://tv.factoryiptv.com:80/987654/987654/36964
+#EXTINF:-1 ,HBO Plus
+http://tv.factoryiptv.com:80/987654/987654/37084
+#EXTINF:-1 ,HBO PLUS E
+http://tv.factoryiptv.com:80/987654/987654/37083
+#EXTINF:-1 ,HBO Plus HD
+http://tv.factoryiptv.com:80/987654/987654/36963
+#EXTINF:-1 ,HBO Signature
+http://tv.factoryiptv.com:80/987654/987654/37082
+#EXTINF:-1 ,HBO Signature HD
+http://tv.factoryiptv.com:80/987654/987654/36962
+#EXTINF:-1 ,History
+http://tv.factoryiptv.com:80/987654/987654/37081
+#EXTINF:-1 ,History 2
+http://tv.factoryiptv.com:80/987654/987654/42915
+#EXTINF:-1 ,History 2 HD
+http://tv.factoryiptv.com:80/987654/987654/36961
+#EXTINF:-1 ,History HD
+http://tv.factoryiptv.com:80/987654/987654/36960
+#EXTINF:-1 ,ID: Investigação Discovery
+http://tv.factoryiptv.com:80/987654/987654/37114
+#EXTINF:-1 ,ID: Investigação Discovery HD
+http://tv.factoryiptv.com:80/987654/987654/36959
+#EXTINF:-1 ,IMPD TV
+http://tv.factoryiptv.com:80/987654/987654/40080
+#EXTINF:-1 ,INSANO
+http://tv.factoryiptv.com:80/987654/987654/42580
+#EXTINF:-1 ,JOAO NETO E FREDERICO
+http://tv.factoryiptv.com:80/987654/987654/39790
+#EXTINF:-1 ,Lifetime
+http://tv.factoryiptv.com:80/987654/987654/37077
+#EXTINF:-1 ,Lifetime HD
+http://tv.factoryiptv.com:80/987654/987654/36914
+#EXTINF:-1 ,Max
+http://tv.factoryiptv.com:80/987654/987654/37076
+#EXTINF:-1 ,Max HD
+http://tv.factoryiptv.com:80/987654/987654/36913
+#EXTINF:-1 ,MAX PRIME E
+http://tv.factoryiptv.com:80/987654/987654/37074
+#EXTINF:-1 ,Max Prime HD
+http://tv.factoryiptv.com:80/987654/987654/36912
+#EXTINF:-1 ,Max UP
+http://tv.factoryiptv.com:80/987654/987654/37073
+#EXTINF:-1 ,Max UP HD
+http://tv.factoryiptv.com:80/987654/987654/36911
+#EXTINF:-1 ,MaxPrime
+http://tv.factoryiptv.com:80/987654/987654/37075
+#EXTINF:-1 ,Megapix
+http://tv.factoryiptv.com:80/987654/987654/37072
+#EXTINF:-1 ,Megapix HD
+http://tv.factoryiptv.com:80/987654/987654/36958
+#EXTINF:-1 ,Metálica
+http://tv.factoryiptv.com:80/987654/987654/42577
+#EXTINF:-1 ,Milionario e Jose Rico
+http://tv.factoryiptv.com:80/987654/987654/39789
+#EXTINF:-1 ,MTV
+http://tv.factoryiptv.com:80/987654/987654/37071
+#EXTINF:-1 ,MTV HD
+http://tv.factoryiptv.com:80/987654/987654/36910
+#EXTINF:-1 ,MTV Live
+http://tv.factoryiptv.com:80/987654/987654/40519
+#EXTINF:-1 ,MTV LIVE HD
+http://tv.factoryiptv.com:80/987654/987654/40518
+#EXTINF:-1 ,Multishow
+http://tv.factoryiptv.com:80/987654/987654/37070
+#EXTINF:-1 ,Multishow HD
+http://tv.factoryiptv.com:80/987654/987654/36957
+#EXTINF:-1 ,Music Box Brazil
+http://tv.factoryiptv.com:80/987654/987654/37069
+#EXTINF:-1 ,Naha Airport
+http://tv.factoryiptv.com:80/987654/987654/40109
+#EXTINF:-1 ,NatGeo Kids
+http://tv.factoryiptv.com:80/987654/987654/37067
+#EXTINF:-1 ,NatGeo Kids HD
+http://tv.factoryiptv.com:80/987654/987654/36909
+#EXTINF:-1 ,National Geographic Wild
+http://tv.factoryiptv.com:80/987654/987654/37066
+#EXTINF:-1 ,National Geographic Wild HD
+http://tv.factoryiptv.com:80/987654/987654/36955
+#EXTINF:-1 ,NATIONAL GEOGRAPHICS
+http://tv.factoryiptv.com:80/987654/987654/37068
+#EXTINF:-1 ,National Geographic HD
+http://tv.factoryiptv.com:80/987654/987654/36956
+#EXTINF:-1 ,NBR
+http://tv.factoryiptv.com:80/987654/987654/37021
+#EXTINF:-1 ,Nick
+http://tv.factoryiptv.com:80/987654/987654/37064
+#EXTINF:-1 ,Nick HD
+http://tv.factoryiptv.com:80/987654/987654/36907
+#EXTINF:-1 ,Nick Jr.
+http://tv.factoryiptv.com:80/987654/987654/37065
+#EXTINF:-1 ,Nick Jr. HD
+http://tv.factoryiptv.com:80/987654/987654/36908
+#EXTINF:-1 ,Novo Tempo
+http://tv.factoryiptv.com:80/987654/987654/39793
+#EXTINF:-1 ,O Livro Maldito
+http://tv.factoryiptv.com:80/987654/987654/42578
+#EXTINF:-1 ,O MELHOR DO PAGODE
+http://tv.factoryiptv.com:80/987654/987654/39773
+#EXTINF:-1 ,Off
+http://tv.factoryiptv.com:80/987654/987654/37063
+#EXTINF:-1 ,Off HD
+http://tv.factoryiptv.com:80/987654/987654/36954
+#EXTINF:-1 ,Paramount Channel
+http://tv.factoryiptv.com:80/987654/987654/37062
+#EXTINF:-1 ,Paramount Channel HD
+http://tv.factoryiptv.com:80/987654/987654/36953
+#EXTINF:-1 ,Pearl Jam
+http://tv.factoryiptv.com:80/987654/987654/42444
+#EXTINF:-1 ,Pink Floyd
+http://tv.factoryiptv.com:80/987654/987654/42445
+#EXTINF:-1 ,Premiere 2
+http://tv.factoryiptv.com:80/987654/987654/37060
+#EXTINF:-1 ,Premiere 2 HD
+http://tv.factoryiptv.com:80/987654/987654/36952
+#EXTINF:-1 ,Premiere 3
+http://tv.factoryiptv.com:80/987654/987654/37059
+#EXTINF:-1 ,Premiere 3 HD
+http://tv.factoryiptv.com:80/987654/987654/36951
+#EXTINF:-1 ,Premiere 4
+http://tv.factoryiptv.com:80/987654/987654/37058
+#EXTINF:-1 ,Premiere 4 HD
+http://tv.factoryiptv.com:80/987654/987654/36950
+#EXTINF:-1 ,Premiere 5
+http://tv.factoryiptv.com:80/987654/987654/37057
+#EXTINF:-1 ,Premiere 5 HD
+http://tv.factoryiptv.com:80/987654/987654/36949
+#EXTINF:-1 ,Premiere 6
+http://tv.factoryiptv.com:80/987654/987654/37056
+#EXTINF:-1 ,Premiere 6 HD
+http://tv.factoryiptv.com:80/987654/987654/36906
+#EXTINF:-1 ,Premiere 7
+http://tv.factoryiptv.com:80/987654/987654/37017
+#EXTINF:-1 ,Premiere 7 HD
+http://tv.factoryiptv.com:80/987654/987654/36905
+#EXTINF:-1 ,PREMIERE CLUBES
+http://tv.factoryiptv.com:80/987654/987654/37016
+#EXTINF:-1 ,PREMIERE CLUBES 4K
+http://tv.factoryiptv.com:80/987654/987654/40783
+#EXTINF:-1 ,Premiere Clubes HD
+http://tv.factoryiptv.com:80/987654/987654/36948
+#EXTINF:-1 ,Prime Box Brazil
+http://tv.factoryiptv.com:80/987654/987654/37053
+#EXTINF:-1 ,Queen
+http://tv.factoryiptv.com:80/987654/987654/42572
+#EXTINF:-1 ,Racionais Mc's
+http://tv.factoryiptv.com:80/987654/987654/39784
+#EXTINF:-1 ,RBS TV Porto Alegre HD
+http://tv.factoryiptv.com:80/987654/987654/40252
+#EXTINF:-1 ,RECEBI UMA ENCOMENDA ESTRANHA
+http://tv.factoryiptv.com:80/987654/987654/42581
+#EXTINF:-1 ,RecordTV HD
+http://tv.factoryiptv.com:80/987654/987654/36947
+#EXTINF:-1 ,RecordTV Minas
+http://tv.factoryiptv.com:80/987654/987654/41362
+#EXTINF:-1 ,Record News
+http://tv.factoryiptv.com:80/987654/987654/41529
+#EXTINF:-1 ,Record News HD
+http://tv.factoryiptv.com:80/987654/987654/37050
+#EXTINF:-1 ,RecordTV
+http://tv.factoryiptv.com:80/987654/987654/37051
+#EXTINF:-1 ,RECORDTV BAHIA HD
+http://tv.factoryiptv.com:80/987654/987654/42624
+#EXTINF:-1 ,RecordTV Brasilia HD
+http://tv.factoryiptv.com:80/987654/987654/42626
+#EXTINF:-1 ,RecordTV Rio
+http://tv.factoryiptv.com:80/987654/987654/42637
+#EXTINF:-1 ,RecordTV RS HD
+http://tv.factoryiptv.com:80/987654/987654/42628
+#EXTINF:-1 ,Rede Brasil
+http://tv.factoryiptv.com:80/987654/987654/37013
+#EXTINF:-1 ,Rede Vida
+http://tv.factoryiptv.com:80/987654/987654/37011
+#EXTINF:-1 ,RedeTV!
+http://tv.factoryiptv.com:80/987654/987654/37012
+#EXTINF:-1 ,RedeTV! HD
+http://tv.factoryiptv.com:80/987654/987654/36946
+#EXTINF:-1 ,SBT
+http://tv.factoryiptv.com:80/987654/987654/37048
+#EXTINF:-1 ,SBT HD
+http://tv.factoryiptv.com:80/987654/987654/36945
+#EXTINF:-1 ,SBT SP Interior
+http://tv.factoryiptv.com:80/987654/987654/42912
+#EXTINF:-1 ,SHOW DA VIOLA
+http://tv.factoryiptv.com:80/987654/987654/39770
+#EXTINF:-1 ,Simone e Simaria Bar das Coleguinhas
+http://tv.factoryiptv.com:80/987654/987654/39792
+#EXTINF:-1 ,Sony Channel
+http://tv.factoryiptv.com:80/987654/987654/37007
+#EXTINF:-1 ,Sony Channel HD
+http://tv.factoryiptv.com:80/987654/987654/36987
+#EXTINF:-1 ,Space
+http://tv.factoryiptv.com:80/987654/987654/37046
+#EXTINF:-1 ,Space HD
+http://tv.factoryiptv.com:80/987654/987654/36944
+#EXTINF:-1 ,SporTV
+http://tv.factoryiptv.com:80/987654/987654/37256
+#EXTINF:-1 ,SporTV 2
+http://tv.factoryiptv.com:80/987654/987654/37044
+#EXTINF:-1 ,SporTV 2 HD
+http://tv.factoryiptv.com:80/987654/987654/36943
+#EXTINF:-1 ,SporTV 3
+http://tv.factoryiptv.com:80/987654/987654/37006
+#EXTINF:-1 ,SporTV 3 HD
+http://tv.factoryiptv.com:80/987654/987654/36942
+#EXTINF:-1 ,SPORTV 4K
+http://tv.factoryiptv.com:80/987654/987654/40785
+#EXTINF:-1 ,SporTV HD
+http://tv.factoryiptv.com:80/987654/987654/37255
+#EXTINF:-1 ,Studio Universal
+http://tv.factoryiptv.com:80/987654/987654/37043
+#EXTINF:-1 ,Studio Universal HD
+http://tv.factoryiptv.com:80/987654/987654/36904
+#EXTINF:-1 ,Syfy
+http://tv.factoryiptv.com:80/987654/987654/37042
+#EXTINF:-1 ,Syfy HD
+http://tv.factoryiptv.com:80/987654/987654/36903
+#EXTINF:-1 ,TBS
+http://tv.factoryiptv.com:80/987654/987654/37041
+#EXTINF:-1 ,TBS HD
+http://tv.factoryiptv.com:80/987654/987654/36940
+#EXTINF:-1 ,TCM
+http://tv.factoryiptv.com:80/987654/987654/37037
+#EXTINF:-1 ,Telecine Action
+http://tv.factoryiptv.com:80/987654/987654/37040
+#EXTINF:-1 ,Telecine Action HD
+http://tv.factoryiptv.com:80/987654/987654/36939
+#EXTINF:-1 ,Telecine Cult
+http://tv.factoryiptv.com:80/987654/987654/37039
+#EXTINF:-1 ,Telecine Cult HD
+http://tv.factoryiptv.com:80/987654/987654/36901
+#EXTINF:-1 ,Telecine Fun
+http://tv.factoryiptv.com:80/987654/987654/37005
+#EXTINF:-1 ,Telecine Fun HD
+http://tv.factoryiptv.com:80/987654/987654/36938
+#EXTINF:-1 ,Telecine Pipoca
+http://tv.factoryiptv.com:80/987654/987654/37038
+#EXTINF:-1 ,Telecine Pipoca HD
+http://tv.factoryiptv.com:80/987654/987654/36937
+#EXTINF:-1 ,Telecine Premium
+http://tv.factoryiptv.com:80/987654/987654/36994
+#EXTINF:-1 ,Telecine Premium HD
+http://tv.factoryiptv.com:80/987654/987654/36936
+#EXTINF:-1 ,Telecine Touch
+http://tv.factoryiptv.com:80/987654/987654/36995
+#EXTINF:-1 ,Telecine Touch HD
+http://tv.factoryiptv.com:80/987654/987654/36935
+#EXTINF:-1 ,Teodoro & Sampaio
+http://tv.factoryiptv.com:80/987654/987654/39791
+#EXTINF:-1 ,Terra Viva
+http://tv.factoryiptv.com:80/987654/987654/37004
+#EXTINF:-1 ,TLC HD
+http://tv.factoryiptv.com:80/987654/987654/36902
+#EXTINF:-1 ,TLC SD
+http://tv.factoryiptv.com:80/987654/987654/37036
+#EXTINF:-1 ,TNT
+http://tv.factoryiptv.com:80/987654/987654/37035
+#EXTINF:-1 ,TNT HD
+http://tv.factoryiptv.com:80/987654/987654/36934
+#EXTINF:-1 ,TNT Séries
+http://tv.factoryiptv.com:80/987654/987654/37034
+#EXTINF:-1 ,TNT Séries HD
+http://tv.factoryiptv.com:80/987654/987654/36933
+#EXTINF:-1 ,Tooncast
+http://tv.factoryiptv.com:80/987654/987654/37033
+#EXTINF:-1 ,TruTV
+http://tv.factoryiptv.com:80/987654/987654/37032
+#EXTINF:-1 ,TV Aparecida
+http://tv.factoryiptv.com:80/987654/987654/37003
+#EXTINF:-1 ,TV Aparecida HD
+http://tv.factoryiptv.com:80/987654/987654/41341
+#EXTINF:-1 ,TV Câmara
+http://tv.factoryiptv.com:80/987654/987654/40189
+#EXTINF:-1 ,TV Escola
+http://tv.factoryiptv.com:80/987654/987654/36999
+#EXTINF:-1 ,TV Jornal (SBT PE) SD
+http://tv.factoryiptv.com:80/987654/987654/41371
+#EXTINF:-1 ,TV Ra Tim Bum
+http://tv.factoryiptv.com:80/987654/987654/37015
+#EXTINF:-1 ,TV Rede Gospel SD
+http://tv.factoryiptv.com:80/987654/987654/40247
+#EXTINF:-1 ,TV TEM Bauru
+http://tv.factoryiptv.com:80/987654/987654/37030
+#EXTINF:-1 ,TV TEM Sorocaba
+http://tv.factoryiptv.com:80/987654/987654/37029
+#EXTINF:-1 ,Universal Channel
+http://tv.factoryiptv.com:80/987654/987654/37027
+#EXTINF:-1 ,Universal Channel HD
+http://tv.factoryiptv.com:80/987654/987654/36932
+#EXTINF:-1 ,VH1 HD
+http://tv.factoryiptv.com:80/987654/987654/36900
+#EXTINF:-1 ,Viva
+http://tv.factoryiptv.com:80/987654/987654/36997
+#EXTINF:-1 ,Viva HD
+http://tv.factoryiptv.com:80/987654/987654/36931
+#EXTINF:-1 ,[XX] Jasmin TV
+http://tv.factoryiptv.com:80/987654/987654/40305
+#EXTINF:-1 ,[XX] Playboy TV
+http://tv.factoryiptv.com:80/987654/987654/37061
+#EXTINF:-1 ,[XX] Playboy TV HD
+http://tv.factoryiptv.com:80/987654/987654/40749
+#EXTINF:-1 ,[XX] Sextreme
+http://tv.factoryiptv.com:80/987654/987654/37047
+#EXTINF:-1 ,[XX] Sexy Hot
+http://tv.factoryiptv.com:80/987654/987654/37009
+#EXTINF:-1 ,[XX] Venus
+http://tv.factoryiptv.com:80/987654/987654/37026
+#EXTINF:-1 ,AXN HD [Alternativo]
+http://tv.factoryiptv.com:80/987654/987654/50646
+#EXTINF:-1 ,BABY TV HD [Alternativo]
+http://tv.factoryiptv.com:80/987654/987654/50648
+#EXTINF:-1 ,BAND CAMPINAS HD [Alternativo]
+http://tv.factoryiptv.com:80/987654/987654/50650
+#EXTINF:-1 ,BAND NEWS HD [Alternativo]
+http://tv.factoryiptv.com:80/987654/987654/50654
+#EXTINF:-1 ,BAND SPORTS
+http://tv.factoryiptv.com:80/987654/987654/50613
+#EXTINF:-1 ,BAND SPORTS HD
+http://tv.factoryiptv.com:80/987654/987654/50612
+#EXTINF:-1 ,Canal do Boi
+http://tv.factoryiptv.com:80/987654/987654/50645
+#EXTINF:-1 ,CANCAO NOVA [Alternativo]
+http://tv.factoryiptv.com:80/987654/987654/50665
+#EXTINF:-1 ,COMBATE H265
+http://tv.factoryiptv.com:80/987654/987654/50536
+#EXTINF:-1 ,COMEDY - CENTRAL H265
+http://tv.factoryiptv.com:80/987654/987654/50537
+#EXTINF:-1 ,DISCOVERY CHANNEL H265
+http://tv.factoryiptv.com:80/987654/987654/50538
+#EXTINF:-1 ,DISCOVERY CHANNEL HD [Alternativo]
+http://tv.factoryiptv.com:80/987654/987654/50691
+#EXTINF:-1 ,DISCOVERY CIVILIZATION H265
+http://tv.factoryiptv.com:80/987654/987654/50539
+#EXTINF:-1 ,DISCOVERY CIVILIZATION HD  [Alternativo]
+http://tv.factoryiptv.com:80/987654/987654/50703
+#EXTINF:-1 ,DISCOVERY SCIENCE
+http://tv.factoryiptv.com:80/987654/987654/51002
+#EXTINF:-1 ,DISCOVERY SCIENCE HD  [Alternativo]
+http://tv.factoryiptv.com:80/987654/987654/50708
+#EXTINF:-1 ,Discovery Theater
+http://tv.factoryiptv.com:80/987654/987654/51007
+#EXTINF:-1 ,ESPN 2 - H265
+http://tv.factoryiptv.com:80/987654/987654/50541
+#EXTINF:-1 ,FOX SPORTS 2 - H265
+http://tv.factoryiptv.com:80/987654/987654/50545
+#EXTINF:-1 ,FX HD [Alternativo]
+http://tv.factoryiptv.com:80/987654/987654/50770
+#EXTINF:-1 ,GLOOBINHO SD [Alternativo]
+http://tv.factoryiptv.com:80/987654/987654/50774
+#EXTINF:-1 ,HBO PLUS *E [Alternativo]
+http://tv.factoryiptv.com:80/987654/987654/50793
+#EXTINF:-1 ,MAIS GLOBOSAT HD [Alternativo]
+http://tv.factoryiptv.com:80/987654/987654/50836
