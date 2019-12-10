@@ -1,144 +1,217 @@
 #EXTM3U
- 
- //Canais abertos//
- 
-#EXTINF:0 tvg-logo="https://www.google.com/url?sa=i&source=images&cd=&cad=rja&uact=8&ved=2ahUKEwi8-sbU8qDiAhWBILkGHcjVAKsQjRx6BAgBEAU&url=https%3A%2F%2Fpt.wikipedia.org%2Fwiki%2FFicheiro%3ALOGO_REDETV!.png&psig=AOvVaw3XuUwxdnK2I8fcTrIVSOa4&ust=1558125154175141" group-title="ABERTO",REDE TV
-https://evpp.mm.uol.com.br/redetv2/redetv2/chunklist_w1148582512.m3u8
- 
-#EXTINF:0 tvg-logo="https://www.google.com/url?sa=i&source=images&cd=&cad=rja&uact=8&ved=2ahUKEwicgpny8qDiAhUdIbkGHcj0DrAQjRx6BAgBEAU&url=https%3A%2F%2Flogodownload.org%2Fband-logo-rede-bandeirantes-logo-tv%2F&psig=AOvVaw0r15q-C5K1yIlnj87KrYqS&ust=1558125209616219" group-title="ABERTO",BAND
-https://evpp.mm.uol.com.br/geob_band/bandapp/chunklist_w622979429.m3u8
- 
-#EXTINF:0 tvg-logo="https://www.google.com/url?sa=i&source=images&cd=&cad=rja&uact=8&ved=2ahUKEwjvpd6J86DiAhXfILkGHdxfA9sQjRx6BAgBEAU&url=https%3A%2F%2Flogodownload.org%2Frede-record-logo%2F&psig=AOvVaw0HLLzwFOL6MOvHP81axfRE&ust=1558125265712944" group-title="ABERTO",RECORD
-https://ori5.global.ssl.fastly.net//hls1/recordsp.m3u8
- 
-#EXTINF:0 tvg-logo="https://www.google.com/url?sa=i&source=images&cd=&cad=rja&uact=8&ved=2ahUKEwj6jYyn86DiAhUhErkGHR_mBUUQjRx6BAgBEAU&url=%2Furl%3Fsa%3Di%26source%3Dimages%26cd%3D%26ved%3D%26url%3Dhttps%253A%252F%252Fpt.wikipedia.org%252Fwiki%252FFicheiro%253ALogotipo_da_Rede_Globo.png%26psig%3DAOvVaw2BlOoXt5LctrvodUHRcsKo%26ust%3D1558125325111091&psig=AOvVaw2BlOoXt5LctrvodUHRcsKo&ust=1558125325111091" group-title="ABERTO",GLOBO
-https://ori3.global.ssl.fastly.net//hls1/boborj.m3u8
- 
-#EXTINF:0 tvg-logo="https://www.google.com/url?sa=i&source=images&cd=&cad=rja&uact=8&ved=2ahUKEwi9v-G186DiAhUTIrkGHa0jCBMQjRx6BAgBEAU&url=%2Furl%3Fsa%3Di%26source%3Dimages%26cd%3D%26ved%3D%26url%3Dhttps%253A%252F%252Fpt.wikipedia.org%252Fwiki%252FFicheiro%253ALogotipo_do_SBT.svg%26psig%3DAOvVaw3npRBmV6Pta7NJDT1GIWOW%26ust%3D1558125355130556&psig=AOvVaw3npRBmV6Pta7NJDT1GIWOW&ust=1558125355130556" group-title="ABERTO",SBT
-https://ori4.global.ssl.fastly.net//hls1/sbt.m3u8?c2VydmVyX3RpbWU9NS8xNy8yMDE5IDQ6MDA6MzAgUE0maGFzaF92YWx1ZT1mcUlncVB3MFpjRlFoOFBrcGtQSGFBPT0mdmFsaWRtaW51dGVzPTIwJmlkPTU=
- 
-#EXTINF:0 tvg-logo="https://www.google.com/url?sa=i&source=images&cd=&cad=rja&uact=8&ved=2ahUKEwi2iumV9qLiAhUvHbkGHVqSBtEQjRx6BAgBEAU&url=https%3A%2F%2Fpt.kisspng.com%2Fpng-logo-invoice-electronic-billing-digital-marketing-3790127%2F&psig=AOvVaw1AKMDbhtLG2cvQAjLk0RXJ&ust=1558194803423890" group-title="ABERTO",FUTURA
-http://caikron.com.br:1935/unipar/tvup/chunklist_w1935113221.m3u8
- 
-#EXTINF:0 tvg-logo="https://www.google.com/url?sa=i&source=images&cd=&cad=rja&uact=8&ved=2ahUKEwjg1p7M96LiAhUIJbkGHdSLCIoQjRx6BAgBEAU&url=https%3A%2F%2Fpt.wikipedia.org%2Fwiki%2FTV_Cultura&psig=AOvVaw3tsQxm_-5CPtWWEjzndjJZ&ust=1558195197491913" group-title="ABERTO",TV CULTURA
-http://wowza4.catve.com.br:1935/live/livestream/chunklist_w1982702716.m3u8
- 
-// Variados //
- 
-#EXTINF:0 tvg-logo="https://www.google.com/url?sa=i&source=images&cd=&cad=rja&uact=8&ved=2ahUKEwi434Sc7KDiAhWOHbkGHb6XB2oQjRx6BAgBEAU&url=https%3A%2F%2Fcommons.wikimedia.org%2Fwiki%2FFile%3AComedy_Central_Logo_2011_vertikal.png&psig=AOvVaw0NqOUdwr-grCZ1nj95glPg&ust=1558123419153482" group-title="Canais",COMEDY CENTRAL
-https://tvweb.xyz:25463/live/Sexta-Feira/TristeLuto/93.m3u8?token=QxBcWRdYGgoRAlEMUQcNCQ9RA10BD1FUCgQLBwkOBgIKBVZaVQFdVFJDHxcXREpcVghtUVcUXloLHhpGS1xHaFFWFgJGAxocERVaWAESAgkbR0JRVxReQQwLCwQaFRdSQEZRSgpRVG9XBEVcB1UaA1kQXlQfFAsNZ1ZdXllXURUCEAUaSBJRQ0NDCRcnVVZNUhcSaEFTFxdZVldBWRlmUkpEXVsLQxhjb05wFShEXFgVSRBaWkIWAkxXGgkaCAwGDhAYGgdfTV5HE0oXXhJ6axVJEF1LQgENS1tXXRoDF1oLRwwaSBJRQ2wTVkYQQl1YWgBAGgkUVEEUEFVSQGZWWFZcUVsQWVdeQEMJF1QSFBtaClxRR1kWPEhbXBECGwcDAAsNGhk=
- 
-#EXTINF:0 tvg-logo="https://www.google.com/url?sa=i&source=images&cd=&cad=rja&uact=8&ved=2ahUKEwiA6Mm87KDiAhWsGbkGHXYlD0QQjRx6BAgBEAU&url=https%3A%2F%2Fpt.wikipedia.org%2Fwiki%2FFicheiro%3ALOGO_MTV_BRASIL.png&psig=AOvVaw14Ni0FhaLuS6IX6isXkobt&ust=1558123469534603" group-title="Canais",MTV
-https://ori3.global.ssl.fastly.net//hls1/mtv.m3u8
- 
-#EXTINF:0 tvg-logo="https://www.google.com/url?sa=i&source=images&cd=&cad=rja&uact=8&ved=2ahUKEwjCxuvq66DiAhX-K7kGHWGPA_oQjRx6BAgBEAU&url=https%3A%2F%2Fwww.kisspng.com%2Fpng-animal-planet-dog-television-channel-television-sh-1564479%2F&psig=AOvVaw2UjnwAYErT-EDxiUgibcCy&ust=1558123320867276" group-title="Canais",ANIMAL PLANET
-https://assistirtvonline.xyz:25463/live/Sexta-Feira/TristeLuto/101.m3u8
- 
-#EXTINF:0 tvg-logo="https://www.google.com/url?sa=i&source=images&cd=&cad=rja&uact=8&ved=2ahUKEwjJpaSi7qDiAhXBGrkGHeS1BE0QjRx6BAgBEAU&url=https%3A%2F%2Fpt.wikipedia.org%2Fwiki%2FFicheiro%3AFox%252B_logo.png&psig=AOvVaw2UcQ3WDiwOjLbvp5K3iqKe&ust=1558123951682253" group-title="Canais",FOX
-https://ori3.global.ssl.fastly.net//hls1/fox.m3u8
- 
-#EXTINF:0 tvg-logo="https://www.google.com/url?sa=i&source=images&cd=&cad=rja&uact=8&ved=2ahUKEwiizIik8qDiAhWgHbkGHW_XDIsQjRx6BAgBEAU&url=https%3A%2F%2Fpt.wikipedia.org%2Fwiki%2FFicheiro%3AA%2526E_Network_logo.svg&psig=AOvVaw2qqcC0KqibMTNECByCF4Wj&ust=1558125052510498" group-title="Canais",A&E
-https://ori4.global.ssl.fastly.net//hls1/aie.m3u8
- 
- //Animes//
- 
-#EXTINF:0 tvg-logo="https://www.google.com/url?sa=i&source=images&cd=&cad=rja&uact=8&ved=2ahUKEwiD1OKC6KDiAhW0FbkGHS6VCiYQjRx6BAgBEAU&url=https%3A%2F%2Fwww.pinclipart.com%2Fpindetail%2FxwbmTh_new-boomerang-logo-recreation-boomerang-channel-logo-png%2F&psig=AOvVaw1nco88NTAIEVLrUAefs6Lv&ust=1558122293695689" group-title="Canais",BOOMERANG
-https://ori4.global.ssl.fastly.net//hls1/boomerang.m3u8
- 
-#EXTINF:0 tvg-logo="https://www.google.com/url?sa=i&source=images&cd=&cad=rja&uact=8&ved=2ahUKEwja44Sk6KDiAhWEC9QKHaXlBzoQjRx6BAgBEAU&url=https%3A%2F%2Flogoeps.com%2Fnick-jr-logo%2F666%2F&psig=AOvVaw22EfjwLDIpjQbhAzeCFkH0&ust=1558122352608762" group-title="Canais",NICK JR
-https://ori5.global.ssl.fastly.net//hls1/nickjr.m3u8
- 
-#EXTINF:0 tvg-logo="https://www.google.com/url?sa=i&source=images&cd=&cad=rja&uact=8&ved=2ahUKEwiMxazA6KDiAhWCIrkGHYRBCf4QjRx6BAgBEAU&url=https%3A%2F%2Fknowyourmeme.com%2Fphotos%2F1099188-nickelodeon&psig=AOvVaw1QjvcnX8UXxW1FX-QF-rs6&ust=1558122423236700" group-title="Canais",NICKELODEON
-https://ori3.global.ssl.fastly.net//hls1/nick.m3u8
- 
-#EXTINF:0 tvg-logo="https://www.google.com/url?sa=i&source=images&cd=&cad=rja&uact=8&ved=2ahUKEwjZwOjXs6HiAhXFKLkGHbuHCxkQjRx6BAgBEAU&url=https%3A%2F%2Fpt.wikipedia.org%2Fwiki%2FFicheiro%3ATooncast_logo.svg&psig=AOvVaw1D-2LbcvluyL4DTqNutY2Z&ust=1558142609430370" group-title="Canais",TOONCAST
-https://ori3.global.ssl.fastly.net//hls1/tooncast.m3u8
- 
-#EXTINF:0 tvg-logo="https://www.google.com/url?sa=i&source=images&cd=&cad=rja&uact=8&ved=2ahUKEwiR3Jv26qDiAhUEILkGHTtZCg8QjRx6BAgBEAU&url=https%3A%2F%2Fpt.wikipedia.org%2Fwiki%2FFicheiro%3AGloob_logo.svg&psig=AOvVaw1XNggWnK4XZG4tKckutDhO&ust=1558123073598048" group-title="Canais",GLOOB
-https://assistirtvonline.xyz:25463/live/Quinta-Feira/Luto/121.m3u8
- 
-#EXTINF:0 tvg-logo="https://www.google.com/url?sa=i&source=images&cd=&cad=rja&uact=8&ved=2ahUKEwiZ0s6Q66DiAhUtK7kGHSP4DOgQjRx6BAgBEAU&url=https%3A%2F%2Fpt.wikipedia.org%2Fwiki%2FFicheiro%3ALOGO_DISCOVERY_SCIENCE.png&psig=AOvVaw3IkyhMYJ5wGZaUEiAcHb8A&ust=1558123127674960" group-title="Canais",DISCOVERY SCIENCE
-https://assistirtvonline.xyz:25463/live/Quinta-Feira/Luto/107.m3u8
- 
-#EXTINF:0 tvg-logo="https://www.google.com/url?sa=i&source=images&cd=&cad=rja&uact=8&ved=2ahUKEwiOxaHU66DiAhUaHbkGHcVeDCMQjRx6BAgBEAU&url=https%3A%2F%2Flogodownload.org%2Fhistory-channel-logo%2F&psig=AOvVaw10TcjD8z7-8M3Gon1MPP2f&ust=1558123163399501" group-title="Canais",HISTORY
-https://assistirtvonline.xyz:25463/live/Quinta-Feira/Luto/102.m3u8
- 
-#EXTINF:0 tvg-logo="https://www.google.com/url?sa=i&source=images&cd=&cad=rja&uact=8&ved=2ahUKEwicgPHP7KDiAhXTBtQKHRNdD3YQjRx6BAgBEAU&url=https%3A%2F%2Fwww.kisspng.com%2Fpng-warner-tv-television-channel-wb-channel-warner-bro-3263206%2F&psig=AOvVaw1NOQXcdwbracGfspodWDDf&ust=1558123528737862" group-title="Canais",WARNER CHANEL
-https://ori3.global.ssl.fastly.net//hls1/warner.m3u8?c2VydmVyX3RpbWU9NS8xNy8yMDE5IDE6MTM6MTcgQU0maGFzaF92YWx1ZT1Ua2o0cWhDaHVRNU8xckNxRXQyeHB3PT0mdmFsaWRtaW51dGVzPTIwJmlkPTU=
- 
-#EXTINF:0 tvg-logo="https://www.google.com/url?sa=i&source=images&cd=&cad=rja&uact=8&ved=2ahUKEwiuv-yZ7aDiAhVpHbkGHRO0BasQjRx6BAgBEAU&url=%2Furl%3Fsa%3Di%26source%3Dimages%26cd%3D%26ved%3D%26url%3Dhttps%253A%252F%252Fpt.wikipedia.org%252Fwiki%252FFicheiro%253AMax_Prime_2012_logo.svg%26psig%3DAOvVaw386MYiUE8FzwNHGIF38khs%26ust%3D1558123654347805&psig=AOvVaw386MYiUE8FzwNHGIF38khs&ust=1558123654347805" group-title="Canais",MAX PRIME
-https://ori4.global.ssl.fastly.net//hls1/maxprime.m3u8?c2VydmVyX3RpbWU9NS8xNy8yMDE5IDE6MTQ6MjcgQU0maGFzaF92YWx1ZT11RS9keXRtWVVkd1VHWEJucmRZQS9BPT0mdmFsaWRtaW51dGVzPTIwJmlkPTU=
- 
-#EXTINF:0 tvg-logo="https://www.google.com/url?sa=i&source=images&cd=&cad=rja&uact=8&ved=2ahUKEwjhism27aDiAhUvIbkGHSssCTsQjRx6BAgBEAU&url=https%3A%2F%2Fpt.wikipedia.org%2Fwiki%2FFicheiro%3AMegapix_logo_2011.png&psig=AOvVaw3lIF1efbuJaeOX74ampXNG&ust=1558123747750237" group-title="Canais",MEGAPIX
-https://ori4.global.ssl.fastly.net//hls1/megapix.m3u8?c2VydmVyX3RpbWU9NS8xNy8yMDE5IDE6MTU6MjkgQU0maGFzaF92YWx1ZT1Pa3dtNWliQWRuSHpoTHlyM1F1cWJnPT0mdmFsaWRtaW51dGVzPTIwJmlkPTU=
- 
-#EXTINF:0 tvg-logo="https://www.google.com/url?sa=i&source=images&cd=&cad=rja&uact=8&ved=2ahUKEwi31oDM7aDiAhW8HLkGHfYyDqYQjRx6BAgBEAU&url=https%3A%2F%2Fwww.kisspng.com%2Fpng-space-logo-television-channel-esporte-interativo-s-6296863%2F&psig=AOvVaw1pODNCEBwWUphPK0jbYrTw&ust=1558123792577821" group-title="Canais",SPACE
-https://ori4.global.ssl.fastly.net//hls1/space.m3u8
- 
-#EXTINF:0 tvg-logo="https://www.google.com/url?sa=i&source=images&cd=&cad=rja&uact=8&ved=2ahUKEwj8ucT5oKHiAhV4GbkGHesUCosQjRx6BAgBEAU&url=https%3A%2F%2Fwww.pinterest.com%2Fpin%2F498914464944623955%2F&psig=AOvVaw27UP0i51U3zRir2vvpqZjN&ust=1558137576790397" group-title="Canais",UNIVERSAL CHANEL
-https://ori6.global.ssl.fastly.net//hls1/universal.m3u8
- 
-#EXTINF:0 tvg-logo="https://www.google.com/url?sa=i&source=images&cd=&cad=rja&uact=8&ved=2ahUKEwj0hLy9oaHiAhUTIrkGHRyvCpsQjRx6BAgBEAU&url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FParamount_Pictures&psig=AOvVaw1gr_OO_DjArrmpGMWfaxvS&ust=1558137721281503" group-title="Canais",PARAMOUNT
-https://ori3.global.ssl.fastly.net//hls1/paramount.m3u8
- 
-#EXTINF:0 tvg-logo="https://www.google.com/url?sa=i&source=images&cd=&cad=rja&uact=8&ved=2ahUKEwjp24f1oaHiAhWdHLkGHUO7CqoQjRx6BAgBEAU&url=https%3A%2F%2Fpt.wikipedia.org%2Fwiki%2FHBO_Family&psig=AOvVaw3okxDRIPGUgqTRF87c5zF0&ust=1558137838443250" group-title="Canais",HBO FAMILY
-https://ori4.global.ssl.fastly.net//hls1/hbofamily.m3u8
- 
-#EXTINF:0 tvg-logo="https://www.google.com/url?sa=i&source=images&cd=&cad=rja&uact=8&ved=2ahUKEwjX37Lw7aDiAhXII7kGHV5DDmIQjRx6BAgBEAU&url=%2Furl%3Fsa%3Di%26source%3Dimages%26cd%3D%26ved%3D%26url%3Dhttps%253A%252F%252Fmi.tv%252Fbr%252Fcanais%252Ftnt-series%26psig%3DAOvVaw2eQpFmr8mttknrIi6aRc8-%26ust%3D1558123868808573&psig=AOvVaw2eQpFmr8mttknrIi6aRc8-&ust=1558123868808573" group-title="Canais",TNT SERIES
-https://ori4.global.ssl.fastly.net//hls1/tntseries.m3u8
- 
-#EXTINF:0 tvg-logo="https://www.google.com/url?sa=i&source=images&cd=&cad=rja&uact=8&ved=2ahUKEwi6z4aK7qDiAhWcDrkGHfibA34QjRx6BAgBEAU&url=https%3A%2F%2Fwww.gratispng.com%2Fpng-84zs3f%2F&psig=AOvVaw245tGoDYBwV8ovCWTGmJP9&ust=1558123920421432" group-title="Canais",TNT
-https://ori3.global.ssl.fastly.net//hls1/tnt.m3u8
- 
-#EXTINF:0 tvg-logo="https://www.google.com/url?sa=i&source=images&cd=&cad=rja&uact=8&ved=2ahUKEwi2_7a97qDiAhX3K7kGHbCFDekQjRx6BAgBEAU&url=https%3A%2F%2Fwww.kisspng.com%2Fpng-rede-telecine-telecine-action-logo-telecine-pipoca-2191316%2F&psig=AOvVaw2Hvh7FupDWqbLSzZOFHAFb&ust=1558124031591762" group-title="Canais",TELECINE PREMIUM
-https://tvnanet.xyz:25463/live/QuintaFeira/Triste/48.m3u8?token=QxBcWRdYGgoRWQdXAQcIDVZWBlpRBQZWWQBZAlxfUQdeBg1bAVMMA1JDHxcXREpcVghtUVcUXlcAHhpGS1xHaFFWFgJGAxocERVaWAESAgkbR0JRVxReQQkGAAYNGxkVXUpAXRZeWVxsBVZDDVNdGw0LR1RfGkYMVm1cVlVYW1MaCBYJRhwaWUAREQ9Gc11XQwBAGGNEARBMU1xcSlgVZF1AQlEHX0sQYD0cdkR8TF1WRx4aUV8QEVlGXRECGwQDDgMWFEZTV0VdFUFMRgoae2VHHhpWThAGVkFRXFYbDxVVAUEARhwaWUA+QVAXREpcVghXShEMRlMaHhpeWUFqVFdcWl0HRFFfXRIRD0YAGhUVCF1WWkILEWdCUVcaAxcFDQYHDkZN
- 
-#EXTINF:0 tvg-logo="https://www.google.com/url?sa=i&source=images&cd=&cad=rja&uact=8&ved=2ahUKEwiSq4jW7qDiAhXdIrkGHXAUAXQQjRx6BAgBEAU&url=https%3A%2F%2Fglobosatplay.globo.com%2Fcombate%2F&psig=AOvVaw2ks4jZooYOBO31ylI2NqIJ&ust=1558124083168456" group-title="Canais",COMBATE
-https://tvweb.xyz:25463/live/Quinta-Feira/Luto/77.m3u8?token=QxBcWRdYGgoRA1UFU1MJDg5QAF1SU1EGXAcLVQpfBgZdAgIPUFUJVQVDHxcXREpcVghtUVcUXlQPHhpGS1xHaFFWFgJGAxocERVaWAESAgkbR0JRVxReQQkGCgUOGxkVXUpAXRZeWVxsBVZDDVNdGw0LR1RfGkYMVm1cVlVYW1MaCBYJRhwaWUAREQ9Gc11XQwBAGGNEARBMU1xcSlgVZF1AQlEHX0sQYD0cdkR8TF1WRx4aUV8QEVlGXRECGwQCDQEWFEZTV0VdFUFMRgoae2VHHhpWThAGVkFRXFYbDxVVAUEARhwaWUA+QVAXREpcVghXShEMRlMaHhpeWUFqVFdcWl0HRFFfXRIRD0YAGhUVCF1WWkILEWdCUVcaAxcGDwQHDEZN
- 
-#EXTINF:0 tvg-logo="https://www.google.com/url?sa=i&source=images&cd=&cad=rja&uact=8&ved=2ahUKEwjJ-Yr47qDiAhVaH7kGHUG4AkEQjRx6BAgBEAU&url=https%3A%2F%2Flogodownload.org%2Fpremiere-fc-logo%2F&psig=AOvVaw2-dlB8mGHFoxOCaws7kgvb&ust=1558124154733935" group-title="Canais",PREMIERE 1
-https://assistirtvonline.xyz:25463/live/Quinta-Feira/Luto/44.m3u8
- 
-#EXTINF:0 tvg-logo="https://www.google.com/url?sa=i&source=images&cd=&cad=rja&uact=8&ved=2ahUKEwjJ-Yr47qDiAhVaH7kGHUG4AkEQjRx6BAgBEAU&url=https%3A%2F%2Flogodownload.org%2Fpremiere-fc-logo%2F&psig=AOvVaw2-dlB8mGHFoxOCaws7kgvb&ust=1558124154733935" group-title="Canais",PREMIERE 2
-https://tvnanet.xyz:25463/live/Quinta-Feira/Luto/43.m3u8?token=QxBcWRdYGgoRVVVQAgMBCFJVAQ9XBF0ADlQKBAEPAAcAVAdbXQdcAQZDHxcXREpcVghtUVcUXlcLHhpGS1xHaFFWFgJGAxocERVaWAESAgkbR0JRVxReDU1eVB8aXE1DXUBaWQhvXFVFCFBQRgpWTFsJHhpcWDsHXV9ZXVwbDxUJEBgaDUNIEglDcFAKRF1LFzVAXUBCBQdXQFkTa1xHQVFRW0tEY2QfcEF/QQBRGhUVB1tMQVcQBhoIVkZUVRkVW11BVhBCQRIJQ3FnRhwaXE8RV1ZAXwsNGggaXgtMDRUUEF1LO0JdQ0cTVlQJVUobDUcCGh8UCQJAbVtcVldQVExbW1YXEgISA0MfFwlfVlBDCkBnQ18AQQJcTV9URA==
- 
-#EXTINF:0 tvg-logo="https://www.google.com/url?sa=i&source=images&cd=&cad=rja&uact=8&ved=2ahUKEwjJ-Yr47qDiAhVaH7kGHUG4AkEQjRx6BAgBEAU&url=https%3A%2F%2Flogodownload.org%2Fpremiere-fc-logo%2F&psig=AOvVaw2-dlB8mGHFoxOCaws7kgvb&ust=1558124154733935" group-title="Canais",PREMIERE 3
-https://tvnanet.xyz:25463/live/Quinta-Feira/Luto/42.m3u8?token=QxBcWRdYGgoRU1YGAgYLXwRXAloHBlRRDwoAAQBYAQNZBQBZVQAABgVDHxcXREpcVghtUVcUXlcKHhpGS1xHaFFWFgJGAxocERVaWAESAgkbR0JRVxReDU1eVB8aXE1DXUBaWQhvXFVFCFBQRgpWTFsJHhpcWDsHXV9ZXVwbDxUJEBgaDUNIEglDcFAKRF1LFzVAXUBCBQdXQFkTa1xHQVFRW0tEY2QfcEF/QQBRGhUVB1tMQVcQBhoIVkZUVRkVW11BVhBCQRIJQ3FnRhwaXE8RV1ZAXwsNGggaXgtMDRUUEF1LO0JdQ0cTVlQJVUobDUcCGh8UCQJAbVtcVldQVExbW1YXEgISA0MfFwlfVlBDCkBnQ18AQQJcTV9URA==
- 
-#EXTINF:0 tvg-logo="https://www.google.com/url?sa=i&source=images&cd=&cad=rja&uact=8&ved=2ahUKEwjJ-Yr47qDiAhVaH7kGHUG4AkEQjRx6BAgBEAU&url=https%3A%2F%2Flogodownload.org%2Fpremiere-fc-logo%2F&psig=AOvVaw2-dlB8mGHFoxOCaws7kgvb&ust=1558124154733935" group-title="Canais",PREMIERE 4
-https://tvnanet.xyz:25463/live/Quinta-Feira/Luto/41.m3u8?token=QxBcWRdYGgoRA1EMXVQPAQEDBQ8HBQZTCFQLVwpdVlZbAQVeAgRdVApDHxcXREpcVghtUVcUXlcJHhpGS1xHaFFWFgJGAxocERVaWAESAgkbR0JRVxReDU1eVB8aXE1DXUBaWQhvXFVFCFBQRgpWTFsJHhpcWDsHXV9ZXVwbDxUJEBgaDUNIEglDcFAKRF1LFzVAXUBCBQdXQFkTa1xHQVFRW0tEY2QfcEF/QQBRGhUVB1tMQVcQBhoIVkZUVRkVW11BVhBCQRIJQ3FnRhwaXE8RV1ZAXwsNGggaXgtMDRUUEF1LO0JdQ0cTVlQJVUobDUcCGh8UCQJAbVtcVldQVExbW1YXEgISA0MfFwlfVlBDCkBnQ18AQQJcTV9URA==
- 
-#EXTINF:0 tvg-logo="https://www.google.com/url?sa=i&source=images&cd=&cad=rja&uact=8&ved=2ahUKEwjJ-Yr47qDiAhVaH7kGHUG4AkEQjRx6BAgBEAU&url=https%3A%2F%2Flogodownload.org%2Fpremiere-fc-logo%2F&psig=AOvVaw2-dlB8mGHFoxOCaws7kgvb&ust=1558124154733935" group-title="Canais",PREMIERE 5
-https://tvnanet.xyz:25463/live/Quinta-Feira/Luto/40.m3u8?token=QxBcWRdYGgoRVgNTAABbCQZWUA8KV1NWDAEKUQtYVA8JB1AIAgkMBQpDHxcXREpcVghtUVcUXlcIHhpGS1xHaFFWFgJGAxocERVaWAESAgkbR0JRVxReDU1eVB8aXE1DXUBaWQhvXFVFCFBQRgpWTFsJHhpcWDsHXV9ZXVwbDxUJEBgaDUNIEglDcFAKRF1LFzVAXUBCBQdXQFkTa1xHQVFRW0tEY2QfcEF/QQBRGhUVB1tMQVcQBhoIVkZUVRkVW11BVhBCQRIJQ3FnRhwaXE8RV1ZAXwsNGggaXgtMDRUUEF1LO0JdQ0cTVlQJVUobDUcCGh8UCQJAbVtcVldQVExbW1YXEgISA0MfFwlfVlBDCkBnQ18AQQJcTV9URA==
- 
-#EXTINF:0 tvg-logo="https://www.google.com/url?sa=i&source=images&cd=&cad=rja&uact=8&ved=2ahUKEwjJ-Yr47qDiAhVaH7kGHUG4AkEQjRx6BAgBEAU&url=https%3A%2F%2Flogodownload.org%2Fpremiere-fc-logo%2F&psig=AOvVaw2-dlB8mGHFoxOCaws7kgvb&ust=1558124154733935" group-title="Canais",PREMIERE 6
-https://tvnanet.xyz:25463/live/Quinta-Feira/Luto/38.m3u8?token=QxBcWRdYGgoRU1BUBwdZXVQAUQ0ADl0CDAJaAl4NBgNZVwYLUAkKCQJDHxcXREpcVghtUVcUXlAAHhpGS1xHaFFWFgJGAxocERVaWAESAgkbR0JRVxReQQoFCgoMGxkVXUpAXRZeWVxsBVZDDVNdGw0LR1RfGkYMVm1cVlVYW1MaCBYJRhwaWUAREQ9Gc11XQwBAGGNEARBMU1xcSlgVZF1AQlEHX0sQYD0cdkR8TF1WRx4aUV8QEVlGXRECV0BbVB4WWwtFVkRBGBEPRnJqGxtHV0BHUwoQUV1WEQIbWARNChYURllLb0EEQEEWVVlUUhcQAhEGRk8aX1lLZ1paWVZXV0wNX1ZDEVsRBUYcGlRYC1tMXEQ7E1FWGgkaCwIBCAcWRQ==
- 
-#EXTINF:0 tvg-logo="https://www.google.com/url?sa=i&source=images&cd=&cad=rja&uact=8&ved=2ahUKEwjJ-Yr47qDiAhVaH7kGHUG4AkEQjRx6BAgBEAU&url=https%3A%2F%2Flogodownload.org%2Fpremiere-fc-logo%2F&psig=AOvVaw2-dlB8mGHFoxOCaws7kgvb&ust=1558124154733935" group-title="Canais",PREMIERE 7
-https://tvnanet.xyz:25463/live/Quinta-Feira/Luto/37.m3u8?token=QxBcWRdYGgoRAgNTBgNaXQRXV1kBUFZXCwQBBV1cBAYJAgcNXAdaAAZDHxcXREpcVghtUVcUXlAPHhpGS1xHaFFWFgJGAxocERVaWAESAgkbR0JRVxReDU1eVB8aXE1DXUBaWQhvXFVFCFBQRgpWTFsJHhpcWDsHXV9ZXVwbDxUJEBgaDUNIEglDcFAKRF1LFzVAXUBCBQdXQFkTa1xHQVFRW0tEY2QfcEF/QQBRGhUVB1tMQVcQBhoIVkZUVRkVW11BVhBCQRIJQ3FnRhwaXE8RV1ZAXwsNGggaXgtMDRUUEF1LO0JdQ0cTVlQJVUobDUcCGh8UCQJAbVtcVldQVExbW1YXEgISA0MfFwlfVlBDCkBnQ18AQQJcTV9URA==
- 
-#EXTINF:0 tvg-logo="https://www.google.com/url?sa=i&source=images&cd=&cad=rja&uact=8&ved=2ahUKEwjHicrZ8KDiAhVkH7kGHdV0AOEQjRx6BAgBEAU&url=https%3A%2F%2Fpt.wikipedia.org%2Fwiki%2FFicheiro%3ALogo_espnbrasil.png&psig=AOvVaw0yWPGBmkhG_9ecQdSmodAI&ust=1558124627813984" group-title="Canais",PREMIERE 8
-https://tvnanet.xyz:25463/live/Quinta-Feira/Luto/36.m3u8?token=QxBcWRdYGgoRVwpXAQEBCVRSVwtSBAdUAVRdVwkJBVFdUFEKXAYLCQNDHxcXREpcVghtUVcUXlAOHhpGS1xHaFFWFgJGAxocERVaWAESAgkbR0JRVxReDU1eVB8aXE1DXUBaWQhvXFVFCFBQRgpWTFsJHhpcWDsHXV9ZXVwbDxUJEBgaDUNIEglDcFAKRF1LFzVAXUBCBQdXQFkTa1xHQVFRW0tEY2QfcEF/QQBRGhUVB1tMQVcQBhoIVkZUVRkVW11BVhBCQRIJQ3FnRhwaXE8RV1ZAXwsNGggaXgtMDRUUEF1LO0JdQ0cTVlQJVUobDUcCGh8UCQJAbVtcVldQVExbW1YXEgISA0MfFwlfVlBDCkBnQ18AQQJcTV9URA==
- 
-#EXTINF:0 tvg-logo="https://www.google.com/url?sa=i&source=images&cd=&cad=rja&uact=8&ved=2ahUKEwjHicrZ8KDiAhVkH7kGHdV0AOEQjRx6BAgBEAU&url=https%3A%2F%2Fpt.wikipedia.org%2Fwiki%2FFicheiro%3ALogo_espnbrasil.png&psig=AOvVaw0yWPGBmkhG_9ecQdSmodAI&ust=1558124627813984" group-title="Canais",ESPN BRASIL
-https://aovivonatv.xyz:25463/live/Quinta-Feira/Luto/32.m3u8?token=QxBcWRdYGgoRUQcBBgVZW1JRVwACVFxWXgYOAwEJVFIPAwMJVgNZUgFDHxcXREpcVghtUVcUXlAKHhpGS1xHaFFWFgJGAxocERVaWAESAgkbR0JRVxReQQkKDwYJGxkVXUpAXRZeWVxsBVZDDVNdGw0LR1RfGkYMVm1cVlVYW1MaCBYJRhwaWUAREQ9Gc11XQwBAGGNEARBMU1xcSlgVZF1AQlEHX0sQYD0cdkR8TF1WRx4aUV8QEVlGXRECGwQDCgYWFEZTV0VdFUFMRgoae2VHHhpWThAGVkFRXFYbDxVVAUEARhwaWUA+QVAXREpcVghXShEMRlMaHhpeWUFqVFdcWl0HRFFfXRIRD0YAGhUVCF1WWkILEWdCUVcaAxcPDQcDGhk=
- 
-#EXTINF:0 tvg-logo="https://www.google.com/url?sa=i&source=images&cd=&cad=rja&uact=8&ved=2ahUKEwiZjI6U8aDiAhWMGLkGHZgGCKUQjRx6BAgBEAU&url=https%3A%2F%2Fpt.wikipedia.org%2Fwiki%2FFicheiro%3AFOX_Sports_logo.svg&psig=AOvVaw0tpgvES32Gsu3DTtX_sogr&ust=1558124749635080" group-title="Canais",FOX SPORTS
-https://aovivonatv.xyz:25463/live/Quinta-Feira/Luto/28.m3u8?token=QxBcWRdYGgoRAgICAVUOCgdRBV5QAFZWCVYOBAANDABaBVdZB1VdVgBDHxcXREpcVghtUVcUXlEAHhpGS1xHaFFWFgJGAxocERVaWAESAgkbR0JRVxReQQoEAAcPGxkVXUpAXRZeWVxsBVZDDVNdGw0LR1RfGkYMVm1cVlVYW1MaCBYJRhwaWUAREQ9Gc11XQwBAGGNEARBMU1xcSlgVZF1AQlEHX0sQYD0cdkR8TF1WRx4aUV8QEVlGXRECGwcACwsWFEZTV0VdFUFMRgoae2VHHhpWThAGVkFRXFYbDxVVAUEARhwaWUA+QVAXREpcVghXShEMRlMaHhpeWUFqVFdcWl0HRFFfXRIRD0YAGhUVCF1WWkILEWdCUVcaAxcEDQMWRQ==
- 
-#EXTINF:0 tvg-logo="https://www.google.com/url?sa=i&source=images&cd=&ved=2ahUKEwiDuaiz8aDiAhW1K7kGHaFgBpUQjRx6BAgBEAU&url=https%3A%2F%2Flogodownload.org%2Fsportv-logo%2F&psig=AOvVaw32NE5j2ZOza_wAbrbaF6Et&ust=1558124815014791" group-title="Canais",SPORT TV 3
-https://aovivonatv.xyz:25463/live/Quinta-Feira/Luto/27.m3u8?token=QxBcWRdYGgoRBwQGAlYMXQQEVgpWAgcGXAcLUQkBVAJcVgNeBQENBVdDHxcXREpcVghtUVcUXlEPHhpGS1xHaFFWFgJGAxocERVaWAESAgkbR0JRVxReQQ8BCgcaFRdSQEZRSgpRVG9XBEVcB1UaA1kQXlQfFAsNZ1ZdXllXURUCEAUaSBJRQ0NDCRcnVVZNUhcSaEFTFxdZVldBWRlmUkpEXVsLQxhjb05wFShEXFgVSRBaWkIWAkxXGgkaCAAECBAYGgdfTV5HE0oXXhJ6axVJEF1LQgENS1tXXRoDF1oLRwwaSBJRQ2wTVkYQQl1YWgBAGgkUVEEUEFVSQGZWWFZcUVsQWVdeQEMJF1QSFBtaClxRR1kWPEhbXBECGwcDDQQEGhk=
- 
-#EXTINF:0 tvg-logo="https://www.google.com/url?sa=i&source=images&cd=&ved=2ahUKEwiDuaiz8aDiAhW1K7kGHaFgBpUQjRx6BAgBEAU&url=https%3A%2F%2Flogodownload.org%2Fsportv-logo%2F&psig=AOvVaw32NE5j2ZOza_wAbrbaF6Et&ust=1558124815014791" group-title="Canais",SPORT TV 2
-https://tvnanet.xyz:25463/live/Quinta-Feira/Luto/26.m3u8?token=QxBcWRdYGgoRVAoEUgYJXwUBBAALAlNUXQAOV14LAgEIVARZVwMIBgFDHxcXREpcVghtUVcUXlEOHhpGS1xHaFFWFgJGAxocERVaWAESAgkbR0JRVxReQQ0EDAQaFRdSQEZRSgpRVG9XBEVcB1UaA1kQXlQfFAsNZ1ZdXllXURUCEAUaSBJRQ0NDCRcnVVZNUhcSaEFTFxdZVldBWRlmUkpEXVsLQxhjb05wFShEXFgVSRBaWkIWAkxXGglWTFlbFBBXVxFeTEJKQwkXJmIaFRUASkxWWBcKV1waCRpUBkIAEBgaDUNnQlYSR0cBUVVcRUcIGgMUSEFVU0BsW1ZbWV1RQFELXksSCUMDF0gSVVZZDEZXQWkUClwQAhENCAYHGk8=
- 
-#EXTINF:0 tvg-logo="https://www.google.com/url?sa=i&source=images&cd=&ved=2ahUKEwiDuaiz8aDiAhW1K7kGHaFgBpUQjRx6BAgBEAU&url=https%3A%2F%2Flogodownload.org%2Fsportv-logo%2F&psig=AOvVaw32NE5j2ZOza_wAbrbaF6Et&ust=1558124815014791" group-title="Canais",SPORT TV
-https://aovivonatv.xyz:25463/live/Quinta-Feira/Luto/25.m3u8?token=QxBcWRdYGgoRAwBUBQQNWARcU1lSAVcFCAcNB1kBAQYMUFFeU1ZbU1VDHxcXREpcVghtUVcUXlENHhpGS1xHaFFWFgJGAxocERVaWAESAgkbR0JRVxReQQAGDAQaFRdSQEZRSgpRVG9XBEVcB1UaA1kQXlQfFAsNZ1ZdXllXURUCEAUaSBJRQ0NDCRcnVVZNUhcSaEFTFxdZVldBWRlmUkpEXVsLQxhjb05wFShEXFgVSRBaWkIWAkxXGgkaCAACDBAYGgdfTV5HE0oXXhJ6axVJEF1LQgENS1tXXRoDF1oLRwwaSBJRQ2wTVkYQQl1YWgBAGgkUVEEUEFVSQGZWWFZcUVsQWVdeQEMJF1QSFBtaClxRR1kWPEhbXBECGwcFCwAFGhk=
- 
-#EXTINF:0 tvg-logo="https://www.google.com/url?sa=i&source=images&cd=&cad=rja&uact=8&ved=2ahUKEwipxeS88qDiAhVzK7kGHYELC1MQjRx6BAgBEAU&url=https%3A%2F%2Fwww.sky.com%2Fwatch%2Fchannel%2Fsky-cinema&psig=AOvVaw10_U_gAXisZ3ZkGwWS3UfB&ust=1558125086124122" group-title="Canais",SONY
-https://ori6.global.ssl.fastly.net//hls1/sony.m3u8
- 
-#EXTINF:0 tvg-logo="https://www.google.com/url?sa=i&source=images&cd=&cad=rja&uact=8&ved=2ahUKEwjovaHnqaHiAhUXHLkGHXeeAg8QjRx6BAgBEAU&url=https%3A%2F%2Fpt.wikipedia.org%2Fwiki%2FFicheiro%3AHBO_Plus.png&psig=AOvVaw14kIR6AuXMfTi3R2VU4Mog&ust=1558139957509549" group-title="",HBO PLUS
-https://ori4.global.ssl.fastly.net//hls1/hboplus.m3u8
- 
-#EXTINF:0 tvg-logo="" group-title="",
+
+#EXTINF:-1 tvg-logo="", [B]BAND[/B] []
+http://31.204.128.117:8081/live/band/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="", [B]CULTURA[/B] []
+http://177.73.84.49/hls/57290d5d9a175/57290d5d9a175.m3u8
+
+#EXTINF:-1 tvg-logo="", [B]FUTURA[/B] []
+http://ynv2127uts35.nethorizontes.tv:1935/ynv2127uts35/tvunivates/manifest(format=m3u8-aapl).m3u8
+
+#EXTINF:-1 tvg-logo="", [B]GAZETA HD[/B] []
+http://api.new.livestream.com/accounts/5381476/events/2395418/live.m3u8
+
+#EXTINF:-1 tvg-logo="", [B]GLOBO[/B] []
+http://31.204.128.117:8081/live/globo/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="", [B]RECORD[/B] []
+http://31.204.128.117:8081/live/record/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="", [B]RECORD NEWS HD[/B] []
+http://streaming57.sitehosting.com.br:1935/redesim/redesim/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="", [B]REDETV[/B] []
+http://evp.mm.uol.com.br:1935/redetv1/redetv1/live.m3u8
+
+#EXTINF:-1 tvg-logo="", [B]SBT[/B] []
+http://evp.mm.uol.com.br:1935/ne10/ne10-tvjornal-recife-video-mobile.sdp/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="", [B]TV ESCOLA[/B] []
+http://liveabr.sambatech.com.br:80/abr/acerpTvEscolaABR_1f9a5d00db56b3c3020b6ac3dd693e12/livestreamabr.m3u8
+
+#EXTINF:-1 tvg-logo="", [B]TVE[/B] []
+http://38.96.175.108:1935/tveducativa/tveducativa/live.m3u8
+
+#EXTINF:-1 tvg-logo="", [B]TVE BAHIA[/B] []
+http://stream2.ba.gov.br:80/hls-live/livepkgr/_definst_/irdeb/pgm-1.m3u8
+
+#EXTINF:-1 tvg-logo="", [B]TVE MS[/B] []
+http://38.96.175.108:1935/tveducativa/tveducativa/live.m3u8
+
+#EXTINF:-1 tvg-logo="", [B]DISCOVERY CHANNEL[/B] []
+http://208.86.19.13:8080/live/31.stream/index.m3u8
+
+#EXTINF:-1 tvg-logo="", [B]H2[/B] []
+http://fluvod1.giniko.com/all-documentaries/all-documentaries/tracks-1,6/index.m3u8
+
+#EXTINF:-1 tvg-logo="", [B]NOSSA TV[/B] []
+http://stmv1.srvstm.com:1935/tvcadm/tvcadm/live.m3u8
+
+#EXTINF:-1 tvg-logo="", [B]CANAL RICOS[/B] []
+http://painel.tvdigitalhd.org:1935/canalricos548/canalricos548/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="", [B]CANAL SAUDE[/B] []
+http://gbbrlive2.sambatech.com.br:80/liveevent/CanalSaude_1d664cc5aa583759e0550c79d8e4e5b8/livestream/live.m3u8
+
+#EXTINF:-1 tvg-logo="", [B]SHOPTIME[/B] []
+http://cdnapi.kaltura.com:80/p/0/sp/0/playManifest/entryId/1_lld8saie/format/applehttp/live.m3u8
+
+#EXTINF:-1 tvg-logo="", [B]VEM E VE TV[/B] []
+http://srv-vvtv.sisdera.com.br:1935/live/vvtv/livestream.m3u8
+
+#EXTINF:-1 tvg-logo="", [B]ALL SPORTS TV[/B] []
+http://173.236.10.10:1935/dgrau/dgrau/live.m3u8
+
+#EXTINF:-1 tvg-logo="", [B]BAND SPORTS[/B] []
+http://ev.mm.uol.com.br:1935/geobband/operadoras/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="", [B]COMBATE[/B] []
+http://31.204.128.117:8081/live/combate/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="", [B]COMBATE HD[/B] []
+http://live.hls.globo.com/dvr/m/cbt24ha/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="", [B]EI MAXX HD[/B] []
+http://mdstrm.com/live-stream-playlist/5801255b39c38e1109ddfabd.m3u8
+
+#EXTINF:-1 tvg-logo="", [B]EI MAXX 2 HD[/B] []
+http://mdstrm.com/live-stream-playlist/5801261189b415d108f9603c.m3u8
+
+#EXTINF:-1 tvg-logo="", [B]ESPN BRASIL[/B] []
+http://31.204.128.117:8081/live/espnbr/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="", [B]ESPORTE INTERATIVO HD[/B] []
+http://mdstrm.com/live-stream-playlist/58121908685da2dd08de7ec5.m3u8
+
+#EXTINF:-1 tvg-logo="", [B]ESPORTES PARA TODOS[/B] []
+http://173.236.10.10:1935/dgrau/dgrau/live.m3u8
+
+#EXTINF:-1 tvg-logo="", [B]EUROSPORT[/B] []
+http://esioslive6-i.akamaihd.net/hls/live/202874/AL_P_ESP1_INTER_ENG/playlist_1000.m3u8
+
+#EXTINF:-1 tvg-logo="", [B]FOX SPORTS[/B] []
+http://31.204.128.117:8081/live/foxsport/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="", [B]FISH TV[/B] []
+http://gbbrlive2.sambatech.com.br:80/liveevent/fishtvabr_fbc599e48634a06e1b7223987b93de98/livestream3/live.m3u8
+
+#EXTINF:-1 tvg-logo="", [B]MEMORIES OF THE 2016 OLYMPIC GAMES[/B] []
+http://ocs-live.hls.adaptive.level3.net/ocs/channel01/NBC_OCS1_VIDEO_5_2264000.m3u8
+
+#EXTINF:-1 tvg-logo="", [B]POKER CENTRAL[/B] []
+http://ooyalahd2-f.akamaihd.net/i/crtv01_delivery@329705/index_1164_av-b.m3u8
+
+#EXTINF:-1 tvg-logo="", [B]PREMIERE CLUBES[/B] []
+http://31.204.128.117:8081/live/pfc/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="", [B]REAL MADRID TV[/B] []
+http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1000_av-b.m3u8
+
+#EXTINF:-1 tvg-logo="", [B]SPORTV[/B] []
+http://31.204.128.117:8081/live/sportv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="", [B]CANCAO NOVA[/B] []
+http://cnhls-lh.akamaihd.net:80/i/tvcnmob_1@147036/index_540_av-b.m3u8
+
+#EXTINF:-1 tvg-logo="", [B]PORTAL GOSPEL TV[/B] []
+http://s1.wsepanel.com:1935/lukfilm/lukfilm/live.m3u8
+
+#EXTINF:-1 tvg-logo="", [B]REDE FAMILIA[/B] []
+http://srv9.zoeweb.tv:1935/zw901/zw901_720p/live.m3u8
+
+#EXTINF:-1 tvg-logo="", [B]REDE VIDA[/B] []
+http://rtsp.cdn.upx.net.br:1935/74cc/myStream.sdp/live.m3u8
+
+#EXTINF:-1 tvg-logo="", [B]SOBRENATURAL TV[/B] []
+http://213.13.26.11:1935/live/sobrenaturaltv/livestream.m3u8
+
+#EXTINF:-1 tvg-logo="", [B]TV APARECIDA[/B] []
+http://69.46.0.170:1935/tvaparecida/tvaparecida.stream/live.m3u8
+
+#EXTINF:-1 tvg-logo="", [B]TV JESUS CRISTO[/B] []
+http://srv6.zoeweb.tv:1935/z476-live/stream/livestream.m3u8
+
+#EXTINF:-1 tvg-logo="", [B]TV NOVO TEMPO[/B] []
+http://stream.novotempo.com:1935/tv/tvnovotempo.smil/chunklist_b512000_slpor.m3u8
+
+#EXTINF:-1 tvg-logo="", [B]FILMES E SERIES DUB[/B] []
+http://flash1.crossdigital.com.br/ponto10/latina/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="", [B]TELECINE[/B] []
+http://31.204.128.117:8081/live/fox/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="", [B]CARTOON NETWORK[/B] []
+http://31.204.128.117:8081/live/cartoon/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="", [B]DESENHOS 1[/B] []
+http://wse.stmip.in:1935/rtguarany/rtguarany/live.m3u8
+
+#EXTINF:-1 tvg-logo="", [B]DESENHOS 2[/B] []
+http://wowza2.netpoint.com.br/viamorena/live/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="", [B]DISCOVERY KIDS[/B] []
+http://31.204.128.117:8081/live/discoverykids/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="", [B]DISNEY CHANNEL[/B] []
+http://31.204.128.117:8081/live/disney/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="", [B]NICK[/B] []
+http://142.4.219.208:1935/redecanaisnick/redecanaisnick/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="", [B]1HD MUSIC[/B] []
+http://80.250.191.10:1935/live/livestream1/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="", [B]DJ HITS[/B] []
+http://www.djing.com/tv/04.m3u8
+
+#EXTINF:-1 tvg-logo="", [B]DREAM TV[/B] []
+http://212.224.108.80/S1/HLS_LIVE/dreamtv/1000/prog_index.m3u8
+
+#EXTINF:-1 tvg-logo="", [B]EU MUSIC BRASIL[/B] []
+http://stmv1.hostgs.net:1935/jtvmilk/jtvmilk/live.m3u8
+
+#EXTINF:-1 tvg-logo="", [B]FILMON ROCK TV[/B] []
+http://198.179.31.197/live/311.high.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="", [B]HEART TV[/B] []
+http://ooyalahd2-f.akamaihd.net/i/globalradio02_delivery@156522/index_398_av-p.m3u8
+
+#EXTINF:-1 tvg-logo="", [B]M6 MUSIC[/B] []
+http://sslhls.m6tv.cdn.sfr.net/hls-live/livepkgr/_definst_/m6_music_hits_hls_aes/m6_music_hits_hls_aes_856.m3u8
+
+#EXTINF:-1 tvg-logo="", [B]RADIO 105 TV[/B] []
+http://fms.105.net:1935/live/105Test1/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="", [B]RADIO MONTE CARLO TV[/B] []
+http://wow01.105.net/live/rmc1/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="", [B]RETRO MUSIC HD[/B] []
+http://stream.mediawork.cz/retrotv//retrotvHQ1/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="", [B]ROCK 'N ROLL[/B] []
+http://198.179.31.197/live/2942.high.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="", [B]VIRGIN TV[/B] []
+http://wow01.105.net/live/virgin1/chunklist_w1531272998.m3u8
+
+#EXTINF:-1 tvg-logo="", [B]WEB TV CLIPES[/B] []
+http://stmv1.euroti.com.br:1935/stmdemo/stmdemo/live.m3u8
+
+#EXTINF:-1 tvg-logo="", [B]ABC NEWS[/B] []
+http://abclive.abcnews.com:80/i/abc_live4@136330/index_1200_av-b.m3u8
+
+#EXTINF:-1 tvg-logo="", [B]BBC WORLD NEWS[/B] []
+http://lcdn.une.net.co:80/v1/AUTH_HLSLIVE/BBCW/tu1_1.m3u8
+
+#EXTINF:-1 tvg-logo="", [B]BLOOMBERG TV[/B] []
+http://btv-i.akamaihd.net:80/hls/live/202760/btvusa_ios/P1/M10K.m3u8
+
+#EXTINF:-1 tvg-logo="", [B]DW NEWS[/B] []
+http://dwstream4-lh.akamaihd.net:80/i/dwstream4_live@131329/index_1_av-b.m3u8
+
+#EXTINF:-1 tvg-logo="", [B]EURONEWS[/B] []
+http://fr-par-iphone-1.cdn.hexaglobe.net:80/streaming/euronews_ewns/29-live.m3u8
+
+#EXTINF:-1 tvg-logo="", [B]RECORD NEWS HD[/B] []
+http://streaming57.sitehosting.com.br:1935/redesim/redesim/playlist.m3u8
