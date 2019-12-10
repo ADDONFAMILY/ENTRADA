@@ -6,11 +6,11 @@ http://stream.novotempo.com:1935/tv/tvnovotempo.stream/live.m3u8
 http://streamer1.streamhost.org:1935/salive/GMI3anjoh/chunklist.m3u8?wowzasessionid=1767639709&
 
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Canais",TC PIPOCA
-http://tv.factoryiptv.com/live/3548/3548/36937.ts
+http://tv.factoryiptv.com/live/3548/3548/36937.m3u8
  
  
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Canais",TC PREMIUM
-http://tv.factoryiptv.com/live/3548/3548/36936.ts
+http://tv.factoryiptv.com/live/3548/3548/36936.m3u8
  
  
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Canais",TC TOUCH
