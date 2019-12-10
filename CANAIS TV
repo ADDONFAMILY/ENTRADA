@@ -204,3 +204,14 @@ http://tv.factoryiptv.com/live/3548/3548/40517.ts
 
 #EXTINF:-1 tvg-logo="https://imageshack.com/a/img924/5299/GY2RfF.png" group-title="",Band News
 http://tv.factoryiptv.com:80/live/12345678/12345678/37126.ts
+
+Ex:
+<item>
+<title>BAND NEWS</title>
+<link>http://tv.factoryiptv.com:80/live/12345678/12345678/37126.ts</link>
+<item>
+<title>Canal Y</title>
+<link>plugin://plugin.video.f4mTester/?url=canalY.ts</link>
+<item>
+<title>Canal Z</title>
+<link>plugin://plugin.video.f4mTester/?url=canalZ.ts</link>
