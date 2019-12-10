@@ -1,217 +1,88 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="", [B]BAND[/B] []
-http://31.204.128.117:8081/live/band/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="", [B]CULTURA[/B] []
-http://177.73.84.49/hls/57290d5d9a175/57290d5d9a175.m3u8
-
-#EXTINF:-1 tvg-logo="", [B]FUTURA[/B] []
-http://ynv2127uts35.nethorizontes.tv:1935/ynv2127uts35/tvunivates/manifest(format=m3u8-aapl).m3u8
-
-#EXTINF:-1 tvg-logo="", [B]GAZETA HD[/B] []
-http://api.new.livestream.com/accounts/5381476/events/2395418/live.m3u8
-
-#EXTINF:-1 tvg-logo="", [B]GLOBO[/B] []
-http://31.204.128.117:8081/live/globo/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="", [B]RECORD[/B] []
-http://31.204.128.117:8081/live/record/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="", [B]RECORD NEWS HD[/B] []
-http://streaming57.sitehosting.com.br:1935/redesim/redesim/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="", [B]REDETV[/B] []
-http://evp.mm.uol.com.br:1935/redetv1/redetv1/live.m3u8
-
-#EXTINF:-1 tvg-logo="", [B]SBT[/B] []
-http://evp.mm.uol.com.br:1935/ne10/ne10-tvjornal-recife-video-mobile.sdp/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="", [B]TV ESCOLA[/B] []
-http://liveabr.sambatech.com.br:80/abr/acerpTvEscolaABR_1f9a5d00db56b3c3020b6ac3dd693e12/livestreamabr.m3u8
-
-#EXTINF:-1 tvg-logo="", [B]TVE[/B] []
-http://38.96.175.108:1935/tveducativa/tveducativa/live.m3u8
-
-#EXTINF:-1 tvg-logo="", [B]TVE BAHIA[/B] []
-http://stream2.ba.gov.br:80/hls-live/livepkgr/_definst_/irdeb/pgm-1.m3u8
-
-#EXTINF:-1 tvg-logo="", [B]TVE MS[/B] []
-http://38.96.175.108:1935/tveducativa/tveducativa/live.m3u8
-
-#EXTINF:-1 tvg-logo="", [B]DISCOVERY CHANNEL[/B] []
-http://208.86.19.13:8080/live/31.stream/index.m3u8
-
-#EXTINF:-1 tvg-logo="", [B]H2[/B] []
-http://fluvod1.giniko.com/all-documentaries/all-documentaries/tracks-1,6/index.m3u8
-
-#EXTINF:-1 tvg-logo="", [B]NOSSA TV[/B] []
-http://stmv1.srvstm.com:1935/tvcadm/tvcadm/live.m3u8
-
-#EXTINF:-1 tvg-logo="", [B]CANAL RICOS[/B] []
-http://painel.tvdigitalhd.org:1935/canalricos548/canalricos548/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="", [B]CANAL SAUDE[/B] []
-http://gbbrlive2.sambatech.com.br:80/liveevent/CanalSaude_1d664cc5aa583759e0550c79d8e4e5b8/livestream/live.m3u8
-
-#EXTINF:-1 tvg-logo="", [B]SHOPTIME[/B] []
-http://cdnapi.kaltura.com:80/p/0/sp/0/playManifest/entryId/1_lld8saie/format/applehttp/live.m3u8
-
-#EXTINF:-1 tvg-logo="", [B]VEM E VE TV[/B] []
-http://srv-vvtv.sisdera.com.br:1935/live/vvtv/livestream.m3u8
-
-#EXTINF:-1 tvg-logo="", [B]ALL SPORTS TV[/B] []
-http://173.236.10.10:1935/dgrau/dgrau/live.m3u8
-
-#EXTINF:-1 tvg-logo="", [B]BAND SPORTS[/B] []
-http://ev.mm.uol.com.br:1935/geobband/operadoras/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="", [B]COMBATE[/B] []
-http://31.204.128.117:8081/live/combate/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="", [B]COMBATE HD[/B] []
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/2/22/Logotipo_da_Rede_Globo.png", [COLOR blue]GLBO SP HD[/B][/COLOR][COLOR gold][B]  ON[/B][/COLOR]
+http://tv.redecanais.com:1935/redecanaisglobo/myStream/chunklist_w964212850.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/4/41/Logotipo_do_SBT.svg/500px-Logotipo_do_SBT.svg.png", [COLOR blue]sbt hd[/B][/COLOR][COLOR gold][B]  ON[/B][/COLOR]
+http://gbbrlive2.sambatech.com.br/liveevent/sbtabr_8fcdc5f0f8df8d4de56b22a2c6660470/livestream2/chunklist.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://audienciadecanal.files.wordpress.com/2012/02/rede-tv-logo.jpg", [COLOR blue]redetv hd[/B][/COLOR][COLOR gold][B]  ON[/B][/COLOR]
+http://evp.mm.uol.com.br:1935/redetv1/redetv1/live.m3u8?IPTV-ROBUSTTER-DOWNLOAD
+ 
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/49017252/Discovery-logo.jpg", [COLOR blue]DISCOVERY HD[/B][/COLOR][COLOR gold][B]  ON[/B][/COLOR]
+http://31.204.151.253:8081/live/master04/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8xNi8yMDE3IDQ6Mjk6MzMgUE0maGFzaF92YWx1ZT0vcUtaUWJWSFpHMTFRTW5leFBYWUt3PT0mdmFsaWRtaW51dGVzPTEw
+#EXTINF:-1 tvg-logo="", [COLOR blue]NATIONAL GEOGRAPHIC HD
+http://109.200.202.124:8081/live/natgeo/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8xNi8yMDE3IDQ6Mjg6NTYgUE0maGFzaF92YWx1ZT1QbkFhbjhINTBkQ1JOK09CTXp4MzVRPT0mdmFsaWRtaW51dGVzPTEw
+ 
+#EXTINF:-1 tvg-logo="http://www.planetbuff.com/media/catalog/product/cache/1/image/500x500/9df78eab33525d08d6e5fb8d27136e95/n/a/national-geographic-logo.jpg", [COLOR blue]ANIMAL PLANET HD[/B][/COLOR][COLOR gold][B]  ON[/B][/COLOR]
+http://31.204.151.253:8081/live/30/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8xNi8yMDE3IDQ6Mjg6MjQgUE0maGFzaF92YWx1ZT16bk5ka1ZuaWwxYzVVL1hSSmwxWmVBPT0mdmFsaWRtaW51dGVzPTEw
+ 
+#EXTINF:-1 tvg-logo="https://s-media-cache-ak0.pinimg.com/originals/8e/56/cd/8e56cdba9e19abf173ff387ae15ecce0.jpg", [COLOR blue]HISTORY HD[/B][/COLOR][COLOR gold][B]  ON[/B][/COLOR]
+http://109.200.202.124:8081/live/history/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8xNi8yMDE3IDQ6Mjc6NTAgUE0maGFzaF92YWx1ZT1NTG9VL01rRUZYRVdYWm11dEo2MnlRPT0mdmFsaWRtaW51dGVzPTEw
+ 
+#EXTINF:-1 tvg-logo="", [COLOR blue]ESPAN HD[/B][/COLOR][COLOR gold][B]  ON[/B][/COLOR]
+http://31.204.151.253:8081/live/master27/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8xNi8yMDE3IDQ6Mjc6MTEgUE0maGFzaF92YWx1ZT10dTZzbEpER1pxdUZhRjd5KzNqZ2hBPT0mdmFsaWRtaW51dGVzPTEw
+#EXTINF:-1 tvg-logo="https://clarotvlojaonline.com.br/img/channels/20151112154848-canal-sport-tv.png", [COLOR blue]SPORT TV HD[/B][/COLOR][COLOR gold][B]  ON[/B][/COLOR]
+http://31.204.151.253:8081/live/brlive_0029/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8xNi8yMDE3IDQ6MjU6MzcgUE0maGFzaF92YWx1ZT1hT2xjRTdYN29uaGdNY3lxWEYxTE13PT0mdmFsaWRtaW51dGVzPTEw
+ 
+#EXTINF:-1 tvg-logo="http://www.vid4hire.co.uk/image/cache/data/sony-hxr-mc-2000-hire-and-rental-a5035-500x500.jpg", [COLOR blue]SONY HD[/B][/COLOR][COLOR gold][B]  ON[/B][/COLOR]
+http://109.200.202.124:8081/live/sony/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8xNi8yMDE3IDQ6MjQ6NDQgUE0maGFzaF92YWx1ZT1YTmdJMTVJZzZsQmthMmg1QUFvMXd3PT0mdmFsaWRtaW51dGVzPTEw
+ 
+#EXTINF:-1 tvg-logo="http://www.otvfoco.com.br/wp-content/uploads/2015/07/EI-oscuro.png", [COLOR blue]EI SPORT HD[/B][/COLOR][COLOR gold][B]  ON[/B][/COLOR]
+http://31.204.151.253:8081/live/brlive_0029/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8xNi8yMDE3IDQ6MjU6MzcgUE0maGFzaF92YWx1ZT1hT2xjRTdYN29uaGdNY3lxWEYxTE13PT0mdmFsaWRtaW51dGVzPTEw
+ 
+#EXTINF:-1 tvg-logo="http://skay.tv.br/images/canais/140_D12DE8B0EFC20FAA.png", [COLOR blue]FOX HD[/B][/COLOR][COLOR gold][B]  ON[/B][/COLOR]
+http://31.204.151.253:8081/live/fox/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8xNi8yMDE3IDQ6MjQ6MTIgUE0maGFzaF92YWx1ZT1UQ252U2NzTjdUN3pIVkU5by9sNXVnPT0mdmFsaWRtaW51dGVzPTEw
+ 
+#EXTINF:-1 tvg-logo="https://clarotvlojaonline.com.br/img/channels/20151112145906-canal-fx-hd.png", [COLOR blue]FX HD[/B][/COLOR][COLOR gold][B]  ON[/B][/COLOR]
+http://31.204.151.253:8081/live/master25/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8xNi8yMDE3IDQ6MjM6MzggUE0maGFzaF92YWx1ZT1JaDJjY0lQUTRxaUVNZEJUWU1qYVRnPT0mdmFsaWRtaW51dGVzPTEw
+ 
+ 
+#EXTINF:-1 tvg-logo="https://www.clarotvlojaonline.com.br/img/channels/20151201115756-viva-hd.png", [COLOR blue]VIVA HD[/B][/COLOR][COLOR gold][B]  ON[/B][/COLOR]
+http://31.204.151.253:8081/live/master21/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8xNi8yMDE3IDQ6MjI6NDIgUE0maGFzaF92YWx1ZT1zWjdTTmJmL3NlUG5yRFBIbXVJcmZBPT0mdmFsaWRtaW51dGVzPTEw
+ 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/51/Cinemax_LA_logo.png", [COLOR blue]CINEMAX HD[/B][/COLOR][COLOR gold][B]  ON[/B][/COLOR]
+http://31.204.151.253:8081/live/53/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8xNi8yMDE3IDQ6MjI6MDUgUE0maGFzaF92YWx1ZT1BL2pmZVFVcWdpcmYzVW9JQWR4YjR3PT0mdmFsaWRtaW51dGVzPTEw
+ 
+#EXTINF:-1 tvg-logo="https://clarotvlojaonline.com.br/img/channels/20151112151817-canal-max-prime.png", [COLOR blue]MAX PRIME HD[/B][/COLOR][COLOR gold][B]  ON[/B][/COLOR]
+http://163.172.40.163/loadbalance/tvmsnmaxxprime/chunks.m3u8?nimblesessionid=12823068&wmsAuthSign=c2VydmVyX3RpbWU9Mi8xNi8yMDE3IDQ6MjE6MzAgUE0maGFzaF92YWx1ZT00Q3Z6RGNIa3RLQ3NtS2piN1pVa1N3PT0mdmFsaWRtaW51dGVzPTE=
+ 
+#EXTINF:-1 tvg-logo="https://www.clarohd.com.br/blog/wp-content/uploads/2015/08/megapix-claro-tv.png", [COLOR blue]MEGAPIX HD[/B][/COLOR][COLOR gold][B]  ON[/B][/COLOR]
+http://31.204.151.253:8081/live/master11/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8xNi8yMDE3IDQ6MjA6NDUgUE0maGFzaF92YWx1ZT0wRzV3WUpkZjk0T20ydWliMWI5SURnPT0mdmFsaWRtaW51dGVzPTEw
+ 
+ 
+#EXTINF:-1 tvg-logo="https://s-media-cache-ak0.pinimg.com/originals/04/9e/d4/049ed43cd66568e2061b7bb44a00a925.jpg", [COLOR blue]UNIVERSAL STUDIO HD[/B][/COLOR][COLOR gold][B]  ON[/B][/COLOR]
+http://109.200.202.124:8081/live/tcm/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8xNi8yMDE3IDQ6MjA6MDMgUE0maGFzaF92YWx1ZT05aFRXSWVBNDYxdjUwNXg0aEVMeFNBPT0mdmFsaWRtaW51dGVzPTEw
+ 
+#EXTINF:-1 tvg-logo="http://s3.amazonaws.com/static.graphemica.com/glyphs/i500s/000/010/306/original/00C6-500x500.png?1275328339", [COLOR blue]AE HD[/B][/COLOR][COLOR gold][B]  ON[/B][/COLOR]
+http://109.200.202.124:8081/live/ae_1/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8xNi8yMDE3IDQ6MTk6MDggUE0maGFzaF92YWx1ZT1yazgzY2R0TXp4YVBXanFQL3hmdnRBPT0mdmFsaWRtaW51dGVzPTEw
+ 
+#EXTINF:-1 tvg-logo="https://www2.clarotvlojaonline.com.br/img/channels/20151112160332-canal-multishow.png", [COLOR blue]multishow[/B][/COLOR][COLOR gold][B]  ON[/B][/COLOR]
+http://31.204.151.253:8081/live/brlive_0031/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8xNi8yMDE3IDQ6MzA6MDcgUE0maGFzaF92YWx1ZT1DbjZoblNUVHZoRk9aZWlTQWR6aXRBPT0mdmFsaWRtaW51dGVzPTEw
+ 
+#EXTINF:-1 tvg-logo="https://media.giphy.com/media/kibxTdFJXzAA0/giphy.gif", [COLOR blue]NICK HD[/B][/COLOR][COLOR gold][B]  ON[/B][/COLOR]
+http://31.204.151.253:8081/live/brlive_0030/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8xNi8yMDE3IDQ6MTQ6MjIgUE0maGFzaF92YWx1ZT1DRFhtbFcyWUU1NTdJTnpiM1RsWndnPT0mdmFsaWRtaW51dGVzPTEw
+#EXTINF:-1 tvg-logo="http://lojammacombate.com/Eshop.Admin/imagens/mundodosesportes/Thumbs/TN500_ufc_logo.png",[COLOR red][B]  COMBATE HD [/B][/COLOR][COLOR gold][B]  ON[/B][/COLOR]
 http://live.hls.globo.com/dvr/m/cbt24ha/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="", [B]EI MAXX HD[/B] []
-http://mdstrm.com/live-stream-playlist/5801255b39c38e1109ddfabd.m3u8
-
-#EXTINF:-1 tvg-logo="", [B]EI MAXX 2 HD[/B] []
-http://mdstrm.com/live-stream-playlist/5801261189b415d108f9603c.m3u8
-
-#EXTINF:-1 tvg-logo="", [B]ESPN BRASIL[/B] []
-http://31.204.128.117:8081/live/espnbr/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="", [B]ESPORTE INTERATIVO HD[/B] []
-http://mdstrm.com/live-stream-playlist/58121908685da2dd08de7ec5.m3u8
-
-#EXTINF:-1 tvg-logo="", [B]ESPORTES PARA TODOS[/B] []
-http://173.236.10.10:1935/dgrau/dgrau/live.m3u8
-
-#EXTINF:-1 tvg-logo="", [B]EUROSPORT[/B] []
-http://esioslive6-i.akamaihd.net/hls/live/202874/AL_P_ESP1_INTER_ENG/playlist_1000.m3u8
-
-#EXTINF:-1 tvg-logo="", [B]FOX SPORTS[/B] []
-http://31.204.128.117:8081/live/foxsport/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="", [B]FISH TV[/B] []
-http://gbbrlive2.sambatech.com.br:80/liveevent/fishtvabr_fbc599e48634a06e1b7223987b93de98/livestream3/live.m3u8
-
-#EXTINF:-1 tvg-logo="", [B]MEMORIES OF THE 2016 OLYMPIC GAMES[/B] []
-http://ocs-live.hls.adaptive.level3.net/ocs/channel01/NBC_OCS1_VIDEO_5_2264000.m3u8
-
-#EXTINF:-1 tvg-logo="", [B]POKER CENTRAL[/B] []
-http://ooyalahd2-f.akamaihd.net/i/crtv01_delivery@329705/index_1164_av-b.m3u8
-
-#EXTINF:-1 tvg-logo="", [B]PREMIERE CLUBES[/B] []
-http://31.204.128.117:8081/live/pfc/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="", [B]REAL MADRID TV[/B] []
-http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1000_av-b.m3u8
-
-#EXTINF:-1 tvg-logo="", [B]SPORTV[/B] []
-http://31.204.128.117:8081/live/sportv/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="", [B]CANCAO NOVA[/B] []
-http://cnhls-lh.akamaihd.net:80/i/tvcnmob_1@147036/index_540_av-b.m3u8
-
-#EXTINF:-1 tvg-logo="", [B]PORTAL GOSPEL TV[/B] []
-http://s1.wsepanel.com:1935/lukfilm/lukfilm/live.m3u8
-
-#EXTINF:-1 tvg-logo="", [B]REDE FAMILIA[/B] []
-http://srv9.zoeweb.tv:1935/zw901/zw901_720p/live.m3u8
-
-#EXTINF:-1 tvg-logo="", [B]REDE VIDA[/B] []
-http://rtsp.cdn.upx.net.br:1935/74cc/myStream.sdp/live.m3u8
-
-#EXTINF:-1 tvg-logo="", [B]SOBRENATURAL TV[/B] []
-http://213.13.26.11:1935/live/sobrenaturaltv/livestream.m3u8
-
-#EXTINF:-1 tvg-logo="", [B]TV APARECIDA[/B] []
-http://69.46.0.170:1935/tvaparecida/tvaparecida.stream/live.m3u8
-
-#EXTINF:-1 tvg-logo="", [B]TV JESUS CRISTO[/B] []
-http://srv6.zoeweb.tv:1935/z476-live/stream/livestream.m3u8
-
-#EXTINF:-1 tvg-logo="", [B]TV NOVO TEMPO[/B] []
-http://stream.novotempo.com:1935/tv/tvnovotempo.smil/chunklist_b512000_slpor.m3u8
-
-#EXTINF:-1 tvg-logo="", [B]FILMES E SERIES DUB[/B] []
-http://flash1.crossdigital.com.br/ponto10/latina/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="", [B]TELECINE[/B] []
-http://31.204.128.117:8081/live/fox/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="", [B]CARTOON NETWORK[/B] []
-http://31.204.128.117:8081/live/cartoon/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="", [B]DESENHOS 1[/B] []
-http://wse.stmip.in:1935/rtguarany/rtguarany/live.m3u8
-
-#EXTINF:-1 tvg-logo="", [B]DESENHOS 2[/B] []
-http://wowza2.netpoint.com.br/viamorena/live/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="", [B]DISCOVERY KIDS[/B] []
-http://31.204.128.117:8081/live/discoverykids/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="", [B]DISNEY CHANNEL[/B] []
-http://31.204.128.117:8081/live/disney/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="", [B]NICK[/B] []
-http://142.4.219.208:1935/redecanaisnick/redecanaisnick/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="", [B]1HD MUSIC[/B] []
-http://80.250.191.10:1935/live/livestream1/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="", [B]DJ HITS[/B] []
-http://www.djing.com/tv/04.m3u8
-
-#EXTINF:-1 tvg-logo="", [B]DREAM TV[/B] []
-http://212.224.108.80/S1/HLS_LIVE/dreamtv/1000/prog_index.m3u8
-
-#EXTINF:-1 tvg-logo="", [B]EU MUSIC BRASIL[/B] []
-http://stmv1.hostgs.net:1935/jtvmilk/jtvmilk/live.m3u8
-
-#EXTINF:-1 tvg-logo="", [B]FILMON ROCK TV[/B] []
-http://198.179.31.197/live/311.high.stream/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="", [B]HEART TV[/B] []
-http://ooyalahd2-f.akamaihd.net/i/globalradio02_delivery@156522/index_398_av-p.m3u8
-
-#EXTINF:-1 tvg-logo="", [B]M6 MUSIC[/B] []
-http://sslhls.m6tv.cdn.sfr.net/hls-live/livepkgr/_definst_/m6_music_hits_hls_aes/m6_music_hits_hls_aes_856.m3u8
-
-#EXTINF:-1 tvg-logo="", [B]RADIO 105 TV[/B] []
-http://fms.105.net:1935/live/105Test1/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="", [B]RADIO MONTE CARLO TV[/B] []
-http://wow01.105.net/live/rmc1/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="", [B]RETRO MUSIC HD[/B] []
-http://stream.mediawork.cz/retrotv//retrotvHQ1/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="", [B]ROCK 'N ROLL[/B] []
-http://198.179.31.197/live/2942.high.stream/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="", [B]VIRGIN TV[/B] []
-http://wow01.105.net/live/virgin1/chunklist_w1531272998.m3u8
-
-#EXTINF:-1 tvg-logo="", [B]WEB TV CLIPES[/B] []
-http://stmv1.euroti.com.br:1935/stmdemo/stmdemo/live.m3u8
-
-#EXTINF:-1 tvg-logo="", [B]ABC NEWS[/B] []
-http://abclive.abcnews.com:80/i/abc_live4@136330/index_1200_av-b.m3u8
-
-#EXTINF:-1 tvg-logo="", [B]BBC WORLD NEWS[/B] []
-http://lcdn.une.net.co:80/v1/AUTH_HLSLIVE/BBCW/tu1_1.m3u8
-
-#EXTINF:-1 tvg-logo="", [B]BLOOMBERG TV[/B] []
-http://btv-i.akamaihd.net:80/hls/live/202760/btvusa_ios/P1/M10K.m3u8
-
-#EXTINF:-1 tvg-logo="", [B]DW NEWS[/B] []
-http://dwstream4-lh.akamaihd.net:80/i/dwstream4_live@131329/index_1_av-b.m3u8
-
-#EXTINF:-1 tvg-logo="", [B]EURONEWS[/B] []
-http://fr-par-iphone-1.cdn.hexaglobe.net:80/streaming/euronews_ewns/29-live.m3u8
-
-#EXTINF:-1 tvg-logo="", [B]RECORD NEWS HD[/B] []
-http://streaming57.sitehosting.com.br:1935/redesim/redesim/playlist.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://clarotvlojaonline.com.br/img/channels/20151112155133-discovery-kids-hd.png", [COLOR blue]DISCOVERY KIDS HD[/B][/COLOR][COLOR gold][B]  ON[/B][/COLOR]
+http://31.204.151.253:8081/live/master24/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8xNi8yMDE3IDQ6MTM6MzQgUE0maGFzaF92YWx1ZT1Lb05IeDRnZE9uWU9tdkk4dG5EUnV3PT0mdmFsaWRtaW51dGVzPTEw
+ 
+#EXTINF:-1 tvg-logo="http://vignette2.wikia.nocookie.net/logopedia/images/c/c7/TNT_Film.png/revision/latest?cb=20100531170609", [COLOR blue]tnt[/B][/COLOR][COLOR gold][B]  ON[/B][/COLOR]
+http://31.204.151.253:8081/live/master77_1/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8xNi8yMDE3IDQ6MzM6MDIgUE0maGFzaF92YWx1ZT1DOXZFWWtVdHdNQVRSeDVmb2g4eitBPT0mdmFsaWRtaW51dGVzPTEw´
+ 
+#EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/--T7yCoJF5tg/TuLoVzPmiZI/AAAAAAAAAPU/NSWmDtuicx4/s1600/galinha_pintadinha_logo.png", [COLOR blue]GALINHA PINTADINHA[/B][/COLOR][COLOR gold][B]  ON[/B][/COLOR]
+http://31.204.151.253:8081/live/master77_1/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8xNi8yMDE3IDQ6MzM6MDIgUE0maGFzaF92YWx1ZT1DOXZFWWtVdHdNQVRSeDVmb2g4eitBPT0mdmFsaWRtaW51dGVzPTEw
+ 
+ 
+#EXTINF:-1 tvg-logo="http://www.tvmagazine.com.br/imagens/icones/600/tcpipocab.png", [COLOR red][B]TELECINE PIPOCA[/B][/COLOR][COLOR gold][B]  ON[/B][/COLOR]
+http://217.23.2.169:8081/look/pipoca/playlist.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://www.tvmagazine.com.br/imagens/icones/600/tcpremiumb.png"http://s17.postimg.org/lig6fpj4r/telecinepremium.png"  ,[COLOR red][B]Telecine Premium[/B][/COLOR][COLOR gold][B]  ON[/B][/COLOR]
+http://187.49.86.238:10000/bysid/61?MAXHD
+ 
+#EXTINF:-1 tvg-logo="https://www.clarotvlojaonline.com.br/img/channels/20151112151535-canal-telecine-touch-hd.png"http://s17.postimg.org/gva4dxvrv/telecinetouch.png"  ,[COLOR red][B]Telecine Touch[/B][/COLOR][COLOR gold][B]  ON[/B][/COLOR]
+http://187.49.86.238:10000/bysid/63?MAXHD
+ 
+#EXTINF:-1 tvg-logo="http://img02.deviantart.net/7bf1/i/2012/155/0/0/disney_xd_hd_logo_by_dokifanart-d528e7v.png", [COLOR blue]DISNEY XD HD[/B][/COLOR][COLOR gold][B]  ON[/B][/COLOR]
+http://109.200.202.124:808
