@@ -201,54 +201,20 @@ http://tv.factoryiptv.com/live/3548/3548/36923.ts
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="INFANTIL",DISNEY JUNIOR
 http://tv.factoryiptv.com/live/3548/3548/40517.ts
 
-#EXTINF:-1 tvg-logo="" group-title="CANAIS" , FOX LIFE
-https://tvweb.xyz:25463/live/Flamengo/Gremio/64.m3u8
+#EXTINF:-1 tvg-logo="" group-title="CANAIS" ,  PREMIER CLUBE @
+http://hvod.imirun.net:8080/Premiere-Clubes-HD/index.m3u8
  
-#EXTINF:-1 tvg-logo="" group-title="CANAIS" , TNT SERIES
-https://tvweb.xyz:25463/live/Flamengo/Gremio/66.m3u8
+#EXTINF:-1 tvg-logo="" group-title="CANAIS" ,  PREMIER 2 @
+http://hvod.imirun.net:8080/Premiere-2-HD/index.m3u8
  
-#EXTINF:-1 tvg-logo="" group-title="CANAIS" , TNT SERIES
-https://live.multicanais.com/live/tntseriessd/video.m3u8?md5=bCRHXo40X33V8SjH34tXlA&expires=1565485900
+#EXTINF:-1 tvg-logo="" group-title="CANAIS" ,  PREMIER 3 @
+http://hvod.imirun.net:8080/Premiere-3-HD/index.m3u8
  
-#EXTINF:-1 tvg-logo="" group-title="CANAIS" , CINE +
-https://5c49cd60dfe56.streamlock.net:6443/cinemais/live/chunklist_w1105669059.m3u8
-
+#EXTINF:-1 tvg-logo="" group-title="CANAIS" ,  PREMIER 4 @
+http://hvod.imirun.net:8080/Premiere-4-HD/index.m3u8
  
-#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/3cf68824cb3b05c75471e24c65a4d7c5.png" group-title="CANAIS" , CINE +
-https://5c49cd60dfe56.streamlock.net:6443/cinemais/live/chunklist_w636808802.m3u8
+#EXTINF:-1 tvg-logo="" group-title="CANAIS" ,  PREMIER 5 @
+http://hvod.imirun.net:8080/Premiere-5-HD/index.m3u8
  
-#EXTINF:-1 tvg-id="" tvg-logo="http://i.imgur.com/EdTZ0ba.png" group-title="FILMES E SÉRIES", CLASSIQUE TV
-http://stmv2.euroti.com.br:1935/classique/classique/live.m3u8
- 
-#EXTINF:-1 tvg-id="" tvg-logo="https://s16.postimg.org/z4yd0upsl/cine_sky.png" group-title="FILMES E SÉRIES", CINE SKY
-http://stmv2.srvstm.com:1935/tvjsid/tvjsid/playlist.m3u8
- 
-#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/9db393c3531f10b525f8af8a9d75f0ad.png" group-title="CANAIS" ,
-https://59f1cbe63db89.streamlock.net:1443/rbtv/_definst_/rbtv/media_w1581903652_27295.ts
-
-#EXTINF:-1 tvg-logo="" group-title="CANAIS" ,NATIONAL GEOGRAPHIC
-http://carpo.tvcast.xyz/hls/s:155.138.227.156/nationalgeographic_2e01e174_60e98d5688b350c1fe873ec1b476f7325fee4f49/720p/chunklist.m3u8
- 
-#EXTINF:-1 tvg-logo="" group-title="CANAIS" ,DISCOVERY TURBO
-http://euporie.tvcast.xyz/hls/s:155.138.226.22/discoveryturbo_ca3512f4_2c4eab6a577abb993e6078e57241c242ce3f0cdc/480p/chunklist.m3u8
- 
-#EXTINF:-1 tvg-logo="" group-title="CANAIS" ,DISCOVERY CHANNEL
-http://orthosie.tvcast.xyz/hls/s:45.32.217.66/discoverychannel_af3e1334_40777d6bdf7337d8e75963d52e7bc4dacab7c525/480p/chunklist.m3u8
- 
-#EXTINF:-1 tvg-logo="" group-title="CANAIS" ,HISTORY
-http://pherusa.tvcast.xyz/hls/s:155.138.227.156/history_b7eb6c68_4c0d05caaf1facded698c51f81f8d95e28407ba1/410p/chunklist.m3u8
- 
-#EXTINF:-1 tvg-logo="" group-title="CANAIS" ,FUTEBOL TV
-http://dike.tvcast.xyz/hls/s:95.216.15.44:81/sportv_91dfde1d_f31ea8296b80f75068f29b8d8e9057bb50b8792f/playlist.m3u8
- 
-#EXTINF:-1 tvg-logo="" group-title="CANAIS" ,FUTEBOL CLUBES
-http://orthosie.tvcast.xyz/hls/s:95.216.15.44:81/premiereclubes_3f1522d0_4327dc6764b608e605405b95e594f791a2a72aa2/playlist.m3u8
- 
-#EXTINF:-1 tvg-logo="" group-title="CANAIS" ,FOX SPORTS 2
-http://eirene.tvcast.xyz/hls/s:95.216.15.44:81/foxsports2_fc8d9e6e_c97c04d976ce612043bd7f02f584f6e593dd41fd/playlist.m3u8
- 
-#EXTINF:-1 tvg-logo="" group-title="CANAIS" ,ESPNA BRASIL
-http://euporie.tvcast.xyz/hls/s:95.216.15.44:81/espnbrasil_2a459380_6a40bba5316fc53960a0ebadb81f362fb016f3ae/playlist.m3u8
- 
-#EXTINF:-1 tvg-logo="" group-title="CANAIS" ,ESPNA
-http://carpo.tvcast.xyz/hls/s:95.216.15.44:81/espn_6c1e671f_677d6f30b8167ad082c5f414234bc1f777184252/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="CANAIS" ,  PREMIER 6 @
+http://hvod.imirun.net:8080/Premiere-6-HD/index.m3u8
