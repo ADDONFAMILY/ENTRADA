@@ -164,12 +164,12 @@ http://tv.factoryiptv.com/live/3548/3548/36959.ts
 
 <title>||||CANAIS ABERTOS</title> 
 #M3U
-#EXTINF:0, Tv Globo SP
-http://edge.aovivoplayer.ml/hls/s:95.216.15.44:81/globosp_cfe21c68_c73e48b51074b89fb96594f3964ecff7e40cb015/playlist.m3u8
+#EXTINF:0, TV GLOBO SP
+http://edge.aovivoplayer.ml/hls/s:95.216.15.44:81/globosp_cfe21c68_c73e48b51074b89fb96594f3964ecff7e40cb015/playlist.ts
  
 #M3U
-#EXTINF:0,Tv Globo Nordeste
-http://edge.aovivoplayer.ml/hls/s:95.216.15.44:81/globonordeste_acf10f2c_400ee81693aff42e59e9fc973511fc017b9b4f80.m3u8
+#EXTINF:0,TV GLOBO NORDESTE
+http://edge.aovivoplayer.ml/hls/s:95.216.15.44:81/globonordeste_acf10f2c_400ee81693aff42e59e9fc973511fc017b9b4f80.ts
 
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Canais ABERTOS",RECORD RJ
 http://tv.factoryiptv.com/live/3548/3548/42637.ts
