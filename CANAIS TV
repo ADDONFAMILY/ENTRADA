@@ -201,47 +201,69 @@ http://tv.factoryiptv.com/live/3548/3548/36923.ts
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="INFANTIL",DISNEY JUNIOR
 http://tv.factoryiptv.com/live/3548/3548/40517.ts
 
-#EXTINF:0,PREMIERE
-http://painel.tvdigitalsbl.net:8081/live/iva01/0101/509.ts
-#EXTINF:0,PREMIERE
-http://painel.tvdigitalsbl.net:8081/live/iva01/0101/510.ts
-#EXTINF:0,PREMIERE
-http://painel.tvdigitalsbl.net:8081/live/iva01/0101/543.ts
-#EXTINF:0,PREMIERE
-http://painel.tvdigitalsbl.net:8081/live/iva01/0101/544.ts
-#EXTINF:0,PREMIERE
-http://painel.tvdigitalsbl.net:8081/live/iva01/0101/545.ts
-#EXTINF:0,PREMIERE
-http://painel.tvdigitalsbl.net:8081/live/iva01/0101/645.ts
-#EXTINF:0,PREMIERE
-http://painel.tvdigitalsbl.net:8081/live/iva01/0101/648.ts
-#EXTINF:0,PREMIERE
-http://painel.tvdigitalsbl.net:8081/live/iva01/0101/649.ts
-#EXTINF:0,PREMIERE
-http://painel.tvdigitalsbl.net:8081/live/iva01/0101/651.ts
-#EXTINF:-1,Premiere 2
-http://149.56.16.58:25461/live/igsautomacao@gmail.com/imf3rS5kGs/1770.m3u8
-#EXTINF:-1,Premiere 3
-http://149.56.16.58:25461/live/igsautomacao@gmail.com/imf3rS5kGs/1768.m3u8
-#EXTINF:-1,Premiere 4
-http://149.56.16.58:25461/live/igsautomacao@gmail.com/imf3rS5kGs/1766.m3u8
-#EXTINF:-1,Premiere 5
-http://149.56.16.58:25461/live/igsautomacao@gmail.com/imf3rS5kGs/1764.m3u8
-#EXTINF:-1,Premiere 6
-http://149.56.16.58:25461/live/igsautomacao@gmail.com/imf3rS5kGs/1762.m3u8
-#EXTINF:0,SPORTV
-http://5.79.68.138:8081/look/sportv/playlist.m3u8
-#EXTINF:0,SPORTV  PT 1
-http://painel.tvdigitalsbl.net:8081/live/iva01/0101/666.ts
-#EXTINF:0,SPORTV  PT 2
-http://painel.tvdigitalsbl.net:8081/live/iva01/0101/667.ts
-#EXTINF:0,SPORTV  PT 3
-http://painel.tvdigitalsbl.net:8081/live/iva01/0101/668.ts
-#EXTINF:0,SPORTV  PT 4
-http://painel.tvdigitalsbl.net:8081/live/iva01/0101/669.ts
-#EXTINF:0,SPORTV  PT 5
-http://painel.tvdigitalsbl.net:8081/live/iva01/0101/674.ts
-#EXTINF:0,SPORTV 2
-http://painel.tvdigitalsbl.net:8081/live/iva01/0101/508.ts
-#EXTINF:0,SPORTV 3
-http://painel.tvdigitalsbl.net:8081/live/iva01/0101/511.ts
+#EXTINF:-1 tvg-id="All Sports BR" tvg-name=" All Sports BR E HD" tvg-logo=http://173.236.10.10:1935/dgrau/dgrau/playlist.m3u8
+ 
+#EXTINF:_ 1 tvg-id="Band Sports HD"tvg-name="Band Sports HD " tvg-logo=http://srvlista.com:80/live/4Dv0YaeSC3/fireiptv/28024.ts
+ 
+#EXTINF:_Combate HD
+http://srvlista.com:80/live/4Dv0YaeSC3/fireiptv/27987.ts
+ 
+#EXTINF:_ESPN HD
+http://srvlista.com:80/live/4Dv0YaeSC3/fireiptv/27931.ts
+ 
+#EXTINF:_ESPN 2 HD
+http://srvlista.com:80/live/4Dv0YaeSC3/fireiptv/27939.ts
+ 
+#EXTINF:_ESPN Brasil HD
+http://srvlista.com:80/live/4Dv0YaeSC3/fireiptv/27936.ts
+ 
+#EXTINF:_ESPN Extra HD
+http://srvlista.com:80/live/4Dv0YaeSC3/fireiptv/28121.ts
+ 
+#EXTINF:_ESPN Plus HD
+http://srvlista.com:80/live/4Dv0YaeSC3/fireiptv/27929.ts
+ 
+#EXTINF:_Fox Sports HD
+http://srvlista.com:80/live/4Dv0YaeSC3/fireiptv/27902.ts
+ 
+#EXTINF:_Fox Sports 2 HD
+http://srvlista.com:80/live/4Dv0YaeSC3/fireiptv/27906.ts
+ 
+#EXTINF:_Premiere Clubes SD
+http://srvlista.com:80/live/4Dv0YaeSC3/fireiptv/27737.ts
+ 
+#EXTINF:_Premiere Clubes HD
+http://srvlista.com:80/live/4Dv0YaeSC3/fireiptv/27738.ts
+ 
+#EXTINF:_Premiere Clubes FHD
+http://srvlista.com:80/live/4Dv0YaeSC3/fireiptv/27740.ts
+ 
+#EXTINF:_Premiere 2 HD
+http://srvlista.com:80/live/4Dv0YaeSC3/fireiptv/27759.ts
+ 
+#EXTINF:_Premiere 3 HD
+http://srvlista.com:80/live/4Dv0YaeSC3/fireiptv/27755.ts
+ 
+#EXTINF:_Premiere 4 HD
+http://srvlista.com:80/live/4Dv0YaeSC3/fireiptv/27752.ts
+ 
+#EXTINF:_Premiere 5 HD
+http://srvlista.com:80/live/4Dv0YaeSC3/fireiptv/27749.ts
+ 
+#EXTINF:_Premiere 6 HD
+http://srvlista.com:80/live/4Dv0YaeSC3/fireiptv/27746.ts
+ 
+#EXTINF:_Premiere 7 HD
+http://srvlista.com:80/live/4Dv0YaeSC3/fireiptv/27743.ts
+ 
+#EXTINF:_Premiere 8 HD
+http://srvlista.com:80/live/4Dv0YaeSC3/fireiptv/27741.ts
+ 
+#EXTINF:_SporTV HD
+http://srvlista.com:80/live/4Dv0YaeSC3/fireiptv/27692.ts
+ 
+#EXTINF:_SporTV 2 HD
+http://srvlista.com:80/live/4Dv0YaeSC3/fireiptv/27699.ts
+ 
+#EXTINF:_SporTV 3 HD
+http://srvlista.com:80/live/4Dv0YaeSC3/fireiptv/27696.ts
