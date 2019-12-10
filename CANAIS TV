@@ -1,8 +1,21 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="http://s20.postimg.org/rqarkmxl9/Novo_Tempo.png" group-title="ABERTOS", NOVO TEMPO (480p)
 http://stream.novotempo.com:1935/tv/tvnovotempo.stream/live.m3u8
+
 #EXTINF:-1 tvg-logo="http://www.congressomv.org/wp-content/uploads/2014/05/Logo-Terceiro-Anjo-Branco-700.png" group-title="JORNALISMOS", TV TERCEIRO ANJO
 http://streamer1.streamhost.org:1935/salive/GMI3anjoh/chunklist.m3u8?wowzasessionid=1767639709&
+
+#EXTINF:0 tvg-id="" tvg-logo="http://s20.postimg.org/x27jhejrh/Cartoon_Network.png" group-title="Infantil",Cartoon Network
+http://95.211.149.215:8081/look/cartoon/playlist.m3u8
+ 
+#EXTINF:0 tvg-id="" tvg-logo="http://vignette3.wikia.nocookie.net/logos/images/6/62/NICKELODEON_Logo.png/revision/latest?cb=20161103205234&path-prefix=pt-br" group-title="Infantil",Nickelodeon
+http://tv.ec.cx:1935/redecanais-stream-nick/myStream/playlist.m3u8
+ 
+#EXTINF:0 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/2015_Disney_Channel_logo.svg/640px-2015_Disney_Channel_logo.svg.png" group-title="Infantil",Disney Channel
+http://tv.ec.cx:1935/redecanais-stream-disney/myStream/playlist.m3u8
+ 
+#EXTINF:0 tvg-id="" tvg-logo="http://listaiptvbrasil.com/logos/animetv.png" group-title="Infantil",Anime Tv
+http://video7.stream.mx:1935/raxatv/raxatv/chunklist_w884577146.m3u8
 
  
 
