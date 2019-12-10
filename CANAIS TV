@@ -5,12 +5,14 @@ http://stream.novotempo.com:1935/tv/tvnovotempo.stream/live.m3u8
 #EXTINF:-1 tvg-logo="http://www.congressomv.org/wp-content/uploads/2014/05/Logo-Terceiro-Anjo-Branco-700.png" group-title="JORNALISMOS", TV TERCEIRO ANJO
 http://streamer1.streamhost.org:1935/salive/GMI3anjoh/chunklist.m3u8?wowzasessionid=1767639709&
 
+
+<title>||||FILMES E SÉRIES</title> 
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Canais",TC PIPOCA
-http://tv.factoryiptv.com/live/3548/3548/36937.m3u8
+http://tv.factoryiptv.com/live/3548/3548/36937.ts
  
  
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Canais",TC PREMIUM
-http://tv.factoryiptv.com/live/3548/3548/36936.m3u8
+http://tv.factoryiptv.com/live/3548/3548/36936.ts
  
  
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Canais",TC TOUCH
@@ -131,7 +133,7 @@ http://tv.factoryiptv.com/live/3548/3548/37027.ts
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Canais",WARNER CHANNEL
 http://tv.factoryiptv.com/live/3548/3548/36930.ts
  
- 
+<title>||||DOCUMENTÁRIOS</title> 
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="DOCUMENTÁRIOS",ANIMAL PLANET
 http://tv.factoryiptv.com/live/3548/3548/37128.ts
  
@@ -154,6 +156,8 @@ http://tv.factoryiptv.com/live/3548/3548/37114.ts
 http://tv.factoryiptv.com/live/3548/3548/36959.ts
  
  
+
+<title>||||CANAIS ABERTOS</title> 
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Canais ABERTOS",RECORD RJ
 http://tv.factoryiptv.com/live/3548/3548/42637.ts
  
@@ -175,7 +179,8 @@ http://tv.factoryiptv.com/live/3548/3548/36946.ts
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Canais",VIVA
 http://tv.factoryiptv.com/live/3548/3548/36931.ts
  
- 
+
+<title>||||RELIGIOSO</title> 
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="RELIGIOSO",IMPD
 http://tv.factoryiptv.com/live/3548/3548/40080.ts
  
@@ -183,7 +188,8 @@ http://tv.factoryiptv.com/live/3548/3548/40080.ts
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="RELIGIOSO",TV REDE GOSPEL
 http://tv.factoryiptv.com/live/3548/3548/40247.ts
  
- 
+
+<title>||||INFANTIS</title> 
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="INFANTIL",CARTOON
  
  
