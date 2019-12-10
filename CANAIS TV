@@ -202,10 +202,5 @@ http://tv.factoryiptv.com/live/3548/3548/40517.ts
 
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 
-#EXTM3U
-#EXTINF:-1,A&E
-http://tv.factoryiptv.com:80/3005/3005/37130
-#EXTINF:-1,A&E FHD
-http://tv.factoryiptv.com:80/3005/3005/40263
-#EXTINF:-1,A&E HD
-http://tv.factoryiptv.com:80/3005/3005/36929
+#EXTINF:-1 tvg-logo="" group-titre="", HBO3
+http://tv.factoryiptv.com:80/live/5aM4xqWz4/factoryiptv/51247.m3u8
