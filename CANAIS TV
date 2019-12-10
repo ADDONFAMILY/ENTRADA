@@ -167,12 +167,12 @@ http://tv.factoryiptv.com/live/3548/3548/36959.ts
 
 <title>||||CANAIS ABERTOS</title> 
 #EXTINF:0,TV GLOBO
-http://edge.aovivo.club/hls/s:95.216.15.44:81/globosp_cfe21c68_f5f7cc0e9c735374c894f424fd5e00a12f380e46/playlist.m3u8
+http://edge.aovivo.club/hls/s:95.216.15.44:81/globosp_cfe21c68_f5f7cc0e9c735374c894f424fd5e00a12f380e46/playlist.ts
  
  
 #M3U
 #EXTINF:0,TV GLOBO SP
-http://edge.aovivo.club/hls/s:95.216.15.44:81/globosphd_3a69aa1b_54adb2a22615e47c105878110a43be8e8a4c36fd/playlist.m3u8
+http://edge.aovivo.club/hls/s:95.216.15.44:81/globosphd_3a69aa1b_54adb2a22615e47c105878110a43be8e8a4c36fd/playlist.ts
 
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Canais ABERTOS",RECORD RJ
 http://tv.factoryiptv.com/live/3548/3548/42637.ts
@@ -209,126 +209,3 @@ http://tv.factoryiptv.com/live/3548/3548/36923.ts
 http://tv.factoryiptv.com/live/3548/3548/40517.ts
 
  
-#EXTINF:-1Cultura tvg-logo="TV Cultura.png" group_title="TV ABERTA",Cultura
- 
-mms://177.43.50.221:8080
- 
- 
- 
-#EXTINF:-1GLOBO 2 group_title="TV ABERTA",GLOBO 2
- 
-rtmp://cdn.direct-stream.org/liverepeat/ playpath=101010 swfUrl=http://direct-stream.org/embeds/jwplayer/jwplayer.flash.swf pageUrl=http://direct-stream.org/ live=true timeout=15
- 
- 
- 
-#EXTINF:-1Globo SP tvg-logo="Globo SP.png" group_title="TV ABERTA",Globo SP
- 
-rtmp://cdn.direct-stream.org/liverepeat playpath=101010 swfUrl=http://direct-stream.org/jwplayer/jwplayer.flash.swf pageUrl=http://direct-stream.org/
- 
- 
- 
-#EXTINF:-1RECORD group_title="TV ABERTA",RECORD
- 
-rtmp://94.242.228.41:1935/live/ playpath=ch18 swfUrl=http://www.tvonline.org/p.swf pageUrl=http://www.tvnanet.biz/boss/ch18-record.htm
- 
- 
- 
-#EXTINF:-1Rede Brasil tvg-logo="Rede Brasil.png" group_title="TV ABERTA",Rede Brasil
- 
-rtmp://137690976.r.cdnstreaming.net/live-137690976/rbtv.sdp
- 
- 
- 
-#EXTINF:-1Rede TV tvg-logo="Rede TV.png" group_title="TV ABERTA",RedeTV
- 
-rtmp://evp.mm.uol.com.br/redetv1/_definst_//redetv1
- 
- 
- 
-#EXTINF:-1SBT tvg-logo="SBT.png" group_title="TV ABERTA",SBT
- 
-http://srv3.zoeweb.tv:1935/z133-live/stream/playlist.m3u8
- 
- 
- 
-#EXTINF:-1SBT SP tvg-logo="SBT HD.png" group_title="TV ABERTA",SBT
- 
-rtmp://50.97.82.16:1935/transmissao/21hd
- 
- 
- 
-#EXTINF:-1SBT tvg-logo="sbt.png" group_title="TV ABERTA",SBT1
- 
-rtmp://31.204.128.76/live/master94
- 
- 
- 
-#EXTINF:-1Terraviva tvg-logo="Terraviva.png" group_title="TV ABERTA",Terraviva
- 
-rtmp://evp.mm.uol.com.br/terraviva/_definst_//terraviva
- 
- 
- 
-#EXTINF:-1TV Brasil tvg-logo="TV Brasil.png" group_title="TV ABERTA",TV Brasil
- 
- 
- 
- 
-#EXTINF:-1TV Escola tvg-logo="TV Escola.png" group_title="TV ABERTA",TV Escola
- 
-http://livela.sambatech.com.br/hls-live/livepkgr/acerp_1f9a5d00db56b3c3020b6ac3dd693e12/liveevent/livestream.m3u8
- 
- 
- 
-#EXTINF:-1TV PoÃ§os tvg-logo="tv poÃ§os.png" group_title="TV ABERTA",TV poÃ§os
- 
-rtmp://rtmp.cdn.upx.net.br/00084/myStream.sdp
- 
- 
- 
-#EXTINF:-1TV Senado tvg-logo="TV Senado.png" group_title="TV ABERTA",TV Senado
- 
-mms://drix.senado.gov.br/tv4
- 
- 
- 
-#EXTINF:-1TV UniÃ£o group_title="TV ABERTA",TV UniÃ£o
- 
-rtmp://66.90.103.51:1935/tv/aovivo.sdp
- 
- 
-#DOCUMENTARIOS
- 
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DOCUMENTARIOS",[COLOR yellow]Â» Â» DOCUMENTARIOS Â« Â«[/COLOR]
- 
-http://0.0.0.0:1234
- 
- 
-#EXTINF:-1Discovery tvg-logo="Discovery Channel.png" group_title="DOCUMENTARIOS",Discovery Channel
- 
-rtmp://31.204.128.75/live/ playpath=master04 swfUrl=http://www.tv-msn.com/player5.swf pageUrl=http://www.cdnbr.biz/mastertv/Discovery Channel.html
- 
- 
- 
-#EXTINF:-1DISCOVERY CIVILIZATION tvg-logo="Discovery Civilization.png" group_title="DOCUMENTARIOS",DISCOVERY CIVILIZATION
- 
-rtmp://live.livestreamcast.org/live/discivil377/ playpath=discivil377 swfUrl=http://direct-stream.biz/jwplayer/jwplayer.flash.swf pageUrl=http://direct-stream.biz/embedFrame.php?c=discivil377&vw=468&vh=380
- 
- 
- 
-#EXTINF:-1Discovery Turbo group_title="DOCUMENTARIOS",Discovery Turbo
- 
-rtmp://109.200.202.124/live playpath=turbo swfUrl=http://www.tv-msn.com/player5.swf pageUrl=http://tv-msn.com/turbo.html
- 
- 
- 
-#EXTINF:-1HD THEATHER tvg-logo="Discovery Theater.png" group_title="DOCUMENTARIOS",HD THEATHER
- 
-rtmp://31.204.153.70/live/ playpath=discohd swfUrl=http://www.tv-msn.com/player5.swf pageUrl=http://www.cdnbr.biz/mastertv/Discovery HD.html
- 
-
-
-
-
-
-
