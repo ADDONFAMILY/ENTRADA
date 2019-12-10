@@ -202,10 +202,5 @@ http://tv.factoryiptv.com/live/3548/3548/40517.ts
 
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 
-#EXTM3U
-#EXTINF:-1,A&E
-http://tv.factoryiptv.com:80/live/alex21/alex21/37130.ts
-#EXTINF:-1,A&E FHD
-http://tv.factoryiptv.com:80/live/alex21/alex21/40263.ts
-#EXTINF:-1,A&E HD
-http://tv.factoryiptv.com:80/live/alex21/alex21/36929.ts
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img924/5299/GY2RfF.png" group-title="",Band News
+http://tv.factoryiptv.com:80/live/12345678/12345678/37126.ts
