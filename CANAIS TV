@@ -201,65 +201,38 @@ http://tv.factoryiptv.com/live/3548/3548/36923.ts
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="INFANTIL",DISNEY JUNIOR
 http://tv.factoryiptv.com/live/3548/3548/40517.ts
 
-<item>
-<title>PREMIERE 1</title>
-<link>http://89.163.146.52:25461/live/987fdg78oisaudoaisudoiasudoiasid897928ysfd/kjsdhkj54hkj75h5lkj8hklyhrfitfd87adoiasodiudaopdq8e938749837432uioqwoeiuiqwqweudaafuiftga====/1769.ts</link>
-<thumbnail>http://goo.gl/YpLC7E?premiere.png?</thumbnail>
-<fanart>http://goo.gl/YpLC7E?premiere.png?</fanart>
-</item>
- 
-<item>
-<title>PREMIERE 2</title>
-<link>http://89.163.146.52:25461/live/987fdg78oisaudoaisudoiasudoiasid897928ysfd/kjsdhkj54hkj75h5lkj8hklyhrfitfd87adoiasodiudaopdq8e938749837432uioqwoeiuiqwqweudaafuiftga====/1778.ts</link>
-<thumbnail>http://goo.gl/YpLC7E?premiere.png?</thumbnail>
-<fanart>http://goo.gl/YpLC7E?premiere.png?</fanart>
-</item>
- 
-<item>
-<title>PREMIERE 3</title>
-<link>http://89.163.146.52:25461/live/987fdg78oisaudoaisudoiasudoiasid897928ysfd/kjsdhkj54hkj75h5lkj8hklyhrfitfd87adoiasodiudaopdq8e938749837432uioqwoeiuiqwqweudaafuiftga====/1777.ts</link>
-<thumbnail>http://goo.gl/YpLC7E?premiere.png?</thumbnail>
-<fanart>http://goo.gl/YpLC7E?premiere.png?</fanart>
-</item>
- 
-<item>
-<title>PREMIERE 4</title>
-<link>http://89.163.146.52:25461/live/987fdg78oisaudoaisudoiasudoiasid897928ysfd/kjsdhkj54hkj75h5lkj8hklyhrfitfd87adoiasodiudaopdq8e938749837432uioqwoeiuiqwqweudaafuiftga====/1776.ts</link>
-<thumbnail>http://goo.gl/YpLC7E?premiere.png?</thumbnail>
-<fanart>http://goo.gl/YpLC7E?premiere.png?</fanart>
-</item>
- 
-<item>
-<title>PREMIERE 5</title>
-<link>http://89.163.146.52:25461/live/987fdg78oisaudoaisudoiasudoiasid897928ysfd/kjsdhkj54hkj75h5lkj8hklyhrfitfd87adoiasodiudaopdq8e938749837432uioqwoeiuiqwqweudaafuiftga====/1775.ts</link>
-<thumbnail>http://goo.gl/YpLC7E?premiere.png?</thumbnail>
-<fanart>http://goo.gl/YpLC7E?premiere.png?</fanart>
-</item>
- 
-<item>
-<title>"PREMIERE 6</title>
-<link>http://89.163.146.52:25461/live/987fdg78oisaudoaisudoiasudoiasid897928ysfd/kjsdhkj54hkj75h5lkj8hklyhrfitfd87adoiasodiudaopdq8e938749837432uioqwoeiuiqwqweudaafuiftga====/1774.ts</link>
-<thumbnail>http://goo.gl/YpLC7E?premiere.png?</thumbnail>
-<fanart>http://goo.gl/YpLC7E?premiere.png?</fanart>
-</item>
- 
-<item>
-<title>PREMIERE 7</title>
-<link>http://89.163.146.52:25461/live/987fdg78oisaudoaisudoiasudoiasid897928ysfd/kjsdhkj54hkj75h5lkj8hklyhrfitfd87adoiasodiudaopdq8e938749837432uioqwoeiuiqwqweudaafuiftga====/1773.ts</link>
-<thumbnail>http://goo.gl/YpLC7E?premiere.png?</thumbnail>
-<fanart>http://goo.gl/YpLC7E?premiere.png?</fanart>
-</item>
- 
-<item>
-<title>PREMIERE 8</title>
-<link>http://89.163.146.52:25461/live/987fdg78oisaudoaisudoiasudoiasid897928ysfd/kjsdhkj54hkj75h5lkj8hklyhrfitfd87adoiasodiudaopdq8e938749837432uioqwoeiuiqwqweudaafuiftga====/1772.ts</link>
-<thumbnail>http://goo.gl/YpLC7E?premiere.png?</thumbnail>
-<fanart>http://goo.gl/YpLC7E?premiere.png?</fanart>
-</item>
- 
-<item>
-<title>PREMIERE 9</title>
-<link>http://89.163.146.52:25461/live/987fdg78oisaudoaisudoiasudoiasid897928ysfd/kjsdhkj54hkj75h5lkj8hklyhrfitfd87adoiasodiudaopdq8e938749837432uioqwoeiuiqwqweudaafuiftga====/1771.ts</link>
-<thumbnail>http://goo.gl/YpLC7E?premiere.png?</thumbnail>
-<fanart>http://goo.gl/YpLC7E?premiere.png?</fanart>
-</item>
+#EXTINF:-1 tvg-id="Premiere Clubes HD" tvg-name="PREMIER CLUB [4K]" tvg-logo="http://static.psrv.io/logos/canais/premiere.png" group-title="Canais | 4K",PREMIER CLUB [4K]
+http://psrv.io:80/3pT5h8qe/xtJQQzQW/26184
+#EXTINF:-1 tvg-id="Premiere 2 FHD" tvg-name="Premiere 2 FHD" tvg-logo="https://static.psrv.io/logos/canais/premiere.png" group-title="Canais | Esportes",Premiere 2 FHD
+http://psrv.io:80/3pT5h8qe/xtJQQzQW/18772
+#EXTINF:-1 tvg-id="Premiere 2 FHD" tvg-name="Premiere 2 FHD [H265]" tvg-logo="http://static.psrv.io/logos/canais/premiere.png" group-title="Canais | Esportes",Premiere 2 FHD [H265]
+http://psrv.io:80/3pT5h8qe/xtJQQzQW/22176
+#EXTINF:-1 tvg-id="Premiere 2 HD" tvg-name="Premiere 2 HD" tvg-logo="https://static.psrv.io/logos/canais/premiere.png" group-title="Canais | Esportes",Premiere 2 HD
+http://psrv.io:80/3pT5h8qe/xtJQQzQW/18594
+#EXTINF:-1 tvg-id="Premiere 2 HD" tvg-name="Premiere 2 HD [Alter]" tvg-logo="http://static.psrv.io/logos/canais/premiere.png" group-title="Canais | Esportes",Premiere 2 HD [Alter]
+http://psrv.io:80/3pT5h8qe/xtJQQzQW/22382
+#EXTINF:-1 tvg-id="Premiere 2" tvg-name="Premiere 2 SD" tvg-logo="https://static.psrv.io/logos/canais/premiere.png" group-title="Canais | Esportes",Premiere 2 SD
+http://psrv.io:80/3pT5h8qe/xtJQQzQW/18595
+#EXTINF:-1 tvg-id="Premiere 2" tvg-name="Premiere 2 SD [Alter]" tvg-logo="http://static.psrv.io/logos/canais/premiere.png" group-title="Canais | Esportes",Premiere 2 SD [Alter]
+http://psrv.io:80/3pT5h8qe/xtJQQzQW/22286
+#EXTINF:-1 tvg-id="Premiere 3 FHD" tvg-name="Premiere 3 FHD" tvg-logo="https://static.psrv.io/logos/canais/premiere.png" group-title="Canais | Esportes",Premiere 3 FHD
+http://psrv.io:80/3pT5h8qe/xtJQQzQW/18771
+#EXTINF:-1 tvg-id="Premiere 3 FHD" tvg-name="Premiere 3 FHD [H265]" tvg-logo="http://static.psrv.io/logos/canais/premiere.png" group-title="Canais | Esportes",Premiere 3 FHD [H265]
+http://psrv.io:80/3pT5h8qe/xtJQQzQW/22175
+#EXTINF:-1 tvg-id="Premiere 3 HD" tvg-name="Premiere 3 HD" tvg-logo="https://static.psrv.io/logos/canais/premiere.png" group-title="Canais | Esportes",Premiere 3 HD
+http://psrv.io:80/3pT5h8qe/xtJQQzQW/18592
+#EXTINF:-1 tvg-id="Premiere 3 HD" tvg-name="Premiere 3 HD [Alter]" tvg-logo="http://static.psrv.io/logos/canais/premiere.png" group-title="Canais | Esportes",Premiere 3 HD [Alter]
+http://psrv.io:80/3pT5h8qe/xtJQQzQW/22381
+#EXTINF:-1 tvg-id="Premiere 3" tvg-name="Premiere 3 SD" tvg-logo="https://static.psrv.io/logos/canais/premiere.png" group-title="Canais | Esportes",Premiere 3 SD
+http://psrv.io:80/3pT5h8qe/xtJQQzQW/18593
+#EXTINF:-1 tvg-id="Premiere 3" tvg-name="Premiere 3 SD [Alter]" tvg-logo="http://static.psrv.io/logos/canais/premiere.png" group-title="Canais | Esportes",Premiere 3 SD [Alter]
+http://psrv.io:80/3pT5h8qe/xtJQQzQW/22285
+#EXTINF:-1 tvg-id="Premiere 4 FHD" tvg-name="Premiere 4 FHD" tvg-logo="https://static.psrv.io/logos/canais/premiere.png" group-title="Canais | Esportes",Premiere 4 FHD
+http://psrv.io:80/3pT5h8qe/xtJQQzQW/18770
+#EXTINF:-1 tvg-id="Premiere 4 FHD" tvg-name="Premiere 4 FHD [H265]" tvg-logo="http://static.psrv.io/logos/canais/premiere.png" group-title="Canais | Esportes",Premiere 4 FHD [H265]
+http://psrv.io:80/3pT5h8qe/xtJQQzQW/22174
+#EXTINF:-1 tvg-id="Premiere 4 HD" tvg-name="Premiere 4 HD" tvg-logo="https://static.psrv.io/logos/canais/premiere.png" group-title="Canais | Esportes",Premiere 4 HD
+http://psrv.io:80/3pT5h8qe/xtJQQzQW/18590
+#EXTINF:-1 tvg-id="Premiere 4 HD" tvg-name="Premiere 4 HD [Alter]" tvg-logo="http://static.psrv.io/logos/canais/premiere.png" group-title="Canais | Esportes",Premiere 4 HD [Alter]
+http://psrv.io:80/3pT5h8qe/xtJQQzQW/22380
+#EXTINF:-1 tvg-id="Premiere 4" tvg-name="Premiere 4 SD" tvg-logo="https://static.psrv.io/logos/canais/premiere.png" group-title="Canais | Esportes",Premiere 4 SD
