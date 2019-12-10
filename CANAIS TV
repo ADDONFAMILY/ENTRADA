@@ -201,11 +201,8 @@ http://tv.factoryiptv.com/live/3548/3548/36923.ts
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="INFANTIL",DISNEY JUNIOR
 http://tv.factoryiptv.com/live/3548/3548/40517.ts
 
-#EXTINF:-1 tvg-id="All Sports BR" tvg-name=" All Sports BR E HD" tvg-logo=http://173.236.10.10:1935/dgrau/dgrau/playlist.m3u8
  
-#EXTINF:_ 1 tvg-id="Band Sports HD"tvg-name="Band Sports HD " tvg-logo=http://srvlista.com:80/live/4Dv0YaeSC3/fireiptv/28024.ts
- 
-#EXTINF:_Combate HD
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="ESPORTE",Combate HD
 http://srvlista.com:80/live/4Dv0YaeSC3/fireiptv/27987.ts
  
 #EXTINF:_ESPN HD
