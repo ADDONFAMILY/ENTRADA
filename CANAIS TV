@@ -183,7 +183,8 @@ http://tv.factoryiptv.com/live/3548/3548/56897.ts
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Canais ABERTOS",REDETV
 http://tv.factoryiptv.com/live/3548/3548/36946.ts
  
- 
+#EXTINF:-1 tvg-logo="" group-title="CANAIS" ,  SPORTV
+http://192.119.9.66/live/fa438bc17f8e511baeb385eb36b6fd54.ts
  
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Canais",VIVA
 http://tv.factoryiptv.com/live/3548/3548/36931.ts
