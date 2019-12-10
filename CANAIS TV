@@ -201,49 +201,65 @@ http://tv.factoryiptv.com/live/3548/3548/36923.ts
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="INFANTIL",DISNEY JUNIOR
 http://tv.factoryiptv.com/live/3548/3548/40517.ts
 
-#EXTINF:-1 tvg-id="PREMIERE 2" tvg-name="Premiere 2" tvg-logo="http://img.starbr.in/1516320977_d4811450c61627f889ac1012e74f430f0fc8a6ee.jpg" group-title="ESPORTES",Premiere 2
-http://cloud.brserver.club:8080/eder431/732/10311
-#EXTINF:-1 tvg-id="PREMIERE 2" tvg-name="Premiere 2 FullHD" tvg-logo="http://img.starbr.in/1516320977_d4811450c61627f889ac1012e74f430f0fc8a6ee.jpg" group-title="ESPORTES",Premiere 2 FullHD
-http://cloud.brserver.club:8080/eder431/732/10310
-#EXTINF:-1 tvg-id="PREMIERE 2" tvg-name="Premiere 2 HD" tvg-logo="http://img.starbr.in/1516320977_d4811450c61627f889ac1012e74f430f0fc8a6ee.jpg" group-title="ESPORTES",Premiere 2 HD
-http://cloud.brserver.club:8080/eder431/732/10309
-#EXTINF:-1 tvg-id="Premiere 3" tvg-name="Premiere 3" tvg-logo="http://img.starbr.in/1516320977_d4811450c61627f889ac1012e74f430f0fc8a6ee.jpg" group-title="ESPORTES",Premiere 3
-http://cloud.brserver.club:8080/eder431/732/10308
-#EXTINF:-1 tvg-id="PREMIERE 3" tvg-name="Premiere 3 FullHD" tvg-logo="http://img.starbr.in/1516320977_d4811450c61627f889ac1012e74f430f0fc8a6ee.jpg" group-title="ESPORTES",Premiere 3 FullHD
-http://cloud.brserver.club:8080/eder431/732/10307
-#EXTINF:-1 tvg-id="PREMIERE 3" tvg-name="Premiere 3 HD" tvg-logo="http://img.starbr.in/1516320977_d4811450c61627f889ac1012e74f430f0fc8a6ee.jpg" group-title="ESPORTES",Premiere 3 HD
-http://cloud.brserver.club:8080/eder431/732/10306
-#EXTINF:-1 tvg-id="PREMIERE 4" tvg-name="Premiere 4" tvg-logo="http://img.starbr.in/1516320977_d4811450c61627f889ac1012e74f430f0fc8a6ee.jpg" group-title="ESPORTES",Premiere 4
-http://cloud.brserver.club:8080/eder431/732/10305
-#EXTINF:-1 tvg-id="PREMIERE 4" tvg-name="Premiere 4 FullHD" tvg-logo="http://img.starbr.in/1516320977_d4811450c61627f889ac1012e74f430f0fc8a6ee.jpg" group-title="ESPORTES",Premiere 4 FullHD
-http://cloud.brserver.club:8080/eder431/732/10304
-#EXTINF:-1 tvg-id="PREMIERE 4" tvg-name="Premiere 4 HD" tvg-logo="http://img.starbr.in/1516320977_d4811450c61627f889ac1012e74f430f0fc8a6ee.jpg" group-title="ESPORTES",Premiere 4 HD
-http://cloud.brserver.club:8080/eder431/732/10303
-#EXTINF:-1 tvg-id="PREMIERE 5" tvg-name="Premiere 5" tvg-logo="http://img.starbr.in/1516320977_d4811450c61627f889ac1012e74f430f0fc8a6ee.jpg" group-title="ESPORTES",Premiere 5
-http://cloud.brserver.club:8080/eder431/732/10302
-#EXTINF:-1 tvg-id="PREMIERE 5" tvg-name="Premiere 5 FullHD" tvg-logo="http://img.starbr.in/1516320977_d4811450c61627f889ac1012e74f430f0fc8a6ee.jpg" group-title="ESPORTES",Premiere 5 FullHD
-http://cloud.brserver.club:8080/eder431/732/10301
-#EXTINF:-1 tvg-id="PREMIERE 5" tvg-name="Premiere 5 HD" tvg-logo="http://img.starbr.in/1516320977_d4811450c61627f889ac1012e74f430f0fc8a6ee.jpg" group-title="ESPORTES",Premiere 5 HD
-http://cloud.brserver.club:8080/eder431/732/10300
-#EXTINF:-1 tvg-id="PREMIERE 6" tvg-name="Premiere 6" tvg-logo="http://img.starbr.in/1516320977_d4811450c61627f889ac1012e74f430f0fc8a6ee.jpg" group-title="ESPORTES",Premiere 6
-http://cloud.brserver.club:8080/eder431/732/10465
-#EXTINF:-1 tvg-id="PREMIERE 6" tvg-name="Premiere 6 FullHD" tvg-logo="http://img.starbr.in/1516320977_d4811450c61627f889ac1012e74f430f0fc8a6ee.jpg" group-title="ESPORTES",Premiere 6 FullHD
-http://cloud.brserver.club:8080/eder431/732/10464
-#EXTINF:-1 tvg-id="PREMIERE 6" tvg-name="Premiere 6 HD" tvg-logo="http://img.starbr.in/1516320977_d4811450c61627f889ac1012e74f430f0fc8a6ee.jpg" group-title="ESPORTES",Premiere 6 HD
-http://cloud.brserver.club:8080/eder431/732/10463
-#EXTINF:-1 tvg-id="PREMIERE 7" tvg-name="Premiere 7" tvg-logo="http://img.starbr.in/1516320977_d4811450c61627f889ac1012e74f430f0fc8a6ee.jpg" group-title="ESPORTES",Premiere 7
-http://cloud.brserver.club:8080/eder431/732/10462
-#EXTINF:-1 tvg-id="PREMIERE 7" tvg-name="Premiere 7 FullHD" tvg-logo="http://img.starbr.in/1516320977_d4811450c61627f889ac1012e74f430f0fc8a6ee.jpg" group-title="ESPORTES",Premiere 7 FullHD
-http://cloud.brserver.club:8080/eder431/732/10461
-#EXTINF:-1 tvg-id="PREMIERE 7" tvg-name="Premiere 7 HD" tvg-logo="http://img.starbr.in/1516320977_d4811450c61627f889ac1012e74f430f0fc8a6ee.jpg" group-title="ESPORTES",Premiere 7 HD
-http://cloud.brserver.club:8080/eder431/732/10460
-#EXTINF:-1 tvg-id="Premiere 8" tvg-name="Premiere 8" tvg-logo="http://img.starbr.in/1516320977_d4811450c61627f889ac1012e74f430f0fc8a6ee.jpg" group-title="ESPORTES",Premiere 8
-http://cloud.brserver.club:8080/eder431/732/10459
-#EXTINF:-1 tvg-id="PREMIERE 9" tvg-name="Premiere 9  Alternativo" tvg-logo="http://img.starbr.in/1516320977_d4811450c61627f889ac1012e74f430f0fc8a6ee.jpg" group-title="ESPORTES",Premiere 9  Alternativo
-http://cloud.brserver.club:8080/eder431/732/10458
-#EXTINF:-1 tvg-id="PREMIERE CLUBES" tvg-name="Premiere Clubes" tvg-logo="http://img.starbr.in/1516320977_d4811450c61627f889ac1012e74f430f0fc8a6ee.jpg" group-title="ESPORTES",Premiere Clubes
-http://cloud.brserver.club:8080/eder431/732/10457
-#EXTINF:-1 tvg-id="PREMIERE CLUBES" tvg-name="Premiere Clubes FullHD" tvg-logo="http://img.starbr.in/1516320977_d4811450c61627f889ac1012e74f430f0fc8a6ee.jpg" group-title="ESPORTES",Premiere Clubes FullHD
-http://cloud.brserver.club:8080/eder431/732/10454
-#EXTINF:-1 tvg-id="PREMIERE CLUBES" tvg-name="PREMIERE CLUBES HD" tvg-logo="http://img.starbr.in/1516320977_d4811450c61627f889ac1012e74f430f0fc8a6ee.jpg" group-title="ESPORTES",PREMIERE CLUBES HD
-http://cloud.brserver.club:8080/eder431/732/10456
+<item>
+<title>PREMIERE 1</title>
+<link>http://89.163.146.52:25461/live/987fdg78oisaudoaisudoiasudoiasid897928ysfd/kjsdhkj54hkj75h5lkj8hklyhrfitfd87adoiasodiudaopdq8e938749837432uioqwoeiuiqwqweudaafuiftga====/1769.ts</link>
+<thumbnail>http://goo.gl/YpLC7E?premiere.png?</thumbnail>
+<fanart>http://goo.gl/YpLC7E?premiere.png?</fanart>
+</item>
+ 
+<item>
+<title>PREMIERE 2</title>
+<link>http://89.163.146.52:25461/live/987fdg78oisaudoaisudoiasudoiasid897928ysfd/kjsdhkj54hkj75h5lkj8hklyhrfitfd87adoiasodiudaopdq8e938749837432uioqwoeiuiqwqweudaafuiftga====/1778.ts</link>
+<thumbnail>http://goo.gl/YpLC7E?premiere.png?</thumbnail>
+<fanart>http://goo.gl/YpLC7E?premiere.png?</fanart>
+</item>
+ 
+<item>
+<title>PREMIERE 3</title>
+<link>http://89.163.146.52:25461/live/987fdg78oisaudoaisudoiasudoiasid897928ysfd/kjsdhkj54hkj75h5lkj8hklyhrfitfd87adoiasodiudaopdq8e938749837432uioqwoeiuiqwqweudaafuiftga====/1777.ts</link>
+<thumbnail>http://goo.gl/YpLC7E?premiere.png?</thumbnail>
+<fanart>http://goo.gl/YpLC7E?premiere.png?</fanart>
+</item>
+ 
+<item>
+<title>PREMIERE 4</title>
+<link>http://89.163.146.52:25461/live/987fdg78oisaudoaisudoiasudoiasid897928ysfd/kjsdhkj54hkj75h5lkj8hklyhrfitfd87adoiasodiudaopdq8e938749837432uioqwoeiuiqwqweudaafuiftga====/1776.ts</link>
+<thumbnail>http://goo.gl/YpLC7E?premiere.png?</thumbnail>
+<fanart>http://goo.gl/YpLC7E?premiere.png?</fanart>
+</item>
+ 
+<item>
+<title>PREMIERE 5</title>
+<link>http://89.163.146.52:25461/live/987fdg78oisaudoaisudoiasudoiasid897928ysfd/kjsdhkj54hkj75h5lkj8hklyhrfitfd87adoiasodiudaopdq8e938749837432uioqwoeiuiqwqweudaafuiftga====/1775.ts</link>
+<thumbnail>http://goo.gl/YpLC7E?premiere.png?</thumbnail>
+<fanart>http://goo.gl/YpLC7E?premiere.png?</fanart>
+</item>
+ 
+<item>
+<title>"PREMIERE 6</title>
+<link>http://89.163.146.52:25461/live/987fdg78oisaudoaisudoiasudoiasid897928ysfd/kjsdhkj54hkj75h5lkj8hklyhrfitfd87adoiasodiudaopdq8e938749837432uioqwoeiuiqwqweudaafuiftga====/1774.ts</link>
+<thumbnail>http://goo.gl/YpLC7E?premiere.png?</thumbnail>
+<fanart>http://goo.gl/YpLC7E?premiere.png?</fanart>
+</item>
+ 
+<item>
+<title>PREMIERE 7</title>
+<link>http://89.163.146.52:25461/live/987fdg78oisaudoaisudoiasudoiasid897928ysfd/kjsdhkj54hkj75h5lkj8hklyhrfitfd87adoiasodiudaopdq8e938749837432uioqwoeiuiqwqweudaafuiftga====/1773.ts</link>
+<thumbnail>http://goo.gl/YpLC7E?premiere.png?</thumbnail>
+<fanart>http://goo.gl/YpLC7E?premiere.png?</fanart>
+</item>
+ 
+<item>
+<title>PREMIERE 8</title>
+<link>http://89.163.146.52:25461/live/987fdg78oisaudoaisudoiasudoiasid897928ysfd/kjsdhkj54hkj75h5lkj8hklyhrfitfd87adoiasodiudaopdq8e938749837432uioqwoeiuiqwqweudaafuiftga====/1772.ts</link>
+<thumbnail>http://goo.gl/YpLC7E?premiere.png?</thumbnail>
+<fanart>http://goo.gl/YpLC7E?premiere.png?</fanart>
+</item>
+ 
+<item>
+<title>PREMIERE 9</title>
+<link>http://89.163.146.52:25461/live/987fdg78oisaudoaisudoiasudoiasid897928ysfd/kjsdhkj54hkj75h5lkj8hklyhrfitfd87adoiasodiudaopdq8e938749837432uioqwoeiuiqwqweudaafuiftga====/1771.ts</link>
+<thumbnail>http://goo.gl/YpLC7E?premiere.png?</thumbnail>
+<fanart>http://goo.gl/YpLC7E?premiere.png?</fanart>
+</item>
