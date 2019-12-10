@@ -5,19 +5,195 @@ http://stream.novotempo.com:1935/tv/tvnovotempo.stream/live.m3u8
 #EXTINF:-1 tvg-logo="http://www.congressomv.org/wp-content/uploads/2014/05/Logo-Terceiro-Anjo-Branco-700.png" group-title="JORNALISMOS", TV TERCEIRO ANJO
 http://streamer1.streamhost.org:1935/salive/GMI3anjoh/chunklist.m3u8?wowzasessionid=1767639709&
 
-#EXTINF:0 tvg-id="" tvg-logo="http://s20.postimg.org/x27jhejrh/Cartoon_Network.png" group-title="Infantil",Cartoon Network
-http://95.211.149.215:8081/look/cartoon/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Canais",TC PIPOCA
+http://tv.factoryiptv.com/live/3548/3548/36937.ts
  
-#EXTINF:0 tvg-id="" tvg-logo="http://vignette3.wikia.nocookie.net/logos/images/6/62/NICKELODEON_Logo.png/revision/latest?cb=20161103205234&path-prefix=pt-br" group-title="Infantil",Nickelodeon
-http://tv.ec.cx:1935/redecanais-stream-nick/myStream/playlist.m3u8
  
-#EXTINF:0 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/2015_Disney_Channel_logo.svg/640px-2015_Disney_Channel_logo.svg.png" group-title="Infantil",Disney Channel
-http://tv.ec.cx:1935/redecanais-stream-disney/myStream/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Canais",TC PREMIUM
+http://tv.factoryiptv.com/live/3548/3548/36936.ts
  
-#EXTINF:0 tvg-id="" tvg-logo="http://listaiptvbrasil.com/logos/animetv.png" group-title="Infantil",Anime Tv
-http://video7.stream.mx:1935/raxatv/raxatv/chunklist_w884577146.m3u8
-
  
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Canais",TC TOUCH
+http://tv.factoryiptv.com/live/3548/3548/36935.ts
+ 
+ 
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Canais",TC CULT
+http://tv.factoryiptv.com/live/3548/3548/36901.ts
+ 
+ 
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Canais",TC FUN
+http://tv.factoryiptv.com/live/3548/3548/36938.ts
+ 
+ 
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Canais",TNT
+http://tv.factoryiptv.com/live/3548/3548/36934.ts
+ 
+ 
+ 
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Canais",A&E
+http://tv.factoryiptv.com/live/3548/3548/37130.ts
+ 
+ 
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Canais",AMC
+http://tv.factoryiptv.com/live/3548/3548/36928.ts
+ 
+ 
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Canais",AXN
+http://tv.factoryiptv.com/live/3548/3548/36991.ts
+ 
+ 
+ 
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Canais",CINEMAX
+http://tv.factoryiptv.com/live/3548/3548/36926.ts
+ 
+ 
+ 
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Canais",FOX
+http://tv.factoryiptv.com/live/3548/3548/36972.ts
+ 
+ 
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Canais",FX
+http://tv.factoryiptv.com/live/3548/3548/36969.ts
+ 
+ 
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Canais",HBO
+http://tv.factoryiptv.com/live/3548/3548/37087.ts
+ 
+ 
+ 
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Canais",HBO2
+http://tv.factoryiptv.com/live/3548/3548/37086.ts
+ 
+ 
+ 
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Canais",HBO FAMILY
+http://tv.factoryiptv.com/live/3548/3548/36965.ts
+ 
+ 
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Canais",HBO PLUS
+http://tv.factoryiptv.com/live/3548/3548/36963.ts
+ 
+ 
+ 
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Canais",HBO SIGNATURE
+http://tv.factoryiptv.com/live/3548/3548/36962.ts
+ 
+ 
+ 
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Canais",MAX
+http://tv.factoryiptv.com/live/3548/3548/36913.ts
+ 
+ 
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Canais",MAXUP
+http://tv.factoryiptv.com/live/3548/3548/37073.ts
+ 
+ 
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Canais",MAXPRIME
+http://tv.factoryiptv.com/live/3548/3548/37075.ts
+ 
+ 
+ 
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Canais",MEGAPIXE
+http://tv.factoryiptv.com/live/3548/3548/36958.ts
+ 
+ 
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Canais",PARAMOUNT CHANNEL
+http://tv.factoryiptv.com/live/3548/3548/36953.ts
+ 
+ 
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Canais",PRIME BOX BRASIL
+http://tv.factoryiptv.com/live/3548/3548/37053.ts
+ 
+ 
+ 
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Canais",SONY CHANNEL
+http://tv.factoryiptv.com/live/3548/3548/36987.ts
+ 
+ 
+ 
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Canais",SPACE
+http://tv.factoryiptv.com/live/3548/3548/36944.ts
+ 
+ 
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Canais",STUDIO UNIVERSAL
+http://tv.factoryiptv.com/live/3548/3548/36904.ts
+ 
+ 
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Canais",TCM
+ 
+http://tv.factoryiptv.com/live/3548/3548/37037.ts
+ 
+ 
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Canais",UNIVERSAL CHANNEL
+http://tv.factoryiptv.com/live/3548/3548/37027.ts
+ 
+ 
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Canais",WARNER CHANNEL
+http://tv.factoryiptv.com/live/3548/3548/36930.ts
+ 
+ 
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DOCUMENTÁRIOS",ANIMAL PLANET
+http://tv.factoryiptv.com/live/3548/3548/37128.ts
+ 
+ 
+ 
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DOCUMENTÁRIOSs",DISVOVERY CHANNEL
+http://tv.factoryiptv.com/live/3548/3548/36985.ts
+ 
+ 
+ 
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DOCUMENTÁRIOS",HISTORY
+http://tv.factoryiptv.com/live/3548/3548/36960.ts
+ 
+ 
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DOCUMENTÁRIOS",ID
+http://tv.factoryiptv.com/live/3548/3548/37114.ts
+ 
+ 
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DOCUMENTÁRIOS",ID
+http://tv.factoryiptv.com/live/3548/3548/36959.ts
+ 
+ 
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Canais ABERTOS",RECORD RJ
+http://tv.factoryiptv.com/live/3548/3548/42637.ts
+ 
+ 
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Canais ABERTOS",BAND
+http://tv.factoryiptv.com/live/3548/3548/37127.ts
+ 
+ 
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Canais ABERTOS",SBT RJ
+http://tv.factoryiptv.com/live/3548/3548/56897.ts
+ 
+ 
+ 
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Canais ABERTOS",REDTV
+http://tv.factoryiptv.com/live/3548/3548/36946.ts
+ 
+ 
+ 
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Canais",VIVA
+http://tv.factoryiptv.com/live/3548/3548/36931.ts
+ 
+ 
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="RELIGIOSO",IMPD
+http://tv.factoryiptv.com/live/3548/3548/40080.ts
+ 
+ 
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="RELIGIOSO",TV REDE GOSPEL
+http://tv.factoryiptv.com/live/3548/3548/40247.ts
+ 
+ 
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="INFANTIL",CARTOON
+ 
+ 
+ 
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="INFANTIL",DISCOVERY KIDS
+http://tv.factoryiptv.com/live/3548/3548/36923.ts
+ 
+ 
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="INFANTIL",DISNEY JUNIOR
+http://tv.factoryiptv.com/live/3548/3548/40517.ts
 
  
 
