@@ -199,5 +199,5 @@ http://tv.factoryiptv.com/live/3548/3548/36923.ts
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="INFANTIL",DISNEY JUNIOR
 http://tv.factoryiptv.com/live/3548/3548/40517.ts
 
-#EXTINF:-1 tvg-logo="http://s2.glbimg.com/KV5eehME-_BD7QEL-W06_2swk4U=/s.glbimg.com/og/rg/f/original/2014/04/03/vemai_marca_1.jpg" tvg-id="0" group-title="CANAIS",REDE GROBO HD
-https://vips.azureedge.net/hls1/bobosp.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/1/13/Logotipo_da_Rede_Record.png" tvg-id="0" group-title="CANAIS",RECORD HD
+https://vips.azureedge.net/hls1/recordsp.m3u8
