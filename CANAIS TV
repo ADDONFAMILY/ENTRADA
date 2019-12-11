@@ -199,5 +199,8 @@ http://tv.factoryiptv.com/live/3548/3548/36923.ts
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="INFANTIL",DISNEY JUNIOR
 http://tv.factoryiptv.com/live/3548/3548/40517.ts
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/1/13/Logotipo_da_Rede_Record.png" tvg-id="0" group-title="CANAIS",RECORD HD
-https://vips.azureedge.net/hls1/recordsp.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="canais desenho",(ONLINE) -GOSPEL CARTOON-
+http://stmv1.euroti.com.br:1935/gospelcartoon/gospelcartoon/live.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="canais",GOSPEL MOVIES TELEVISION
+http://stmv2.euroti.com.br:1935/gospelf/gospelf/live.m3u8
+ 
