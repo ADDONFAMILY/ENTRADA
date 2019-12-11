@@ -200,5 +200,5 @@ http://tv.factoryiptv.com/live/3548/3548/36923.ts
 http://tv.factoryiptv.com/live/3548/3548/40517.ts
 
 #EXTM3U
-#EXTINF:-1 tvg-logo="" group-title="CANAIS" , GLOBO RS
-http://192.119.9.66/live/cyp-26AD03DA528647C7863b7F66CBDC.ts
+#EXTINF:-1 tvg-logo="" group-title="CANAIS" ,GOSPEL MOVIES
+http://stmv2.srvstm.com:1935/gospelf/gospelf/playlist.m3u8.
