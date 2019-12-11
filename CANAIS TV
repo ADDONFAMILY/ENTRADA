@@ -199,5 +199,12 @@ http://tv.factoryiptv.com/live/3548/3548/36923.ts
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="INFANTIL",DISNEY JUNIOR
 http://tv.factoryiptv.com/live/3548/3548/40517.ts
 
-http://177.139.171.102:27030/live/alvaro/17/183.ts
- #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTVBsyo5HzfZTLi3Ph0bNKBoBX4mNW3olMNqecid3MLlFIVHMmf" tvg-id="0" group-
+
+ #EXTINF:0 tvg-logo="https://lut.im/8GWlkoeV6n/8Z03YH2qrOdt78d4.png" group-title="Clipes" , TV Clipes Gospel
+http://stmv2.euroti.com.br:1935/gmusic/gmusic/live.m3u8
+
+#EXTINF:0 tvg-logo="https://s29.postimg.org/6vtad0auv/Gospel_Movie_Television.jpg" group-title="Filmes", Gospel Movies TV
+http://stmv2.srvstm.com:1935/gospelf/gospelf/playlist.m3u8?
+ 
+#EXTINF:0 tvg-logo="http://www.smilinguido.com.br/celular/images/smilinguido.png" group-title="Filmes", Gospel Cartoon
+http://stmv1.srvstm.com/gospelcartoon/gospelcartoon/playlist.m3u8?wowzasessionid=495096105
