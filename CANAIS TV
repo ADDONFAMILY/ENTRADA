@@ -7,7 +7,7 @@ http://stream.novotempo.com:1935/tv/tvnovotempo.stream/live.m3u8
 #EXTINF:-1 tvg-logo="http://www.congressomv.org/wp-content/uploads/2014/05/Logo-Terceiro-Anjo-Branco-700.png" group-title="JORNALISMOS", TV TERCEIRO ANJO
 http://streamer1.streamhost.org:1935/salive/GMI3anjoh/chunklist.m3u8?wowzasessionid=1767639709&
 
-#EXTINF:0 tvg-logo="http://www.smilinguido.com.br/celular/images/smilinguido.png" group-title="Filmes", Gospel Cartoon
+#EXTINF:0 tvg-logo="http://www.smilinguido.com.br/celular/images/smilinguido.png" group-title="Filmes", GOSPEL CARTOON
 http://stmv1.srvstm.com/gospelcartoon/gospelcartoon/playlist.m3u8?wowzasessionid=495096105
 
  
@@ -202,5 +202,6 @@ http://tv.factoryiptv.com/live/3548/3548/36923.ts
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="INFANTIL",DISNEY JUNIOR
 http://tv.factoryiptv.com/live/3548/3548/40517.ts
 
-#EXTINF:-1 tvg-id="Globo rj" tvg-logo="http://s17.postimg.org/w75u3yg1n/globo2.png" group-title="CANAIS ABERTOS",Globo rj hd
-http://tv.ec.cx:1935/redecanais-stream-bobo/myStream/chunklist_w1930096055.m3u8
+#EXTINF:-1 tvg-id="TNT" tvg-logo="https://goodlogo.com/images/logos/tnt_logo_3557.gif" group-title="filmes" TNT
+ http://192.99.148.73:8080/live/play/play/30.ts
+ 
