@@ -7,14 +7,111 @@ http://stream.novotempo.com:1935/tv/tvnovotempo.stream/live.m3u8
 #EXTINF:-1 tvg-logo="http://www.congressomv.org/wp-content/uploads/2014/05/Logo-Terceiro-Anjo-Branco-700.png" group-title="JORNALISMOS", TV TERCEIRO ANJO
 http://streamer1.streamhost.org:1935/salive/GMI3anjoh/chunklist.m3u8?wowzasessionid=1767639709&
 
-#EXTINF:-1 tvg-logo="http://listaiptvbrasil.com/canais/wp-content/uploads/2018/03/gospel.jpg" group-title="CANAIS: RELIGIOSOS", Gospel Movie TV
+#EXTINF:-1 tvg-logo="#EXTINF:-1 tvg-logo="http://listaiptvbrasil.com/canais/wp-content/uploads/2018/03/gospel.jpg" group-title="CANAIS: RELIGIOSOS", GOSPEL MOVIES TV
 http://stmv2.srvstm.com/gospelf/gospelf/playlist.m3u8
  
-
 #EXTINF:0 tvg-logo="http://www.smilinguido.com.br/celular/images/smilinguido.png" group-title="Filmes", GOSPEL CARTOON
 http://stmv1.srvstm.com/gospelcartoon/gospelcartoon/playlist.m3u8?wowzasessionid=495096105
 
+#EXTINF:-1 tvg-logo="https://listaiptvbrasil.com/logo/globo.png" group-title="CANAL ABERTO", Sportv
+http://edge.aovivo.club/hls/s:95.216.15.44:81/sportv_91dfde1d_533a4c7a2ed079d8b1ef2577c7570a17e0ff4fdb/playlist.m3u8
  
+#EXTINF:-1 tvg-logo="https://listaiptvbrasil.com/logo/sbt.png" group-title="CANAL ABERTO", SBT
+http://evpp.mm.uol.com.br/ne10/ne10.smil/chunklist_w1947424176_b131000_sleng.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://listaiptvbrasil.com/logo/sbt.png" group-title="CANAL ABERTO", Fox Sports
+http://edge.aovivo.club/hls/s:95.216.15.44:81/foxsportshd_98fbc42f_dd2fa224c78f84cba2bc87a726eeb53953467011/playlist.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://listaiptvbrasil.com/logo/sbt.png" group-title="CANAL ABERTO", TCM Mossoro
+http://live.tcm10.com.br/tcm10.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://listaiptvbrasil.com/logo/globo.png" group-title="CANAL ABERTO", Syds TV Currais Novos
+rtmp://177.105.176.17/live/canal4
+ 
+#EXTINF:-1 tvg-logo="https://listaiptvbrasil.com/logo/sbt.png" group-title="CANAL ABERTO", Super TV
+http://srv9.zoeweb.tv:1935/zw9009/stream/playlist.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://listaiptvbrasil.com/logo/sbt.png" group-title="CANAL ABERTO", Nossa TV (Cultura RN)
+https://cdn.jmvstream.com/w/sadrak/_definst_/sadrak/playlist.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://listaiptvbrasil.com/logo/sbt.png" group-title="CANAL ABERTO", TV AD Mossoró
+https://cdn.jmvstream.com/live/hls/lv_435/LV435_vhX7cShN23.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://listaiptvbrasil.com/logo/sbt.png" group-title="CANAL ABERTO", TV Cidade Oeste
+http://hls.cadena.com.br/live/df9e135c-df44-4fbc-8e95-d128ab1db00c/index.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://listaiptvbrasil.com/logo/sbt.png" group-title="CANAL ABERTO", TV União Natal
+https://beenet.castr.io/live_0b63b960ac8a11e9995c91754b9c7c83/tracks-v1a1/mono.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://listaiptvbrasil.com/logo/sbt.png" group-title="CANAL ABERTO", TV Pantanal MS
+https://5ca42828c3a79.streamlock.net/tvpantanalms/tvpantanalms/playlist.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://listaiptvbrasil.com/logo/globo.png" group-title="CANAL ABERTO", PFC 2
+http://hvod.imirun.net:8080/Premiere-2-HD/index.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://listaiptvbrasil.com/logo/globo.png" group-title="CANAL ABERTO", PFC 3
+http://hvod.imirun.net:8080/Premiere-3-HD/index.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://listaiptvbrasil.com/logo/globo.png" group-title="CANAL ABERTO", PFC 4
+http://hvod.imirun.net:8080/Premiere-4-HD/index.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://listaiptvbrasil.com/logo/globo.png" group-title="CANAL ABERTO", PFC 5
+http://hvod.imirun.net:8080/Premiere-5-HD/index.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://listaiptvbrasil.com/logo/globo.png" group-title="CANAL ABERTO", PFC 6
+http://hvod.imirun.net:8080/Premiere-6-HD/index.m3u8
+RAW Paste Data
+#EXTM3U
+ 
+######## Lista IPTV WELESSON ALMEIDA ######
+ 
+#EXTINF:-1 tvg-logo="https://listaiptvbrasil.com/logo/globo.png" group-title="CANAL ABERTO", Sportv
+http://edge.aovivo.club/hls/s:95.216.15.44:81/sportv_91dfde1d_533a4c7a2ed079d8b1ef2577c7570a17e0ff4fdb/playlist.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://listaiptvbrasil.com/logo/sbt.png" group-title="CANAL ABERTO", SBT
+http://evpp.mm.uol.com.br/ne10/ne10.smil/chunklist_w1947424176_b131000_sleng.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://listaiptvbrasil.com/logo/sbt.png" group-title="CANAL ABERTO", Fox Sports
+http://edge.aovivo.club/hls/s:95.216.15.44:81/foxsportshd_98fbc42f_dd2fa224c78f84cba2bc87a726eeb53953467011/playlist.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://listaiptvbrasil.com/logo/sbt.png" group-title="CANAL ABERTO", TCM Mossoro
+http://live.tcm10.com.br/tcm10.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://listaiptvbrasil.com/logo/globo.png" group-title="CANAL ABERTO", Syds TV Currais Novos
+rtmp://177.105.176.17/live/canal4
+ 
+#EXTINF:-1 tvg-logo="https://listaiptvbrasil.com/logo/sbt.png" group-title="CANAL ABERTO", Super TV
+http://srv9.zoeweb.tv:1935/zw9009/stream/playlist.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://listaiptvbrasil.com/logo/sbt.png" group-title="CANAL ABERTO", Nossa TV (Cultura RN)
+https://cdn.jmvstream.com/w/sadrak/_definst_/sadrak/playlist.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://listaiptvbrasil.com/logo/sbt.png" group-title="CANAL ABERTO", TV AD Mossoró
+https://cdn.jmvstream.com/live/hls/lv_435/LV435_vhX7cShN23.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://listaiptvbrasil.com/logo/sbt.png" group-title="CANAL ABERTO", TV Cidade Oeste
+http://hls.cadena.com.br/live/df9e135c-df44-4fbc-8e95-d128ab1db00c/index.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://listaiptvbrasil.com/logo/sbt.png" group-title="CANAL ABERTO", TV União Natal
+https://beenet.castr.io/live_0b63b960ac8a11e9995c91754b9c7c83/tracks-v1a1/mono.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://listaiptvbrasil.com/logo/sbt.png" group-title="CANAL ABERTO", TV Pantanal MS
+https://5ca42828c3a79.streamlock.net/tvpantanalms/tvpantanalms/playlist.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://listaiptvbrasil.com/logo/globo.png" group-title="CANAL ABERTO", PFC 2
+http://hvod.imirun.net:8080/Premiere-2-HD/index.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://listaiptvbrasil.com/logo/globo.png" group-title="CANAL ABERTO", PFC 3
+http://hvod.imirun.net:8080/Premiere-3-HD/index.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://listaiptvbrasil.com/logo/globo.png" group-title="CANAL ABERTO", PFC 4
+http://hvod.imirun.net:8080/Premiere-4-HD/index.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://listaiptvbrasil.com/logo/globo.png" group-title="CANAL ABERTO", PFC 5
+http://hvod.imirun.net:8080/Premiere-5-HD/index.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://listaiptvbrasil.com/logo/globo.png" group-title="CANAL ABERTO", PFC 6
+http://hvod.imirun.net:8080/Premiere-6-HD/index.m3u8
 
  
 
