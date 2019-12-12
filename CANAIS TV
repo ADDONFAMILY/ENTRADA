@@ -37,42 +37,55 @@ http://ebctvnbr-rtmp.adaptive.level3.net/egress/bhandler/ebcremuxlive/tvnbr/mani
 #EXTINF:-1 tvg-logo="https://listaiptvbrasil.com/logo/camara.png" group-title="CANAL ABERTO",TV Câmara
 https://stream3.camara.gov.br/tv1/manifest.m3u8
 
- #EXTINF:-1 tvg-logo="https://listaiptvbrasil.com/logo/globo.png" group-title="CANAL ABERTO", Globo
-http://faustinotv.tk/redir.php?acesso=03216f09b3eef08f8dd7e082d359de29&usuario=c8876d2aac82be4df1248cafefe86f84
- 
-#EXTINF:-1 tvg-logo="https://listaiptvbrasil.com/logo/sbt.png" group-title="CANAL ABERTO", SBT  
-http://faustinotv.tk/redir.php?acesso=90af0e0660fa17a03fdac812cd9c2dd1&usuario=c8876d2aac82be4df1248cafefe86f84
+#EXTINF:-1 tvg-logo="https://i0.wp.com/s20.postimg.org/lw2q8s33h/TV_Di_rio.png" group-title="Categorias", TV Diário - Ceará
+https://5a1c76baf08c0.streamlock.net/zw338/zw338/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Globo SP" tvg-logo="http://i.imgur.com/ozxkJhG.png" group-title="CANAL ABERTO", GLOBO SP
-https://azuls.azureedge.net/hls1/bobosp.m3u8
+#EXTINF:-1 tvg-logo="https://i0.wp.com/s20.postimg.org/5d0azy3wd/Rede_Fam_lia.png" group-title="Categorias", Rede Família
+https://redefamilia.opic.live/playlist.m3u8
  
-#EXTINF:-1 tvg-logo="https://listaiptvbrasil.com/logo/sbt.png" group-title="CANAL ABERTO",SBT (SP)
-https://azuls.azureedge.net/hls1/recordsp.m3u8
- 
- 
-#EXTINF:-1 tvg-logo="https://listaiptvbrasil.com/logo/recordtv.png" group-title="CANAL ABERTO",RecordTV
-http://faustinotv.tk/redir.php?acesso=df904cfb957dc1ecef89910c27684c37&usuario=c8876d2aac82be4df1248cafefe86f84
- 
-#EXTINF:-1 tvg-logo="https://listaiptvbrasil.com/logo/band.png" group-title="CANAL ABERTO",Band
-http://faustinotv.tk/redir.php?acesso=b4da5da411e26e12eb67fd6ee859bbea&usuario=c8876d2aac82be4df1248cafefe86f84
- 
-#EXTINF:-1 tvg-logo="https://listaiptvbrasil.com/logo/redetvrondonia.png" group-title="CANAL ABERTO",RedeTV
-http://faustinotv.tk/redir.php?acesso=0a80635c993598daeb853eab1b0a4fb7&usuario=c8876d2aac82be4df1248cafefe86f84
- 
-#EXTINF:-1 tvg-logo="https://listaiptvbrasil.com/logo/sportv.png" group-title="ESPORTES", SPORTV  
-http://faustinotv.tk/redir.php?acesso=906c4edbf006140f2154590de011acf7&usuario=c8876d2aac82be4df1248cafefe86f84
- 
-#EXTINF:-1 tvg-logo="https://listaiptvbrasil.com/logo/sportv.png" group-title="ESPORTES", SPORTV 2
-http://faustinotv.tk/redir.php?acesso=02283cc3bcbf34677dc09ad462d6ffb1&usuario=c8876d2aac82be4df1248cafefe86f84
- 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRVA7-IhIhd5Bl-gNy9yh_Yaz3Qc9OIitnJyJpHcwxt393d67nL-g" group-title="ESPORTES", SPORTV 3
-http://faustinotv.tk/redir.php?acesso=ef3f9a90399d85941023fc2b50235cab&usuario=c8876d2aac82be4df1248cafefe86f84
- 
- 
-#EXTINF:-1 tvg-logo="https://listaiptvbrasil.com/logo/foxsports.png" group-title="ESPORTES", FOX Sports
-http://faustinotv.tk/redir.php?acesso=f42ffced94f426d11f8ff1a30de0c6a7&usuario=c8876d2aac82be4df1248cafefe86f84
- 
-#EXTINF:-1 tvg-logo="https://listaiptvbrasil.com/logo/foxsports.png" group-title="ESPORTES", FOX Sports 2
-http://faustinotv.tk/redir.php?acesso=185f6920f1955f47e1fb6858678b3ab8&usuario=c8876d2aac82be4df1248cafefe86f84
+#EXTINF:-1 tvg-logo="https://i0.wp.com/listaiptvbrasil.com/logo/tvuniao.png" group-title="Categorias", TV União - Ceará
+http://198.27.80.131/tvu/tvu/playlist.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/eFg5QjF.png" group-title="Canais Abertos e Fechados",Rede Record
+http://159.89.112.18/loadbalance/record2278/chunks.m3u8?pxAuth=qyDJ9cOz9NdaqZNtSqFI2AmPQ0cJFngc
+ 
+#EXTINF:-1 tvg-id="" tvg-logo="http://s32.postimg.org/5fmicyl3p/SBT1.png" group-title="Canais Abertos e Fechados",SBT
+http://185.210.216.145:8081/live/master94/chunks.m3u8?nimblesessionid=533034&wmsAuthSign=c2VydmVyX3RpbWU9Mi8xMC8yMDE4IDE6NTE6NTkgUE0maGFzaF92YWx1ZT14NTR6NU4ydTNMTVEyUGZva3RHT0d3PT0mdmFsaWRtaW51dGVzPTEw
+ 
+#EXTINF:-1 tvg-id="TVGazeta.br" tvg-logo="http://i.imgur.com/Or3Q4WA.png" group-title="Canais Abertos e Fechados",TV Gazeta SP HD
+http://api.new.livestream.com/accounts/5381476/events/2395418/live.m3u8?PEDROJUNIORTUTORIAIS
+ 
+#EXTINF:-1 tvg-id="Redetv.br" tvg-logo="http://i.imgur.com/k4haEx6.png" group-title="Canais Abertos e Fechados",Rede TV
+http://evpp.mm.uol.com.br/redetv1/redetv1/chunklist_w1092414739.m3u8
+ 
+#EXTINF:-1 tvg-id="Globosp.br" tvg-logo="http://i.imgur.com/NSHvLCe.png" group-title="Canais Abertos e Fechados",Rede Globo
+http://live.onlinenatv.com:8081/live/ver8b1f11ec23e010737aaed9/chunks.m3u8?nimblesessionid=17408&wmsAuthSign=c2VydmVyX3RpbWU9Mi8xMC8yMDE4IDI6MDY6NDIgUE0maGFzaF92YWx1ZT1lRjNzWW1rWnV0WFJYU0JvUEFJZ3l3PT0mdmFsaWRtaW51dGVzPTIw
+ 
+#EXTINF:-1 tvg-id="" tvg-logo="http://s20.postimg.org/zcwx1096x/Spor_TV.png" group-title="Canais Abertos e Fechados",SporTV
+http://159.89.159.26/loadbalance/sportvhd/chunks.m3u8?pxAuth=qsmDA3XL2idOeYE7EvWaUxGZpQv8Mye9 
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Canais Abertos e Fechados",Combate
+http://207.154.197.90/loadbalance/combate-hd/loadbalance/combate-640p/chunks.m3u8?pxAuth=fu4rUKWgueGbWkt3hmaALmhjy17mcuvM
+ 
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Canais Abertos e Fechados",FOX
+http://tv.ec.cx:1935/redecanais-stream-fox/myStream/chunklist_w1953492459.m3u8
+ 
+#EXTINF:-1 tvg-id="" tvg-logo="http://i.imgur.com/ZjLSLiY.png" group-title="Canais Abertos e Fechados",Nickelodeon
+http://165.227.159.218/loadbalance/nickelodeon/chunks.m3u8?pxAuth=oqZQxNUjfGNt53az7KWzNLEtwoakT25b
 
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/eFg5QjF.png" group-title="Canais Abertos e Fechados",Rede Record
+http://159.89.112.18/loadbalance/record2278/chunks.m3u8?pxAuth=qyDJ9cOz9NdaqZNtSqFI2AmPQ0cJFngc
+ 
+#EXTINF:-1 tvg-id="" tvg-logo="http://s32.postimg.org/5fmicyl3p/SBT1.png" group-title="Canais Abertos e Fechados",SBT
+http://185.210.216.145:8081/live/master94/chunks.m3u8?nimblesessionid=533034&wmsAuthSign=c2VydmVyX3RpbWU9Mi8xMC8yMDE4IDE6NTE6NTkgUE0maGFzaF92YWx1ZT14NTR6NU4ydTNMTVEyUGZva3RHT0d3PT0mdmFsaWRtaW51dGVzPTEw
+ 
+#EXTINF:-1 tvg-id="TVGazeta.br" tvg-logo="http://i.imgur.com/Or3Q4WA.png" group-title="Canais Abertos e Fechados",TV Gazeta SP HD
+http://api.new.livestream.com/accounts/5381476/events/2395418/live.m3u8?PEDROJUNIORTUTORIAIS
+ 
+#EXTINF:-1 tvg-id="Redetv.br" tvg-logo="http://i.imgur.com/k4haEx6.png" group-title="Canais Abertos e Fechados",Rede TV
+http://evpp.mm.uol.com.br/redetv1/redetv1/chunklist_w1092414739.m3u8
+ 
+#EXTINF:-1 tvg-id="Globosp.br" tvg-logo="http://i.imgur.com/NSHvLCe.png" group-title="Canais Abertos e Fechados",Rede Globo
+http://live.onlinenatv.com:8081/live/ver8b1f11ec23e010737aaed9/chunks.m3u8?nimblesessionid=17408&wmsAuthSign=c2VydmVyX3RpbWU9Mi8xMC8yMDE4IDI6MDY6NDIgUE0maGFzaF92YWx1ZT1lRjNzWW1rWnV0WFJYU0JvUEFJZ3l3PT0mdmFsaWRtaW51dGVzPTIw
+ 
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Canais Abertos e Fechados",Rede GOSPEL
+http://media.igospel.com.br:1935/live/redegospel/waldo_paes.m3u8
