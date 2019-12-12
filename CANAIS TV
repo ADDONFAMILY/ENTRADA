@@ -37,55 +37,29 @@ http://ebctvnbr-rtmp.adaptive.level3.net/egress/bhandler/ebcremuxlive/tvnbr/mani
 #EXTINF:-1 tvg-logo="https://listaiptvbrasil.com/logo/camara.png" group-title="CANAL ABERTO",TV Câmara
 https://stream3.camara.gov.br/tv1/manifest.m3u8
 
-#EXTINF:-1 tvg-logo="https://i0.wp.com/s20.postimg.org/lw2q8s33h/TV_Di_rio.png" group-title="Categorias", TV Diário - Ceará
-https://5a1c76baf08c0.streamlock.net/zw338/zw338/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i0.wp.com/s20.postimg.org/5d0azy3wd/Rede_Fam_lia.png" group-title="Categorias", Rede Família
-https://redefamilia.opic.live/playlist.m3u8
- 
-#EXTINF:-1 tvg-logo="https://i0.wp.com/listaiptvbrasil.com/logo/tvuniao.png" group-title="Categorias", TV União - Ceará
-http://198.27.80.131/tvu/tvu/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/eFg5QjF.png" group-title="Canais Abertos e Fechados",Rede Record
-http://159.89.112.18/loadbalance/record2278/chunks.m3u8?pxAuth=qyDJ9cOz9NdaqZNtSqFI2AmPQ0cJFngc
- 
-#EXTINF:-1 tvg-id="" tvg-logo="http://s32.postimg.org/5fmicyl3p/SBT1.png" group-title="Canais Abertos e Fechados",SBT
-http://185.210.216.145:8081/live/master94/chunks.m3u8?nimblesessionid=533034&wmsAuthSign=c2VydmVyX3RpbWU9Mi8xMC8yMDE4IDE6NTE6NTkgUE0maGFzaF92YWx1ZT14NTR6NU4ydTNMTVEyUGZva3RHT0d3PT0mdmFsaWRtaW51dGVzPTEw
- 
-#EXTINF:-1 tvg-id="TVGazeta.br" tvg-logo="http://i.imgur.com/Or3Q4WA.png" group-title="Canais Abertos e Fechados",TV Gazeta SP HD
-http://api.new.livestream.com/accounts/5381476/events/2395418/live.m3u8?PEDROJUNIORTUTORIAIS
- 
 #EXTINF:-1 tvg-id="Redetv.br" tvg-logo="http://i.imgur.com/k4haEx6.png" group-title="Canais Abertos e Fechados",Rede TV
 http://evpp.mm.uol.com.br/redetv1/redetv1/chunklist_w1092414739.m3u8
- 
-#EXTINF:-1 tvg-id="Globosp.br" tvg-logo="http://i.imgur.com/NSHvLCe.png" group-title="Canais Abertos e Fechados",Rede Globo
-http://live.onlinenatv.com:8081/live/ver8b1f11ec23e010737aaed9/chunks.m3u8?nimblesessionid=17408&wmsAuthSign=c2VydmVyX3RpbWU9Mi8xMC8yMDE4IDI6MDY6NDIgUE0maGFzaF92YWx1ZT1lRjNzWW1rWnV0WFJYU0JvUEFJZ3l3PT0mdmFsaWRtaW51dGVzPTIw
- 
-#EXTINF:-1 tvg-id="" tvg-logo="http://s20.postimg.org/zcwx1096x/Spor_TV.png" group-title="Canais Abertos e Fechados",SporTV
-http://159.89.159.26/loadbalance/sportvhd/chunks.m3u8?pxAuth=qsmDA3XL2idOeYE7EvWaUxGZpQv8Mye9 
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Canais Abertos e Fechados",Combate
-http://207.154.197.90/loadbalance/combate-hd/loadbalance/combate-640p/chunks.m3u8?pxAuth=fu4rUKWgueGbWkt3hmaALmhjy17mcuvM
- 
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Canais Abertos e Fechados",FOX
-http://tv.ec.cx:1935/redecanais-stream-fox/myStream/chunklist_w1953492459.m3u8
- 
-#EXTINF:-1 tvg-id="" tvg-logo="http://i.imgur.com/ZjLSLiY.png" group-title="Canais Abertos e Fechados",Nickelodeon
-http://165.227.159.218/loadbalance/nickelodeon/chunks.m3u8?pxAuth=oqZQxNUjfGNt53az7KWzNLEtwoakT25b
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/eFg5QjF.png" group-title="Canais Abertos e Fechados",Rede Record
-http://159.89.112.18/loadbalance/record2278/chunks.m3u8?pxAuth=qyDJ9cOz9NdaqZNtSqFI2AmPQ0cJFngc
+#EXTINF:-1 tvg-logo="https://vignette2.wikia.nocookie.net/logopedia/images/5/50/Telecine_Cult_Gato.png/revision/latest?cb=20160228235112" group-title="TV A CABO", TELECINE CULT
+http://138.197.90.209/telecine_cult_hd/0/playlist.m3u8?pxAuth=mb8Th6p2N4w9ye5pLVwNeSd5sXSpxE3E
  
-#EXTINF:-1 tvg-id="" tvg-logo="http://s32.postimg.org/5fmicyl3p/SBT1.png" group-title="Canais Abertos e Fechados",SBT
-http://185.210.216.145:8081/live/master94/chunks.m3u8?nimblesessionid=533034&wmsAuthSign=c2VydmVyX3RpbWU9Mi8xMC8yMDE4IDE6NTE6NTkgUE0maGFzaF92YWx1ZT14NTR6NU4ydTNMTVEyUGZva3RHT0d3PT0mdmFsaWRtaW51dGVzPTEw
  
-#EXTINF:-1 tvg-id="TVGazeta.br" tvg-logo="http://i.imgur.com/Or3Q4WA.png" group-title="Canais Abertos e Fechados",TV Gazeta SP HD
-http://api.new.livestream.com/accounts/5381476/events/2395418/live.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:-1 tvg-logo="http://1.bp.blogspot.com/_4av4mGzAnRM/TK5B3ObU8ZI/AAAAAAAACG8/H2Z_DzaVY-I/s400/tcfun%5B1%5D.gif" group-title="TV A CABO", TELECINE FUN
+http://138.197.90.209/telecine_fun_hd/0/playlist.m3u8?pxAuth=2VCh5Viu0Cz0SVAxsyIfS9P1uVubkj5u
  
-#EXTINF:-1 tvg-id="Redetv.br" tvg-logo="http://i.imgur.com/k4haEx6.png" group-title="Canais Abertos e Fechados",Rede TV
-http://evpp.mm.uol.com.br/redetv1/redetv1/chunklist_w1092414739.m3u8
  
-#EXTINF:-1 tvg-id="Globosp.br" tvg-logo="http://i.imgur.com/NSHvLCe.png" group-title="Canais Abertos e Fechados",Rede Globo
-http://live.onlinenatv.com:8081/live/ver8b1f11ec23e010737aaed9/chunks.m3u8?nimblesessionid=17408&wmsAuthSign=c2VydmVyX3RpbWU9Mi8xMC8yMDE4IDI6MDY6NDIgUE0maGFzaF92YWx1ZT1lRjNzWW1rWnV0WFJYU0JvUEFJZ3l3PT0mdmFsaWRtaW51dGVzPTIw
+#EXTINF:-1 tvg-logo="http://www.tvmagazine.com.br/imagens/icones/600/tctouchb.png" group-title="TV A CABO", TELECINE TOUCH
+http://138.197.90.209/telecine_touch_hd/0/playlist.m3u8?pxAuth=KGCxvSEsM983tiu9JzePOWhfynMgsvYN
  
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Canais Abertos e Fechados",Rede GOSPEL
-http://media.igospel.com.br:1935/live/redegospel/waldo_paes.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://www.tvmagazine.com.br/imagens/icones/600/tcpremiumb.png" group-title="TV A CABO", TELECINE PREMIUM
+http://138.197.90.209/telecine_premium_hd/0/playlist.m3u8?pxAuth=rsdAHGqBS9iXYbly8EvyyY2E8gngkI4U
+ 
+ 
+#EXTINF:-1 tvg-logo="http://files.ticparaensinodeciencias.webnode.com.br/200000067-a58c6a6863/TC%20Action.png" group-title="TV A CABO", TELECINE ACTION
+http://138.197.90.209/telecine_action_hd/0/playlist.m3u8?pxAuth=TrX8XbuSkGvvVz5w9G41LUx03lSSkw5G
+ 
+ 
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-5g2x51eeBrc/WKS9W61z-rI/AAAAAAAAAeA/XeoSv5ZTc5oIzqUBQy9RXYklmNpruMvjACLcB/h468/assistir-tv-telecine-pipoca-ao-vivo-ver-online-gratis-em-hd-pela-internet-2.jpg" group-title="TV A CABO", TELECINE PIPOCA
+http://138.197.90.209/telecine_pipoca_hd/0/playlist.m3u8?pxAuth=7EgDDHuSjfA1oH77yRvdh34sKvbyTAUV
+
