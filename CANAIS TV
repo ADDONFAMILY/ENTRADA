@@ -16,6 +16,9 @@ http://stmv1.srvstm.com/gospelcartoon/gospelcartoon/playlist.m3u8?wowzasessionid
 #EXTINF:-1 tvg-logo="https://listaiptvbrasil.com/logo/sbt.png" group-title="CANAL ABERTO", SBT
 http://evpp.mm.uol.com.br/ne10/ne10.smil/chunklist_w1947424176_b131000_sleng.m3u8
 
+#EXTINF:-1 tvg-id="SBT (BR)" tvg-name="SBT SD " tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/c58e812f5890bb17b7ea47f918a7d1df.png" group-title="CANAIS ABERTOS",SBT SD 
+http://quatv2.com:25461/talicia81/81talicia/4159
+
 #EXTINF:-1 tvg-logo="https://listaiptvbrasil.com/logo/sbt.png" group-title="CANAL ABERTO", TV PANTANAL MS
 https://5ca42828c3a79.streamlock.net/tvpantanalms/tvpantanalms/playlist.m3u8
  
@@ -25,21 +28,11 @@ http://stream2.ba.gov.br:80/hls-live/livepkgr/_definst_/irdeb/pgm-2.m3u8
 #EXTINF:-1 type="stream" tvg-id="Cultura" tvg-logo="http://i.imgur.com/qj7So6a.png" group-title="TV Aberta/Variedades",TV BAIANA HD - TV CULTURA BA HD
 http://hls.fm1.com.br:8080/hls/tvbaiana.m3u8
 
-#EXTINF:0,TV Bahia FHD - Globo BA
-http://giantofthefuture.gleeze.com:8880/edgar123/edgar123/10961
-#EXTINF:0,TV Santa Cruz FHD - Globo BA
-http://giantofthefuture.gleeze.com:8880/edgar123/edgar123/16042
-#EXTINF:0,PLAY TV
-http://www.playtv.com.br/new/swf/player_video.swf?live=true&filename=aovivo
-#EXTINF:-1 ,CANAL BRASIL
+#EXTINF:-1 tvg-id="Rede Record (BR)" tvg-name="RECORD ITAPOAN SD" tvg-logo="https://famososnaweb.com/wp-content/uploads/2014/05/Rede-Record-Logo.jpg" group-title="CANAIS ABERTOS",RECORD ITAPOAN SD BA
+http://quatv2.com:25461/talicia81/81talicia/43438
  
-http://cdn.livestream.com/grid/LSPlayer.swf?channel=cannalbrasil
- 
-#EXTINF:0,CARTOON NETWORK EXTRA – BRASIL
- 
-http://cdn.livestream.com/grid/LSPlayer.swf?channel=cnxtra_portugues
- 
-
+#EXTINF:-1 tvg-id="AeE (BR)" tvg-name="RECORD NEWS HD" tvg-logo="https://tv.i.uol.com.br/televisao/2012/02/27/nova-logomarca-da-record-news-2012-1330350392176_300x300.jpg" group-title="CANAIS ABERTOS",RECORD NEWS HD
+http://quatv2.com:25461/talicia81/81talicia/552
  
 #EXTINF:-1 tvg-logo="http://listaiptvbrasil.com/canais/wp-content/uploads/2018/02/tvacaradabhia.png" group-title="Bahia",TV A CARA DA BAHIA
 http://hd4.com.br:1935/tvacaradabahia/tvacaradabahia/playlist.m3u8
