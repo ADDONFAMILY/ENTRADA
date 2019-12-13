@@ -22,7 +22,10 @@ https://5ca42828c3a79.streamlock.net/tvpantanalms/tvpantanalms/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/5/59/Logotipo_da_TVE_Bahia.PNG" group-title="Categorias", TVE BAHIA - TV BRASIL
 http://stream2.ba.gov.br:80/hls-live/livepkgr/_definst_/irdeb/pgm-2.m3u8
 
-#EXTINF:-1,GLOBO TV SANTA CRUZ HD http://bluereds.xyz:80/claudio/claudio123/49736 #EXTINF:-1,GLOBO TV SANTA CRUZ SD http://bluereds.xyz:80/claudio/claudio123/49735 #EXTINF:-1,GLOBO MINAS FHD http://bluereds.xyz:80/claudio/claudio123/13427
+#EXTINF:-1,GLOBO TV SANTA CRUZ HD
+http://bluereds.xyz:80/claudio/claudio123/49736 
+#EXTINF:-1,GLOBO TV SANTA CRUZ SD 
+http://bluereds.xyz:80/claudio/claudio123/49735
 
 #EXTINF:-1 tvg-logo="http://listaiptvbrasil.com/canais/wp-content/uploads/2018/02/tvacaradabhia.png" group-title="Bahia",TV A CARA DA BAHIA
 http://hd4.com.br:1935/tvacaradabahia/tvacaradabahia/playlist.m3u8
