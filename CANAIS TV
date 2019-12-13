@@ -22,6 +22,12 @@ http://stream2.ba.gov.br:80/hls-live/livepkgr/_definst_/irdeb/pgm-2.m3u8
 #EXTINF:-1 type="stream" tvg-id="Cultura" tvg-logo="http://i.imgur.com/qj7So6a.png" group-title="TV Aberta/Variedades",TV BAIANA HD - TV CULTURA BA HD
 http://hls.fm1.com.br:8080/hls/tvbaiana.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="BA - Globo TV Santa Cruz" tvg-logo="https://i.imgur.com/VOzcciZ.png" group-title="Canais Globo",BA - Globo TV Santa Cruz
+http://svrjupiter.live:80/ELDNTWMD/8KOZI9S9/8101
+
+#EXTINF:-1 tvg-id="Tvbahia.br" tvg-name="BA - Globo TV Bahia" tvg-logo="https://i.imgur.com/VOzcciZ.png" group-title="Canais Globo",BA - Globo TV Bahia
+http://svrjupiter.live:80/ELDNTWMD/8KOZI9S9/1449 
+
 #EXTINF:-1 tvg-id="SBT HD" tvg-logo="http://i.imgur.com/Jotugf0.png" group-title="CANAL ABERTO", SBT SP INTERIOR
 https://5a1c76baf08c0.streamlock.net/z343-live/stream/playlist.m3u8?EDSONSOUSALIST
 
@@ -64,5 +70,3 @@ https://5c49cd60dfe56.streamlock.net:6443/agrocanal/live/playlist.m3u8
 #EXTINF:-1 tvg-id="CONEXÃO BR" tvg-logo="" group-title="CANAL ABERTO", CONEXÃO BR
 https://5c49cd60dfe56.streamlock.net:6443/canaldoboi/live/chunklist_w1731673664.m3u8
 
-#EXTINF:0 tvg-logo="" group-title="Canais Adultos",SEX PRIVE 
-http://aovivobrasil.tk/players/playercanaistvxxx.php?canal=sexprive
