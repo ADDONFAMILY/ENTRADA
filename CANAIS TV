@@ -39,7 +39,9 @@ http://pndxt01.dyndns.org:25461/live/fabio01/fabio01/7463.m3u8
 http://pndxt01.dyndns.org:25461/live/fabio01/fabio01/8127.m3u8
 #EXTINF:-1 tvg-id="Recordrj.br" tvg-name="RECORD RIO SD *" tvg-logo="https://i.imgur.com/BpBs3ZF.png" group-title="ABERTOS",RECORD RIO SD *
 http://pndxt01.dyndns.org:25461/live/fabio01/fabio01/7443.m3u8
- 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/5zE1k8M.png" group-title=TV ARATU SBT BA
+https://www.cxtv.com.br/tv-ao-vivo/tv-aratu-sbt-bahia
+
 #EXTINF:-1 tvg-id="AeE (BR)" tvg-name="RECORD NEWS HD" tvg-logo="https://tv.i.uol.com.br/televisao/2012/02/27/nova-logomarca-da-record-news-2012-1330350392176_300x300.jpg" group-title="CANAIS ABERTOS",RECORD NEWS HD
 http://quatv2.com:25461/talicia81/81talicia/552
 
