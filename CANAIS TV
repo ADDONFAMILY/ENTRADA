@@ -22,9 +22,12 @@ http://stream2.ba.gov.br:80/hls-live/livepkgr/_definst_/irdeb/pgm-2.m3u8
 #EXTINF:-1 type="stream" tvg-id="Cultura" tvg-logo="http://i.imgur.com/qj7So6a.png" group-title="TV Aberta/Variedades",TV BAIANA HD - TV CULTURA BA HD
 http://hls.fm1.com.br:8080/hls/tvbaiana.m3u8
 
+#EXTINF:-1,GLOBO TV SANTA CRUZ FHD
+http://greencorp.tech:80/Eduardo/Eduardo123/49737
+#EXTINF:-1,GLOBO TV SANTA CRUZ HD
+http://greencorp.tech:80/Eduardo/Eduardo123/49736
 #EXTINF:-1,GLOBO TV SANTA CRUZ SD
-plugin://plugin.video.f4mTester/?name=IPTVPlay-TV&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/rodney10/rodney10/10238
-
+http://greencorp.tech:80/Eduardo/Eduardo123/49735
 #EXTINF:-1 tvg-id="SBT HD" tvg-logo="http://i.imgur.com/Jotugf0.png" group-title="CANAL ABERTO", SBT SP INTERIOR
 https://5a1c76baf08c0.streamlock.net/z343-live/stream/playlist.m3u8?EDSONSOUSALIST
 
