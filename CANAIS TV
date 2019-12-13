@@ -25,10 +25,20 @@ http://stream2.ba.gov.br:80/hls-live/livepkgr/_definst_/irdeb/pgm-2.m3u8
 #EXTINF:-1 type="stream" tvg-id="Cultura" tvg-logo="http://i.imgur.com/qj7So6a.png" group-title="TV Aberta/Variedades",TV BAIANA HD - TV CULTURA BA HD
 http://hls.fm1.com.br:8080/hls/tvbaiana.m3u8
 
-#EXTINF:-1 type="stream" tvg-id="Globo TV Santa Cruz" tvg-logo="http://revenda.kudaplay.tv/tema/canais_logo/HD_GLOBO.png" group-title="TV Aberta",Globo TV Santa Cruz
-http://load.kudaplay.tv/aovivo/SD_GLOBO_TV_SANTA_CRUZ/mpegts?token=d8bbb2d73fd8e5827ee8160867085c39
-
-
+#EXTINF:0,TV Bahia FHD - Globo BA
+http://giantofthefuture.gleeze.com:8880/edgar123/edgar123/10961
+#EXTINF:0,TV Santa Cruz FHD - Globo BA
+http://giantofthefuture.gleeze.com:8880/edgar123/edgar123/16042
+#EXTINF:0,PLAY TV
+http://www.playtv.com.br/new/swf/player_video.swf?live=true&filename=aovivo
+#EXTINF:-1 ,CANAL BRASIL
+ 
+http://cdn.livestream.com/grid/LSPlayer.swf?channel=cannalbrasil
+ 
+#EXTINF:0,CARTOON NETWORK EXTRA – BRASIL
+ 
+http://cdn.livestream.com/grid/LSPlayer.swf?channel=cnxtra_portugues
+ 
 
  
 #EXTINF:-1 tvg-logo="http://listaiptvbrasil.com/canais/wp-content/uploads/2018/02/tvacaradabhia.png" group-title="Bahia",TV A CARA DA BAHIA
