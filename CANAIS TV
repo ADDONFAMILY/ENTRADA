@@ -25,11 +25,22 @@ http://stream2.ba.gov.br:80/hls-live/livepkgr/_definst_/irdeb/pgm-2.m3u8
 #EXTINF:-1 type="stream" tvg-id="Cultura" tvg-logo="http://i.imgur.com/qj7So6a.png" group-title="TV Aberta/Variedades",TV BAIANA HD - TV CULTURA BA HD
 http://hls.fm1.com.br:8080/hls/tvbaiana.m3u8
 
-#EXTINF:-1 type="stream" tvg-id="SBT" tvg-logo="http://imgur.com/LMCWkug.png" group-title="TV Aberta/Variedades",TV Aratu HD - SBT BA HD 
-https://cdn.jmvstream.com/live/hls/lv_5347/LV5347_oKO9R0jr5Y.m3u8
+#EXTINF:-1,GLOBO TV BAHIA SD
+http://195.181.162.108:80/r9YK3qNjcM/w99qhxEqhb/5777
+#EXTINF:-1,GLOBO TV SANTA CRUZ FHD
+http://195.181.162.108:80/r9YK3qNjcM/w99qhxEqhb/11210
+#EXTINF:-1,GLOBO TV SANTA CRUZ HD
+http://195.181.162.108:80/r9YK3qNjcM/w99qhxEqhb/11209
+#EXTINF:-1,GLOBO TV SANTA CRUZ SD
+http://195.181.162.108:80/r9YK3qNjcM/w99qhxEqhb/11208
 
-#EXTINF:-1,RECORD ITAPOAN FHD ³
-plugin://plugin.video.f4mTester/?name=IPTV Play&streamtype=TSDOWNLOADER&amp;url=http://quatv2.com:8080/marcondes/marcondes/43439
+#EXTINF:-1 tvg-id="" tvg-name="Globo TV Santa Cruz HD" tvg-logo="https://static.clubsrv.me/logos/canais/globo.png" group-title="Canais | Globo",Globo TV Santa Cruz HD
+http://csrv.tv:80/italorodrigo/whtiKaQpZI/1531
+#EXTINF:-1 tvg-id="Globo Brasília" tvg-name="Globo TV Santa Cruz SD" tvg-logo="https://static.clubsrv.me/logos/canais/globo.png" group-title="Canais | Globo",Globo TV Santa Cruz SD
+http://csrv.tv:80/italorodrigo/whtiKaQpZI/1530
+
+#EXTINF:-1,RECORD ITAPOAN FHD
+http://quatv2.com:8080/marcondes/marcondes/43439
 
  
 #EXTINF:-1 tvg-logo="http://listaiptvbrasil.com/canais/wp-content/uploads/2018/02/tvacaradabhia.png" group-title="Bahia",TV A CARA DA BAHIA
