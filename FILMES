@@ -174,7 +174,7 @@
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 
 <item>
-<title>O Desconhecido</title>
+<title>Desconhecido</title>
 <link>plugin://plugin.video.youtube/play/?video_id=nK7y7qSRNzA</link>
 <thumbnail>https://ia601507.us.archive.org/2/items/busca2fanart/o%20desconhecido.png</thumbnail>
 <fanart>https://ia601507.us.archive.org/2/items/busca2fanart/o%20desconhecido%20fanart.jpg</fanart>
@@ -211,6 +211,10 @@
 </item>
 
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+<item>
+<title>A CHEGADA</title>
+<link>http://www.livecdn1.ml/Filmes/LIVE/PREMIUM/A.Chegada.2017.720p.BluRay.5.1.x264.DUAL-WWW.BLUDV.COM.mp4</link>
+</item>
 
 #EXTINF:0,A CHEGADA
 http://www.livecdn1.ml/Filmes/LIVE/PREMIUM/A.Chegada.2017.720p.BluRay.5.1.x264.DUAL-WWW.BLUDV.COM.mp4
