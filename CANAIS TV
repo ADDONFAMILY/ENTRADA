@@ -68,691 +68,219 @@ https://5c49cd60dfe56.streamlock.net:6443/canaldoboi/live/chunklist_w1731673664.
 #EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/98f2c63bd8626875fa4b533767d074ff.png" group-title="",TV CARUARU
 http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-b.m3u8
  
-#EXTINF:-1 tvg-logo="https://i.imgur.com/KnKMS2J.png" group-title="",ALPHA CHANNEL
-http://streamingbr.com:1935/st87-live/st87-live/livestream.m3u8
-
-#EXTM3U
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/KnKMS2J.png" group-title="",ALPHA CHANNEL
-  https://canaisgratis.top/player3/canais.php?canal=foxpremium1&img=foxpremium1
- 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/KnKMS2J.png" group-title="",ALPHA CHANNEL
-  https://canaisgratis.top/player3/canais.php?canal=hbo&img=hbo
- 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/KnKMS2J.png" group-title="",ALPHA CHANNEL
-  https://canaisgratis.top/player3/canais.php?canal=foxpremium2&img=foxpremium2
- 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/KnKMS2J.png" group-title="",ALPHA CHANNEL
-  https://canaisgratis.top/player3/canais.php?canal=hbo2&img=hbo2
- 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/KnKMS2J.png" group-title="",ALPHA CHANNEL
-  https://canaisgratis.top/player3/canais.php?canal=hbofamily&img=hbofamily
- 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/KnKMS2J.png" group-title="",ALPHA CHANNEL
-  https://canaisgratis.top/player3/canais.php?canal=hbosignature&img=hbosignature
- 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/KnKMS2J.png" group-title="",ALPHA CHANNEL
-  https://canaisgratis.top/player3/canais.php?canal=megapix&img=megapix
- 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/KnKMS2J.png" group-title="",ALPHA CHANNEL
-  https://canaisgratis.top/player3/canais.php?canal=telecinefun&img=telecinefun
- 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/KnKMS2J.png" group-title="",ALPHA CHANNEL
-  https://canaisgratis.top/player3/canais.php?canal=telecinecult&img=telecinecult
- 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/KnKMS2J.png" group-title="",ALPHA CHANNEL
-  https://canaisgratis.top/player3/canais.php?canal=telecinepipoca&img=telecinepipoca
- 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/KnKMS2J.png" group-title="",ALPHA CHANNEL
-  https://canaisgratis.top/player3/canais.php?canal=telecinetouch&img=telecinetouch
- 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/KnKMS2J.png" group-title="",ALPHA CHANNEL
-  https://canaisgratis.top/player3/canais.php?canal=telecineaction&img=telecineaction
- 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/KnKMS2J.png" group-title="",ALPHA CHANNEL
-  https://canaisgratis.top/player3/canais.php?canal=foxpremium2&img=foxpremium2
- 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/KnKMS2J.png" group-title="",ALPHA CHANNEL
-  https://canaisgratis.top/player3/canais.php?canal=discovery&img=discovery
- 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/KnKMS2J.png" group-title="",ALPHA CHANNEL
-  https://canaisgratis.top/player3/canais.php?canal=natgeowild&img=natgeowild
- 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/KnKMS2J.png" group-title="",ALPHA CHANNEL
-  https://canaisgratis.top/player3/canais.php?canal=cartoon&img=cartoon
- 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/KnKMS2J.png" group-title="",ALPHA CHANNEL
-  
-#EXTINF:-1 tvg-logo="https://i.imgur.com/KnKMS2J.png" group-title="",ALPHA CHANNEL
-https://canaisgratis.top/player3/canais.php?canal=boomerang&img=boomerang
- 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/KnKMS2J.png" group-title="",ALPHA CHANNEL
-  https://canaisgratis.top/player3/canais.php?canal=mtv&img=mtv
- 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/KnKMS2J.png" group-title="",ALPHA CHANNEL
-  https://canaisgratis.top/player3/canais.php?canal=multishow&img=multishow
-  
-  >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
-  
-  #TV ABERTA
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TV ABERTA",[COLOR yellow]Â» Â» TV ABERTA Â« Â«[/COLOR]
-http://0.0.0.0:1234
+#EXTINF:-1 tvg-logo="", [B]BAND[/B] []
+http://31.204.128.117:8081/live/band/playlist.m3u8
 
-#EXTINF:-1Cultura tvg-logo="TV Cultura.png" group_title="TV ABERTA",Cultura
-mms://177.43.50.221:8080 
+#EXTINF:-1 tvg-logo="", [B]CULTURA[/B] []
+http://177.73.84.49/hls/57290d5d9a175/57290d5d9a175.m3u8
 
+#EXTINF:-1 tvg-logo="", [B]FUTURA[/B] []
+http://ynv2127uts35.nethorizontes.tv:1935/ynv2127uts35/tvunivates/manifest(format=m3u8-aapl).m3u8
 
-#EXTINF:-1GLOBO 2 group_title="TV ABERTA",GLOBO 2
-rtmp://cdn.direct-stream.org/liverepeat/ playpath=101010 swfUrl=http://direct-stream.org/embeds/jwplayer/jwplayer.flash.swf pageUrl=http://direct-stream.org/ live=true timeout=15
+#EXTINF:-1 tvg-logo="", [B]GAZETA HD[/B] []
+http://api.new.livestream.com/accounts/5381476/events/2395418/live.m3u8
 
+#EXTINF:-1 tvg-logo="", [B]GLOBO[/B] []
+http://31.204.128.117:8081/live/globo/playlist.m3u8
 
-#EXTINF:-1Globo SP tvg-logo="Globo SP.png" group_title="TV ABERTA",Globo SP
-rtmp://cdn.direct-stream.org/liverepeat playpath=101010 swfUrl=http://direct-stream.org/jwplayer/jwplayer.flash.swf pageUrl=http://direct-stream.org/
+#EXTINF:-1 tvg-logo="", [B]RECORD[/B] []
+http://31.204.128.117:8081/live/record/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="", [B]RECORD NEWS HD[/B] []
+http://streaming57.sitehosting.com.br:1935/redesim/redesim/playlist.m3u8
 
-#EXTINF:-1RECORD group_title="TV ABERTA",RECORD
-rtmp://94.242.228.41:1935/live/ playpath=ch18 swfUrl=http://www.tvonline.org/p.swf pageUrl=http://www.tvnanet.biz/boss/ch18-record.htm
+#EXTINF:-1 tvg-logo="", [B]REDETV[/B] []
+http://evp.mm.uol.com.br:1935/redetv1/redetv1/live.m3u8
 
+#EXTINF:-1 tvg-logo="", [B]SBT[/B] []
+http://evp.mm.uol.com.br:1935/ne10/ne10-tvjornal-recife-video-mobile.sdp/playlist.m3u8
 
-#EXTINF:-1Rede Brasil tvg-logo="Rede Brasil.png" group_title="TV ABERTA",Rede Brasil
-rtmp://137690976.r.cdnstreaming.net/live-137690976/rbtv.sdp 
+#EXTINF:-1 tvg-logo="", [B]TV ESCOLA[/B] []
+http://liveabr.sambatech.com.br:80/abr/acerpTvEscolaABR_1f9a5d00db56b3c3020b6ac3dd693e12/livestreamabr.m3u8
 
+#EXTINF:-1 tvg-logo="", [B]TVE[/B] []
+http://38.96.175.108:1935/tveducativa/tveducativa/live.m3u8
 
-#EXTINF:-1Rede TV tvg-logo="Rede TV.png" group_title="TV ABERTA",RedeTV
-rtmp://evp.mm.uol.com.br/redetv1/_definst_//redetv1 
+#EXTINF:-1 tvg-logo="", [B]TVE BAHIA[/B] []
+http://stream2.ba.gov.br:80/hls-live/livepkgr/_definst_/irdeb/pgm-1.m3u8
 
+#EXTINF:-1 tvg-logo="", [B]TVE MS[/B] []
+http://38.96.175.108:1935/tveducativa/tveducativa/live.m3u8
 
-#EXTINF:-1SBT tvg-logo="SBT.png" group_title="TV ABERTA",SBT
-http://srv3.zoeweb.tv:1935/z133-live/stream/playlist.m3u8 
+#EXTINF:-1 tvg-logo="", [B]DISCOVERY CHANNEL[/B] []
+http://208.86.19.13:8080/live/31.stream/index.m3u8
 
+#EXTINF:-1 tvg-logo="", [B]H2[/B] []
+http://fluvod1.giniko.com/all-documentaries/all-documentaries/tracks-1,6/index.m3u8
 
-#EXTINF:-1SBT SP tvg-logo="SBT HD.png" group_title="TV ABERTA",SBT
-rtmp://50.97.82.16:1935/transmissao/21hd 
+#EXTINF:-1 tvg-logo="", [B]NOSSA TV[/B] []
+http://stmv1.srvstm.com:1935/tvcadm/tvcadm/live.m3u8
 
+#EXTINF:-1 tvg-logo="", [B]CANAL RICOS[/B] []
+http://painel.tvdigitalhd.org:1935/canalricos548/canalricos548/playlist.m3u8
 
-#EXTINF:-1SBT tvg-logo="sbt.png" group_title="TV ABERTA",SBT1
-rtmp://31.204.128.76/live/master94 
+#EXTINF:-1 tvg-logo="", [B]CANAL SAUDE[/B] []
+http://gbbrlive2.sambatech.com.br:80/liveevent/CanalSaude_1d664cc5aa583759e0550c79d8e4e5b8/livestream/live.m3u8
 
+#EXTINF:-1 tvg-logo="", [B]SHOPTIME[/B] []
+http://cdnapi.kaltura.com:80/p/0/sp/0/playManifest/entryId/1_lld8saie/format/applehttp/live.m3u8
 
-#EXTINF:-1Terraviva tvg-logo="Terraviva.png" group_title="TV ABERTA",Terraviva
-rtmp://evp.mm.uol.com.br/terraviva/_definst_//terraviva 
+#EXTINF:-1 tvg-logo="", [B]VEM E VE TV[/B] []
+http://srv-vvtv.sisdera.com.br:1935/live/vvtv/livestream.m3u8
 
+#EXTINF:-1 tvg-logo="", [B]ALL SPORTS TV[/B] []
+http://173.236.10.10:1935/dgrau/dgrau/live.m3u8
 
-#EXTINF:-1TV Brasil tvg-logo="TV Brasil.png" group_title="TV ABERTA",TV Brasil
+#EXTINF:-1 tvg-logo="", [B]BAND SPORTS[/B] []
+http://ev.mm.uol.com.br:1935/geobband/operadoras/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="", [B]COMBATE[/B] []
+http://31.204.128.117:8081/live/combate/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="", [B]COMBATE HD[/B] []
+http://live.hls.globo.com/dvr/m/cbt24ha/playlist.m3u8
 
-#EXTINF:-1TV Escola tvg-logo="TV Escola.png" group_title="TV ABERTA",TV Escola
-http://livela.sambatech.com.br/hls-live/livepkgr/acerp_1f9a5d00db56b3c3020b6ac3dd693e12/liveevent/livestream.m3u8 
+#EXTINF:-1 tvg-logo="", [B]EI MAXX HD[/B] []
+http://mdstrm.com/live-stream-playlist/5801255b39c38e1109ddfabd.m3u8
 
+#EXTINF:-1 tvg-logo="", [B]EI MAXX 2 HD[/B] []
+http://mdstrm.com/live-stream-playlist/5801261189b415d108f9603c.m3u8
 
-#EXTINF:-1TV PoÃ§os tvg-logo="tv poÃ§os.png" group_title="TV ABERTA",TV poÃ§os
-rtmp://rtmp.cdn.upx.net.br/00084/myStream.sdp 
+#EXTINF:-1 tvg-logo="", [B]ESPN BRASIL[/B] []
+http://31.204.128.117:8081/live/espnbr/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="", [B]ESPORTE INTERATIVO HD[/B] []
+http://mdstrm.com/live-stream-playlist/58121908685da2dd08de7ec5.m3u8
 
-#EXTINF:-1TV Senado tvg-logo="TV Senado.png" group_title="TV ABERTA",TV Senado
-mms://drix.senado.gov.br/tv4 
+#EXTINF:-1 tvg-logo="", [B]ESPORTES PARA TODOS[/B] []
+http://173.236.10.10:1935/dgrau/dgrau/live.m3u8
 
+#EXTINF:-1 tvg-logo="", [B]EUROSPORT[/B] []
+http://esioslive6-i.akamaihd.net/hls/live/202874/AL_P_ESP1_INTER_ENG/playlist_1000.m3u8
 
-#EXTINF:-1TV UniÃ£o group_title="TV ABERTA",TV UniÃ£o
-rtmp://66.90.103.51:1935/tv/aovivo.sdp 
+#EXTINF:-1 tvg-logo="", [B]FOX SPORTS[/B] []
+http://31.204.128.117:8081/live/foxsport/playlist.m3u8
 
-#DOCUMENTARIOS
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DOCUMENTARIOS",[COLOR yellow]Â» Â» DOCUMENTARIOS Â« Â«[/COLOR]
-http://0.0.0.0:1234
+#EXTINF:-1 tvg-logo="", [B]FISH TV[/B] []
+http://gbbrlive2.sambatech.com.br:80/liveevent/fishtvabr_fbc599e48634a06e1b7223987b93de98/livestream3/live.m3u8
 
-#EXTINF:-1Discovery tvg-logo="Discovery Channel.png" group_title="DOCUMENTARIOS",Discovery Channel
-rtmp://31.204.128.75/live/ playpath=master04 swfUrl=http://www.tv-msn.com/player5.swf pageUrl=http://www.cdnbr.biz/mastertv/Discovery Channel.html
+#EXTINF:-1 tvg-logo="", [B]MEMORIES OF THE 2016 OLYMPIC GAMES[/B] []
+http://ocs-live.hls.adaptive.level3.net/ocs/channel01/NBC_OCS1_VIDEO_5_2264000.m3u8
 
+#EXTINF:-1 tvg-logo="", [B]POKER CENTRAL[/B] []
+http://ooyalahd2-f.akamaihd.net/i/crtv01_delivery@329705/index_1164_av-b.m3u8
 
-#EXTINF:-1DISCOVERY CIVILIZATION tvg-logo="Discovery Civilization.png" group_title="DOCUMENTARIOS",DISCOVERY CIVILIZATION
-rtmp://live.livestreamcast.org/live/discivil377/ playpath=discivil377 swfUrl=http://direct-stream.biz/jwplayer/jwplayer.flash.swf pageUrl=http://direct-stream.biz/embedFrame.php?c=discivil377&vw=468&vh=380
+#EXTINF:-1 tvg-logo="", [B]PREMIERE CLUBES[/B] []
+http://31.204.128.117:8081/live/pfc/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="", [B]REAL MADRID TV[/B] []
+http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1000_av-b.m3u8
 
-#EXTINF:-1Discovery Turbo group_title="DOCUMENTARIOS",Discovery Turbo
-rtmp://109.200.202.124/live playpath=turbo swfUrl=http://www.tv-msn.com/player5.swf pageUrl=http://tv-msn.com/turbo.html
+#EXTINF:-1 tvg-logo="", [B]SPORTV[/B] []
+http://31.204.128.117:8081/live/sportv/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="", [B]CANCAO NOVA[/B] []
+http://cnhls-lh.akamaihd.net:80/i/tvcnmob_1@147036/index_540_av-b.m3u8
 
-#EXTINF:-1HD THEATHER tvg-logo="Discovery Theater.png" group_title="DOCUMENTARIOS",HD THEATHER
-rtmp://31.204.153.70/live/ playpath=discohd swfUrl=http://www.tv-msn.com/player5.swf pageUrl=http://www.cdnbr.biz/mastertv/Discovery HD.html
+#EXTINF:-1 tvg-logo="", [B]PORTAL GOSPEL TV[/B] []
+http://s1.wsepanel.com:1935/lukfilm/lukfilm/live.m3u8
 
+#EXTINF:-1 tvg-logo="", [B]REDE FAMILIA[/B] []
+http://srv9.zoeweb.tv:1935/zw901/zw901_720p/live.m3u8
 
-#EXTINF:-1The History Channel tvg-logo="The History Channel.png" group_title="DOCUMENTARIOS",History
-http://tv-msn.com/history.html playpath=history swfUrl=http://www.tv-msn.com/player/player.swf pageUrl=http://tv-msn.com/history.html
+#EXTINF:-1 tvg-logo="", [B]REDE VIDA[/B] []
+http://rtsp.cdn.upx.net.br:1935/74cc/myStream.sdp/live.m3u8
 
+#EXTINF:-1 tvg-logo="", [B]SOBRENATURAL TV[/B] []
+http://213.13.26.11:1935/live/sobrenaturaltv/livestream.m3u8
 
-#EXTINF:-1ID InvestigaÃ§Ã£o group_title="DOCUMENTARIOS",ID InvestigaÃ§Ã£o
-rtmp://109.200.202.124/live playpath=liv swfUrl=http://www.tv-msn.com/player5.swf pageUrl=http://tv-msn.com/investigacao.html
+#EXTINF:-1 tvg-logo="", [B]TV APARECIDA[/B] []
+http://69.46.0.170:1935/tvaparecida/tvaparecida.stream/live.m3u8
 
+#EXTINF:-1 tvg-logo="", [B]TV JESUS CRISTO[/B] []
+http://srv6.zoeweb.tv:1935/z476-live/stream/livestream.m3u8
 
-#EXTINF:-1Nat Geo Wild tvg-logo="Fox NatGeo HD.png" group_title="DOCUMENTARIOS",Nat Geo Wild
-rtmp://109.200.202.124/live playpath=animal swfUrl=http://www.tv-msn.com/player5.swf pageUrl=http://tv-msn.com/natgeowild.html
+#EXTINF:-1 tvg-logo="", [B]TV NOVO TEMPO[/B] []
+http://stream.novotempo.com:1935/tv/tvnovotempo.smil/chunklist_b512000_slpor.m3u8
 
+#EXTINF:-1 tvg-logo="", [B]FILMES E SERIES DUB[/B] []
+http://flash1.crossdigital.com.br/ponto10/latina/playlist.m3u8
 
-#EXTINF:-1National Geographic group_title="DOCUMENTARIOS",National Geographic
-rtmp://109.200.202.124/live playpath=natgeo swfUrl=http://www.tv-msn.com/player5.swf pageUrl=http://tv-msn.com/natgeo.html
+#EXTINF:-1 tvg-logo="", [B]TELECINE[/B] []
+http://31.204.128.117:8081/live/fox/playlist.m3u8
 
-#ESPORTES
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="ESPORTES",[COLOR yellow]Â» Â» ESPORTES Â« Â«[/COLOR]
-http://0.0.0.0:1234
+#EXTINF:-1 tvg-logo="", [B]CARTOON NETWORK[/B] []
+http://31.204.128.117:8081/live/cartoon/playlist.m3u8
 
-#EXTINF:-1ESPN tvg-logo="ESPN.png" group_title="ESPORTES",ESPN
-rtmp://94.242.228.14:1944/repeat playpath=aka44 swfUrl=http://gringocast.eu/videoPlayer.swf pageUrl=http://gringocast.eu/apk.php?ch=Espn&h=354&w=486&file=espn.flv
+#EXTINF:-1 tvg-logo="", [B]DESENHOS 1[/B] []
+http://wse.stmip.in:1935/rtguarany/rtguarany/live.m3u8
 
+#EXTINF:-1 tvg-logo="", [B]DESENHOS 2[/B] []
+http://wowza2.netpoint.com.br/viamorena/live/playlist.m3u8
 
-#EXTINF:-1ESPN BRASIL tvg-logo="ESPN Brasil.png" group_title="ESPORTES",ESPN Brasil
-rtmp://94.242.228.14:1944/loadbalance playpath=juba10 swfUrl=http://gringocast.eu/videoPlayer.swf pageUrl=http://gringocast.eu/apk.php?ch=Espn%20Brasil&h=354&w=486&file=espnbrasil.flv
+#EXTINF:-1 tvg-logo="", [B]DISCOVERY KIDS[/B] []
+http://31.204.128.117:8081/live/discoverykids/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="", [B]DISNEY CHANNEL[/B] []
+http://31.204.128.117:8081/live/disney/playlist.m3u8
 
-#EXTINF:-1ESPN+ tvg-logo="ESPN+.png" group_title="ESPORTES",ESPN [+]
-rtmp://31.204.128.74/live/ playpath=master27 swfUrl=http://www.tv-msn.com/player/player.swf live=1 pageUrl=Url=http://www.cdnbr.biz/mastertv/ESPN%20HD.html
+#EXTINF:-1 tvg-logo="", [B]NICK[/B] []
+http://142.4.219.208:1935/redecanaisnick/redecanaisnick/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="", [B]1HD MUSIC[/B] []
+http://80.250.191.10:1935/live/livestream1/playlist.m3u8
 
-#EXTINF:-1Fox Sports2 tvg-logo="Fox Sports2.png" group_title="ESPORTES",FoxSports2
-rtmp://94.242.228.14:1944/repeat playpath=aka3 swfUrl=http://gringocast.eu/videoPlayer.swf pageUrl=http://gringocast.eu/apk.php?ch=Foxsports2&h=354&w=486&file=foxsports2.flv
+#EXTINF:-1 tvg-logo="", [B]DJ HITS[/B] []
+http://www.djing.com/tv/04.m3u8
 
+#EXTINF:-1 tvg-logo="", [B]DREAM TV[/B] []
+http://212.224.108.80/S1/HLS_LIVE/dreamtv/1000/prog_index.m3u8
 
-#EXTINF:-1Kombat Sports group_title="ESPORTES",Kombat Sports
-http://kombat-hls.live.numericable.tv/live/hls/kombat/ipad.m3u8 
+#EXTINF:-1 tvg-logo="", [B]EU MUSIC BRASIL[/B] []
+http://stmv1.hostgs.net:1935/jtvmilk/jtvmilk/live.m3u8
 
+#EXTINF:-1 tvg-logo="", [B]FILMON ROCK TV[/B] []
+http://198.179.31.197/live/311.high.stream/playlist.m3u8
 
-#EXTINF:-1PFC group_title="ESPORTES",PFC
-rtmp://31.204.153.70/live/ playpath=discohd swfUrl=http://www.tv-msn.com/player5.swf pageUrl=http://www.cdnbr.biz/mastertv/Discovery HD.html
+#EXTINF:-1 tvg-logo="", [B]HEART TV[/B] []
+http://ooyalahd2-f.akamaihd.net/i/globalradio02_delivery@156522/index_398_av-p.m3u8
 
+#EXTINF:-1 tvg-logo="", [B]M6 MUSIC[/B] []
+http://sslhls.m6tv.cdn.sfr.net/hls-live/livepkgr/_definst_/m6_music_hits_hls_aes/m6_music_hits_hls_aes_856.m3u8
 
-#EXTINF:-1Sports+ group_title="ESPORTES",Sports+
-rtmp://31.204.153.71/live/ playpath=sportsmais swfUrl=http://www.tv-msn.com/player5.swf pageUrl=http://www.cdnbr.biz/mastertv/Sports+.html
+#EXTINF:-1 tvg-logo="", [B]RADIO 105 TV[/B] []
+http://fms.105.net:1935/live/105Test1/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="", [B]RADIO MONTE CARLO TV[/B] []
+http://wow01.105.net/live/rmc1/playlist.m3u8
 
-#EXTINF:-1Sportv Tv tvg-logo="SporTV.png" group_title="ESPORTES",SporTV
-rtmp://94.242.228.14:1944/repeat playpath=juba1 swfUrl=http://gringocast.eu/videoPlayer.swf pageUrl=http://gringocast.eu/apk.php?ch=SporTV&h=354&w=486 
+#EXTINF:-1 tvg-logo="", [B]RETRO MUSIC HD[/B] []
+http://stream.mediawork.cz/retrotv//retrotvHQ1/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="", [B]ROCK 'N ROLL[/B] []
+http://198.179.31.197/live/2942.high.stream/playlist.m3u8
 
-#EXTINF:-1SporTV tvg-logo="SporTV.png" group_title="ESPORTES",SporTV
-rtmp://cdn.direct-stream.org/liverepeat/ playpath=201020 swfUrl=http://direct-stream.biz/jwplayer/jwplayer.flash.swf pageUrl=http://direct-stream.biz/embedPlayer_.php?c=GVTPOP&vw=468&vh=400
+#EXTINF:-1 tvg-logo="", [B]VIRGIN TV[/B] []
+http://wow01.105.net/live/virgin1/chunklist_w1531272998.m3u8
 
+#EXTINF:-1 tvg-logo="", [B]WEB TV CLIPES[/B] []
+http://stmv1.euroti.com.br:1935/stmdemo/stmdemo/live.m3u8
 
-#EXTINF:-1Sportv 3 group_title="ESPORTES",Sportv 3
-rtmp://93.174.93.50:443/liveedge/ playpath=esportestv3FSr swfUrl=http://turbocast.tv/images/player.swf pageUrl=http://micast.tv/br.php?ch=esportestv3FSr
+#EXTINF:-1 tvg-logo="", [B]ABC NEWS[/B] []
+http://abclive.abcnews.com:80/i/abc_live4@136330/index_1200_av-b.m3u8
 
-#FILMES
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="FILMES",[COLOR yellow]Â» Â» FILMES Â« Â«[/COLOR]
-http://0.0.0.0:1234
+#EXTINF:-1 tvg-logo="", [B]BBC WORLD NEWS[/B] []
+http://lcdn.une.net.co:80/v1/AUTH_HLSLIVE/BBCW/tu1_1.m3u8
 
-#EXTINF:-1 group_title="FILMES",
+#EXTINF:-1 tvg-logo="", [B]BLOOMBERG TV[/B] []
+http://btv-i.akamaihd.net:80/hls/live/202760/btvusa_ios/P1/M10K.m3u8
 
+#EXTINF:-1 tvg-logo="", [B]DW NEWS[/B] []
+http://dwstream4-lh.akamaihd.net:80/i/dwstream4_live@131329/index_1_av-b.m3u8
 
+#EXTINF:-1 tvg-logo="", [B]EURONEWS[/B] []
+http://fr-par-iphone-1.cdn.hexaglobe.net:80/streaming/euronews_ewns/29-live.m3u8
 
-#EXTINF:-1Cinemax tvg-logo="Cinemax.png" group_title="FILMES",CINEMAX
-rtmp://31.204.128.140/live/ playpath=53 swfUrl=http://www.tv-msn.com/player5.swf pageUrl=http://www.cdnbr.biz/mastertv/Cinemax.html
-
-
-#EXTINF:-1Filmes group_title="FILMES",Filmes
-rtmp://66.90.111.50/ctv playpath=filmes swfUrl=http://www.carolineoliveira.com.br/swf/player.swf pageUrl=http://carolineoliveira.com.br/tvamigos/filmes.html
-
-
-#EXTINF:-1FX group_title="FILMES",FX
-rtmp://31.204.128.75/live/ playpath=master25 swfUrl=http://www.tv-msn.com/player5.swf live=1 pageUrl=http://www.cdnbr.biz/mastertv/FX.html
-
-
-#EXTINF:-1HBO Plus tvg-logo="HBO Plus.png" group_title="Filmes",HBO +
-rtmp://109.200.202.124:1935/live playpath=hboplus swfUrl=http://www.tv-msn.com/StroveMediaPlaybackSecureToken-fp10.swf pageUrl=http://tv-msn.com/hboplus.html token=ef8e8620da151301dfa07b3886ab30ad live=1
-
-
-#EXTINF:-1HBO 2 group_title="FILMES",HBO 2
-rtmp://109.200.202.124/live playpath=hbo2 swfUrl=http://www.tv-msn.com/player5.swf live=1 pageUrl=http://tv-msn.com/hbo2.html
-
-
-#EXTINF:-1HBO Family tvg-logo="HBO Family.png" group_title="FILMES",HBO Family
-rtmp://109.200.202.124:1935/live playpath=hbofamily swfUrl=http://www.tv-msn.com/StroveMediaPlaybackSecureToken-fp10.swf pageUrl=http://tv-msn.com/hbofamily.html token=ef8e8620da151301dfa07b3886ab30ad live=1
-
-
-#EXTINF:-1MAX HD tvg-logo="Cinemax.png" group_title="FILMES",MAX HD
-rtmp://109.200.202.124:1935/live playpath=maxhd swfUrl=http://www.tv-msn.com/StroveMediaPlaybackSecureToken-fp10.swf pageUrl=http://tv-msn.com/maxhd.html
-
-
-#EXTINF:-1Megapix tvg-logo="Megapix.png" group_title="FILMES",Megapix 
-rtmp://31.204.128.73/live/ playpath=master11 swfUrl=http://www.tv-msn.com/player/player.swf live=1 pageUrl=http://www.cdnbr.biz/mastertv/Megapix.html
-
-
-#EXTINF:-1MGM group_title="FILMES",MGM
-rtmp://109.200.202.124/live playpath=mgm swfUrl=http://www.tv-msn.com/player5.swf pageUrl=http://tv-msn.com/mgm.html
-
-
-#EXTINF:-1Sony tvg-logo="Sony.png" group_title="FILMES",Sony
-rtmp://109.200.202.124:1935/live playpath=sony swfUrl=http://www.tv-msn.com/StroveMediaPlaybackSecureToken-fp10.swf pageUrl=http://tv-msn.com/sony.html
-
-
-#EXTINF:-1SPACE tvg-logo="Space.png" group_title="FILMES",Space
-rtmp://109.200.202.124/live playpath=space swfUrl=http://www.tv-msn.com/player/player.swf pageUrl=http://tv-msn.com/space.html
-
-
-#EXTINF:-1Telecine Action tvg-logo="Telecine Action.png" group_title="FILMES",Telecine Action
-rtmp://31.204.128.75/live/ playpath=master17 swfUrl=http://www.tv-msn.com/player5.swf pageUrl=http://www.cdnbr.biz/mastertv/Telecine%20Action.html
-
-
-#EXTINF:-1Telecine Cult tvg-logo="Telecine Cult.png" group_title="FILMES",Telecine Cult
-rtmp://109.200.202.124/live playpath=tccult swfUrl=http://www.tv-msn.com/player/player.swf live=1 pageUrl=http://tv-msn.com/tccult.html
-
-
-#EXTINF:-1Telecine Pipoca tvg-logo="Telecine Pipoca.png" group_title="FILMES",Telecine Pipoca
-rtmp://31.204.128.74/live/ playpath=master18 swfUrl=http://www.tv-msn.com/player5.swf pageUrl=http://www.cdnbr.biz/mastertv/Telecine%20Pipoca.html
-
-
-#EXTINF:-1Telecine Premium group_title="FILMES",Telecine Premium
-rtmp://31.204.128.140/live/ playpath=master19 swfUrl=http://www.tv-msn.com/player5.swf pageUrl=http://www.cdnbr.biz/mastertv/Telecine Premium.html
-
-
-#EXTINF:-1Telecine Touch group_title="FILMES",Telecine Touch
-rtmp://109.200.202.124/live playpath=touch swfUrl=http://www.tv-msn.com/player5.swf pageUrl=http://tv-msn.com/touch.html
-
-
-#EXTINF:-1TNT tvg-logo="TNT.png" group_title="FILMES",TNT
-rtmp://31.204.128.74/live/ playpath=master77 swfUrl=http://www.tv-msn.com/player5.swf pageUrl=http://www.cdnbr.biz/mastertv/TNT.html
-
-
-#EXTINF:-1Universal group_title="FILMES",Universal
-rtmp://31.204.128.75/live/ playpath=master20 swfUrl=http://www.tv-msn.com/player5.swf pageUrl=http://www.cdnbr.biz/mastertv/Universal Channel.html
-
-#INFANTIL
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="INFANTIL",[COLOR yellow]Â» Â» INFANTIL Â« Â«[/COLOR]
-http://0.0.0.0:1234
-
-#EXTINF:-124hrs - Dragon Ball group_title="INFANTIL",24hrs - Dragon Ball
-http://66.90.111.50:1935/ctv/dbz/playlist.m3u8 playpath=dragon 
-
-
-#EXTINF:-1Batman tvg-logo="batman.jpg" group_title="INFANTIL",Batman
-http://66.90.111.50:1935/ctv/batman/playlist.m3u8 playpath=Batman 
-
-
-#EXTINF:-1Ben 10 tvg-logo="Ben 10" group_title="INFANTIL",Ben 10
-http://66.90.111.50:1935/ctv/ben10/playlist.m3u8 playpath=Ben 10 
-
-
-#EXTINF:-1bob esponja tvg-logo="bob esponja" group_title="INFANTIL",bob esponja
-http://66.90.111.50:1935/ctv/bob/playlist.m3u8 playpath=bob esponja 
-
-
-#EXTINF:-1Boomerang group_title="INFANTIL",Boomerang
-http://boomerang-hls.live.numericable.tv/live/hls/boomerang/ipad.m3u8 
-
-
-#EXTINF:-1CARTOON NETWORK group_title="INFANTIL",CARTOON NETWORK
-rtmp://94.242.228.41:1935/live/ playpath=cartoon swfUrl=http://www.tvonline.org/p.swf pageUrl=http://www.tvonline.org/out/cartoon.html
-
-
-#EXTINF:-1castelo ratimbum tvg-logo="castelo ratimbum" group_title="INFANTIL",castelo ratimbum
-http://66.90.111.50:1935/ctv/castelo/playlist.m3u8 playpath=castelo ratimbum 
-
-
-#EXTINF:-1CAVERNA DO DRAGÃƒO tvg-logo="CAVERNA DO DRAGÃƒO" group_title="INFANTIL",CAVERNA DO DRAGÃƒO
-http://66.90.111.50:1935/ctv/caverna/playlist.m3u8 playpath=CAVERNA DO DRAGÃƒO 
-
-
-#EXTINF:-1chaves tvg-logo="chaves.jpg" group_title="INFANTIL",chaves
-http://66.90.111.50:1935/ctv/chaves/playlist.m3u8 playpath=chaves 
-
-
-#EXTINF:-1Discovery Kids group_title="INFANTIL",Discovery Kids
-rtmp://31.204.128.74/live/ playpath=master24 swfUrl=http://www.tv-msn.com/player/player.swf pageUrl=http://www.cdnbr.biz/canais/Discovery Kids.html
-
-
-#EXTINF:-1Disney Channel group_title="INFANTIL",Disney Channel
-rtmp://109.200.202.124/live playpath=disney swfUrl=http://www.tv-msn.com/player5.swf live=1 pageUrl=http://www.tv-msn.com/disney.html
-
-
-#EXTINF:-1DISNEY JR group_title="INFANTIL",DISNEY JR
-rtmp://109.200.202.124/live playpath=animax swfUrl=http://www.tv-msn.com/player/player.swf pageUrl=http://tv-msn.com/disneyjr.html
-
-
-#EXTINF:-1FUTURAMA 24h group_title="INFANTIL",FUTURAMA
-rtmp://208.53.133.178/ctv playpath=futurama swfUrl=http://www.carolineoliveira.com.br/swf/player.swf pageUrl=http://carolineoliveira.com.br/tvamigos/futurama.html
-
-
-#EXTINF:-1Gloob group_title="INFANTIL",Gloob
-rtmp://31.204.128.73/live/ playpath=master35 swfUrl=http://www.tv-msn.com/player/player.swf pageUrl=http://www.cdnbr.biz/canais/Gloob.html
-
-
-#EXTINF:-1icarly tvg-logo="icarly" group_title="INFANTIL",icarly
-http://66.90.111.50:1935/ctv/icarly/playlist.m3u8 playpath=icarly 
-
-
-#EXTINF:-1Naruto tvg-logo="Naruto" group_title="INFANTIL",Naruto
-http://66.90.111.50:1935/ctv/naruto/playlist.m3u8 playpath=Naruto 
-
-
-#EXTINF:-1NICK 2 group_title="INFANTIL",NICK 2
-rtmp://31.204.153.72/live/ playpath=hd2 swfUrl=http://www.tv-msn.com/player5.swf pageUrl=http://www.cdnbr.biz/mastertv/Nick%20HD.html
-
-
-#EXTINF:-1NICK HD group_title="INFANTIL",NICK HD
-rtmp://31.204.153.72/live/ playpath=hd2 swfUrl=http://www.cdnbr.biz/swf/player.swf pageUrl=http://www.cdnbr.biz/mastertv/Nick HD.html
-
-
-#EXTINF:-1Nick Junior group_title="INFANTIL",Nick Junior
-rtmp://109.200.202.124/live playpath=nickjr swfUrl=http://www.tv-msn.com/player5.swf live=1 pageUrl=http://tv-msn.com/nickjr.htm
-
-
-#EXTINF:-1padrinhos magicos tvg-logo="padrinhos.jpg" group_title="INFANTIL",padrinhos magicos
-http://66.90.111.50:1935/ctv/padrinhos/playlist.m3u8 playpath=padrinhos magicos 
-
-
-#EXTINF:-1picapau tvg-logo="picapau.jpg" group_title="INFANTIL",picapau
-http://66.90.111.50:1935/ctv/picapau/playlist.m3u8 playpath=picapau 
-
-
-#EXTINF:-124hrs - Pinguins de Madagascar group_title="INFANTIL",Pinguins de Madagascar
-http://66.90.111.50:1935/ctv/pinguins/playlist.m3u8 playpath=pinguins 
-
-
-#EXTINF:-1Scooby doo tvg-logo="Scooby doo" group_title="INFANTIL",Scooby doo
-http://66.90.111.50:1935/ctv/scooby/playlist.m3u8 playpath=Scooby doo 
-
-
-#EXTINF:-1Simpsons tvg-logo="Simpsons" group_title="INFANTIL",Simpsons
-http://66.90.111.50:1935/ctv/simpsons/playlist.m3u8 playpath=Simpsons 
-
-
-#EXTINF:-1southpark tvg-logo="southpark" group_title="INFANTIL",southpark
-http://66.90.111.50:1935/ctv/southpark/playlist.m3u8 playpath=southpark 
-
-
-#EXTINF:-1Tooncast group_title="INFANTIL",Tooncast
-rtmp://109.200.202.124/live playpath=tooncast swfUrl=http://www.tv-msn.com/player5.swf pageUrl=http://tv-msn.com/tooncast.html
-
-
-#EXTINF:-1yugioh tvg-logo="yugioh" group_title="INFANTIL",yugioh
-http://66.90.111.50:1935/ctv/yugioh/playlist.m3u8 playpath=yugioh 
-
-#MUSICA
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="MUSICA",[COLOR yellow]Â» Â» MUSICA Â« Â«[/COLOR]
-http://0.0.0.0:1234
-
-#EXTINF:-1 Eska Best Music group_title="MUSICA", Eska Best Music
-rtmp://stream.smcloud.net/live2/best/best_720p 
-
-
-#EXTINF:-1 Eska Party group_title="MUSICA", Eska Party
-rtmp://stream.smcloud.net/live2/eska_party/eska_party_360p 
-
-
-#EXTINF:-11 HD group_title="MUSICA",1 HD
-rtmp://109.239.142.62/live/livestream3 
-
-
-#EXTINF:-1Capital TV group_title="MUSICA",Capital TV
-rtmp://cdn-SOV-2.musicradio.com:80/LiveVideo/Capital 
-
-
-#EXTINF:-1ClubLand group_title="MUSICA",ClubLand
-http://rrr.sz.xlcdn.com/?account=AATW&file=clublandtv&type=live&service=wowza&protocol=http&output=playlist.m3u8 
-
-
-#EXTINF:-1EP TV group_title="MUSICA",EP TV
-rtmp://europaplus.cdnvideo.ru:1935/europaplus-live/eptv_main.sdp 
-
-
-#EXTINF:-1Eska Party group_title="MUSICA",Eska Party
-rtmp://stream.smcloud.net/live2/eska_party/eska_party_360p 
-
-
-#EXTINF:-1Eska Rock group_title="MUSICA",Eska Rock
-rtmp://stream.smcloud.net/live2/eska_rock/eska_rock_720p 
-
-
-#EXTINF:-1Eska TV group_title="MUSICA",Eska TV
-rtmp://stream.smcloud.net/live/eskatv 
-
-
-#EXTINF:-1Eska Wawa TV Polska group_title="MUSICA",Eska Wawa TV Polska
-rtmp://stream.smcloud.net/live2/wawa/wawa_360p 
-
-
-#EXTINF:-1First Music HD group_title="MUSICA",First Music HD
-rtmp://109.239.142.62/live/livestream3 
-
-
-#EXTINF:-1For Music group_title="MUSICA",For Music
-rtmp://wowza1.top-ix.org/quartaretetv1 playpath=formusicweb swfUrl=live=1 
-
-
-#EXTINF:-1Four Music group_title="MUSICA",Four Music
-http://csm-e.cds1.yospace.com/csm/live/86550614.m3u8 
-
-
-#EXTINF:-1Gotica TV group_title="MUSICA",Gotica TV
-rtmp://149.11.34.6/live/gotica.stream 
-
-
-#EXTINF:-1Heart TV group_title="MUSICA",Heart TV
-rtmp://cdn-sov-2.musicradio.com:80/LiveVideo/Heart 
-
-
-#EXTINF:-1Ibiza On TV group_title="MUSICA",Ibiza On TV
-rtsp://46.249.213.87/broadcast/ibizaontv-tablet.3gp?trackingid=3041310000 
-
-
-#EXTINF:-1Iper TV Italy group_title="MUSICA",Iper TV Italy
-mmsh://mediatv2.topix.it/24Ipertv66 
-
-
-#EXTINF:-1Kiss TV tvg-logo="kisstv.png" group_title="MUSICA",Kiss TV
-rtmp://tst.es.flash.glb.ipercast.net/tst.es-live/live 
-
-
-#EXTINF:-1Lobas TV group_title="MUSICA",Lobas TV
-http://149.11.34.6:1935/live/lobas.stream/playlist.m3u8 
-
-
-#EXTINF:-1Magic TV group_title="MUSICA",Magic TV
-http://csm-e.cds1.yospace.com/csm/live/86561776.m3u8 
-
-
-#EXTINF:-1Now Music group_title="MUSICA",Now Music
-http://rrr.sz.xlcdn.com/?account=AATW&file=nowmusic&type=live&service=wowza&protocol=http&output=playlist.m3u8 
-
-
-#EXTINF:-1Ocko group_title="MUSICA",Ocko
-rtmp://194.79.52.77/ockoi//ockoHQ1 
-
-
-#EXTINF:-1Party TV Entertainment group_title="MUSICA",Party TV Entertainment
-rtmp://149.11.34.6/live/partytv.stream 
-
-
-#EXTINF:-1Pik TV group_title="MUSICA",Pik TV
-rtmp://fms.pik-tv.com/live/piktv2pik2tv 
-
-
-#EXTINF:-1Planet Pop group_title="MUSICA",Planet Pop
-http://cdn.live.simplestream.com/D6I0S4IWX8O1NJDNBTRE/3/playlist-limelight.m3u8 
-
-
-#EXTINF:-1Polo TV group_title="MUSICA",Polo TV
-rtmp://stream.smcloud.net/live/polotv 
-
-
-#EXTINF:-1Quiero Musica group_title="MUSICA",Quiero Musica
-mms://streamqm.uigc.net/qmusica 
-
-
-#EXTINF:-1Radio MonteCarloTV tvg-logo="Radio MonteCarloTV.png" group_title="MUSICA",Radio MonteCarloTV
-rtmp://fms.105.net:1935/live playpath=rmc1 swfUrl=live=1 
-
-
-#EXTINF:-1Radiou group_title="MUSICA",Radiou.TV
-rtmp://cdn.rbm.tv/rightbrainmedia-live-109/_definst_//mp4:radioutv1 
-
-
-#EXTINF:-1Smash Hits group_title="MUSICA",Smash Hits
-http://csm-e.cds1.yospace.com/csm/live/86561609.m3u8 
-
-
-#EXTINF:-1Street Clip TV group_title="MUSICA",Street Clip TV
-rtmp://stream.streetclip.tv:1935/live/high-stream 
-
-
-#EXTINF:-1Vevo TV group_title="MUSICA",Vevo TV
-http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch1/appleman.m3u8 
-
-
-#EXTINF:-1Vevo TV 2 group_title="MUSICA",Vevo TV 2
-http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch2/05/prog_index.m3u8 
-
-
-#EXTINF:-1Vevo TV 3 group_title="MUSICA",Vevo TV 3
-http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch3/06/prog_index.m3u8 
-
-#RELIGIOSOS
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="RELIGIOSOS",[COLOR yellow]Â» Â» RELIGIOSOS Â« Â«[/COLOR]
-http://0.0.0.0:1234
-
-#EXTINF:-1 Aparecida HD tvg-logo="TV Aparecida.png" group_title="RELIGIOSOS", Aparecida HD
-rtmp://caikrondatacenter.com.br:1935/tvaparecida/tvaparecida.stream 
-
-
-#EXTINF:-1Rede Vida tvg-logo="Rede Vida.png" group_title="RELIGIOSOS",REDE VIDA
-rtmp://rtmp.cdn.upx.net.br:80/74cc/ playpath=myStream.sdp swfUrl=http://releases.flowplayer.org/5.4.3/commercial/flowplayer.swf pageUrl=http://www.redevida.com.br/ao-vivo/ live=true timeout=60
-
-#SERIES
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="SERIES",[COLOR yellow]Â» Â» SERIES Â« Â«[/COLOR]
-http://0.0.0.0:1234
-
-#EXTINF:-1A&E tvg-logo="AeE.png" group_title="SERIES",A&E
-rtmp://109.200.202.124/live playpath=ae_1 swfUrl=http://www.tv-msn.com/player/player.swf live=1 pageUrl=http://tv-msn.com/ae.html
-
-
-#EXTINF:-1AXN tvg-logo="AXN.png" group_title="SERIES",AXN
-rtmp://31.204.128.76/live/ playpath=master52 swfUrl=http://www.tv-msn.com/player/player.swf live=1 pageUrl=http://www.cdnbr.biz/mastertv/AXN.html
-
-
-#EXTINF:-1CRIMINAL MINDS tvg-logo="CRIMINAL MINDS" group_title="SERIES",CRIMINAL MINDS
-http://66.90.111.50:1935/ctv/criminal/playlist.m3u8 playpath=CRIMINAL MINDS 
-
-
-#EXTINF:-1csi tvg-logo="csi" group_title="SERIES",csi
-http://66.90.111.50:1935/ctv/csi/playlist.m3u8 playpath=csi 
-
-
-#EXTINF:-1DRAKE AND JOSH tvg-logo="DRAKE AND JOSH" group_title="SERIES",DRAKE AND JOSH
-http://66.90.111.50:1935/ctv/drake/playlist.m3u8 playpath=DRAKE AND JOSH 
-
-
-#EXTINF:-1EU A PATROA E AS CRIANÃ‡A tvg-logo="EU A PATROA E AS CRIANÃ‡A" group_title="SERIES",EU A PATROA E AS CRIANÃ‡A
-http://66.90.111.50:1935/ctv/patroa/playlist.m3u8 playpath=EU A PATROA E AS CRIANÃ‡A 
-
-
-#EXTINF:-1FAMILIA DA PESADA tvg-logo="FAMILIA DA PESADA" group_title="SERIES",FAMILIA DA PESADA
-http://66.90.111.50:1935/ctv/family/playlist.m3u8 playpath=FAMILIA DA PESADA 
-
-
-#EXTINF:-1FOX  tvg-logo="Fox.png" group_title="SERIES",FOX
-rtmp://31.204.128.140/live/fox.flv playpath=fox 
-
-
-#EXTINF:-1friends tvg-logo="friends" group_title="SERIES",friends
-http://66.90.111.50:1935/ctv/friends/playlist.m3u8 playpath=friends 
-
-
-#EXTINF:-1glee tvg-logo="glee" group_title="SERIES",glee
-http://66.90.111.50:1935/ctv/glee/playlist.m3u8 playpath=glee 
-
-
-#EXTINF:-1GOSSIP GIRL tvg-logo="GOSSIP GIRL" group_title="SERIES",GOSSIP GIRL
-http://66.90.111.50:1935/ctv/gossip/playlist.m3u8 playpath=GOSSIP GIRL 
-
-
-#EXTINF:-1KENAN E KEL tvg-logo="KENAN E KEL" group_title="SERIES",KENAN E KEL
-http://66.90.111.50:1935/ctv/kenan/playlist.m3u8 playpath=KENAN E KEL 
-
-
-#EXTINF:-1Lost tvg-logo="Lost" group_title="SERIES",Lost
-http://66.90.111.50:1935/ctv/lost/playlist.m3u8 playpath=Lost 
-
-
-#EXTINF:-1Prison break tvg-logo="Prison break" group_title="SERIES",Prison break
-http://66.90.111.50:1935/ctv/prison/playlist.m3u8  playpath=Prison break 
-
-
-#EXTINF:-1supernatural tvg-logo="supernatural" group_title="SERIES",supernatural
-http://66.90.111.50:1935/ctv/supernatural/playlist.m3u8 playpath=supernatural 
-
-
-#EXTINF:-1THE BIG BANG THEORY tvg-logo="THE BIG BANG THEORY" group_title="SERIES",THE BIG BANG THEORY
-http://66.90.111.50:1935/ctv/big/playlist.m3u8 playpath=THE BIG BANG THEORY 
-
-
-#EXTINF:-1Tudo mundo Odeia cris tvg-logo="Tudo mundo Odeia cris" group_title="SERIES",Tudo mundo Odeia cris
-http://66.90.111.50:1935/ctv/cris/playlist.m3u8  playpath=Tudo mundo Odeia cris 
-
-
-#EXTINF:-1Two and walf Man tvg-logo="Two and walf Man" group_title="SERIES",Two and walf Man
-http://66.90.111.50:1935/ctv/two/playlist.m3u8 playpath=Two and walf Man 
-
-
-#EXTINF:-1Um maluco no pedaco tvg-logo="Um maluco no pedaco" group_title="SERIES",Um maluco no pedaco
-http://66.90.111.50:1935/ctv/maluconopedaco/playlist.m3u8 playpath=Um maluco no pedaco 
-
-
-#EXTINF:-1WARNER group_title="SERIES",WARNER
-rtmp://31.204.128.76/live/master22 playpath=master22 swfUrl=http://www.cdnbr.biz/swf/player.swf pageUrl=http://www.cdnbr.biz/mastertv/Warner%20Brothers.html
-
-
-#EXTINF:-1WARNER BROTHERS tvg-logo="Warner.png" group_title="SERIES",Warner Brothers
-rtmp://31.204.128.76/live/ playpath=master22 swfUrl=http://www.tv-msn.com/player5.sw pageUrl=http://www.cdnbr.biz/mastertv/Warner%20Brothers.html
-
-
-#TV INTERNACIONAL
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TV INTERNACIONAL",[COLOR yellow]Â» Â» TV INTERNACIONAL Â« Â«[/COLOR]
-http://0.0.0.0:1234
-
-#EXTINF:-1 group_title="TV INTERNACIONAL",
-
-
-
-#EXTINF:-1CNN Chile tvg-logo="cnn.png" group_title="TV INTERNACIONAL",CNN Chile
-rtmp://200.83.3.28:80/CNN-CHILE/CNN-CHILE playpath=CNN-CHILE swfUrl=http://vtr.com/cnnf/flowplayer.rtmp-3.1.3.swf pageUrl=http://www.chilenext.com/2013/12/cnn-chile.html live=true timeout=15
-
-
-#EXTINF:-1CNN Turquia tvg-logo="cnn.png" group_title="TV INTERNACIONAL",CNN Turquia
-http://212.224.108.80/S1/HLS_LIVE/cnn_turk/1000/prog_index.m3u8 
-
-
-#EXTINF:-1Euronews PT tvg-logo="Euronews.png" group_title="TV INTERNACIONAL",Euronews PT
-http://hd1.lsops.net/live/euronews_pt_340/PAZ.m3u8 
-
-
-#EXTINF:-1LifeNews group_title="TV INTERNACIONAL",LifeNews(Russia)
-http://tv.life.ru/lifetv/360p/index.m3u8 
-
-
-#EXTINF:-1RTP InformaÃ§Ã£o  tvg-logo="rtpinformaÃ§Ã£o.png" group_title="TV INTERNACIONAL",RTP InformaÃ§Ã£o PT
-rtmp://ec22.rtp.pt/livetv playpath=2ch64h264 swfUrl=http://www.rtp.pt/play/player.swf live=1  pageUrl=http://www.rtp.pt/play/direto/rtpinformacao
-
-#TV REGIONAL
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TV REGIONAL",[COLOR yellow]Â» Â» TV REGIONAL Â« Â«[/COLOR]
-http://0.0.0.0:1234
-
-#EXTINF:-1 Diario tvg-logo="tv diario.png" group_title="TV REGIONAL", Diario
-http://livela.sambatech.com.br/hls-live/livepkgr/tvdiario_2ff357495c9f34b35fc02b51ee33d935/liveevent/livestream.m3u8 
-
-
-#EXTINF:-1BH News group_title="TV REGIONAL",BH News
-rtmp://54.90.146.156/3125 playpath=3125-hotmedia.sdp swfUrl=http://www.z1on.com/flashjw/playerjw.swf live=1 pageUrl=http://www.z1on.com/flashjw/3125/?src=iframe&embed=1&controlbar=1
-
-
-#EXTINF:-1Rede Minas tvg-logo="redeminas.png" group_title="TV REGIONAL",Rede Minas
-rtmp://rtmp.cdn.upx.net.br/00046/myStream.sdp 
-
-#VARIEDADES
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="VARIEDADES",[COLOR yellow]Â» Â» VARIEDADES Â« Â«[/COLOR]
-http://0.0.0.0:1234
-
-#EXTINF:-1CANAL VIVA tvg-logo="viva.png" group_title="VARIEDADES",CANAL VIVA
-rtmp://31.204.128.73/live/ playpath=master21 swfUrl=http://www.tv-msn.com/player5.swf pageUrl=http://www.cdnbr.biz/mastertv/Viva.html
-
-
-#EXTINF:-1GNT group_title="VARIEDADES",GNT
-rtmp://31.204.128.76/live/ playpath=132 swfUrl=http://www.tv-msn.com/player/player.swf pageUrl=http://www.cdnbr.biz/canais/GNT.html
+#EXTINF:-1 tvg-logo="", [B]RECORD NEWS HD[/B] []
+http://streaming57.sitehosting.com.br:1935/redesim/redesim/playlist.m3u8
  
