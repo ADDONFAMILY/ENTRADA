@@ -720,3 +720,5 @@ plugin://plugin.video.f4mTester/?name=IPTV Play&streamtype=TSDOWNLOADER&amp;url=
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", Sexy Hot SD
 http://maxptv.ddns.net:25461/andre01/andre01/54
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", Playboy SD
+http://maxptv.ddns.net:25461/andre01/andre01/87
