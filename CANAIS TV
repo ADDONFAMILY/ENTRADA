@@ -68,17 +68,21 @@ https://5c49cd60dfe56.streamlock.net:6443/canaldoboi/live/chunklist_w1731673664.
 #EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/98f2c63bd8626875fa4b533767d074ff.png" group-title="",TV CARUARU
 http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-b.m3u8
  
-#EXTINF:-1 tvg-id="Tvbahia.br" tvg-name="TV BAHIA FHD" tvg-logo="https://i.imgur.com/bgQ7sbU.png" group-title="Globos Regionais",TV BAHIA FHD
-http://brazilgroup.xyz:8880/556196543028/B357147927/8165
-#EXTINF:-1 tvg-id="Tvbahia.br" tvg-name="TV BAHIA HD" tvg-logo="https://i.imgur.com/bgQ7sbU.png" group-title="Globos Regionais",TV BAHIA HD
-http://brazilgroup.xyz:8880/556196543028/B357147927/541
-#EXTINF:-1 tvg-id="Tvbahia.br" tvg-name="TV BAHIA SD" tvg-logo="https://i.imgur.com/bgQ7sbU.png" group-title="Globos Regionais",TV BAHIA SD
-http://brazilgroup.xyz:8880/556196543028/B357147927/381
-#EXTINF:-1 tvg-id="Tvbahia.br" tvg-name="TV BAHIA SD [2]" tvg-logo="https://i.imgur.com/bgQ7sbU.png" group-title="Globos Regionais",TV BAHIA SD [2]
-http://brazilgroup.xyz:8880/556196543028/B357147927/745
-#EXTINF:-1 tvg-id="Tvbahia.br" tvg-name="TV SANTA CRUZ FHD" tvg-logo="https://i.imgur.com/bgQ7sbU.png" group-title="Globos Regionais",TV SANTA CRUZ FHD
-http://brazilgroup.xyz:8880/556196543028/B357147927/12215
-#EXTINF:-1 tvg-id="Tvbahia.br" tvg-name="TV SANTA CRUZ HD" tvg-logo="https://i.imgur.com/bgQ7sbU.png" group-title="Globos Regionais",TV SANTA CRUZ HD
-http://brazilgroup.xyz:8880/556196543028/B357147927/12214
-#EXTINF:-1 tvg-id="Tvbahia.br" tvg-name="TV SANTA CRUZ SD" tvg-logo="https://i.imgur.com/bgQ7sbU.png" group-title="Globos Regionais",TV SANTA CRUZ SD
-http://brazilgroup.xyz:8880/556196543028/B357147927/12213
+#EXTINF:-1 tvg-ID="-" tvg-name="Globo Tv Bahia SD" tvg-logo="http://lista.clienteiptv.com:80/_tvlogo/1569129858_dde76c8e63ce431e.png" group-title="Canais Abertos",Globo Tv Bahia SD
+http://lista.clienteiptv.com:80/live/6ajsnl/8qv682/233.ts
+
+#EXTINF:-1 tvg-ID="-" tvg-name="Globo Tv Santa Cruz SD" tvg-logo="http://lista.clienteiptv.com:80/_tvlogo/1569129858_dde76c8e63ce431e.png" group-title="Canais Abertos",Globo Tv Santa Cruz SD
+http://lista.clienteiptv.com:80/live/6ajsnl/8qv682/231.ts
+
+#EXTINF:-1 tvg-id="Tvbahia.br" tvg-name="BA - Globo TV Bahia FHD" tvg-logo="https://i.imgur.com/VOzcciZ.png" group-title="Canais Globo",BA - Globo TV Bahia FHD
+http://tv.iptvbrasil.live:80/LKFOODTC/ERFB8NY7/5296
+#EXTINF:-1 tvg-id="Tvbahia.br" tvg-name="BA - Globo TV Bahia HD" tvg-logo="https://i.imgur.com/VOzcciZ.png" group-title="Canais Globo",BA - Globo TV Bahia HD
+http://tv.iptvbrasil.live:80/LKFOODTC/ERFB8NY7/3312
+#EXTINF:-1 tvg-id="Tvbahia.br" tvg-name="BA - Globo TV Bahia" tvg-logo="https://i.imgur.com/VOzcciZ.png" group-title="Canais Globo",BA - Globo TV Bahia
+http://tv.iptvbrasil.live:80/LKFOODTC/ERFB8NY7/1449
+#EXTINF:-1 tvg-id="" tvg-name="BA - Globo TV Santa Cruz" tvg-logo="https://i.imgur.com/VOzcciZ.png" group-title="Canais Globo",BA - Globo TV Santa Cruz
+http://tv.iptvbrasil.live:80/LKFOODTC/ERFB8NY7/8101
+#EXTINF:-1 tvg-id="" tvg-name="BA - Globo TV Santa Cruz FHD" tvg-logo="https://i.imgur.com/VOzcciZ.png" group-title="Canais Globo",BA - Globo TV Santa Cruz FHD
+http://tv.iptvbrasil.live:80/LKFOODTC/ERFB8NY7/8103
+#EXTINF:-1 tvg-id="" tvg-name="BA - Globo TV Santa Cruz HD" tvg-logo="https://i.imgur.com/VOzcciZ.png" group-title="Canais Globo",BA - Globo TV Santa Cruz HD
+http://tv.iptvbrasil.live:80/LKFOODTC/ERFB8NY7/8102
