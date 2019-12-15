@@ -65,9 +65,7 @@ https://5c49cd60dfe56.streamlock.net:6443/agrocanal/live/playlist.m3u8
 #EXTINF:-1 tvg-id="CONEXÃO BR" tvg-logo="" group-title="CANAL ABERTO", CONEXÃO BR
 https://5c49cd60dfe56.streamlock.net:6443/canaldoboi/live/chunklist_w1731673664.m3u8
 
-#EXTINF:-1 tvg-id="CONEXÃO BR" tvg-logo="" group-title="CANAL ABERTO", CONEXÃO BR
-https://canaisgratis.org/assistir-tnt-online-24-horas-ao-vivo_93b3cd376.html
 
-#EXTINF:-1 tvg-id="TNT" tvg-logo="" group-title="CANAL ABERTO", TNT
-https://mahimeta.com/videoads/video_playback.mp4
+#EXTINF:-1 tvg-id="BAND" tvg-logo="" group-title="CANAL ABERTO",BAND
+https://canaisgratis.org/assistir-rede-bandeirantes-band-online-24-horas-ao-vivo_db41bec29.html
 
