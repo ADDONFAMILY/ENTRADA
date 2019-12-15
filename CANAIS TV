@@ -66,6 +66,16 @@ https://5c49cd60dfe56.streamlock.net:6443/agrocanal/live/playlist.m3u8
 https://5c49cd60dfe56.streamlock.net:6443/canaldoboi/live/chunklist_w1731673664.m3u8
 
 
-#EXTINF:-1 tvg-id="BAND" tvg-logo="" group-title="CANAL ABERTO",BAND
-https://canaisgratis.org/assistir-rede-bandeirantes-band-online-24-horas-ao-vivo_db41bec29.html
+#EXTINF:-1 tvg-logo=""goup-title="Disney XD",
+https://canaisgratis.org/assistir-disney-xd-online-24-horas-ao-vivo_53c297b77.html
+#EXTINF:-1 tvg-logo=""goup-title="Fx",
+https://canaisgratis.org/assistir-fx-online-24-horas-ao-vivo_2c2a8925b.html
+#EXTINF:-1 tvg-logo=""goup-title="Fox Life",
+https://canaisgratis.org/assistir-fox-life-online-24-horas-ao-vivo_14e86fc27.html
+#EXTINF:-1 tvg-logo=""goup-title="Nickelodeon",
+https://canaisgratis.org/assistir-nickelodeon-nick-online-24-horas-ao-vivo_b88fae88b.html
+#EXTINF:-1 tvg-logo=""goup-title="Cartoon Network",
+https://canaisgratis.org/assistir-cartoon-network-online-24-horas-ao-vivo_ec48ab159.html
+#EXTINF:-1 tvg-logo=""goup-title="History 2",
+https://canaisgratis.org/assistir-history-2-h2-online-24-horas-ao-vivo_bdb310811.html
 
