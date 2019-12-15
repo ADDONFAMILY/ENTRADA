@@ -69,654 +69,717 @@ https://5c49cd60dfe56.streamlock.net:6443/canaldoboi/live/chunklist_w1731673664.
 http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-b.m3u8
  
 
-#EXTINF:-1, AMC
-plugin://plugin.video.f4mTester/?name=IPTV Play&streamtype=TSDOWNLOADER&amp;url=http://setv.ma:1925/zxc0007/jb5BdtBcxa/13625
-#EXTINF:-1, ARTE 1
-plugin://plugin.video.f4mTester/?name=IPTV Play&streamtype=TSDOWNLOADER&amp;url=http://setv.ma:1925/zxc0007/jb5BdtBcxa/13619
-#EXTINF:-1, AXN
-plugin://plugin.video.f4mTester/?name=IPTV Play&streamtype=TSDOWNLOADER&amp;url=http://setv.ma:1925/zxc0007/jb5BdtBcxa/13617
-#EXTINF:-1, AXN HD *
-plugin://plugin.video.f4mTester/?name=IPTV Play&streamtype=TSDOWNLOADER&amp;url=http://setv.ma:1925/zxc0007/jb5BdtBcxa/13615
-#EXTINF:-1, BABY HD
-plugin://plugin.video.f4mTester/?name=IPTV Play&streamtype=TSDOWNLOADER&amp;url=http://setv.ma:1925/zxc0007/jb5BdtBcxa/13614
-#EXTINF:-1, BABY TV
-plugin://plugin.video.f4mTester/?name=IPTV Play&streamtype=TSDOWNLOADER&amp;url=http://setv.ma:1925/zxc0007/jb5BdtBcxa/13613
-#EXTINF:-1, BAND CAMPINAS HD
-plugin://plugin.video.f4mTester/?name=IPTV Play&streamtype=TSDOWNLOADER&amp;url=http://setv.ma:1925/zxc0007/jb5BdtBcxa/13612
-#EXTINF:-1, BAND NEWS HD *
-plugin://plugin.video.f4mTester/?name=IPTV Play&streamtype=TSDOWNLOADER&amp;url=http://setv.ma:1925/zxc0007/jb5BdtBcxa/13608
-#EXTINF:-1, BAND RECIFE FHD **
-plugin://plugin.video.f4mTester/?name=IPTV Play&streamtype=TSDOWNLOADER&amp;url=http://setv.ma:1925/zxc0007/jb5BdtBcxa/13607
-#EXTINF:-1, BAND SP
-plugin://plugin.video.f4mTester/?name=IPTV Play&streamtype=TSDOWNLOADER&amp;url=http://setv.ma:1925/zxc0007/jb5BdtBcxa/13606
-#EXTINF:-1, BAND SP HD *
-plugin://plugin.video.f4mTester/?name=IPTV Play&streamtype=TSDOWNLOADER&amp;url=http://setv.ma:1925/zxc0007/jb5BdtBcxa/13605
-#EXTINF:-1, BAND SPORTS
-plugin://plugin.video.f4mTester/?name=IPTV Play&streamtype=TSDOWNLOADER&amp;url=http://setv.ma:1925/zxc0007/jb5BdtBcxa/13604
-#EXTINF:-1, BAND SPORTS HD *
-plugin://plugin.video.f4mTester/?name=IPTV Play&streamtype=TSDOWNLOADER&amp;url=http://setv.ma:1925/zxc0007/jb5BdtBcxa/13602
-#EXTINF:-1, BIS
-plugin://plugin.video.f4mTester/?name=IPTV Play&streamtype=TSDOWNLOADER&amp;url=http://setv.ma:1925/zxc0007/jb5BdtBcxa/13601
-#EXTINF:-1, BIS HD *
-plugin://plugin.video.f4mTester/?name=IPTV Play&streamtype=TSDOWNLOADER&amp;url=http://setv.ma:1925/zxc0007/jb5BdtBcxa/13599
-#EXTINF:-1, BOOMERANG HD *
-plugin://plugin.video.f4mTester/?name=IPTV Play&streamtype=TSDOWNLOADER&amp;url=http://setv.ma:1925/zxc0007/jb5BdtBcxa/13595
-#EXTINF:-1, CANAL BRASIL HD
-plugin://plugin.video.f4mTester/?name=IPTV Play&streamtype=TSDOWNLOADER&amp;url=http://setv.ma:1925/zxc0007/jb5BdtBcxa/13593
-#EXTINF:-1, CANAL SONY
-plugin://plugin.video.f4mTester/?name=IPTV Play&streamtype=TSDOWNLOADER&amp;url=http://setv.ma:1925/zxc0007/jb5BdtBcxa/13590
-#EXTINF:-1, CANAL SONY HD *
-plugin://plugin.video.f4mTester/?name=IPTV Play&streamtype=TSDOWNLOADER&amp;url=http://setv.ma:1925/zxc0007/jb5BdtBcxa/13588
-#EXTINF:-1, CANCAO NOVA FHD *
-plugin://plugin.video.f4mTester/?name=IPTV Play&streamtype=TSDOWNLOADER&amp;url=http://setv.ma:1925/zxc0007/jb5BdtBcxa/13586
-#EXTINF:-1, CARTOON NETWORK
-plugin://plugin.video.f4mTester/?name=IPTV Play&streamtype=TSDOWNLOADER&amp;url=http://setv.ma:1925/zxc0007/jb5BdtBcxa/13585
-#EXTINF:-1, CARTOON NETWORK HD *
-plugin://plugin.video.f4mTester/?name=IPTV Play&streamtype=TSDOWNLOADER&amp;url=http://setv.ma:1925/zxc0007/jb5BdtBcxa/13583
-#EXTINF:-1, CINE SKY 1
-plugin://plugin.video.f4mTester/?name=IPTV Play&streamtype=TSDOWNLOADER&amp;url=http://setv.ma:1925/zxc0007/jb5BdtBcxa/13582
-#EXTINF:-1, CINE SKY 2
-plugin://plugin.video.f4mTester/?name=IPTV Play&streamtype=TSDOWNLOADER&amp;url=http://setv.ma:1925/zxc0007/jb5BdtBcxa/13581
-#EXTINF:-1, CINE SKY 3
-plugin://plugin.video.f4mTester/?name=IPTV Play&streamtype=TSDOWNLOADER&amp;url=http://setv.ma:1925/zxc0007/jb5BdtBcxa/13580
-#EXTINF:-1, CINE SKY 4
-plugin://plugin.video.f4mTester/?name=IPTV Play&streamtype=TSDOWNLOADER&amp;url=http://setv.ma:1925/zxc0007/jb5BdtBcxa/13579
-#EXTINF:-1, CINE SKY 5
-plugin://plugin.video.f4mTester/?name=IPTV Play&streamtype=TSDOWNLOADER&amp;url=http://setv.ma:1925/zxc0007/jb5BdtBcxa/13578
-#EXTINF:-1, CINEMAX
-plugin://plugin.video.f4mTester/?name=IPTV Play&streamtype=TSDOWNLOADER&amp;url=http://setv.ma:1925/zxc0007/jb5BdtBcxa/13577
-#EXTINF:-1, CINEMAX HD *
-plugin://plugin.video.f4mTester/?name=IPTV Play&streamtype=TSDOWNLOADER&amp;url=http://setv.ma:1925/zxc0007/jb5BdtBcxa/13575
-#EXTINF:-1, CNN ESPANOL
-plugin://plugin.video.f4mTester/?name=IPTV Play&streamtype=TSDOWNLOADER&amp;url=http://setv.ma:1925/zxc0007/jb5BdtBcxa/13574
-#EXTINF:-1, CNN INTERNACIONAL
-plugin://plugin.video.f4mTester/?name=IPTV Play&streamtype=TSDOWNLOADER&amp;url=http://setv.ma:1925/zxc0007/jb5BdtBcxa/13573
-#EXTINF:-1, CNT
-plugin://plugin.video.f4mTester/?name=IPTV Play&streamtype=TSDOWNLOADER&amp;url=http://setv.ma:1925/zxc0007/jb5BdtBcxa/13572
-#EXTINF:-1, COMBATE
-plugin://plugin.video.f4mTester/?name=IPTV Play&streamtype=TSDOWNLOADER&amp;url=http://setv.ma:1925/zxc0007/jb5BdtBcxa/13571
-#EXTINF:-1, COMBATE HD *
-plugin://plugin.video.f4mTester/?name=IPTV Play&streamtype=TSDOWNLOADER&amp;url=http://setv.ma:1925/zxc0007/jb5BdtBcxa/13569
-#EXTINF:-1, COMEDY CENTRAL
-plugin://plugin.video.f4mTester/?name=IPTV Play&streamtype=TSDOWNLOADER&amp;url=http://setv.ma:1925/zxc0007/jb5BdtBcxa/13568
-#EXTINF:-1, COMEDY CENTRAL HD *
-plugin://plugin.video.f4mTester/?name=IPTV Play&streamtype=TSDOWNLOADER&amp;url=http://setv.ma:1925/zxc0007/jb5BdtBcxa/13566
-#EXTINF:-1, CURTA!
-plugin://plugin.video.f4mTester/?name=IPTV Play&streamtype=TSDOWNLOADER&amp;url=http://setv.ma:1925/zxc0007/jb5BdtBcxa/13565
-#EXTINF:-1, DANZ
-plugin://plugin.video.f4mTester/?name=IPTV Play&streamtype=TSDOWNLOADER&amp;url=http://setv.ma:1925/zxc0007/jb5BdtBcxa/13564
-#EXTINF:-1, DISCOVERY CHANNEL
-plugin://plugin.video.f4mTester/?name=IPTV Play&streamtype=TSDOWNLOADER&amp;url=http://setv.ma:1925/zxc0007/jb5BdtBcxa/13563
-#EXTINF:-1, DISCOVERY CHANNEL HD *
-plugin://plugin.video.f4mTester/?name=IPTV Play&streamtype=TSDOWNLOADER&amp;url=http://setv.ma:1925/zxc0007/jb5BdtBcxa/13561
-#EXTINF:-1, DISCOVERY CIVILIZATION HD *
-plugin://plugin.video.f4mTester/?name=IPTV Play&streamtype=TSDOWNLOADER&amp;url=http://setv.ma:1925/zxc0007/jb5BdtBcxa/13559
-#EXTINF:-1, DISCOVERY H&H
-plugin://plugin.video.f4mTester/?name=IPTV Play&streamtype=TSDOWNLOADER&amp;url=http://setv.ma:1925/zxc0007/jb5BdtBcxa/13558
-#EXTINF:-1, DISCOVERY H&H HD
-plugin://plugin.video.f4mTester/?name=IPTV Play&streamtype=TSDOWNLOADER&amp;url=http://setv.ma:1925/zxc0007/jb5BdtBcxa/13556
-#EXTINF:-1, DISCOVERY KIDS
-plugin://plugin.video.f4mTester/?name=IPTV Play&streamtype=TSDOWNLOADER&amp;url=http://setv.ma:1925/zxc0007/jb5BdtBcxa/13555
-#EXTINF:-1, DISCOVERY KIDS HD *
-plugin://plugin.video.f4mTester/?name=IPTV Play&streamtype=TSDOWNLOADER&amp;url=http://setv.ma:1925/zxc0007/jb5BdtBcxa/13553
-#EXTINF:-1, DISCOVERY SCIENCE HD *
-plugin://plugin.video.f4mTester/?name=IPTV Play&streamtype=TSDOWNLOADER&amp;url=http://setv.ma:1925/zxc0007/jb5BdtBcxa/13551
-#EXTINF:-1, DISCOVERY TURBO
-plugin://plugin.video.f4mTester/?name=IPTV Play&streamtype=TSDOWNLOADER&amp;url=http://setv.ma:1925/zxc0007/jb5BdtBcxa/13549
-#EXTINF:-1, DISCOVERY TURBO HD *
-plugin://plugin.video.f4mTester/?name=IPTV Play&streamtype=TSDOWNLOADER&amp;url=http://setv.ma:1925/zxc0007/jb5BdtBcxa/13547
-#EXTINF:-1, DISCOVERY WORLD HD *
-plugin://plugin.video.f4mTester/?name=IPTV Play&streamtype=TSDOWNLOADER&amp;url=http://setv.ma:1925/zxc0007/jb5BdtBcxa/13545
-#EXTINF:-1, DISNEY
-plugin://plugin.video.f4mTester/?name=IPTV Play&streamtype=TSDOWNLOADER&amp;url=http://setv.ma:1925/zxc0007/jb5BdtBcxa/13544
-#EXTINF:-1, DISNEY CHANNEL HD *
-plugin://plugin.video.f4mTester/?name=IPTV Play&streamtype=TSDOWNLOADER&amp;url=http://setv.ma:1925/zxc0007/jb5BdtBcxa/13542
-#EXTINF:-1, DISNEY JR
-plugin://plugin.video.f4mTester/?name=IPTV Play&streamtype=TSDOWNLOADER&amp;url=http://setv.ma:1925/zxc0007/jb5BdtBcxa/13541
-#EXTINF:-1, DISNEY JR HD *
-plugin://plugin.video.f4mTester/?name=IPTV Play&streamtype=TSDOWNLOADER&amp;url=http://setv.ma:1925/zxc0007/jb5BdtBcxa/13539
-#EXTINF:-1, DISNEY XD
-plugin://plugin.video.f4mTester/?name=IPTV Play&streamtype=TSDOWNLOADER&amp;url=http://setv.ma:1925/zxc0007/jb5BdtBcxa/13538
-#EXTINF:-1, DISNEY XD HD
-plugin://plugin.video.f4mTester/?name=IPTV Play&streamtype=TSDOWNLOADER&amp;url=http://setv.ma:1925/zxc0007/jb5BdtBcxa/13537
-#EXTINF:-1, E!
-plugin://plugin.video.f4mTester/?name=IPTV Play&streamtype=TSDOWNLOADER&amp;url=http://setv.ma:1925/zxc0007/jb5BdtBcxa/13536
-#EXTINF:-1, E! HD
-plugin://plugin.video.f4mTester/?name=IPTV Play&streamtype=TSDOWNLOADER&amp;url=http://setv.ma:1925/zxc0007/jb5BdtBcxa/13535
-#EXTINF:-1, EI PLUS
-plugin://plugin.video.f4mTester/?name=IPTV Play&streamtype=TSDOWNLOADER&amp;url=http://setv.ma:1925/zxc0007/jb5BdtBcxa/13534
-#EXTINF:-1, EI PLUS HD
-plugin://plugin.video.f4mTester/?name=IPTV Play&streamtype=TSDOWNLOADER&amp;url=http://setv.ma:1925/zxc0007/jb5BdtBcxa/13533
-#EXTINF:-1, ESPN
-plugin://plugin.video.f4mTester/?name=IPTV Play&streamtype=TSDOWNLOADER&amp;url=http://setv.ma:1925/zxc0007/jb5BdtBcxa/13532
-#EXTINF:-1, ESPN 2
-plugin://plugin.video.f4mTester/?name=IPTV Play&streamtype=TSDOWNLOADER&amp;url=http://setv.ma:1925/zxc0007/jb5BdtBcxa/13531
-#EXTINF:-1, ESPN 2 HD *
-plugin://plugin.video.f4mTester/?name=IPTV Play&streamtype=TSDOWNLOADER&amp;url=http://setv.ma:1925/zxc0007/jb5BdtBcxa/13529
-#EXTINF:-1, ESPN BRASIL
-plugin://plugin.video.f4mTester/?name=IPTV Play&streamtype=TSDOWNLOADER&amp;url=http://setv.ma:1925/zxc0007/jb5BdtBcxa/13528
-#EXTINF:-1, ESPN BRASIL HD *
-plugin://plugin.video.f4mTester/?name=IPTV Play&streamtype=TSDOWNLOADER&amp;url=http://setv.ma:1925/zxc0007/jb5BdtBcxa/13526
-#EXTINF:-1, ESPN EXTRA HD
-plugin://plugin.video.f4mTester/?name=IPTV Play&streamtype=TSDOWNLOADER&amp;url=http://setv.ma:1925/zxc0007/jb5BdtBcxa/13525
-#EXTINF:-1, ESPN HD *
-plugin://plugin.video.f4mTester/?name=IPTV Play&streamtype=TSDOWNLOADER&amp;url=http://setv.ma:1925/zxc0007/jb5BdtBcxa/13523
-#EXTINF:-1, ESPN2
-plugin://plugin.video.f4mTester/?name=IPTV Play&streamtype=TSDOWNLOADER&amp;url=http://setv.ma:1925/zxc0007/jb5BdtBcxa/13522
-#EXTINF:-1, FILM & ARTS
-plugin://plugin.video.f4mTester/?name=IPTV Play&streamtype=TSDOWNLOADER&amp;url=http://setv.ma:1925/zxc0007/jb5BdtBcxa/13521
-#EXTINF:-1, FISH TV
-plugin://plugin.video.f4mTester/?name=IPTV Play&streamtype=TSDOWNLOADER&amp;url=http://setv.ma:1925/zxc0007/jb5BdtBcxa/13520
-#EXTINF:-1, FOOD NETWORK
-plugin://plugin.video.f4mTester/?name=IPTV Play&streamtype=TSDOWNLOADER&amp;url=http://setv.ma:1925/zxc0007/jb5BdtBcxa/13519
-#EXTINF:-1, FOOD NETWORK HD *
-plugin://plugin.video.f4mTester/?name=IPTV Play&streamtype=TSDOWNLOADER&amp;url=http://setv.ma:1925/zxc0007/jb5BdtBcxa/13517
-#EXTINF:-1, FOX
-plugin://plugin.video.f4mTester/?name=IPTV Play&streamtype=TSDOWNLOADER&amp;url=http://setv.ma:1925/zxc0007/jb5BdtBcxa/13516
-#EXTINF:-1, FOX HD *
-plugin://plugin.video.f4mTester/?name=IPTV Play&streamtype=TSDOWNLOADER&amp;url=http://setv.ma:1925/zxc0007/jb5BdtBcxa/13514
-#EXTINF:-1, FOX LIFE
-plugin://plugin.video.f4mTester/?name=IPTV Play&streamtype=TSDOWNLOADER&amp;url=http://setv.ma:1925/zxc0007/jb5BdtBcxa/13513
-#EXTINF:-1, FOX LIFE HD
-plugin://plugin.video.f4mTester/?name=IPTV Play&streamtype=TSDOWNLOADER&amp;url=http://setv.ma:1925/zxc0007/jb5BdtBcxa/13511
-#EXTINF:-1, FOX PREMIUM 1 FHD *
-plugin://plugin.video.f4mTester/?name=IPTV Play&streamtype=TSDOWNLOADER&amp;url=http://setv.ma:1925/zxc0007/jb5BdtBcxa/13510
-#EXTINF:-1, FOX PREMIUM 1 HD
-plugin://plugin.video.f4mTester/?name=IPTV Play&streamtype=TSDOWNLOADER&amp;url=http://setv.ma:1925/zxc0007/jb5BdtBcxa/13509
-#EXTINF:-1, FOX PREMIUM 2 FHD *
-plugin://plugin.video.f4mTester/?name=IPTV Play&streamtype=TSDOWNLOADER&amp;url=http://setv.ma:1925/zxc0007/jb5BdtBcxa/13508
-#EXTINF:-1, FOX PREMIUM 2 HD
-plugin://plugin.video.f4mTester/?name=IPTV Play&streamtype=TSDOWNLOADER&amp;url=http://setv.ma:1925/zxc0007/jb5BdtBcxa/13507
-#EXTINF:-1, FOX SPORTS
-plugin://plugin.video.f4mTester/?name=IPTV Play&streamtype=TSDOWNLOADER&amp;url=http://setv.ma:1925/zxc0007/jb5BdtBcxa/13506
-#EXTINF:-1, FOX SPORTS 2
-plugin://plugin.video.f4mTester/?name=IPTV Play&streamtype=TSDOWNLOADER&amp;url=http://setv.ma:1925/zxc0007/jb5BdtBcxa/13505
-#EXTINF:-1, FOX SPORTS 2 HD *
-plugin://plugin.video.f4mTester/?name=IPTV Play&streamtype=TSDOWNLOADER&amp;url=http://setv.ma:1925/zxc0007/jb5BdtBcxa/13503
-#EXTINF:-1, FOX SPORTS HD *
-plugin://plugin.video.f4mTester/?name=IPTV Play&streamtype=TSDOWNLOADER&amp;url=http://setv.ma:1925/zxc0007/jb5BdtBcxa/13501
-#EXTINF:-1, FUTURA
-plugin://plugin.video.f4mTester/?name=IPTV Play&streamtype=TSDOWNLOADER&amp;url=http://setv.ma:1925/zxc0007/jb5BdtBcxa/13500
-#EXTINF:-1, FX
-plugin://plugin.video.f4mTester/?name=IPTV Play&streamtype=TSDOWNLOADER&amp;url=http://setv.ma:1925/zxc0007/jb5BdtBcxa/13499
-#EXTINF:-1, FX HD
-plugin://plugin.video.f4mTester/?name=IPTV Play&streamtype=TSDOWNLOADER&amp;url=http://setv.ma:1925/zxc0007/jb5BdtBcxa/13497
-#EXTINF:-1, GLOBO BELEM
-plugin://plugin.video.f4mTester/?name=IPTV Play&streamtype=TSDOWNLOADER&amp;url=http://setv.ma:1925/zxc0007/jb5BdtBcxa/13496
-#EXTINF:-1, GLOBO BRASILIA HD
-plugin://plugin.video.f4mTester/?name=IPTV Play&streamtype=TSDOWNLOADER&amp;url=http://setv.ma:1925/zxc0007/jb5BdtBcxa/13495
-#EXTINF:-1, GLOBO EPTV CAMPINAS
-plugin://plugin.video.f4mTester/?name=IPTV Play&streamtype=TSDOWNLOADER&amp;url=http://setv.ma:1925/zxc0007/jb5BdtBcxa/13494
-#EXTINF:-1, GLOBO EPTV RIBEIRAO PRETO
-plugin://plugin.video.f4mTester/?name=IPTV Play&streamtype=TSDOWNLOADER&amp;url=http://setv.ma:1925/zxc0007/jb5BdtBcxa/13493
-#EXTINF:-1, GLOBO EPTV RIBEIRAO PRETO HD
-plugin://plugin.video.f4mTester/?name=IPTV Play&streamtype=TSDOWNLOADER&amp;url=http://setv.ma:1925/zxc0007/jb5BdtBcxa/13492
-#EXTINF:-1, GLOBO EPTV SAO CARLOS
-plugin://plugin.video.f4mTester/?name=IPTV Play&streamtype=TSDOWNLOADER&amp;url=http://setv.ma:1925/zxc0007/jb5BdtBcxa/13491
-#EXTINF:-1, GLOBO INTER TV CABUGI
-plugin://plugin.video.f4mTester/?name=IPTV Play&streamtype=TSDOWNLOADER&amp;url=http://setv.ma:1925/zxc0007/jb5BdtBcxa/13490
-#EXTINF:-1, GLOBO MINAS
-plugin://plugin.video.f4mTester/?name=IPTV Play&streamtype=TSDOWNLOADER&amp;url=http://setv.ma:1925/zxc0007/jb5BdtBcxa/13489
-#EXTINF:-1, GLOBO MINAS HD
-plugin://plugin.video.f4mTester/?name=IPTV Play&streamtype=TSDOWNLOADER&amp;url=http://setv.ma:1925/zxc0007/jb5BdtBcxa/13488
-#EXTINF:-1, GLOBO NEWS
-plugin://plugin.video.f4mTester/?name=IPTV Play&streamtype=TSDOWNLOADER&amp;url=http://setv.ma:1925/zxc0007/jb5BdtBcxa/13487
-#EXTINF:-1, GLOBO NEWS HD *
-plugin://plugin.video.f4mTester/?name=IPTV Play&streamtype=TSDOWNLOADER&amp;url=http://setv.ma:1925/zxc0007/jb5BdtBcxa/13485
-#EXTINF:-1, GLOBO NORDESTE
-plugin://plugin.video.f4mTester/?name=IPTV Play&streamtype=TSDOWNLOADER&amp;url=http://setv.ma:1925/zxc0007/jb5BdtBcxa/13484
-#EXTINF:-1, GLOBO NORDESTE FHD *
-plugin://plugin.video.f4mTester/?name=IPTV Play&streamtype=TSDOWNLOADER&amp;url=http://setv.ma:1925/zxc0007/jb5BdtBcxa/13483
-#EXTINF:-1, GLOBO NORDESTE HD
-plugin://plugin.video.f4mTester/?name=IPTV Play&streamtype=TSDOWNLOADER&amp;url=http://setv.ma:1925/zxc0007/jb5BdtBcxa/13482
-#EXTINF:-1, GLOBO RBS PORTO ALEGRE
-plugin://plugin.video.f4mTester/?name=IPTV Play&streamtype=TSDOWNLOADER&amp;url=http://setv.ma:1925/zxc0007/jb5BdtBcxa/13481
-#EXTINF:-1, GLOBO RBS PORTO ALEGRE HD *
-plugin://plugin.video.f4mTester/?name=IPTV Play&streamtype=TSDOWNLOADER&amp;url=http://setv.ma:1925/zxc0007/jb5BdtBcxa/13480
-#EXTINF:-1, GLOBO RJ
-plugin://plugin.video.f4mTester/?name=IPTV Play&streamtype=TSDOWNLOADER&amp;url=http://setv.ma:1925/zxc0007/jb5BdtBcxa/13478
-#EXTINF:-1, GLOBO RJ HD
-plugin://plugin.video.f4mTester/?name=IPTV Play&streamtype=TSDOWNLOADER&amp;url=http://setv.ma:1925/zxc0007/jb5BdtBcxa/13476
-#EXTINF:-1, GLOBO RPC TV CURITIBA
-plugin://plugin.video.f4mTester/?name=IPTV Play&streamtype=TSDOWNLOADER&amp;url=http://setv.ma:1925/zxc0007/jb5BdtBcxa/13475
-#EXTINF:-1, GLOBO SP
-plugin://plugin.video.f4mTester/?name=IPTV Play&streamtype=TSDOWNLOADER&amp;url=http://setv.ma:1925/zxc0007/jb5BdtBcxa/13474
-#EXTINF:-1, GLOBO SP HD *
-plugin://plugin.video.f4mTester/?name=IPTV Play&streamtype=TSDOWNLOADER&amp;url=http://setv.ma:1925/zxc0007/jb5BdtBcxa/13472
-#EXTINF:-1, GLOBO TRIBUNA SANTOS
-plugin://plugin.video.f4mTester/?name=IPTV Play&streamtype=TSDOWNLOADER&amp;url=http://setv.ma:1925/zxc0007/jb5BdtBcxa/13471
-#EXTINF:-1, GLOBO TV BAHIA
-plugin://plugin.video.f4mTester/?name=IPTV Play&streamtype=TSDOWNLOADER&amp;url=http://setv.ma:1925/zxc0007/jb5BdtBcxa/13470
-#EXTINF:-1, GLOBO TV CENTRO AMERICA CUIABA
-plugin://plugin.video.f4mTester/?name=IPTV Play&streamtype=TSDOWNLOADER&amp;url=http://setv.ma:1925/zxc0007/jb5BdtBcxa/13469
-#EXTINF:-1, GLOBO TV GAZETA ES HD
-plugin://plugin.video.f4mTester/?name=IPTV Play&streamtype=TSDOWNLOADER&amp;url=http://setv.ma:1925/zxc0007/jb5BdtBcxa/13468
-#EXTINF:-1, GLOBO TV SERGIPE HD
-plugin://plugin.video.f4mTester/?name=IPTV Play&streamtype=TSDOWNLOADER&amp;url=http://setv.ma:1925/zxc0007/jb5BdtBcxa/13467
-#EXTINF:-1, GLOBO TV TEM BAURU
-plugin://plugin.video.f4mTester/?name=IPTV Play&streamtype=TSDOWNLOADER&amp;url=http://setv.ma:1925/zxc0007/jb5BdtBcxa/13466
-#EXTINF:-1, GLOBO TV TEM SJRP
-plugin://plugin.video.f4mTester/?name=IPTV Play&streamtype=TSDOWNLOADER&amp;url=http://setv.ma:1925/zxc0007/jb5BdtBcxa/13465
-#EXTINF:-1, GLOBO TV TEM SOROCABA
-plugin://plugin.video.f4mTester/?name=IPTV Play&streamtype=TSDOWNLOADER&amp;url=http://setv.ma:1925/zxc0007/jb5BdtBcxa/13464
-#EXTINF:-1, GLOBO TV VANGUARDA S.J. DOS CAMPOS
-plugin://plugin.video.f4mTester/?name=IPTV Play&streamtype=TSDOWNLOADER&amp;url=http://setv.ma:1925/zxc0007/jb5BdtBcxa/13463
-#EXTINF:-1, GLOBO TV VERDES MARES FORTALEZA
-plugin://plugin.video.f4mTester/?name=IPTV Play&streamtype=TSDOWNLOADER&amp;url=http://setv.ma:1925/zxc0007/jb5BdtBcxa/13462
-#EXTINF:-1, GLOBONEWS
-plugin://plugin.video.f4mTester/?name=IPTV Play&streamtype=TSDOWNLOADER&amp;url=http://setv.ma:1925/zxc0007/jb5BdtBcxa/13461
-#EXTINF:-1, GLOOB
-plugin://plugin.video.f4mTester/?name=IPTV Play&streamtype=TSDOWNLOADER&amp;url=http://setv.ma:1925/zxc0007/jb5BdtBcxa/13460
-#EXTINF:-1, GLOOB FHD *
-plugin://plugin.video.f4mTester/?name=IPTV Play&streamtype=TSDOWNLOADER&amp;url=http://setv.ma:1925/zxc0007/jb5BdtBcxa/13459
-#EXTINF:-1, GLOOB HD
-plugin://plugin.video.f4mTester/?name=IPTV Play&streamtype=TSDOWNLOADER&amp;url=http://setv.ma:1925/zxc0007/jb5BdtBcxa/13458
-#EXTINF:-1, GNT
-plugin://plugin.video.f4mTester/?name=IPTV Play&streamtype=TSDOWNLOADER&amp;url=http://setv.ma:1925/zxc0007/jb5BdtBcxa/13456
-#EXTINF:-1, GNT HD
-plugin://plugin.video.f4mTester/?name=IPTV Play&streamtype=TSDOWNLOADER&amp;url=http://setv.ma:1925/zxc0007/jb5BdtBcxa/13455
-#EXTINF:-1, H2
-plugin://plugin.video.f4mTester/?name=IPTV Play&streamtype=TSDOWNLOADER&amp;url=http://setv.ma:1925/zxc0007/jb5BdtBcxa/13454
-#EXTINF:-1, H2 HD *
-plugin://plugin.video.f4mTester/?name=IPTV Play&streamtype=TSDOWNLOADER&amp;url=http://setv.ma:1925/zxc0007/jb5BdtBcxa/13452
-#EXTINF:-1, HBO
-plugin://plugin.video.f4mTester/?name=IPTV Play&streamtype=TSDOWNLOADER&amp;url=http://setv.ma:1925/zxc0007/jb5BdtBcxa/13451
-#EXTINF:-1, HBO 2 HD *
-plugin://plugin.video.f4mTester/?name=IPTV Play&streamtype=TSDOWNLOADER&amp;url=http://setv.ma:1925/zxc0007/jb5BdtBcxa/13449
-#EXTINF:-1, HBO FAMILY
-plugin://plugin.video.f4mTester/?name=IPTV Play&streamtype=TSDOWNLOADER&amp;url=http://setv.ma:1925/zxc0007/jb5BdtBcxa/13448
-#EXTINF:-1, HBO FAMILY HD *
-plugin://plugin.video.f4mTester/?name=IPTV Play&streamtype=TSDOWNLOADER&amp;url=http://setv.ma:1925/zxc0007/jb5BdtBcxa/13446
-#EXTINF:-1, HBO HD *
-plugin://plugin.video.f4mTester/?name=IPTV Play&streamtype=TSDOWNLOADER&amp;url=http://setv.ma:1925/zxc0007/jb5BdtBcxa/13444
-#EXTINF:-1, HBO PLUS
-plugin://plugin.video.f4mTester/?name=IPTV Play&streamtype=TSDOWNLOADER&amp;url=http://setv.ma:1925/zxc0007/jb5BdtBcxa/13443
-#EXTINF:-1, HBO SIGNATURE
-plugin://plugin.video.f4mTester/?name=IPTV Play&streamtype=TSDOWNLOADER&amp;url=http://setv.ma:1925/zxc0007/jb5BdtBcxa/13441
-#EXTINF:-1, HBO2
-plugin://plugin.video.f4mTester/?name=IPTV Play&streamtype=TSDOWNLOADER&amp;url=http://setv.ma:1925/zxc0007/jb5BdtBcxa/13439
-#EXTINF:-1, HISTORY
-plugin://plugin.video.f4mTester/?name=IPTV Play&streamtype=TSDOWNLOADER&amp;url=http://setv.ma:1925/zxc0007/jb5BdtBcxa/13438
-#EXTINF:-1, HISTORY HD *
-plugin://plugin.video.f4mTester/?name=IPTV Play&streamtype=TSDOWNLOADER&amp;url=http://setv.ma:1925/zxc0007/jb5BdtBcxa/13436
-#EXTINF:-1, HIT TV HD
-plugin://plugin.video.f4mTester/?name=IPTV Play&streamtype=TSDOWNLOADER&amp;url=http://setv.ma:1925/zxc0007/jb5BdtBcxa/13435
-#EXTINF:-1, I-SAT
-plugin://plugin.video.f4mTester/?name=IPTV Play&streamtype=TSDOWNLOADER&amp;url=http://setv.ma:1925/zxc0007/jb5BdtBcxa/13434
-#EXTINF:-1, ID DISCOVERY
-plugin://plugin.video.f4mTester/?name=IPTV Play&streamtype=TSDOWNLOADER&amp;url=http://setv.ma:1925/zxc0007/jb5BdtBcxa/13433
-#EXTINF:-1, IDEAL TV
-plugin://plugin.video.f4mTester/?name=IPTV Play&streamtype=TSDOWNLOADER&amp;url=http://setv.ma:1925/zxc0007/jb5BdtBcxa/13431
-#EXTINF:-1, LIFETIME
-plugin://plugin.video.f4mTester/?name=IPTV Play&streamtype=TSDOWNLOADER&amp;url=http://setv.ma:1925/zxc0007/jb5BdtBcxa/13430
-#EXTINF:-1, MAIS GLOBOSAT
-plugin://plugin.video.f4mTester/?name=IPTV Play&streamtype=TSDOWNLOADER&amp;url=http://setv.ma:1925/zxc0007/jb5BdtBcxa/13428
-#EXTINF:-1, MAIS GLOBOSAT HD
-plugin://plugin.video.f4mTester/?name=IPTV Play&streamtype=TSDOWNLOADER&amp;url=http://setv.ma:1925/zxc0007/jb5BdtBcxa/13427
-#EXTINF:-1, MAX
-plugin://plugin.video.f4mTester/?name=IPTV Play&streamtype=TSDOWNLOADER&amp;url=http://setv.ma:1925/zxc0007/jb5BdtBcxa/13426
-#EXTINF:-1, MAX FHD (H265)
-plugin://plugin.video.f4mTester/?name=IPTV Play&streamtype=TSDOWNLOADER&amp;url=http://setv.ma:1925/zxc0007/jb5BdtBcxa/13425
-#EXTINF:-1, MAX HD
-plugin://plugin.video.f4mTester/?name=IPTV Play&streamtype=TSDOWNLOADER&amp;url=http://setv.ma:1925/zxc0007/jb5BdtBcxa/13424
-#EXTINF:-1, MAX PRIME HD **
-plugin://plugin.video.f4mTester/?name=IPTV Play&streamtype=TSDOWNLOADER&amp;url=http://setv.ma:1925/zxc0007/jb5BdtBcxa/13422
-#EXTINF:-1, MAX PRIME*E
-plugin://plugin.video.f4mTester/?name=IPTV Play&streamtype=TSDOWNLOADER&amp;url=http://setv.ma:1925/zxc0007/jb5BdtBcxa/13421
-#EXTINF:-1, MAX UP
-plugin://plugin.video.f4mTester/?name=IPTV Play&streamtype=TSDOWNLOADER&amp;url=http://setv.ma:1925/zxc0007/jb5BdtBcxa/13420
-#EXTINF:-1, MAX UP HD *
-plugin://plugin.video.f4mTester/?name=IPTV Play&streamtype=TSDOWNLOADER&amp;url=http://setv.ma:1925/zxc0007/jb5BdtBcxa/13418
-#EXTINF:-1, MEGAPIX
-plugin://plugin.video.f4mTester/?name=IPTV Play&streamtype=TSDOWNLOADER&amp;url=http://setv.ma:1925/zxc0007/jb5BdtBcxa/13417
-#EXTINF:-1, MEGAPIX HD *
-plugin://plugin.video.f4mTester/?name=IPTV Play&streamtype=TSDOWNLOADER&amp;url=http://setv.ma:1925/zxc0007/jb5BdtBcxa/13415
-#EXTINF:-1, MTV
-plugin://plugin.video.f4mTester/?name=IPTV Play&streamtype=TSDOWNLOADER&amp;url=http://setv.ma:1925/zxc0007/jb5BdtBcxa/13414
-#EXTINF:-1, MULTISHOW
-plugin://plugin.video.f4mTester/?name=IPTV Play&streamtype=TSDOWNLOADER&amp;url=http://setv.ma:1925/zxc0007/jb5BdtBcxa/13412
-#EXTINF:-1, MULTISHOW HD *
-plugin://plugin.video.f4mTester/?name=IPTV Play&streamtype=TSDOWNLOADER&amp;url=http://setv.ma:1925/zxc0007/jb5BdtBcxa/13410
-#EXTINF:-1, MUSIC BOX BRAZIL
-plugin://plugin.video.f4mTester/?name=IPTV Play&streamtype=TSDOWNLOADER&amp;url=http://setv.ma:1925/zxc0007/jb5BdtBcxa/13409
-#EXTINF:-1, NATGEO KIDS
-plugin://plugin.video.f4mTester/?name=IPTV Play&streamtype=TSDOWNLOADER&amp;url=http://setv.ma:1925/zxc0007/jb5BdtBcxa/13407
-#EXTINF:-1, NATGEO KIDS HD
-plugin://plugin.video.f4mTester/?name=IPTV Play&streamtype=TSDOWNLOADER&amp;url=http://setv.ma:1925/zxc0007/jb5BdtBcxa/13405
-#EXTINF:-1, NATGEO WILD
-plugin://plugin.video.f4mTester/?name=IPTV Play&streamtype=TSDOWNLOADER&amp;url=http://setv.ma:1925/zxc0007/jb5BdtBcxa/13404
-#EXTINF:-1, NATGEO WILD HD *
-plugin://plugin.video.f4mTester/?name=IPTV Play&streamtype=TSDOWNLOADER&amp;url=http://setv.ma:1925/zxc0007/jb5BdtBcxa/13402
-#EXTINF:-1, NATIONAL GEOGRAPHIC
-plugin://plugin.video.f4mTester/?name=IPTV Play&streamtype=TSDOWNLOADER&amp;url=http://setv.ma:1925/zxc0007/jb5BdtBcxa/13401
-#EXTINF:-1, NBR
-plugin://plugin.video.f4mTester/?name=IPTV Play&streamtype=TSDOWNLOADER&amp;url=http://setv.ma:1925/zxc0007/jb5BdtBcxa/13400
-#EXTINF:-1, NICK HD *
-plugin://plugin.video.f4mTester/?name=IPTV Play&streamtype=TSDOWNLOADER&amp;url=http://setv.ma:1925/zxc0007/jb5BdtBcxa/13398
-#EXTINF:-1, NICK JR
-plugin://plugin.video.f4mTester/?name=IPTV Play&streamtype=TSDOWNLOADER&amp;url=http://setv.ma:1925/zxc0007/jb5BdtBcxa/13397
-#EXTINF:-1, NICKELODEON
-plugin://plugin.video.f4mTester/?name=IPTV Play&streamtype=TSDOWNLOADER&amp;url=http://setv.ma:1925/zxc0007/jb5BdtBcxa/13396
-#EXTINF:-1, NOVA NORDESTE FHD *
-plugin://plugin.video.f4mTester/?name=IPTV Play&streamtype=TSDOWNLOADER&amp;url=http://setv.ma:1925/zxc0007/jb5BdtBcxa/13395
-#EXTINF:-1, NOVO TEMPO FHD *
-plugin://plugin.video.f4mTester/?name=IPTV Play&streamtype=TSDOWNLOADER&amp;url=http://setv.ma:1925/zxc0007/jb5BdtBcxa/13394
-#EXTINF:-1, OFF
-plugin://plugin.video.f4mTester/?name=IPTV Play&streamtype=TSDOWNLOADER&amp;url=http://setv.ma:1925/zxc0007/jb5BdtBcxa/13393
-#EXTINF:-1, OFF FHD *
-plugin://plugin.video.f4mTester/?name=IPTV Play&streamtype=TSDOWNLOADER&amp;url=http://setv.ma:1925/zxc0007/jb5BdtBcxa/13392
-#EXTINF:-1, OFF HD
-plugin://plugin.video.f4mTester/?name=IPTV Play&streamtype=TSDOWNLOADER&amp;url=http://setv.ma:1925/zxc0007/jb5BdtBcxa/13391
-#EXTINF:-1, PARAMOUNT
-plugin://plugin.video.f4mTester/?name=IPTV Play&streamtype=TSDOWNLOADER&amp;url=http://setv.ma:1925/zxc0007/jb5BdtBcxa/13390
-#EXTINF:-1, PARAMOUNT CHANNEL HD **
-plugin://plugin.video.f4mTester/?name=IPTV Play&streamtype=TSDOWNLOADER&amp;url=http://setv.ma:1925/zxc0007/jb5BdtBcxa/13388
-#EXTINF:-1, PLAY TV
-plugin://plugin.video.f4mTester/?name=IPTV Play&streamtype=TSDOWNLOADER&amp;url=http://setv.ma:1925/zxc0007/jb5BdtBcxa/13387
-#EXTINF:-1, POLISHOP TV
-plugin://plugin.video.f4mTester/?name=IPTV Play&streamtype=TSDOWNLOADER&amp;url=http://setv.ma:1925/zxc0007/jb5BdtBcxa/13386
-#EXTINF:-1, PREMIERE 2
-plugin://plugin.video.f4mTester/?name=IPTV Play&streamtype=TSDOWNLOADER&amp;url=http://setv.ma:1925/zxc0007/jb5BdtBcxa/13385
-#EXTINF:-1, PREMIERE 2 HD
-plugin://plugin.video.f4mTester/?name=IPTV Play&streamtype=TSDOWNLOADER&amp;url=http://setv.ma:1925/zxc0007/jb5BdtBcxa/13383
-#EXTINF:-1, PREMIERE 3
-plugin://plugin.video.f4mTester/?name=IPTV Play&streamtype=TSDOWNLOADER&amp;url=http://setv.ma:1925/zxc0007/jb5BdtBcxa/13382
-#EXTINF:-1, PREMIERE 3 HD
-plugin://plugin.video.f4mTester/?name=IPTV Play&streamtype=TSDOWNLOADER&amp;url=http://setv.ma:1925/zxc0007/jb5BdtBcxa/13380
-#EXTINF:-1, PREMIERE 4
-plugin://plugin.video.f4mTester/?name=IPTV Play&streamtype=TSDOWNLOADER&amp;url=http://setv.ma:1925/zxc0007/jb5BdtBcxa/13379
-#EXTINF:-1, PREMIERE 4 HD
-plugin://plugin.video.f4mTester/?name=IPTV Play&streamtype=TSDOWNLOADER&amp;url=http://setv.ma:1925/zxc0007/jb5BdtBcxa/13377
-#EXTINF:-1, PREMIERE 5
-plugin://plugin.video.f4mTester/?name=IPTV Play&streamtype=TSDOWNLOADER&amp;url=http://setv.ma:1925/zxc0007/jb5BdtBcxa/13376
-#EXTINF:-1, PREMIERE 6
-plugin://plugin.video.f4mTester/?name=IPTV Play&streamtype=TSDOWNLOADER&amp;url=http://setv.ma:1925/zxc0007/jb5BdtBcxa/13374
-#EXTINF:-1, PREMIERE 6 HD
-plugin://plugin.video.f4mTester/?name=IPTV Play&streamtype=TSDOWNLOADER&amp;url=http://setv.ma:1925/zxc0007/jb5BdtBcxa/13372
-#EXTINF:-1, PREMIERE 7
-plugin://plugin.video.f4mTester/?name=IPTV Play&streamtype=TSDOWNLOADER&amp;url=http://setv.ma:1925/zxc0007/jb5BdtBcxa/13371
-#EXTINF:-1, PREMIERE 7 HD
-plugin://plugin.video.f4mTester/?name=IPTV Play&streamtype=TSDOWNLOADER&amp;url=http://setv.ma:1925/zxc0007/jb5BdtBcxa/13369
-#EXTINF:-1, PREMIERE 8
-plugin://plugin.video.f4mTester/?name=IPTV Play&streamtype=TSDOWNLOADER&amp;url=http://setv.ma:1925/zxc0007/jb5BdtBcxa/13368
-#EXTINF:-1, PREMIERE 9
-plugin://plugin.video.f4mTester/?name=IPTV Play&streamtype=TSDOWNLOADER&amp;url=http://setv.ma:1925/zxc0007/jb5BdtBcxa/13367
-#EXTINF:-1, PREMIERE CLUBES
-plugin://plugin.video.f4mTester/?name=IPTV Play&streamtype=TSDOWNLOADER&amp;url=http://setv.ma:1925/zxc0007/jb5BdtBcxa/13366
-#EXTINF:-1, PREMIERE CLUBES HD *
-plugin://plugin.video.f4mTester/?name=IPTV Play&streamtype=TSDOWNLOADER&amp;url=http://setv.ma:1925/zxc0007/jb5BdtBcxa/13364
-#EXTINF:-1, PRIME BOX BRAZIL
-plugin://plugin.video.f4mTester/?name=IPTV Play&streamtype=TSDOWNLOADER&amp;url=http://setv.ma:1925/zxc0007/jb5BdtBcxa/13363
-#EXTINF:-1, RBI
-plugin://plugin.video.f4mTester/?name=IPTV Play&streamtype=TSDOWNLOADER&amp;url=http://setv.ma:1925/zxc0007/jb5BdtBcxa/13362
-#EXTINF:-1, RCI
-plugin://plugin.video.f4mTester/?name=IPTV Play&streamtype=TSDOWNLOADER&amp;url=http://setv.ma:1925/zxc0007/jb5BdtBcxa/13361
-#EXTINF:-1, RECORD
-plugin://plugin.video.f4mTester/?name=IPTV Play&streamtype=TSDOWNLOADER&amp;url=http://setv.ma:1925/zxc0007/jb5BdtBcxa/13360
-#EXTINF:-1, RECORD FHD (H265)
-plugin://plugin.video.f4mTester/?name=IPTV Play&streamtype=TSDOWNLOADER&amp;url=http://setv.ma:1925/zxc0007/jb5BdtBcxa/13359
-#EXTINF:-1, RECORD HD
-plugin://plugin.video.f4mTester/?name=IPTV Play&streamtype=TSDOWNLOADER&amp;url=http://setv.ma:1925/zxc0007/jb5BdtBcxa/13358
-#EXTINF:-1, RECORD MG HD
-plugin://plugin.video.f4mTester/?name=IPTV Play&streamtype=TSDOWNLOADER&amp;url=http://setv.ma:1925/zxc0007/jb5BdtBcxa/13357
-#EXTINF:-1, RECORD NEWS
-plugin://plugin.video.f4mTester/?name=IPTV Play&streamtype=TSDOWNLOADER&amp;url=http://setv.ma:1925/zxc0007/jb5BdtBcxa/13356
-#EXTINF:-1, RECORD NEWS FHD *
-plugin://plugin.video.f4mTester/?name=IPTV Play&streamtype=TSDOWNLOADER&amp;url=http://setv.ma:1925/zxc0007/jb5BdtBcxa/13355
-#EXTINF:-1, RECORD NEWS HD
-plugin://plugin.video.f4mTester/?name=IPTV Play&streamtype=TSDOWNLOADER&amp;url=http://setv.ma:1925/zxc0007/jb5BdtBcxa/13354
-#EXTINF:-1, RECORD RECIFE FHD **
-plugin://plugin.video.f4mTester/?name=IPTV Play&streamtype=TSDOWNLOADER&amp;url=http://setv.ma:1925/zxc0007/jb5BdtBcxa/13353
-#EXTINF:-1, RECORD RJ HD
-plugin://plugin.video.f4mTester/?name=IPTV Play&streamtype=TSDOWNLOADER&amp;url=http://setv.ma:1925/zxc0007/jb5BdtBcxa/13352
-#EXTINF:-1, RECORD RS HD
-plugin://plugin.video.f4mTester/?name=IPTV Play&streamtype=TSDOWNLOADER&amp;url=http://setv.ma:1925/zxc0007/jb5BdtBcxa/13351
-#EXTINF:-1, RECORD SP HD *
-plugin://plugin.video.f4mTester/?name=IPTV Play&streamtype=TSDOWNLOADER&amp;url=http://setv.ma:1925/zxc0007/jb5BdtBcxa/13350
-#EXTINF:-1, REDE BRASIL
-plugin://plugin.video.f4mTester/?name=IPTV Play&streamtype=TSDOWNLOADER&amp;url=http://setv.ma:1925/zxc0007/jb5BdtBcxa/13349
-#EXTINF:-1, REDE TV
-plugin://plugin.video.f4mTester/?name=IPTV Play&streamtype=TSDOWNLOADER&amp;url=http://setv.ma:1925/zxc0007/jb5BdtBcxa/13348
-#EXTINF:-1, REDE TV HD
-plugin://plugin.video.f4mTester/?name=IPTV Play&streamtype=TSDOWNLOADER&amp;url=http://setv.ma:1925/zxc0007/jb5BdtBcxa/13347
-#EXTINF:-1, REDE VIDA
-plugin://plugin.video.f4mTester/?name=IPTV Play&streamtype=TSDOWNLOADER&amp;url=http://setv.ma:1925/zxc0007/jb5BdtBcxa/13346
-#EXTINF:-1, RIT
-plugin://plugin.video.f4mTester/?name=IPTV Play&streamtype=TSDOWNLOADER&amp;url=http://setv.ma:1925/zxc0007/jb5BdtBcxa/13345
-#EXTINF:-1, SBT
-plugin://plugin.video.f4mTester/?name=IPTV Play&streamtype=TSDOWNLOADER&amp;url=http://setv.ma:1925/zxc0007/jb5BdtBcxa/13344
-#EXTINF:-1, SBT FHD *
-plugin://plugin.video.f4mTester/?name=IPTV Play&streamtype=TSDOWNLOADER&amp;url=http://setv.ma:1925/zxc0007/jb5BdtBcxa/13343
-#EXTINF:-1, SBT HD
-plugin://plugin.video.f4mTester/?name=IPTV Play&streamtype=TSDOWNLOADER&amp;url=http://setv.ma:1925/zxc0007/jb5BdtBcxa/13342
-#EXTINF:-1, SBT RECIFE FHD **
-plugin://plugin.video.f4mTester/?name=IPTV Play&streamtype=TSDOWNLOADER&amp;url=http://setv.ma:1925/zxc0007/jb5BdtBcxa/13341
-#EXTINF:-1, SBT TV JORNAL HD
-plugin://plugin.video.f4mTester/?name=IPTV Play&streamtype=TSDOWNLOADER&amp;url=http://setv.ma:1925/zxc0007/jb5BdtBcxa/13340
-#EXTINF:-1, SPACE
-plugin://plugin.video.f4mTester/?name=IPTV Play&streamtype=TSDOWNLOADER&amp;url=http://setv.ma:1925/zxc0007/jb5BdtBcxa/13339
-#EXTINF:-1, SPACE HD *
-plugin://plugin.video.f4mTester/?name=IPTV Play&streamtype=TSDOWNLOADER&amp;url=http://setv.ma:1925/zxc0007/jb5BdtBcxa/13338
-#EXTINF:-1, SPORTV
-plugin://plugin.video.f4mTester/?name=IPTV Play&streamtype=TSDOWNLOADER&amp;url=http://setv.ma:1925/zxc0007/jb5BdtBcxa/13337
-#EXTINF:-1, SPORTV 2
-plugin://plugin.video.f4mTester/?name=IPTV Play&streamtype=TSDOWNLOADER&amp;url=http://setv.ma:1925/zxc0007/jb5BdtBcxa/13336
-#EXTINF:-1, SPORTV 2 HD *
-plugin://plugin.video.f4mTester/?name=IPTV Play&streamtype=TSDOWNLOADER&amp;url=http://setv.ma:1925/zxc0007/jb5BdtBcxa/13334
-#EXTINF:-1, SPORTV 3
-plugin://plugin.video.f4mTester/?name=IPTV Play&streamtype=TSDOWNLOADER&amp;url=http://setv.ma:1925/zxc0007/jb5BdtBcxa/13333
-#EXTINF:-1, SPORTV 3 HD *
-plugin://plugin.video.f4mTester/?name=IPTV Play&streamtype=TSDOWNLOADER&amp;url=http://setv.ma:1925/zxc0007/jb5BdtBcxa/13331
-#EXTINF:-1, SPORTV HD *
-plugin://plugin.video.f4mTester/?name=IPTV Play&streamtype=TSDOWNLOADER&amp;url=http://setv.ma:1925/zxc0007/jb5BdtBcxa/13329
-#EXTINF:-1, STUDIO UNIVERSAL
-plugin://plugin.video.f4mTester/?name=IPTV Play&streamtype=TSDOWNLOADER&amp;url=http://setv.ma:1925/zxc0007/jb5BdtBcxa/13328
-#EXTINF:-1, STUDIO UNIVERSAL HD
-plugin://plugin.video.f4mTester/?name=IPTV Play&streamtype=TSDOWNLOADER&amp;url=http://setv.ma:1925/zxc0007/jb5BdtBcxa/13326
-#EXTINF:-1, SYFY
-plugin://plugin.video.f4mTester/?name=IPTV Play&streamtype=TSDOWNLOADER&amp;url=http://setv.ma:1925/zxc0007/jb5BdtBcxa/13325
-#EXTINF:-1, SYFY FHD (H265)
-plugin://plugin.video.f4mTester/?name=IPTV Play&streamtype=TSDOWNLOADER&amp;url=http://setv.ma:1925/zxc0007/jb5BdtBcxa/13324
-#EXTINF:-1, SYFY HD *
-plugin://plugin.video.f4mTester/?name=IPTV Play&streamtype=TSDOWNLOADER&amp;url=http://setv.ma:1925/zxc0007/jb5BdtBcxa/13323
-#EXTINF:-1, TBS
-plugin://plugin.video.f4mTester/?name=IPTV Play&streamtype=TSDOWNLOADER&amp;url=http://setv.ma:1925/zxc0007/jb5BdtBcxa/13322
-#EXTINF:-1, TBS HD
-plugin://plugin.video.f4mTester/?name=IPTV Play&streamtype=TSDOWNLOADER&amp;url=http://setv.ma:1925/zxc0007/jb5BdtBcxa/13321
-#EXTINF:-1, TCM
-plugin://plugin.video.f4mTester/?name=IPTV Play&streamtype=TSDOWNLOADER&amp;url=http://setv.ma:1925/zxc0007/jb5BdtBcxa/13320
-#EXTINF:-1, TCM HD
-plugin://plugin.video.f4mTester/?name=IPTV Play&streamtype=TSDOWNLOADER&amp;url=http://setv.ma:1925/zxc0007/jb5BdtBcxa/13319
-#EXTINF:-1, TELECINE ACTION
-plugin://plugin.video.f4mTester/?name=IPTV Play&streamtype=TSDOWNLOADER&amp;url=http://setv.ma:1925/zxc0007/jb5BdtBcxa/13318
-#EXTINF:-1, TELECINE ACTION HD *
-plugin://plugin.video.f4mTester/?name=IPTV Play&streamtype=TSDOWNLOADER&amp;url=http://setv.ma:1925/zxc0007/jb5BdtBcxa/13316
-#EXTINF:-1, TELECINE CULT
-plugin://plugin.video.f4mTester/?name=IPTV Play&streamtype=TSDOWNLOADER&amp;url=http://setv.ma:1925/zxc0007/jb5BdtBcxa/13315
-#EXTINF:-1, TELECINE CULT HD *
-plugin://plugin.video.f4mTester/?name=IPTV Play&streamtype=TSDOWNLOADER&amp;url=http://setv.ma:1925/zxc0007/jb5BdtBcxa/13313
-#EXTINF:-1, TELECINE FUN
-plugin://plugin.video.f4mTester/?name=IPTV Play&streamtype=TSDOWNLOADER&amp;url=http://setv.ma:1925/zxc0007/jb5BdtBcxa/13312
-#EXTINF:-1, TELECINE FUN HD *
-plugin://plugin.video.f4mTester/?name=IPTV Play&streamtype=TSDOWNLOADER&amp;url=http://setv.ma:1925/zxc0007/jb5BdtBcxa/13310
-#EXTINF:-1, TELECINE PIPOCA
-plugin://plugin.video.f4mTester/?name=IPTV Play&streamtype=TSDOWNLOADER&amp;url=http://setv.ma:1925/zxc0007/jb5BdtBcxa/13309
-#EXTINF:-1, TELECINE PIPOCA HD *
-plugin://plugin.video.f4mTester/?name=IPTV Play&streamtype=TSDOWNLOADER&amp;url=http://setv.ma:1925/zxc0007/jb5BdtBcxa/13307
-#EXTINF:-1, TELECINE PREMIUM
-plugin://plugin.video.f4mTester/?name=IPTV Play&streamtype=TSDOWNLOADER&amp;url=http://setv.ma:1925/zxc0007/jb5BdtBcxa/13306
-#EXTINF:-1, TELECINE TOUCH
-plugin://plugin.video.f4mTester/?name=IPTV Play&streamtype=TSDOWNLOADER&amp;url=http://setv.ma:1925/zxc0007/jb5BdtBcxa/13304
-#EXTINF:-1, TERRA VIVA
-plugin://plugin.video.f4mTester/?name=IPTV Play&streamtype=TSDOWNLOADER&amp;url=http://setv.ma:1925/zxc0007/jb5BdtBcxa/13302
-#EXTINF:-1, TLC
-plugin://plugin.video.f4mTester/?name=IPTV Play&streamtype=TSDOWNLOADER&amp;url=http://setv.ma:1925/zxc0007/jb5BdtBcxa/13301
-#EXTINF:-1, TLC HD
-plugin://plugin.video.f4mTester/?name=IPTV Play&streamtype=TSDOWNLOADER&amp;url=http://setv.ma:1925/zxc0007/jb5BdtBcxa/13300
-#EXTINF:-1, TNT
-plugin://plugin.video.f4mTester/?name=IPTV Play&streamtype=TSDOWNLOADER&amp;url=http://setv.ma:1925/zxc0007/jb5BdtBcxa/13299
-#EXTINF:-1, TNT HD
-plugin://plugin.video.f4mTester/?name=IPTV Play&streamtype=TSDOWNLOADER&amp;url=http://setv.ma:1925/zxc0007/jb5BdtBcxa/13297
-#EXTINF:-1, TNT SERIES
-plugin://plugin.video.f4mTester/?name=IPTV Play&streamtype=TSDOWNLOADER&amp;url=http://setv.ma:1925/zxc0007/jb5BdtBcxa/13296
-#EXTINF:-1, TNT SERIES HD *
-plugin://plugin.video.f4mTester/?name=IPTV Play&streamtype=TSDOWNLOADER&amp;url=http://setv.ma:1925/zxc0007/jb5BdtBcxa/13294
-#EXTINF:-1, TOONCAST
-plugin://plugin.video.f4mTester/?name=IPTV Play&streamtype=TSDOWNLOADER&amp;url=http://setv.ma:1925/zxc0007/jb5BdtBcxa/13293
-#EXTINF:-1, TOONCAST HD
-plugin://plugin.video.f4mTester/?name=IPTV Play&streamtype=TSDOWNLOADER&amp;url=http://setv.ma:1925/zxc0007/jb5BdtBcxa/13292
-#EXTINF:-1, TRUTV
-plugin://plugin.video.f4mTester/?name=IPTV Play&streamtype=TSDOWNLOADER&amp;url=http://setv.ma:1925/zxc0007/jb5BdtBcxa/13291
-#EXTINF:-1, TV APARECIDA
-plugin://plugin.video.f4mTester/?name=IPTV Play&streamtype=TSDOWNLOADER&amp;url=http://setv.ma:1925/zxc0007/jb5BdtBcxa/13290
-#EXTINF:-1, TV BRASIL
-plugin://plugin.video.f4mTester/?name=IPTV Play&streamtype=TSDOWNLOADER&amp;url=http://setv.ma:1925/zxc0007/jb5BdtBcxa/13289
-#EXTINF:-1, TV CAMARA
-plugin://plugin.video.f4mTester/?name=IPTV Play&streamtype=TSDOWNLOADER&amp;url=http://setv.ma:1925/zxc0007/jb5BdtBcxa/13288
-#EXTINF:-1, TV CULTURA
-plugin://plugin.video.f4mTester/?name=IPTV Play&streamtype=TSDOWNLOADER&amp;url=http://setv.ma:1925/zxc0007/jb5BdtBcxa/13287
-#EXTINF:-1, TV ESCOLA
-plugin://plugin.video.f4mTester/?name=IPTV Play&streamtype=TSDOWNLOADER&amp;url=http://setv.ma:1925/zxc0007/jb5BdtBcxa/13286
-#EXTINF:-1, TV ESTACAO FHD *
-plugin://plugin.video.f4mTester/?name=IPTV Play&streamtype=TSDOWNLOADER&amp;url=http://setv.ma:1925/zxc0007/jb5BdtBcxa/13285
-#EXTINF:-1, TV JUSTI?A
-plugin://plugin.video.f4mTester/?name=IPTV Play&streamtype=TSDOWNLOADER&amp;url=http://setv.ma:1925/zxc0007/jb5BdtBcxa/13284
-#EXTINF:-1, TV NOVO TEMPO
-plugin://plugin.video.f4mTester/?name=IPTV Play&streamtype=TSDOWNLOADER&amp;url=http://setv.ma:1925/zxc0007/jb5BdtBcxa/13283
-#EXTINF:-1, TV RA TIM BUM
-plugin://plugin.video.f4mTester/?name=IPTV Play&streamtype=TSDOWNLOADER&amp;url=http://setv.ma:1925/zxc0007/jb5BdtBcxa/13282
-#EXTINF:-1, TV RA TIM BUM HD
-plugin://plugin.video.f4mTester/?name=IPTV Play&streamtype=TSDOWNLOADER&amp;url=http://setv.ma:1925/zxc0007/jb5BdtBcxa/13281
-#EXTINF:-1, TV SENADO
-plugin://plugin.video.f4mTester/?name=IPTV Play&streamtype=TSDOWNLOADER&amp;url=http://setv.ma:1925/zxc0007/jb5BdtBcxa/13280
-#EXTINF:-1, TVE
-plugin://plugin.video.f4mTester/?name=IPTV Play&streamtype=TSDOWNLOADER&amp;url=http://setv.ma:1925/zxc0007/jb5BdtBcxa/13279
-#EXTINF:-1, UNIVERSAL CHANNEL
-plugin://plugin.video.f4mTester/?name=IPTV Play&streamtype=TSDOWNLOADER&amp;url=http://setv.ma:1925/zxc0007/jb5BdtBcxa/13278
-#EXTINF:-1, UNIVERSAL CHANNEL HD **
-plugin://plugin.video.f4mTester/?name=IPTV Play&streamtype=TSDOWNLOADER&amp;url=http://setv.ma:1925/zxc0007/jb5BdtBcxa/13276
-#EXTINF:-1, VH1 HD
-plugin://plugin.video.f4mTester/?name=IPTV Play&streamtype=TSDOWNLOADER&amp;url=http://setv.ma:1925/zxc0007/jb5BdtBcxa/13275
-#EXTINF:-1, VH1 MEGAHITS
-plugin://plugin.video.f4mTester/?name=IPTV Play&streamtype=TSDOWNLOADER&amp;url=http://setv.ma:1925/zxc0007/jb5BdtBcxa/13274
-#EXTINF:-1, VIVA
-plugin://plugin.video.f4mTester/?name=IPTV Play&streamtype=TSDOWNLOADER&amp;url=http://setv.ma:1925/zxc0007/jb5BdtBcxa/13273
-#EXTINF:-1, VIVA FHD *
-plugin://plugin.video.f4mTester/?name=IPTV Play&streamtype=TSDOWNLOADER&amp;url=http://setv.ma:1925/zxc0007/jb5BdtBcxa/13272
-#EXTINF:-1, WARNER CHANNEL
-plugin://plugin.video.f4mTester/?name=IPTV Play&streamtype=TSDOWNLOADER&amp;url=http://setv.ma:1925/zxc0007/jb5BdtBcxa/13271
-#EXTINF:-1, WARNER CHANNEL HD *
-plugin://plugin.video.f4mTester/?name=IPTV Play&streamtype=TSDOWNLOADER&amp;url=http://setv.ma:1925/zxc0007/jb5BdtBcxa/13269
-#EXTINF:-1, WOOHOO
-plugin://plugin.video.f4mTester/?name=IPTV Play&streamtype=TSDOWNLOADER&amp;url=http://setv.ma:1925/zxc0007/jb5BdtBcxa/13268
-#EXTINF:-1, WOOHOO HD
-plugin://plugin.video.f4mTester/?name=IPTV Play&streamtype=TSDOWNLOADER&amp;url=http://setv.ma:1925/zxc0007/jb5BdtBcxa/13267
-#EXTINF:-1, AMC HD Hevc
-plugin://plugin.video.f4mTester/?name=IPTV Play&streamtype=TSDOWNLOADER&amp;url=http://setv.ma:1925/zxc0007/jb5BdtBcxa/28257
-#EXTINF:-1, AMC Hevc
-plugin://plugin.video.f4mTester/?name=IPTV Play&streamtype=TSDOWNLOADER&amp;url=http://setv.ma:1925/zxc0007/jb5BdtBcxa/28258
-#EXTINF:-1, BIS HD Hevc
-plugin://plugin.video.f4mTester/?name=IPTV Play&streamtype=TSDOWNLOADER&amp;url=http://setv.ma:1925/zxc0007/jb5BdtBcxa/28245
-#EXTINF:-1, BIS Hevc
-plugin://plugin.video.f4mTester/?name=IPTV Play&streamtype=TSDOWNLOADER&amp;url=http://setv.ma:1925/zxc0007/jb5BdtBcxa/28246
-#EXTINF:-1, Cartoon Network Hevc
-plugin://plugin.video.f4mTester/?name=IPTV Play&streamtype=TSDOWNLOADER&amp;url=http://setv.ma:1925/zxc0007/jb5BdtBcxa/28239
-#EXTINF:-1, Comedy Central Hevc
-plugin://plugin.video.f4mTester/?name=IPTV Play&streamtype=TSDOWNLOADER&amp;url=http://setv.ma:1925/zxc0007/jb5BdtBcxa/28233
-#EXTINF:-1, esPN  HD Hevc
-plugin://plugin.video.f4mTester/?name=IPTV Play&streamtype=TSDOWNLOADER&amp;url=http://setv.ma:1925/zxc0007/jb5BdtBcxa/28208
-#EXTINF:-1, esPN Hevc
-plugin://plugin.video.f4mTester/?name=IPTV Play&streamtype=TSDOWNLOADER&amp;url=http://setv.ma:1925/zxc0007/jb5BdtBcxa/28209
-#EXTINF:-1, HBO Family HD Hevc
-plugin://plugin.video.f4mTester/?name=IPTV Play&streamtype=TSDOWNLOADER&amp;url=http://setv.ma:1925/zxc0007/jb5BdtBcxa/28165
-#EXTINF:-1, HBO Family Hevc
-plugin://plugin.video.f4mTester/?name=IPTV Play&streamtype=TSDOWNLOADER&amp;url=http://setv.ma:1925/zxc0007/jb5BdtBcxa/28166
-#EXTINF:-1, History Channel HD Hevc
-plugin://plugin.video.f4mTester/?name=IPTV Play&streamtype=TSDOWNLOADER&amp;url=http://setv.ma:1925/zxc0007/jb5BdtBcxa/28158
-#EXTINF:-1, History Channel Hevc
-plugin://plugin.video.f4mTester/?name=IPTV Play&streamtype=TSDOWNLOADER&amp;url=http://setv.ma:1925/zxc0007/jb5BdtBcxa/28159
-#EXTINF:-1, Mais Globosat HD Hevc
-plugin://plugin.video.f4mTester/?name=IPTV Play&streamtype=TSDOWNLOADER&amp;url=http://setv.ma:1925/zxc0007/jb5BdtBcxa/28154
-#EXTINF:-1, Max HD Hevc
-plugin://plugin.video.f4mTester/?name=IPTV Play&streamtype=TSDOWNLOADER&amp;url=http://setv.ma:1925/zxc0007/jb5BdtBcxa/28153
-#EXTINF:-1, Max Up HD Hevc
-plugin://plugin.video.f4mTester/?name=IPTV Play&streamtype=TSDOWNLOADER&amp;url=http://setv.ma:1925/zxc0007/jb5BdtBcxa/28150
-#EXTINF:-1, MTV HD Hevc
-plugin://plugin.video.f4mTester/?name=IPTV Play&streamtype=TSDOWNLOADER&amp;url=http://setv.ma:1925/zxc0007/jb5BdtBcxa/28147
-#EXTINF:-1, Multishow HD Hevc
-plugin://plugin.video.f4mTester/?name=IPTV Play&streamtype=TSDOWNLOADER&amp;url=http://setv.ma:1925/zxc0007/jb5BdtBcxa/28145
-#EXTINF:-1, Multishow Hevc
-plugin://plugin.video.f4mTester/?name=IPTV Play&streamtype=TSDOWNLOADER&amp;url=http://setv.ma:1925/zxc0007/jb5BdtBcxa/28146
-#EXTINF:-1, Nat Geo Wild HD Hevc
-plugin://plugin.video.f4mTester/?name=IPTV Play&streamtype=TSDOWNLOADER&amp;url=http://setv.ma:1925/zxc0007/jb5BdtBcxa/28144
-#EXTINF:-1, NatGeo Wild HD Hevc
-plugin://plugin.video.f4mTester/?name=IPTV Play&streamtype=TSDOWNLOADER&amp;url=http://setv.ma:1925/zxc0007/jb5BdtBcxa/28141
-#EXTINF:-1, NatGeo Wild Hevc
-plugin://plugin.video.f4mTester/?name=IPTV Play&streamtype=TSDOWNLOADER&amp;url=http://setv.ma:1925/zxc0007/jb5BdtBcxa/28142
-#EXTINF:-1, National Geographic HD Hevc
-plugin://plugin.video.f4mTester/?name=IPTV Play&streamtype=TSDOWNLOADER&amp;url=http://setv.ma:1925/zxc0007/jb5BdtBcxa/28140
-#EXTINF:-1, Nick Jr HD Hevc
-plugin://plugin.video.f4mTester/?name=IPTV Play&streamtype=TSDOWNLOADER&amp;url=http://setv.ma:1925/zxc0007/jb5BdtBcxa/28139
-#EXTINF:-1, OFF HD Hevc
-plugin://plugin.video.f4mTester/?name=IPTV Play&streamtype=TSDOWNLOADER&amp;url=http://setv.ma:1925/zxc0007/jb5BdtBcxa/28137
-#EXTINF:-1, Paramount HD Hevc
-plugin://plugin.video.f4mTester/?name=IPTV Play&streamtype=TSDOWNLOADER&amp;url=http://setv.ma:1925/zxc0007/jb5BdtBcxa/28135
-#EXTINF:-1, Paramount Hevc
-plugin://plugin.video.f4mTester/?name=IPTV Play&streamtype=TSDOWNLOADER&amp;url=http://setv.ma:1925/zxc0007/jb5BdtBcxa/28136
-#EXTINF:-1, PFC Hevc
-plugin://plugin.video.f4mTester/?name=IPTV Play&streamtype=TSDOWNLOADER&amp;url=http://setv.ma:1925/zxc0007/jb5BdtBcxa/28134
-#EXTINF:-1, Premiere 3 HD Hevc
-plugin://plugin.video.f4mTester/?name=IPTV Play&streamtype=TSDOWNLOADER&amp;url=http://setv.ma:1925/zxc0007/jb5BdtBcxa/28131
-#EXTINF:-1, Premiere 3 Hevc
-plugin://plugin.video.f4mTester/?name=IPTV Play&streamtype=TSDOWNLOADER&amp;url=http://setv.ma:1925/zxc0007/jb5BdtBcxa/28132
-#EXTINF:-1, Premiere 4 HD Hevc
-plugin://plugin.video.f4mTester/?name=IPTV Play&streamtype=TSDOWNLOADER&amp;url=http://setv.ma:1925/zxc0007/jb5BdtBcxa/28129
-#EXTINF:-1, Premiere 4 Hevc
-plugin://plugin.video.f4mTester/?name=IPTV Play&streamtype=TSDOWNLOADER&amp;url=http://setv.ma:1925/zxc0007/jb5BdtBcxa/28130
-#EXTINF:-1, Premiere 5 Hevc
-plugin://plugin.video.f4mTester/?name=IPTV Play&streamtype=TSDOWNLOADER&amp;url=http://setv.ma:1925/zxc0007/jb5BdtBcxa/28128
-#EXTINF:-1, Premiere 6 HD Hevc
-plugin://plugin.video.f4mTester/?name=IPTV Play&streamtype=TSDOWNLOADER&amp;url=http://setv.ma:1925/zxc0007/jb5BdtBcxa/28126
-#EXTINF:-1, Premiere 8 Hevc
-plugin://plugin.video.f4mTester/?name=IPTV Play&streamtype=TSDOWNLOADER&amp;url=http://setv.ma:1925/zxc0007/jb5BdtBcxa/28124
-#EXTINF:-1, Record SP HD Hevc
-plugin://plugin.video.f4mTester/?name=IPTV Play&streamtype=TSDOWNLOADER&amp;url=http://setv.ma:1925/zxc0007/jb5BdtBcxa/28117
-#EXTINF:-1, Sony HD Hevc
-plugin://plugin.video.f4mTester/?name=IPTV Play&streamtype=TSDOWNLOADER&amp;url=http://setv.ma:1925/zxc0007/jb5BdtBcxa/28107
-#EXTINF:-1, SporTV 3 HD Hevc
-plugin://plugin.video.f4mTester/?name=IPTV Play&streamtype=TSDOWNLOADER&amp;url=http://setv.ma:1925/zxc0007/jb5BdtBcxa/28109
-#EXTINF:-1, SporTV 3 Hevc
-plugin://plugin.video.f4mTester/?name=IPTV Play&streamtype=TSDOWNLOADER&amp;url=http://setv.ma:1925/zxc0007/jb5BdtBcxa/28110
-#EXTINF:-1, Studio Universal HD Hevc
-plugin://plugin.video.f4mTester/?name=IPTV Play&streamtype=TSDOWNLOADER&amp;url=http://setv.ma:1925/zxc0007/jb5BdtBcxa/28106
-#EXTINF:-1, SyFy HD Hevc
-plugin://plugin.video.f4mTester/?name=IPTV Play&streamtype=TSDOWNLOADER&amp;url=http://setv.ma:1925/zxc0007/jb5BdtBcxa/28104
-#EXTINF:-1, SyFy Hevc
-plugin://plugin.video.f4mTester/?name=IPTV Play&streamtype=TSDOWNLOADER&amp;url=http://setv.ma:1925/zxc0007/jb5BdtBcxa/28105
-#EXTINF:-1, TBS HD Hevc
-plugin://plugin.video.f4mTester/?name=IPTV Play&streamtype=TSDOWNLOADER&amp;url=http://setv.ma:1925/zxc0007/jb5BdtBcxa/28103
-#EXTINF:-1, TCM Hevc
-plugin://plugin.video.f4mTester/?name=IPTV Play&streamtype=TSDOWNLOADER&amp;url=http://setv.ma:1925/zxc0007/jb5BdtBcxa/28102
-#EXTINF:-1, Telecine Cult HD Hevc
-plugin://plugin.video.f4mTester/?name=IPTV Play&streamtype=TSDOWNLOADER&amp;url=http://setv.ma:1925/zxc0007/jb5BdtBcxa/28098
-#EXTINF:-1, Telecine Cult Hevc
-plugin://plugin.video.f4mTester/?name=IPTV Play&streamtype=TSDOWNLOADER&amp;url=http://setv.ma:1925/zxc0007/jb5BdtBcxa/28099
-#EXTINF:-1, Telecine Fun HD Hevc
-plugin://plugin.video.f4mTester/?name=IPTV Play&streamtype=TSDOWNLOADER&amp;url=http://setv.ma:1925/zxc0007/jb5BdtBcxa/28096
-#EXTINF:-1, TLC HD Hevc
-plugin://plugin.video.f4mTester/?name=IPTV Play&streamtype=TSDOWNLOADER&amp;url=http://setv.ma:1925/zxc0007/jb5BdtBcxa/28088
-#EXTINF:-1, TLC Hevc
-plugin://plugin.video.f4mTester/?name=IPTV Play&streamtype=TSDOWNLOADER&amp;url=http://setv.ma:1925/zxc0007/jb5BdtBcxa/28089
-#EXTINF:-1, TNT Séries HD Hevc
-plugin://plugin.video.f4mTester/?name=IPTV Play&streamtype=TSDOWNLOADER&amp;url=http://setv.ma:1925/zxc0007/jb5BdtBcxa/28084
-#EXTINF:-1, TNT Séries Hevc
-plugin://plugin.video.f4mTester/?name=IPTV Play&streamtype=TSDOWNLOADER&amp;url=http://setv.ma:1925/zxc0007/jb5BdtBcxa/28085
-#EXTINF:-1, Universal Channel HD Hevc
-plugin://plugin.video.f4mTester/?name=IPTV Play&streamtype=TSDOWNLOADER&amp;url=http://setv.ma:1925/zxc0007/jb5BdtBcxa/28081
-#EXTINF:-1, Universal Channel Hevc
-plugin://plugin.video.f4mTester/?name=IPTV Play&streamtype=TSDOWNLOADER&amp;url=http://setv.ma:1925/zxc0007/jb5BdtBcxa/28082
-#EXTINF:-1, ZOOMOO
-plugin://plugin.video.f4mTester/?name=IPTV Play&streamtype=TSDOWNLOADER&amp;url=http://setv.ma:1925/zxc0007/jb5BdtBcxa/13266
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", Zoomoo SD
+http://maxptv.ddns.net:25461/andre01/andre01/1
+ 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", Zoomoo HD
+http://maxptv.ddns.net:25461/andre01/andre01/2
+ 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", Warner Bros SD
+http://maxptv.ddns.net:25461/andre01/andre01/3
+ 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", Warner Bros HD
+http://maxptv.ddns.net:25461/andre01/andre01/4
+ 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", Viva SD
+http://maxptv.ddns.net:25461/andre01/andre01/5
+ 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", Viva HD
+http://maxptv.ddns.net:25461/andre01/andre01/6
+ 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", VH1 SD
+http://maxptv.ddns.net:25461/andre01/andre01/7
+ 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", VH1 HD
+http://maxptv.ddns.net:25461/andre01/andre01/8
+ 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", Universal Channel SD
+http://maxptv.ddns.net:25461/andre01/andre01/11
+ 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", Universal Channel HD
+http://maxptv.ddns.net:25461/andre01/andre01/12
+ 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", TV Rio Preto
+http://maxptv.ddns.net:25461/andre01/andre01/13
+ 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", TV Aparecida SD
+http://maxptv.ddns.net:25461/andre01/andre01/14
+ 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", TV Aparecida HD
+http://maxptv.ddns.net:25461/andre01/andre01/15
+ 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", Tooncast SD
+http://maxptv.ddns.net:25461/andre01/andre01/16
+ 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", Tooncast HD
+http://maxptv.ddns.net:25461/andre01/andre01/17
+ 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", TNT Series SD
+http://maxptv.ddns.net:25461/andre01/andre01/18
+ 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", TNT SD
+http://maxptv.ddns.net:25461/andre01/andre01/20
+ 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", TNT HD
+http://maxptv.ddns.net:25461/andre01/andre01/21
+ 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", TLC SD
+http://maxptv.ddns.net:25461/andre01/andre01/22
+ 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", TLC HD
+http://maxptv.ddns.net:25461/andre01/andre01/23
+ 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", Telecine Touch SD
+http://maxptv.ddns.net:25461/andre01/andre01/24
+ 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", Telecine Touch HD
+http://maxptv.ddns.net:25461/andre01/andre01/25
+ 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", Telecine Premium SD
+http://maxptv.ddns.net:25461/andre01/andre01/26
+ 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", Telecine Premium HD
+http://maxptv.ddns.net:25461/andre01/andre01/27
+ 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", Telecine Pipoca SD
+http://maxptv.ddns.net:25461/andre01/andre01/28
+ 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", Telecine Pipoca HD
+http://maxptv.ddns.net:25461/andre01/andre01/29
+ 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", Telecine Fun SD
+http://maxptv.ddns.net:25461/andre01/andre01/30
+ 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", Telecine Fun HD
+http://maxptv.ddns.net:25461/andre01/andre01/31
+ 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", Telecine Cult SD
+http://maxptv.ddns.net:25461/andre01/andre01/32
+ 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", Telecine Cult HD
+http://maxptv.ddns.net:25461/andre01/andre01/33
+ 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", Telecine Action SD
+http://maxptv.ddns.net:25461/andre01/andre01/34
+ 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", Telecine Action HD
+http://maxptv.ddns.net:25461/andre01/andre01/35
+ 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", TCM SD
+http://maxptv.ddns.net:25461/andre01/andre01/36
+ 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", TCM HD
+http://maxptv.ddns.net:25461/andre01/andre01/37
+ 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", Tbs SD
+http://maxptv.ddns.net:25461/andre01/andre01/38
+ 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", Tbs HD
+http://maxptv.ddns.net:25461/andre01/andre01/39
+ 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", Syfy SD
+http://maxptv.ddns.net:25461/andre01/andre01/40
+ 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", Syfy HD
+http://maxptv.ddns.net:25461/andre01/andre01/41
+ 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", Studio Universal SD
+http://maxptv.ddns.net:25461/andre01/andre01/42
+ 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", Studio Universal HD
+http://maxptv.ddns.net:25461/andre01/andre01/43
+ 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", SporTV3 SD
+http://maxptv.ddns.net:25461/andre01/andre01/44
+ 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", SporTV3 HD
+http://maxptv.ddns.net:25461/andre01/andre01/45
+ 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", SporTV2 SD
+http://maxptv.ddns.net:25461/andre01/andre01/46
+ 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", SporTV2 HD
+http://maxptv.ddns.net:25461/andre01/andre01/47
+ 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", SporTV SD
+http://maxptv.ddns.net:25461/andre01/andre01/48
+ 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", SporTV HD
+http://maxptv.ddns.net:25461/andre01/andre01/49
+ 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", Space SD
+http://maxptv.ddns.net:25461/andre01/andre01/50
+ 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", Space HD
+http://maxptv.ddns.net:25461/andre01/andre01/51
+ 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", Sony SD
+http://maxptv.ddns.net:25461/andre01/andre01/52
+ 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", Sony HD
+http://maxptv.ddns.net:25461/andre01/andre01/53
+ 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", Sbt SD
+http://maxptv.ddns.net:25461/andre01/andre01/58
+ 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", Sbt HD
+http://maxptv.ddns.net:25461/andre01/andre01/59
+ 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", RedeTV SD
+http://maxptv.ddns.net:25461/andre01/andre01/60
+ 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", RedeTV HD
+http://maxptv.ddns.net:25461/andre01/andre01/61
+ 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", Rede Vida HD
+http://maxptv.ddns.net:25461/andre01/andre01/62
+ 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", Rede Vida
+http://maxptv.ddns.net:25461/andre01/andre01/63
+ 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", Record SP SD
+http://maxptv.ddns.net:25461/andre01/andre01/64
+ 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", Record SP HD
+http://maxptv.ddns.net:25461/andre01/andre01/65
+ 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", Record News SD
+http://maxptv.ddns.net:25461/andre01/andre01/66
+ 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", Record News HD
+http://maxptv.ddns.net:25461/andre01/andre01/67
+ 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", Record HD 2
+http://maxptv.ddns.net:25461/andre01/andre01/68
+ 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", Rá- Tim- Bum SD
+http://maxptv.ddns.net:25461/andre01/andre01/69
+ 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", Rá -Tim Bum- HD
+http://maxptv.ddns.net:25461/andre01/andre01/70
+ 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", Globo SP SD
+http://maxptv.ddns.net:25461/andre01/andre01/71
+ 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", Globo SP HD
+http://maxptv.ddns.net:25461/andre01/andre01/72
+ 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", Premiere 7 SD
+http://maxptv.ddns.net:25461/andre01/andre01/73
+ 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", Premiere 7 HD
+http://maxptv.ddns.net:25461/andre01/andre01/74
+ 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", Premiere 6 SD
+http://maxptv.ddns.net:25461/andre01/andre01/75
+ 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", Premiere 6 HD
+http://maxptv.ddns.net:25461/andre01/andre01/76
+ 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", Premiere 5 SD
+http://maxptv.ddns.net:25461/andre01/andre01/77
+ 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", Premiere 5 HD
+http://maxptv.ddns.net:25461/andre01/andre01/78
+ 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", Premiere 4 SD
+http://maxptv.ddns.net:25461/andre01/andre01/79
+ 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", Premiere 4 HD
+http://maxptv.ddns.net:25461/andre01/andre01/80
+ 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", Premiere 3 SD
+http://maxptv.ddns.net:25461/andre01/andre01/81
+ 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", Premiere 3 HD
+http://maxptv.ddns.net:25461/andre01/andre01/82
+ 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", Premiere 2 SD
+http://maxptv.ddns.net:25461/andre01/andre01/83
+ 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", Premiere 2 HD
+http://maxptv.ddns.net:25461/andre01/andre01/84
+ 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", Premiere 1 SD
+http://maxptv.ddns.net:25461/andre01/andre01/85
+ 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", Premiere 1 HD
+http://maxptv.ddns.net:25461/andre01/andre01/86
+ 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", Paramount Channel SD
+http://maxptv.ddns.net:25461/andre01/andre01/90
+ 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", Paramount Channel HD
+http://maxptv.ddns.net:25461/andre01/andre01/91
+ 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", Nickelodeon SD
+http://maxptv.ddns.net:25461/andre01/andre01/92
+ 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", Nickelodeon HD
+http://maxptv.ddns.net:25461/andre01/andre01/93
+ 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", Nick Jr SD
+http://maxptv.ddns.net:25461/andre01/andre01/94
+ 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", Nick Jr HD
+http://maxptv.ddns.net:25461/andre01/andre01/95
+ 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", NHK SD
+http://maxptv.ddns.net:25461/andre01/andre01/96
+ 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", NHK HD
+http://maxptv.ddns.net:25461/andre01/andre01/97
+ 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", National Geographic SD
+http://maxptv.ddns.net:25461/andre01/andre01/98
+ 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", National Geographic HD
+http://maxptv.ddns.net:25461/andre01/andre01/99
+ 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", Nat Geo Wild SD
+http://maxptv.ddns.net:25461/andre01/andre01/100
+ 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", Nat Geo Wild HD
+http://maxptv.ddns.net:25461/andre01/andre01/101
+ 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", Nat Geo Kids SD
+http://maxptv.ddns.net:25461/andre01/andre01/102
+ 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", MULTISHOW SD
+http://maxptv.ddns.net:25461/andre01/andre01/104
+ 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", MULTISHOW HD
+http://maxptv.ddns.net:25461/andre01/andre01/105
+ 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", MTV SD
+http://maxptv.ddns.net:25461/andre01/andre01/106
+ 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", Megapix SD
+http://maxptv.ddns.net:25461/andre01/andre01/108
+ 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", Megapix HD
+http://maxptv.ddns.net:25461/andre01/andre01/109
+ 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", Max UP SD
+http://maxptv.ddns.net:25461/andre01/andre01/110
+ 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", Max UP HD
+http://maxptv.ddns.net:25461/andre01/andre01/111
+ 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", Max SD
+http://maxptv.ddns.net:25461/andre01/andre01/112
+ 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", MAX Prime SD
+http://maxptv.ddns.net:25461/andre01/andre01/113
+ 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", Mais Globosat SD
+http://maxptv.ddns.net:25461/andre01/andre01/116
+ 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", Mais Globosat HD
+http://maxptv.ddns.net:25461/andre01/andre01/117
+ 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", Lifetime SD
+http://maxptv.ddns.net:25461/andre01/andre01/118
+ 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", ID SD
+http://maxptv.ddns.net:25461/andre01/andre01/120
+ 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", ID HD
+http://maxptv.ddns.net:25461/andre01/andre01/121
+ 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", History Channel SD
+http://maxptv.ddns.net:25461/andre01/andre01/122
+ 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", HBO Signature SD
+http://maxptv.ddns.net:25461/andre01/andre01/124
+ 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", HBO SD
+http://maxptv.ddns.net:25461/andre01/andre01/126
+ 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", HBO Plus SD
+http://maxptv.ddns.net:25461/andre01/andre01/127
+ 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", HBO Plus HD
+http://maxptv.ddns.net:25461/andre01/andre01/128
+ 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", Band SP SD
+http://maxptv.ddns.net:25461/andre01/andre01/129
+ 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", Band SP HD
+http://maxptv.ddns.net:25461/andre01/andre01/130
+ 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", HBO HD
+http://maxptv.ddns.net:25461/andre01/andre01/131
+ 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", HBO Family SD
+http://maxptv.ddns.net:25461/andre01/andre01/132
+ 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", HBO Family HD
+http://maxptv.ddns.net:25461/andre01/andre01/133
+ 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", HBO 2 SD
+http://maxptv.ddns.net:25461/andre01/andre01/134
+ 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", HBO 2 HD
+http://maxptv.ddns.net:25461/andre01/andre01/135
+ 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", H2 HD
+http://maxptv.ddns.net:25461/andre01/andre01/137
+ 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", GNT SD
+http://maxptv.ddns.net:25461/andre01/andre01/138
+ 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", GNT HD
+http://maxptv.ddns.net:25461/andre01/andre01/139
+ 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", Gloob SD
+http://maxptv.ddns.net:25461/andre01/andre01/140
+ 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", GloboNews SD
+http://maxptv.ddns.net:25461/andre01/andre01/142
+ 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", GloboNews HD
+http://maxptv.ddns.net:25461/andre01/andre01/143
+ 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", FX SD
+http://maxptv.ddns.net:25461/andre01/andre01/144
+ 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", FX HD
+http://maxptv.ddns.net:25461/andre01/andre01/145
+ 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", Fox Sports SD
+http://maxptv.ddns.net:25461/andre01/andre01/146
+ 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", Fox Sports HD
+http://maxptv.ddns.net:25461/andre01/andre01/147
+ 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", Fox Sports 2 SD
+http://maxptv.ddns.net:25461/andre01/andre01/148
+ 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", FOX SD
+http://maxptv.ddns.net:25461/andre01/andre01/150
+ 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", Fox Premium SD
+http://maxptv.ddns.net:25461/andre01/andre01/151
+ 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", FOX Life SD
+http://maxptv.ddns.net:25461/andre01/andre01/155
+ 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", FOX Life HD
+http://maxptv.ddns.net:25461/andre01/andre01/156
+ 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", FOX HD
+http://maxptv.ddns.net:25461/andre01/andre01/157
+ 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", Food Network HD
+http://maxptv.ddns.net:25461/andre01/andre01/158
+ 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", Food Network
+http://maxptv.ddns.net:25461/andre01/andre01/159
+ 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", FISH TV
+http://maxptv.ddns.net:25461/andre01/andre01/161
+ 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", Film&Arts SD
+http://maxptv.ddns.net:25461/andre01/andre01/162
+ 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", Film&Arts HD
+http://maxptv.ddns.net:25461/andre01/andre01/163
+ 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", Espn Extra  SD
+http://maxptv.ddns.net:25461/andre01/andre01/164
+ 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", Espn Extra HD
+http://maxptv.ddns.net:25461/andre01/andre01/165
+ 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", Espn 2 SD
+http://maxptv.ddns.net:25461/andre01/andre01/166
+ 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", Espn 2 HD
+http://maxptv.ddns.net:25461/andre01/andre01/167
+ 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", Espn Brasil SD
+http://maxptv.ddns.net:25461/andre01/andre01/168
+ 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", Espn Brasil HD
+http://maxptv.ddns.net:25461/andre01/andre01/169
+ 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", Espn2  SD
+http://maxptv.ddns.net:25461/andre01/andre01/170
+ 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", Espn2  HD
+http://maxptv.ddns.net:25461/andre01/andre01/171
+ 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", E! SD
+http://maxptv.ddns.net:25461/andre01/andre01/172
+ 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", Disney XD SD
+http://maxptv.ddns.net:25461/andre01/andre01/174
+ 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", Disney XD HD
+http://maxptv.ddns.net:25461/andre01/andre01/175
+ 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", Disney Junior SD
+http://maxptv.ddns.net:25461/andre01/andre01/176
+ 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", Disney Junior HD
+http://maxptv.ddns.net:25461/andre01/andre01/177
+ 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", Disney Channel SD
+http://maxptv.ddns.net:25461/andre01/andre01/178
+ 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", Disney Channel  HD
+http://maxptv.ddns.net:25461/andre01/andre01/179
+ 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", Discovery World SD
+http://maxptv.ddns.net:25461/andre01/andre01/180
+ 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", Discovery World HD
+http://maxptv.ddns.net:25461/andre01/andre01/181
+ 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", Discovery Turbo SD
+http://maxptv.ddns.net:25461/andre01/andre01/182
+ 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", Discovery Turbo HD
+http://maxptv.ddns.net:25461/andre01/andre01/183
+ 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", Discovery Theater SD
+http://maxptv.ddns.net:25461/andre01/andre01/184
+ 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", Discovery Theater HD
+http://maxptv.ddns.net:25461/andre01/andre01/185
+ 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", Discovery Science SD
+http://maxptv.ddns.net:25461/andre01/andre01/186
+ 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", Discovery Science HD
+http://maxptv.ddns.net:25461/andre01/andre01/187
+ 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", Discovery Kids SD
+http://maxptv.ddns.net:25461/andre01/andre01/188
+ 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", Discovery Kids HD
+http://maxptv.ddns.net:25461/andre01/andre01/189
+ 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", Discovery Home & Health SD
+http://maxptv.ddns.net:25461/andre01/andre01/190
+ 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", Discovery Home & Health HD
+http://maxptv.ddns.net:25461/andre01/andre01/191
+ 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", Canal HGTV SD
+http://maxptv.ddns.net:25461/andre01/andre01/192
+ 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", Canal HGTV HD
+http://maxptv.ddns.net:25461/andre01/andre01/193
+ 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", Discovery Channel SD
+http://maxptv.ddns.net:25461/andre01/andre01/194
+ 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", Discovery Channel HD
+http://maxptv.ddns.net:25461/andre01/andre01/195
+ 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", Cultura SD
+http://maxptv.ddns.net:25461/andre01/andre01/196
+ 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", Cultura HD
+http://maxptv.ddns.net:25461/andre01/andre01/197
+ 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", Comedy Central SD
+http://maxptv.ddns.net:25461/andre01/andre01/198
+ 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", Comedy Central HD
+http://maxptv.ddns.net:25461/andre01/andre01/199
+ 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", Combate SD
+http://maxptv.ddns.net:25461/andre01/andre01/200
+ 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", Combate HD
+http://maxptv.ddns.net:25461/andre01/andre01/201
+ 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", Cinemax SD
+http://maxptv.ddns.net:25461/andre01/andre01/202
+ 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", Cinemax HD
+http://maxptv.ddns.net:25461/andre01/andre01/203
+ 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", Cartoon Network SD
+http://maxptv.ddns.net:25461/andre01/andre01/204
+ 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", Canal Woohoo SD
+http://maxptv.ddns.net:25461/andre01/andre01/206
+ 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", Canal Woohoo HD
+http://maxptv.ddns.net:25461/andre01/andre01/207
+ 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", Canal OFF SD
+http://maxptv.ddns.net:25461/andre01/andre01/208
+ 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", Canal OFF HD
+http://maxptv.ddns.net:25461/andre01/andre01/209
+ 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", Canal Futura SD
+http://maxptv.ddns.net:25461/andre01/andre01/210
+ 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", Canal Futura HD
+http://maxptv.ddns.net:25461/andre01/andre01/211
+ 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", Canal Curta! SD
+http://maxptv.ddns.net:25461/andre01/andre01/212
+ 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", Canal Curta! HD
+http://maxptv.ddns.net:25461/andre01/andre01/213
+ 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", Canal Canal Canção SD
+http://maxptv.ddns.net:25461/andre01/andre01/214
+ 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", Canal Canção Nova HD
+http://maxptv.ddns.net:25461/andre01/andre01/215
+ 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", Boomerang SD
+http://maxptv.ddns.net:25461/andre01/andre01/216
+ 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", Boomerang HD
+http://maxptv.ddns.net:25461/andre01/andre01/217
+ 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", BIZ SD
+http://maxptv.ddns.net:25461/andre01/andre01/218
+ 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", BIZ HD
+http://maxptv.ddns.net:25461/andre01/andre01/219
+ 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", Band Sports SD
+http://maxptv.ddns.net:25461/andre01/andre01/220
+ 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", Band Sports HD
+http://maxptv.ddns.net:25461/andre01/andre01/221
+ 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", Band News SD
+http://maxptv.ddns.net:25461/andre01/andre01/223
+ 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", Band News HD
+http://maxptv.ddns.net:25461/andre01/andre01/224
+ 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", BabyTV SD
+http://maxptv.ddns.net:25461/andre01/andre01/225
+ 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", BabyTV HD
+http://maxptv.ddns.net:25461/andre01/andre01/226
+ 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", AXN SD
+http://maxptv.ddns.net:25461/andre01/andre01/227
+ 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", DogTv SD
+http://maxptv.ddns.net:25461/andre01/andre01/229
+ 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", DogTv HD
+http://maxptv.ddns.net:25461/andre01/andre01/230
+ 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", Animal Planet SD
+http://maxptv.ddns.net:25461/andre01/andre01/231
+ 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", Animal Planet HD
+http://maxptv.ddns.net:25461/andre01/andre01/232
+ 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", AMC SD
+http://maxptv.ddns.net:25461/andre01/andre01/233
+ 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", A&E SD
+http://maxptv.ddns.net:25461/andre01/andre01/235
+ 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", A&E HD
+http://maxptv.ddns.net:25461/andre01/andre01/236
+ 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", EPTV Campinas SD
+http://maxptv.ddns.net:25461/andre01/andre01/237
+ 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", EPTV Campinas HD
+http://maxptv.ddns.net:25461/andre01/andre01/238
+ 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", Record SD
+http://maxptv.ddns.net:25461/andre01/andre01/239
+ 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", Record HD
+http://maxptv.ddns.net:25461/andre01/andre01/240
+ 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", Band Campinas SD
+http://maxptv.ddns.net:25461/andre01/andre01/241
+ 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", Band Campinas HD
+http://maxptv.ddns.net:25461/andre01/andre01/242
+ 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", EPTV Campinas HD 2
+http://maxptv.ddns.net:25461/andre01/andre01/246
+ 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", Premiere 1 HD2
+http://maxptv.ddns.net:25461/andre01/andre01/247
+ 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", Todo Mundo Odeia o Cris
+http://maxptv.ddns.net:25461/andre01/andre01/317
+ 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", Bob Esponja
+http://maxptv.ddns.net:25461/andre01/andre01/319
+ 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", Eu a Patroa e as Crianças
+http://maxptv.ddns.net:25461/andre01/andre01/321
+ 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", Amc HD
+http://maxptv.ddns.net:25461/andre01/andre01/512
+ 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", E! HD
+http://maxptv.ddns.net:25461/andre01/andre01/516
+ 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", TNT Series HD
+http://maxptv.ddns.net:25461/andre01/andre01/517
+ 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", Nat Geo Kids HD
+http://maxptv.ddns.net:25461/andre01/andre01/518
+ 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", MTV HD
+http://maxptv.ddns.net:25461/andre01/andre01/519
+ 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", MAX Prime HD
+http://maxptv.ddns.net:25461/andre01/andre01/520
+ 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", Max HD
+http://maxptv.ddns.net:25461/andre01/andre01/521
+ 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", Lifetime HD
+http://maxptv.ddns.net:25461/andre01/andre01/522
+ 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", H2 SD
+http://maxptv.ddns.net:25461/andre01/andre01/523
+ 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", Cartoon Network HD
+http://maxptv.ddns.net:25461/andre01/andre01/524
+ 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", FISH TV HD
+http://maxptv.ddns.net:25461/andre01/andre01/525
+ 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", Fox Premium 2 HD
+http://maxptv.ddns.net:25461/andre01/andre01/526
+ 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", Fox Premium 2 SD
+http://maxptv.ddns.net:25461/andre01/andre01/527
+ 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", Fox Premium HD
+http://maxptv.ddns.net:25461/andre01/andre01/528
+ 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", Fox Sports 2 HD
+http://maxptv.ddns.net:25461/andre01/andre01/529
+ 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", Gloob HD
+http://maxptv.ddns.net:25461/andre01/andre01/530
+ 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", HBO Signature HD
+http://maxptv.ddns.net:25461/andre01/andre01/531
+ 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", History Channel HD
+http://maxptv.ddns.net:25461/andre01/andre01/532
+ 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", AXN HD
+http://maxptv.ddns.net:25461/andre01/andre01/535
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", Sexy Hot SD
 http://maxptv.ddns.net:25461/andre01/andre01/54
