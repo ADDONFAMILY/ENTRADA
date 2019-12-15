@@ -72,42 +72,64 @@ http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-b.m3u8
 http://streamingbr.com:1935/st87-live/st87-live/livestream.m3u8
 
 #EXTM3U
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/KnKMS2J.png" group-title="",ALPHA CHANNEL
   https://canaisgratis.top/player3/canais.php?canal=foxpremium1&img=foxpremium1
  
+#EXTINF:-1 tvg-logo="https://i.imgur.com/KnKMS2J.png" group-title="",ALPHA CHANNEL
   https://canaisgratis.top/player3/canais.php?canal=hbo&img=hbo
  
+#EXTINF:-1 tvg-logo="https://i.imgur.com/KnKMS2J.png" group-title="",ALPHA CHANNEL
   https://canaisgratis.top/player3/canais.php?canal=foxpremium2&img=foxpremium2
  
+#EXTINF:-1 tvg-logo="https://i.imgur.com/KnKMS2J.png" group-title="",ALPHA CHANNEL
   https://canaisgratis.top/player3/canais.php?canal=hbo2&img=hbo2
  
+#EXTINF:-1 tvg-logo="https://i.imgur.com/KnKMS2J.png" group-title="",ALPHA CHANNEL
   https://canaisgratis.top/player3/canais.php?canal=hbofamily&img=hbofamily
  
+#EXTINF:-1 tvg-logo="https://i.imgur.com/KnKMS2J.png" group-title="",ALPHA CHANNEL
   https://canaisgratis.top/player3/canais.php?canal=hbosignature&img=hbosignature
  
+#EXTINF:-1 tvg-logo="https://i.imgur.com/KnKMS2J.png" group-title="",ALPHA CHANNEL
   https://canaisgratis.top/player3/canais.php?canal=megapix&img=megapix
  
+#EXTINF:-1 tvg-logo="https://i.imgur.com/KnKMS2J.png" group-title="",ALPHA CHANNEL
   https://canaisgratis.top/player3/canais.php?canal=telecinefun&img=telecinefun
  
+#EXTINF:-1 tvg-logo="https://i.imgur.com/KnKMS2J.png" group-title="",ALPHA CHANNEL
   https://canaisgratis.top/player3/canais.php?canal=telecinecult&img=telecinecult
  
+#EXTINF:-1 tvg-logo="https://i.imgur.com/KnKMS2J.png" group-title="",ALPHA CHANNEL
   https://canaisgratis.top/player3/canais.php?canal=telecinepipoca&img=telecinepipoca
  
+#EXTINF:-1 tvg-logo="https://i.imgur.com/KnKMS2J.png" group-title="",ALPHA CHANNEL
   https://canaisgratis.top/player3/canais.php?canal=telecinetouch&img=telecinetouch
  
+#EXTINF:-1 tvg-logo="https://i.imgur.com/KnKMS2J.png" group-title="",ALPHA CHANNEL
   https://canaisgratis.top/player3/canais.php?canal=telecineaction&img=telecineaction
  
+#EXTINF:-1 tvg-logo="https://i.imgur.com/KnKMS2J.png" group-title="",ALPHA CHANNEL
   https://canaisgratis.top/player3/canais.php?canal=foxpremium2&img=foxpremium2
  
+#EXTINF:-1 tvg-logo="https://i.imgur.com/KnKMS2J.png" group-title="",ALPHA CHANNEL
   https://canaisgratis.top/player3/canais.php?canal=discovery&img=discovery
  
+#EXTINF:-1 tvg-logo="https://i.imgur.com/KnKMS2J.png" group-title="",ALPHA CHANNEL
   https://canaisgratis.top/player3/canais.php?canal=natgeowild&img=natgeowild
  
+#EXTINF:-1 tvg-logo="https://i.imgur.com/KnKMS2J.png" group-title="",ALPHA CHANNEL
   https://canaisgratis.top/player3/canais.php?canal=cartoon&img=cartoon
  
-  https://canaisgratis.top/player3/canais.php?canal=boomerang&img=boomerang
+#EXTINF:-1 tvg-logo="https://i.imgur.com/KnKMS2J.png" group-title="",ALPHA CHANNEL
+  
+#EXTINF:-1 tvg-logo="https://i.imgur.com/KnKMS2J.png" group-title="",ALPHA CHANNEL
+https://canaisgratis.top/player3/canais.php?canal=boomerang&img=boomerang
  
+#EXTINF:-1 tvg-logo="https://i.imgur.com/KnKMS2J.png" group-title="",ALPHA CHANNEL
   https://canaisgratis.top/player3/canais.php?canal=mtv&img=mtv
  
+#EXTINF:-1 tvg-logo="https://i.imgur.com/KnKMS2J.png" group-title="",ALPHA CHANNEL
   https://canaisgratis.top/player3/canais.php?canal=multishow&img=multishow
   
   >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
