@@ -68,7 +68,161 @@ https://5c49cd60dfe56.streamlock.net:6443/canaldoboi/live/chunklist_w1731673664.
 #EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/98f2c63bd8626875fa4b533767d074ff.png" group-title="",TV CARUARU
 http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-b.m3u8
  
+#EXTINF:-1 tvg-id="" tvg-name="A&E HD" tvg-logo="" group-title="CANAIS GRATIS",A&E HD
+http://flixhd.xyz:25461/list/list/5208
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO SP HD" tvg-logo="" group-title="CANAIS GRATIS",GLOBO SP HD
+http://flixhd.xyz:25461/list/list/5058
+#EXTINF:-1 tvg-id="" tvg-name="ANIMAL PLANET HD" tvg-logo="" group-title="CANAIS GRATIS",ANIMAL PLANET HD
+http://flixhd.xyz:25461/list/list/5202
+#EXTINF:-1 tvg-id="" tvg-name="BAND SP" tvg-logo="" group-title="CANAIS GRATIS",BAND SP
+http://flixhd.xyz:25461/list/list/5186
+#EXTINF:-1 tvg-id="" tvg-name="COMBATE HD" tvg-logo="" group-title="CANAIS GRATIS",COMBATE HD
+http://flixhd.xyz:25461/list/list/5166
+#EXTINF:-1 tvg-id="" tvg-name="CINEMAX HD" tvg-logo="" group-title="CANAIS GRATIS",CINEMAX HD
+http://flixhd.xyz:25461/list/list/5170
+#EXTINF:-1 tvg-id="" tvg-name="DISNEY CHANNEL HD" tvg-logo="" group-title="CANAIS GRATIS",DISNEY CHANNEL HD
+http://flixhd.xyz:25461/list/list/5129
+#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY WORLD HD" tvg-logo="" group-title="CANAIS GRATIS",DISCOVERY WORLD HD
+http://flixhd.xyz:25461/list/list/5132
+#EXTINF:-1 tvg-id="" tvg-name="FOX SPORTS HD" tvg-logo="" group-title="CANAIS GRATIS",FOX SPORTS HD
+http://flixhd.xyz:25461/list/list/5089
+#EXTINF:-1 tvg-id="" tvg-name="HISTORY CHANNEL HD" tvg-logo="" group-title="CANAIS GRATIS",HISTORY CHANNEL HD
+http://flixhd.xyz:25461/list/list/5023
+#EXTINF:-1 tvg-id="" tvg-name="PREMIERE CLUBES HD" tvg-logo="" group-title="CANAIS GRATIS",PREMIERE CLUBES HD
+http://flixhd.xyz:25461/list/list/4955
+#EXTINF:-1 tvg-id="" tvg-name="SPORTV 2 HD" tvg-logo="" group-title="CANAIS GRATIS",SPORTV 2 HD
+http://flixhd.xyz:25461/list/list/4922
+#EXTINF:-1 tvg-id="" tvg-name="TELECINE PIPOCA HD" tvg-logo="" group-title="CANAIS GRATIS",TELECINE PIPOCA HD
+http://flixhd.xyz:25461/list/list/4898
+#EXTINF:-1 tvg-id="" tvg-name="ID - INVESTIGAÇAO DISCOVERY HD" tvg-logo="" group-title="CANAIS GRATIS",ID - INVESTIGAÇAO DISCOVERY HD
+http://flixhd.xyz:25461/list/list/5020
+#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY CHANNEL HD" tvg-logo="" group-title="CANAIS GRATIS",DISCOVERY CHANNEL HD
+http://flixhd.xyz:25461/list/list/5154
+#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY HOME & HEALTH HD" tvg-logo="" group-title="CANAIS GRATIS",DISCOVERY HOME & HEALTH HD
+http://flixhd.xyz:25461/list/list/5148
+#EXTINF:-1 tvg-id="" tvg-name="RECORD SP HD*" tvg-logo="" group-title="CANAIS GRATIS",RECORD SP HD*
+http://flixhd.xyz:25461/list/list/4944
+#EXTINF:-1 tvg-id="" tvg-name="REDE TV HD" tvg-logo="" group-title="CANAIS GRATIS",REDE TV HD
+http://flixhd.xyz:25461/list/list/4941
+#EXTINF:-1 tvg-id="" tvg-name="HBO 2 HD" tvg-logo="" group-title="CANAIS GRATIS",HBO 2 HD
+http://flixhd.xyz:25461/list/list/5038
+#EXTINF:-1 tvg-id="" tvg-name="NATGEO WILD HD" tvg-logo="" group-title="CANAIS GRATIS",NATGEO WILD HD
+http://flixhd.xyz:25461/list/list/4991
+#EXTINF:-1 tvg-id="" tvg-name="PREMIERE CLUBES" tvg-logo="" group-title="CANAIS GRATIS",PREMIERE CLUBES
+http://flixhd.xyz:25461/list/list/4957
+#EXTINF:-1 tvg-id="" tvg-name="SPORTV" tvg-logo="" group-title="CANAIS GRATIS",SPORTV
+http://flixhd.xyz:25461/list/list/4925
+#EXTINF:-1 tvg-id="" tvg-name="PREMIERE 2 HD" tvg-logo="" group-title="CANAIS GRATIS",PREMIERE 2 HD
+http://flixhd.xyz:25461/list/list/4971
+#EXTINF:-1 tvg-id="" tvg-name="MTV HD" tvg-logo="" group-title="CANAIS GRATIS",MTV HD
+http://flixhd.xyz:25461/list/list/5003
+#EXTINF:-1 tvg-id="" tvg-name="REDE VIDA HD" tvg-logo="" group-title="CANAIS GRATIS",REDE VIDA HD
+http://flixhd.xyz:25461/list/list/4939
+#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY TURBO HD" tvg-logo="" group-title="CANAIS GRATIS",DISCOVERY TURBO HD
+http://flixhd.xyz:25461/list/list/5135
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO MINAS HD" tvg-logo="" group-title="CANAIS GRATIS",GLOBO MINAS HD
+http://flixhd.xyz:25461/list/list/5073
+#EXTINF:-1 tvg-id="" tvg-name="HBO HD" tvg-logo="" group-title="CANAIS GRATIS",HBO HD
+http://flixhd.xyz:25461/list/list/5034
+#EXTINF:-1 tvg-id="" tvg-name="SBT HD" tvg-logo="" group-title="CANAIS GRATIS",SBT HD
+http://flixhd.xyz:25461/list/list/4934
+#EXTINF:-1 tvg-id="" tvg-name="E! HD" tvg-logo="" group-title="CANAIS GRATIS",E! HD
+http://flixhd.xyz:25461/list/list/5120
+#EXTINF:-1 tvg-id="" tvg-name="OFF HD" tvg-logo="" group-title="CANAIS GRATIS",OFF HD
+http://flixhd.xyz:25461/list/list/4980
+#EXTINF:-1 tvg-id="" tvg-name="PREMIERE 3 HD" tvg-logo="" group-title="CANAIS GRATIS",PREMIERE 3 HD
+http://flixhd.xyz:25461/list/list/4968
+#EXTINF:-1 tvg-id="" tvg-name="FOX SPORTS 2 HD" tvg-logo="" group-title="CANAIS GRATIS",FOX SPORTS 2 HD
+http://flixhd.xyz:25461/list/list/5091
+#EXTINF:-1 tvg-id="" tvg-name="FOX SPORTS" tvg-logo="" group-title="CANAIS GRATIS",FOX SPORTS
+http://flixhd.xyz:25461/list/list/5094
+#EXTINF:-1 tvg-id="" tvg-name="NATIONAL GEOGRAPHIC HD*" tvg-logo="" group-title="CANAIS GRATIS",NATIONAL GEOGRAPHIC HD*
+http://flixhd.xyz:25461/list/list/4988
+#EXTINF:-1 tvg-id="" tvg-name="WARNER CHANNEL HD" tvg-logo="" group-title="CANAIS GRATIS",WARNER CHANNEL HD
+http://flixhd.xyz:25461/list/list/4867
+#EXTINF:-1 tvg-id="" tvg-name="ESPN HD*" tvg-logo="" group-title="CANAIS GRATIS",ESPN HD*
+http://flixhd.xyz:25461/list/list/5111
+#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY THEATER HD" tvg-logo="" group-title="CANAIS GRATIS",DISCOVERY THEATER HD
+http://flixhd.xyz:25461/list/list/5140
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO RJ HD" tvg-logo="" group-title="CANAIS GRATIS",GLOBO RJ HD
+http://flixhd.xyz:25461/list/list/
+RAW Paste Data
+#EXTINF:-1 tvg-id="" tvg-name="A&E HD" tvg-logo="" group-title="CANAIS GRATIS",A&E HD
+http://flixhd.xyz:25461/list/list/5208
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO SP HD" tvg-logo="" group-title="CANAIS GRATIS",GLOBO SP HD
+http://flixhd.xyz:25461/list/list/5058
+#EXTINF:-1 tvg-id="" tvg-name="ANIMAL PLANET HD" tvg-logo="" group-title="CANAIS GRATIS",ANIMAL PLANET HD
+http://flixhd.xyz:25461/list/list/5202
+#EXTINF:-1 tvg-id="" tvg-name="BAND SP" tvg-logo="" group-title="CANAIS GRATIS",BAND SP
+http://flixhd.xyz:25461/list/list/5186
+#EXTINF:-1 tvg-id="" tvg-name="COMBATE HD" tvg-logo="" group-title="CANAIS GRATIS",COMBATE HD
+http://flixhd.xyz:25461/list/list/5166
+#EXTINF:-1 tvg-id="" tvg-name="CINEMAX HD" tvg-logo="" group-title="CANAIS GRATIS",CINEMAX HD
+http://flixhd.xyz:25461/list/list/5170
+#EXTINF:-1 tvg-id="" tvg-name="DISNEY CHANNEL HD" tvg-logo="" group-title="CANAIS GRATIS",DISNEY CHANNEL HD
+http://flixhd.xyz:25461/list/list/5129
+#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY WORLD HD" tvg-logo="" group-title="CANAIS GRATIS",DISCOVERY WORLD HD
+http://flixhd.xyz:25461/list/list/5132
+#EXTINF:-1 tvg-id="" tvg-name="FOX SPORTS HD" tvg-logo="" group-title="CANAIS GRATIS",FOX SPORTS HD
+http://flixhd.xyz:25461/list/list/5089
+#EXTINF:-1 tvg-id="" tvg-name="HISTORY CHANNEL HD" tvg-logo="" group-title="CANAIS GRATIS",HISTORY CHANNEL HD
+http://flixhd.xyz:25461/list/list/5023
+#EXTINF:-1 tvg-id="" tvg-name="PREMIERE CLUBES HD" tvg-logo="" group-title="CANAIS GRATIS",PREMIERE CLUBES HD
+http://flixhd.xyz:25461/list/list/4955
+#EXTINF:-1 tvg-id="" tvg-name="SPORTV 2 HD" tvg-logo="" group-title="CANAIS GRATIS",SPORTV 2 HD
+http://flixhd.xyz:25461/list/list/4922
+#EXTINF:-1 tvg-id="" tvg-name="TELECINE PIPOCA HD" tvg-logo="" group-title="CANAIS GRATIS",TELECINE PIPOCA HD
+http://flixhd.xyz:25461/list/list/4898
+#EXTINF:-1 tvg-id="" tvg-name="ID - INVESTIGAÇAO DISCOVERY HD" tvg-logo="" group-title="CANAIS GRATIS",ID - INVESTIGAÇAO DISCOVERY HD
+http://flixhd.xyz:25461/list/list/5020
+#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY CHANNEL HD" tvg-logo="" group-title="CANAIS GRATIS",DISCOVERY CHANNEL HD
+http://flixhd.xyz:25461/list/list/5154
+#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY HOME & HEALTH HD" tvg-logo="" group-title="CANAIS GRATIS",DISCOVERY HOME & HEALTH HD
+http://flixhd.xyz:25461/list/list/5148
+#EXTINF:-1 tvg-id="" tvg-name="RECORD SP HD*" tvg-logo="" group-title="CANAIS GRATIS",RECORD SP HD*
+http://flixhd.xyz:25461/list/list/4944
+#EXTINF:-1 tvg-id="" tvg-name="REDE TV HD" tvg-logo="" group-title="CANAIS GRATIS",REDE TV HD
+http://flixhd.xyz:25461/list/list/4941
+#EXTINF:-1 tvg-id="" tvg-name="HBO 2 HD" tvg-logo="" group-title="CANAIS GRATIS",HBO 2 HD
+http://flixhd.xyz:25461/list/list/5038
+#EXTINF:-1 tvg-id="" tvg-name="NATGEO WILD HD" tvg-logo="" group-title="CANAIS GRATIS",NATGEO WILD HD
+http://flixhd.xyz:25461/list/list/4991
+#EXTINF:-1 tvg-id="" tvg-name="PREMIERE CLUBES" tvg-logo="" group-title="CANAIS GRATIS",PREMIERE CLUBES
+http://flixhd.xyz:25461/list/list/4957
+#EXTINF:-1 tvg-id="" tvg-name="SPORTV" tvg-logo="" group-title="CANAIS GRATIS",SPORTV
+http://flixhd.xyz:25461/list/list/4925
+#EXTINF:-1 tvg-id="" tvg-name="PREMIERE 2 HD" tvg-logo="" group-title="CANAIS GRATIS",PREMIERE 2 HD
+http://flixhd.xyz:25461/list/list/4971
+#EXTINF:-1 tvg-id="" tvg-name="MTV HD" tvg-logo="" group-title="CANAIS GRATIS",MTV HD
+http://flixhd.xyz:25461/list/list/5003
+#EXTINF:-1 tvg-id="" tvg-name="REDE VIDA HD" tvg-logo="" group-title="CANAIS GRATIS",REDE VIDA HD
+http://flixhd.xyz:25461/list/list/4939
+#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY TURBO HD" tvg-logo="" group-title="CANAIS GRATIS",DISCOVERY TURBO HD
+http://flixhd.xyz:25461/list/list/5135
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO MINAS HD" tvg-logo="" group-title="CANAIS GRATIS",GLOBO MINAS HD
+http://flixhd.xyz:25461/list/list/5073
+#EXTINF:-1 tvg-id="" tvg-name="HBO HD" tvg-logo="" group-title="CANAIS GRATIS",HBO HD
+http://flixhd.xyz:25461/list/list/5034
+#EXTINF:-1 tvg-id="" tvg-name="SBT HD" tvg-logo="" group-title="CANAIS GRATIS",SBT HD
+http://flixhd.xyz:25461/list/list/4934
+#EXTINF:-1 tvg-id="" tvg-name="E! HD" tvg-logo="" group-title="CANAIS GRATIS",E! HD
+http://flixhd.xyz:25461/list/list/5120
+#EXTINF:-1 tvg-id="" tvg-name="OFF HD" tvg-logo="" group-title="CANAIS GRATIS",OFF HD
+http://flixhd.xyz:25461/list/list/4980
+#EXTINF:-1 tvg-id="" tvg-name="PREMIERE 3 HD" tvg-logo="" group-title="CANAIS GRATIS",PREMIERE 3 HD
+http://flixhd.xyz:25461/list/list/4968
+#EXTINF:-1 tvg-id="" tvg-name="FOX SPORTS 2 HD" tvg-logo="" group-title="CANAIS GRATIS",FOX SPORTS 2 HD
+http://flixhd.xyz:25461/list/list/5091
+#EXTINF:-1 tvg-id="" tvg-name="FOX SPORTS" tvg-logo="" group-title="CANAIS GRATIS",FOX SPORTS
+http://flixhd.xyz:25461/list/list/5094
+#EXTINF:-1 tvg-id="" tvg-name="NATIONAL GEOGRAPHIC HD*" tvg-logo="" group-title="CANAIS GRATIS",NATIONAL GEOGRAPHIC HD*
+http://flixhd.xyz:25461/list/list/4988
+#EXTINF:-1 tvg-id="" tvg-name="WARNER CHANNEL HD" tvg-logo="" group-title="CANAIS GRATIS",WARNER CHANNEL HD
+http://flixhd.xyz:25461/list/list/4867
+#EXTINF:-1 tvg-id="" tvg-name="ESPN HD*" tvg-logo="" group-title="CANAIS GRATIS",ESPN HD*
+http://flixhd.xyz:25461/list/list/5111
+#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY THEATER HD" tvg-logo="" group-title="CANAIS GRATIS",DISCOVERY THEATER HD
+http://flixhd.xyz:25461/list/list/5140
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO RJ HD" tvg-logo="" group-title="CANAIS GRATIS",GLOBO RJ HD
+http://flixhd.xyz:25461/list/list/
 
-
-#EXTINF:-1 tvg-logo="" group-title="Sem Categoria", BR
-http://23.237.22.157/livestream/brazzers.m3u8?token=OcUpKI7hrcuMFx86K_QJ6g&expires=1554177661
