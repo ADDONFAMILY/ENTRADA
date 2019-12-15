@@ -69,5 +69,5 @@ https://5c49cd60dfe56.streamlock.net:6443/canaldoboi/live/chunklist_w1731673664.
 http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-b.m3u8
  
 
-#EXTINF:-1 tvg-id="AXN [Alter]" tvg-name="AXN [Alter 2]" tvg-logo="http://logocanais.ddns.net/Logo/AXN1.png" group-title="Canais: Filmes e Series",AXN [Alter 2]
-plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://assistirpainel.ddns.net:8880/mmwa4kUG6u/ePAU4Cf9lR/13697
+#EXTINF:-1,F4MTESTER 8-24 -3  TNT HD 1080p
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://144.217.71.168:8000/live/Josetelegram/9vGY4hdOTm/3383.ts
