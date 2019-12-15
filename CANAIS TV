@@ -68,18 +68,9 @@ https://5c49cd60dfe56.streamlock.net:6443/canaldoboi/live/chunklist_w1731673664.
 #EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/98f2c63bd8626875fa4b533767d074ff.png" group-title="",TV CARUARU
 http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-b.m3u8
  
-#EXTINF:-1 tvg-id="Globo" tvg-logo="http://i.imgur.com/nMew9G1.png" group-title="Aberto",Globo RJ
-https://ul.cdn946.net:8443/hls/02e784w2.m3u8?s=ls90-BBuCYSqC0yn1ESKeQ&e=1566985190
-
-#EXTINF:-1 tvg-id="Tvbahia.br" tvg-name="BA - Globo TV Bahia" tvg-logo="https://i.imgur.com/VOzcciZ.png" group-title="Canais Globo",BA - Globo TV Bahia
-http://rainhaiptv.mine.nu:80/NHZKEMRE/GAUKBUK5/1449
-#EXTINF:-1 tvg-id="Tvbahia.br" tvg-name="BA - Globo TV Bahia HD" tvg-logo="https://i.imgur.com/VOzcciZ.png" group-title="Canais Globo",BA - Globo TV Bahia HD
-http://rainhaiptv.mine.nu:80/NHZKEMRE/GAUKBUK5/3312
-#EXTINF:-1 tvg-id="Tvbahia.br" tvg-name="BA - Globo TV Bahia FHD" tvg-logo="https://i.imgur.com/VOzcciZ.png" group-title="Canais Globo",BA - Globo TV Bahia FHD
-http://rainhaiptv.mine.nu:80/NHZKEMRE/GAUKBUK5/5296
-#EXTINF:-1 tvg-id="" tvg-name="BA - Globo TV Santa Cruz" tvg-logo="https://i.imgur.com/VOzcciZ.png" group-title="Canais Globo",BA - Globo TV Santa Cruz
-http://rainhaiptv.mine.nu:80/NHZKEMRE/GAUKBUK5/8101
-#EXTINF:-1 tvg-id="" tvg-name="BA - Globo TV Santa Cruz HD" tvg-logo="https://i.imgur.com/VOzcciZ.png" group-title="Canais Globo",BA - Globo TV Santa Cruz HD
-http://rainhaiptv.mine.nu:80/NHZKEMRE/GAUKBUK5/8102
-#EXTINF:-1 tvg-id="" tvg-name="BA - Globo TV Santa Cruz FHD" tvg-logo="https://i.imgur.com/VOzcciZ.png" group-title="Canais Globo",BA - Globo TV Santa Cruz FHD
-http://rainhaiptv.mine.nu:80/NHZKEMRE/GAUKBUK5/8103
+##EXTINF:-1 tvg-id="" tvg-name="GLOBO TV SANTA CRUZ FHD" tvg-logo="http://static.bladeuhd.com/logos/globo/globoba.png" group-title="REDE GLOBO",GLOBO TV SANTA CRUZ FHD 
+http://bldtv.vip:80/eduardok2/5UyzOizkao/52155 
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO TV SANTA CRUZ HD" tvg-logo="http://static.bladeuhd.com/logos/globo/globoba.png" group-title="REDE GLOBO",GLOBO TV SANTA CRUZ HD
+http://bldtv.vip:80/eduardok2/5UyzOizkao/52154 
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO TV SANTA CRUZ SD" tvg-logo="http://static.bladeuhd.com/logos/globo/globoba.png" group-title="REDE GLOBO",GLOBO TV SANTA CRUZ SD 
+http://bldtv.vip:80/eduardok2/5UyzOizkao/52153
