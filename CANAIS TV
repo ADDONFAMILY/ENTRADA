@@ -69,7 +69,8 @@ https://5c49cd60dfe56.streamlock.net:6443/canaldoboi/live/chunklist_w1731673664.
 http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-b.m3u8
  
 
-
+#EXTINF:-1 tvg-id="" tvg-name="Agro Canal" tvg-logo="http://logocanais.ddns.net/Logo/AgroCanal.png" group-title="Canais: Abertos",Agro Canal
+plugin://plugin.video.f4mTester/?name=url=http://assistirpainel.ddns.net:8880/mmwa4kUG6u/ePAU4Cf9lR/11206
 
 
  
