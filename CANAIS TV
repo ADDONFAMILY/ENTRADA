@@ -72,5 +72,13 @@ http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-b.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Agro Canal" tvg-logo="http://logocanais.ddns.net/Logo/AgroCanal.png" group-title="Canais: Abertos",Agro Canal
 plugin://plugin.video.f4mTester/?name=url=http://assistirpainel.ddns.net:8880/mmwa4kUG6u/ePAU4Cf9lR/11206
 
+#EXTINF:-1 tvg-id="Ae.br" tvg-name="A&E SD " tvg-logo="rpb7DfY.png" group-title="FILMES E SERIES",A&E SD
+plugin://plugin.video.f4mTester/?name=&streamtype=TSDOWNLOADER&amp;url=http://sv1.cinetv.vip:8880/cinetv24871/8ddcf639/1474
+#EXTINF:-1 tvg-id="Amc.br" tvg-name="AMC SD " tvg-logo="4g6nNPd.png" group-title="FILMES E SERIES",AMC SD
+plugin://plugin.video.f4mTester/?name=&streamtype=TSDOWNLOADER&amp;url=http://sv1.cinetv.vip:8880/cinetv24871/8ddcf639/1472
+#EXTINF:-1 tvg-id="Animalplanet.br" tvg-name="ANIMAL PLANET SD " tvg-logo="HA7X7mU.png" group-title="DOCUMENTARIOS",ANIMAL PLANET SD
+plugin://plugin.video.f4mTester/?name=&streamtype=TSDOWNLOADER&amp;url=http://sv1.cinetv.vip:8880/cinetv24871/8ddcf639/1470
+#EXTINF:-1 tvg-id="Arte1.br" tvg-name="ARTE 1 SD " tvg-logo="jGps5Q7.png" group-title="VARIEDADES E MUSICAS",ARTE 1 SD
+plugin://plugin.video.f4mTester/?name=&streamtype=TSDOWNLOADER&amp;url=http://sv1.cinetv.vip:8880/cinetv24871/8ddcf639/1468
 
  
