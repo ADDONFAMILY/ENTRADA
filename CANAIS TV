@@ -70,3 +70,16 @@ http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-b.m3u8
  
 #EXTINF:-1 tvg-id="Globo" tvg-logo="http://i.imgur.com/nMew9G1.png" group-title="Aberto",Globo RJ
 https://ul.cdn946.net:8443/hls/02e784w2.m3u8?s=ls90-BBuCYSqC0yn1ESKeQ&e=1566985190
+
+#EXTINF:-1 tvg-id="Tvbahia.br" tvg-name="BA - Globo TV Bahia" tvg-logo="https://i.imgur.com/VOzcciZ.png" group-title="Canais Globo",BA - Globo TV Bahia
+http://rainhaiptv.mine.nu:80/NHZKEMRE/GAUKBUK5/1449
+#EXTINF:-1 tvg-id="Tvbahia.br" tvg-name="BA - Globo TV Bahia HD" tvg-logo="https://i.imgur.com/VOzcciZ.png" group-title="Canais Globo",BA - Globo TV Bahia HD
+http://rainhaiptv.mine.nu:80/NHZKEMRE/GAUKBUK5/3312
+#EXTINF:-1 tvg-id="Tvbahia.br" tvg-name="BA - Globo TV Bahia FHD" tvg-logo="https://i.imgur.com/VOzcciZ.png" group-title="Canais Globo",BA - Globo TV Bahia FHD
+http://rainhaiptv.mine.nu:80/NHZKEMRE/GAUKBUK5/5296
+#EXTINF:-1 tvg-id="" tvg-name="BA - Globo TV Santa Cruz" tvg-logo="https://i.imgur.com/VOzcciZ.png" group-title="Canais Globo",BA - Globo TV Santa Cruz
+http://rainhaiptv.mine.nu:80/NHZKEMRE/GAUKBUK5/8101
+#EXTINF:-1 tvg-id="" tvg-name="BA - Globo TV Santa Cruz HD" tvg-logo="https://i.imgur.com/VOzcciZ.png" group-title="Canais Globo",BA - Globo TV Santa Cruz HD
+http://rainhaiptv.mine.nu:80/NHZKEMRE/GAUKBUK5/8102
+#EXTINF:-1 tvg-id="" tvg-name="BA - Globo TV Santa Cruz FHD" tvg-logo="https://i.imgur.com/VOzcciZ.png" group-title="Canais Globo",BA - Globo TV Santa Cruz FHD
+http://rainhaiptv.mine.nu:80/NHZKEMRE/GAUKBUK5/8103
