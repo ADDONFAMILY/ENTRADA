@@ -68,4 +68,6 @@ https://5c49cd60dfe56.streamlock.net:6443/canaldoboi/live/chunklist_w1731673664.
 #EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/98f2c63bd8626875fa4b533767d074ff.png" group-title="",TV CARUARU
 http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-b.m3u8
  
+#EXTINF:-1 tvg-name="Tv Diário" tvg-logo="" group-title="Canais abertos",Tv Diario 
+https://5a1c76baf08c0.streamlock.net/zw338/zw338/chunklist_w572628864.m3u8
 
