@@ -955,4 +955,65 @@ http://media-br-am.crackle.com/1/n/x6/es4lf_480p.mp4
  
 #EXTINF:-1 tvg-logo="https://www.redecanais.cz/uploads/custom-logo.png" group-title="RedeCanais", O Exorcismo de Anna Ecklund
 http://server1.cometa.top/RedeCanais/RCFServer3/ondemand/OEXCSMDANECKLN.mp4?KeltecMPIPTV
- 
+
+
+>>>>>>>>>>>>>>>>>>>>
+
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,Velozes & Furiosos: Hobbs & Shaw
+http://topiptv.tk/LHMTvPlay/FastFuriousHobbseShaw?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,Velozes & Furiosos: Hobbs & Shaw Op2
+http://topiptv.tk/LHMTvPlay/FasteFuriousHobbseShaw?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,A Menina e o Leao
+http://topiptv.tk/LHMTvPlay/MiaetleLionBlanc?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,A Esposa
+http://tyr.lhmtv.gq/redecanais/AESPSA.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,Capita Marvel 4K
+http://balder.lhmtv.gq/redecanais/CPTMRVL.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,Vingadores: Ultimato 4K
+http://tyr.lhmtv.gq/redecanais/VNGDRSULTMTO4K.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,Falcons em Jogo
+http://tyr.lhmtv.gq/redecanais/FLCNSEMJGO.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,Boi
+http://tyr.lhmtv.gq/redecanais/BOI.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,Um Ladrao com Estilo
+http://tyr.lhmtv.gq/redecanais/UMLDRCMESTLO.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,Wolf
+http://tyr.lhmtv.gq/redecanais/WLF.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,Batman: Silencio
+http://tyr.lhmtv.gq/redecanais/BTMNSLNCIO.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,O Filho Protegido
+http://tyr.lhmtv.gq/redecanais/OFLHPRTGDO.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,Gelo em chamas
+http://tyr.lhmtv.gq/redecanais/GLOEMCHMS.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,Missing Link
+http://tyr.lhmtv.gq/redecanais/MSNGLNK.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,Luccas Neto em: Acampamento de Ferias
+http://tyr.lhmtv.gq/redecanais/LCSNTOEMACMPMTDFRS.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,Casal Improvavel
+http://tyr.lhmtv.gq/redecanais/CSLIMPVL.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,Gloria Bell
+http://tyr.lhmtv.gq/redecanais/GLRABEL.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,Forjando Campeoes
+http://tyr.lhmtv.gq/redecanais/FRJNDCMPAO.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,Nos Caminhos de Deus
+http://tyr.lhmtv.gq/redecanais/NSCMNHSDES.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,Brincadeira Mortal
+http://tyr.lhmtv.gq/redecanais/BRNCDRMRTL.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,Rastros do Alem
+http://tyr.lhmtv.gq/redecanais/RSTRSDALM.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,Obsessao Secreta
+http://tyr.lhmtv.gq/redecanais/OBSESAOSCRTA.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,Cortina de Fogo 2
+http://tyr.lhmtv.gq/redecanais/CRTNDFGO2.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,Arizona
+http://tyr.lhmtv.gq/redecanais/ARZNA.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,O Homem que Matou Dom Quixote
+http://tyr.lhmtv.gq/redecanais/OHMEMQMTDNQXTE.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,Um Lugar Sombrio
+http://balder.lhmtv.gq/redecanais/UMLGRSMBIO.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,Segredos e Despedida
+http://balder.lhmtv.gq/redecanais/SGDSEDSPRDS.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,Resgate Mortal
+http://balder.lhmtv.gq/redecanais/RSGTMRTL.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,Reencontro Mortal
+http://balder.lhmtv.gq/redecanais/RECNTRMRTL.mp4?LHMTv
