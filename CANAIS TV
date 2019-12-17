@@ -22,6 +22,8 @@ http://stream2.ba.gov.br:80/hls-live/livepkgr/_definst_/irdeb/pgm-2.m3u8
 #EXTINF:-1 type="stream" tvg-id="Cultura" tvg-logo="http://i.imgur.com/qj7So6a.png" group-title="TV Aberta/Variedades",TV BAIANA HD - TV CULTURA BA HD
 http://hls.fm1.com.br:8080/hls/tvbaiana.m3u8
 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/Jotugf0.png" group-title="",SBT
+plugin://plugin.video.youtube/play/?video_id=9z_8k1Ir-6U
 
 #EXTINF:-1 tvg-id="SBT HD" tvg-logo="http://i.imgur.com/Jotugf0.png" group-title="CANAL ABERTO", SBT SP INTERIOR
 https://5a1c76baf08c0.streamlock.net/z343-live/stream/playlist.m3u8?EDSONSOUSALIST
@@ -70,6 +72,18 @@ http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-b.m3u8
 
 
 >>>>>>>>>>>>>>>>>>>
-#EXTINF:-1 tvg-logo="" group-title="",SBT
-plugin://plugin.video.youtube/play/?video_id=9z_8k1Ir-6U
+#EXTINF:-1 tvg-logo="https://gps.pezquiza.com/wp-content/uploads/2019/10/nasa.jpg",Nasa Live Earth View
+https://www.youtube.com/embed/live_stream?channel=UCLA_DiR1FfKNvjuUpBHmylQ
+
+#EXTINF:-1 tvg-logo="https://gps.pezquiza.com/wp-content/uploads/2019/09/shoptime-ao-vivo.jpg",Shoptime
+https://www.youtube.com/embed/live_stream?channel=UCCuYi5AP3gya6C5mdWYS6CQ
+
+#EXTINF:-1 tvg-logo="https://gps.pezquiza.com/wp-content/uploads/2019/09/assistir-tv-justica-ao-vivo.jpg",TV Justiça
+https://www.youtube.com/embed/live_stream?channel=UC0qlZ5jxxueKNzUERcrllNw
+
+#EXTINF:-1 tvg-logo="https://gps.pezquiza.com/wp-content/uploads/2019/09/shoptime-ao-vivo.jpg",Shoptime
+https://www.youtube.com/embed/live_stream?channel=UCCuYi5AP3gya6C5mdWYS6CQ
+ 
+ #EXTINF:-1 tvg-logo="https://gps.pezquiza.com/wp-content/uploads/2019/11/rede-tv-entretenimento.jpg",Rede TV Entretenimento
+https://www.youtube.com/embed/live_stream?channel=UC1FGc8ShBBdN3ED2Vkh_a_Q
 
