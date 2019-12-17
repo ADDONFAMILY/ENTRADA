@@ -73,17 +73,637 @@ http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-b.m3u8
 
 >>>>>>>>>>>>>>>>>>>
 #EXTINF:-1 tvg-logo="https://gps.pezquiza.com/wp-content/uploads/2019/10/nasa.jpg",Nasa Live Earth View
-https://www.youtube.com/embed/live_stream?channel=UCLA_DiR1FfKNvjuUpBHmylQ
+plugin://plugin.video.youtube/play/?video_id=UCLA_DiR1FfKNvjuUpBHmylQ
 
 #EXTINF:-1 tvg-logo="https://gps.pezquiza.com/wp-content/uploads/2019/09/shoptime-ao-vivo.jpg",Shoptime
-https://www.youtube.com/embed/live_stream?channel=UCCuYi5AP3gya6C5mdWYS6CQ
+plugin://plugin.video.youtube/play/?video_id=UCCuYi5AP3gya6C5mdWYS6CQ
 
 #EXTINF:-1 tvg-logo="https://gps.pezquiza.com/wp-content/uploads/2019/09/assistir-tv-justica-ao-vivo.jpg",TV Justiça
-https://www.youtube.com/embed/live_stream?channel=UC0qlZ5jxxueKNzUERcrllNw
-
-#EXTINF:-1 tvg-logo="https://gps.pezquiza.com/wp-content/uploads/2019/09/shoptime-ao-vivo.jpg",Shoptime
-https://www.youtube.com/embed/live_stream?channel=UCCuYi5AP3gya6C5mdWYS6CQ
+plugin://plugin.video.youtube/play/?video_id=oFjGBkkbCnE
  
  #EXTINF:-1 tvg-logo="https://gps.pezquiza.com/wp-content/uploads/2019/11/rede-tv-entretenimento.jpg",Rede TV Entretenimento
-https://www.youtube.com/embed/live_stream?channel=UC1FGc8ShBBdN3ED2Vkh_a_Q
+plugin://plugin.video.youtube/play/?video_id=UC1FGc8ShBBdN3ED2Vkh_a_Q
 
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="CANAIS",AMAZON SAT
+plugin://plugin.video.youtube/play/?video_id=zTyBmx1H-yc
+
+#EXTINF:0 group-title="TV",FISH TV OFICIAL
+plugin://plugin.video.youtube/play/?video_id=qqlszi8wZZU
+
+#EXTINF:0 group-title="TV",NATURE TV
+plugin://plugin.video.youtube/play/?video_id=HS7ulzLL034
+
+
+#EXTINF:-1,A&E HD
+http://msdo.iptvsystem.cloud:8880/9oiua87waZ/213eOPlayuza/111
+#EXTINF:-1,ANIMAL PLANET HD
+http://msdo.iptvsystem.cloud:8880/9oiua87waZ/213eOPlayuza/116
+#EXTINF:-1,ARTE 1 HD
+http://msdo.iptvsystem.cloud:8880/9oiua87waZ/213eOPlayuza/68
+#EXTINF:-1,TV APARECIDA HD
+http://msdo.iptvsystem.cloud:8880/9oiua87waZ/213eOPlayuza/46
+#EXTINF:-1,AXN HD
+http://msdo.iptvsystem.cloud:8880/9oiua87waZ/213eOPlayuza/21
+#EXTINF:-1,BAND HD
+http://msdo.iptvsystem.cloud:8880/9oiua87waZ/213eOPlayuza/126
+#EXTINF:-1,BAND NEWS HD
+http://msdo.iptvsystem.cloud:8880/9oiua87waZ/213eOPlayuza/20
+#EXTINF:-1,BAND SPORTS HD
+http://msdo.iptvsystem.cloud:8880/9oiua87waZ/213eOPlayuza/101
+#EXTINF:-1,BIS HD
+http://msdo.iptvsystem.cloud:8880/9oiua87waZ/213eOPlayuza/78
+#EXTINF:-1,BOOMERANG HD
+http://msdo.iptvsystem.cloud:8880/9oiua87waZ/213eOPlayuza/89
+#EXTINF:-1,CANAL BRASIL HD
+http://msdo.iptvsystem.cloud:8880/9oiua87waZ/213eOPlayuza/123
+#EXTINF:-1,CANAL RURAL
+http://msdo.iptvsystem.cloud:8880/9oiua87waZ/213eOPlayuza/537
+#EXTINF:-1,CANÇÃO NOVA HD
+http://msdo.iptvsystem.cloud:8880/9oiua87waZ/213eOPlayuza/121
+#EXTINF:-1,CARTOON NETWORK HD
+http://msdo.iptvsystem.cloud:8880/9oiua87waZ/213eOPlayuza/22
+#EXTINF:-1,CHEF TV HD
+http://msdo.iptvsystem.cloud:8880/9oiua87waZ/213eOPlayuza/72
+#EXTINF:-1,CLIMATEMPO HD
+http://msdo.iptvsystem.cloud:8880/9oiua87waZ/213eOPlayuza/73
+#EXTINF:-1,CINEMAX HD
+http://msdo.iptvsystem.cloud:8880/9oiua87waZ/213eOPlayuza/119
+#EXTINF:-1,COMBATE HD
+http://msdo.iptvsystem.cloud:8880/9oiua87waZ/213eOPlayuza/36
+#EXTINF:-1,COMEDY CENTRAL HD
+http://msdo.iptvsystem.cloud:8880/9oiua87waZ/213eOPlayuza/4
+#EXTINF:-1,CURTA! HD
+http://msdo.iptvsystem.cloud:8880/9oiua87waZ/213eOPlayuza/11
+#EXTINF:-1,DISCOVERY CH. HD
+http://msdo.iptvsystem.cloud:8880/9oiua87waZ/213eOPlayuza/43
+#EXTINF:-1,DISCOVERY CIVILIZATION HD
+http://msdo.iptvsystem.cloud:8880/9oiua87waZ/213eOPlayuza/28
+#EXTINF:-1,DISCOVERY H&H HD
+http://msdo.iptvsystem.cloud:8880/9oiua87waZ/213eOPlayuza/61
+#EXTINF:-1,DISCOVERY ID HD
+http://msdo.iptvsystem.cloud:8880/9oiua87waZ/213eOPlayuza/56
+#EXTINF:-1,DISCOVERY KIDS HD
+http://msdo.iptvsystem.cloud:8880/9oiua87waZ/213eOPlayuza/19
+#EXTINF:-1,DISCOVERY SCIENCE HD
+http://msdo.iptvsystem.cloud:8880/9oiua87waZ/213eOPlayuza/107
+#EXTINF:-1,DISCOVERY THEATHER HD
+http://msdo.iptvsystem.cloud:8880/9oiua87waZ/213eOPlayuza/24
+#EXTINF:-1,DISCOVERY TURBO HD
+http://msdo.iptvsystem.cloud:8880/9oiua87waZ/213eOPlayuza/108
+#EXTINF:-1,DISCOVERY WORLD HD
+http://msdo.iptvsystem.cloud:8880/9oiua87waZ/213eOPlayuza/25
+#EXTINF:-1,DISNEY CHANNEL HD
+http://msdo.iptvsystem.cloud:8880/9oiua87waZ/213eOPlayuza/76
+#EXTINF:-1,DISNEY JUNIOR HD
+http://msdo.iptvsystem.cloud:8880/9oiua87waZ/213eOPlayuza/95
+#EXTINF:-1,DISNEY XD HD
+http://msdo.iptvsystem.cloud:8880/9oiua87waZ/213eOPlayuza/90
+#EXTINF:-1,E! HD
+http://msdo.iptvsystem.cloud:8880/9oiua87waZ/213eOPlayuza/48
+#EXTINF:-1,ESPN HD
+http://msdo.iptvsystem.cloud:8880/9oiua87waZ/213eOPlayuza/115
+#EXTINF:-1,ESPN HD
+http://msdo.iptvsystem.cloud:8880/9oiua87waZ/213eOPlayuza/83
+#EXTINF:-1,ESPN BRASIL HD
+http://msdo.iptvsystem.cloud:8880/9oiua87waZ/213eOPlayuza/114
+#EXTINF:-1,ESPN EXTRA HD
+http://msdo.iptvsystem.cloud:8880/9oiua87waZ/213eOPlayuza/2
+#EXTINF:-1,FASHION TV HD
+http://msdo.iptvsystem.cloud:8880/9oiua87waZ/213eOPlayuza/58
+#EXTINF:-1,FISH TV HD
+http://msdo.iptvsystem.cloud:8880/9oiua87waZ/213eOPlayuza/69
+#EXTINF:-1,FOOD NETWORK HD
+http://msdo.iptvsystem.cloud:8880/9oiua87waZ/213eOPlayuza/310
+#EXTINF:-1,FOX HD
+http://msdo.iptvsystem.cloud:8880/9oiua87waZ/213eOPlayuza/57
+#EXTINF:-1,FOX LIFE HD
+http://msdo.iptvsystem.cloud:8880/9oiua87waZ/213eOPlayuza/74
+#EXTINF:-1,FOX PREMIUM 1 HD
+http://msdo.iptvsystem.cloud:8880/9oiua87waZ/213eOPlayuza/79
+#EXTINF:-1,FOX PREMIUM 2 HD
+http://msdo.iptvsystem.cloud:8880/9oiua87waZ/213eOPlayuza/80
+#EXTINF:-1,FOX SPORTS HD
+http://msdo.iptvsystem.cloud:8880/9oiua87waZ/213eOPlayuza/92
+#EXTINF:-1,FOX SPORTS 2 HD
+http://msdo.iptvsystem.cloud:8880/9oiua87waZ/213eOPlayuza/135
+#EXTINF:-1,FUTURA HD
+http://msdo.iptvsystem.cloud:8880/9oiua87waZ/213eOPlayuza/54
+#EXTINF:-1,FX HD
+http://msdo.iptvsystem.cloud:8880/9oiua87waZ/213eOPlayuza/51
+#EXTINF:-1,GLOBO BRASILIA HD
+http://msdo.iptvsystem.cloud:8880/9oiua87waZ/213eOPlayuza/96
+#EXTINF:-1,GLOBO MINAS
+http://msdo.iptvsystem.cloud:8880/9oiua87waZ/213eOPlayuza/572
+#EXTINF:-1,GLOBO NEWS HD
+http://msdo.iptvsystem.cloud:8880/9oiua87waZ/213eOPlayuza/26
+#EXTINF:-1,GLOBO RIO HD
+http://msdo.iptvsystem.cloud:8880/9oiua87waZ/213eOPlayuza/1
+#EXTINF:-1,GLOBO SP HD
+http://msdo.iptvsystem.cloud:8880/9oiua87waZ/213eOPlayuza/3
+#EXTINF:-1,GLOOB HD
+http://msdo.iptvsystem.cloud:8880/9oiua87waZ/213eOPlayuza/84
+#EXTINF:-1,GNT HD
+http://msdo.iptvsystem.cloud:8880/9oiua87waZ/213eOPlayuza/112
+#EXTINF:-1,HBO HD
+http://msdo.iptvsystem.cloud:8880/9oiua87waZ/213eOPlayuza/10
+#EXTINF:-1,HBO 2 HD
+http://msdo.iptvsystem.cloud:8880/9oiua87waZ/213eOPlayuza/136
+#EXTINF:-1,HBO FAMILY HD
+http://msdo.iptvsystem.cloud:8880/9oiua87waZ/213eOPlayuza/134
+#EXTINF:-1,HBO PLUS *E HD
+http://msdo.iptvsystem.cloud:8880/9oiua87waZ/213eOPlayuza/144
+#EXTINF:-1,HBO PLUS HD
+http://msdo.iptvsystem.cloud:8880/9oiua87waZ/213eOPlayuza/138
+#EXTINF:-1,HBO SIGNATURE HD
+http://msdo.iptvsystem.cloud:8880/9oiua87waZ/213eOPlayuza/141
+#EXTINF:-1,HISTORY 2 HD
+http://msdo.iptvsystem.cloud:8880/9oiua87waZ/213eOPlayuza/23
+#EXTINF:-1,HISTORY HD
+http://msdo.iptvsystem.cloud:8880/9oiua87waZ/213eOPlayuza/66
+#EXTINF:-1,IDEAL TV HD
+http://msdo.iptvsystem.cloud:8880/9oiua87waZ/213eOPlayuza/103
+#EXTINF:-1,LIFETIME HD
+http://msdo.iptvsystem.cloud:8880/9oiua87waZ/213eOPlayuza/18
+#EXTINF:-1,MAIS GLOBOSAT HD
+http://msdo.iptvsystem.cloud:8880/9oiua87waZ/213eOPlayuza/81
+#EXTINF:-1,MAX HD
+http://msdo.iptvsystem.cloud:8880/9oiua87waZ/213eOPlayuza/139
+#EXTINF:-1,MAX PRIME *E HD
+http://msdo.iptvsystem.cloud:8880/9oiua87waZ/213eOPlayuza/137
+#EXTINF:-1,MAX PRIME HD
+http://msdo.iptvsystem.cloud:8880/9oiua87waZ/213eOPlayuza/143
+#EXTINF:-1,MAX UP HD
+http://msdo.iptvsystem.cloud:8880/9oiua87waZ/213eOPlayuza/140
+#EXTINF:-1,MEGAPIX HD
+http://msdo.iptvsystem.cloud:8880/9oiua87waZ/213eOPlayuza/124
+#EXTINF:-1,MTV HD
+http://msdo.iptvsystem.cloud:8880/9oiua87waZ/213eOPlayuza/8
+#EXTINF:-1,MULTISHOW HD
+http://msdo.iptvsystem.cloud:8880/9oiua87waZ/213eOPlayuza/82
+#EXTINF:-1,NATIONAL GEOGRAPHIC HD
+http://msdo.iptvsystem.cloud:8880/9oiua87waZ/213eOPlayuza/65
+#EXTINF:-1,NAT GEO KIDS HD
+http://msdo.iptvsystem.cloud:8880/9oiua87waZ/213eOPlayuza/94
+#EXTINF:-1,NAT GEO WILD HD
+http://msdo.iptvsystem.cloud:8880/9oiua87waZ/213eOPlayuza/59
+#EXTINF:-1,NBR HD
+http://msdo.iptvsystem.cloud:8880/9oiua87waZ/213eOPlayuza/77
+#EXTINF:-1,NICKELODEON HD
+http://msdo.iptvsystem.cloud:8880/9oiua87waZ/213eOPlayuza/93
+#EXTINF:-1,NICK JR HD
+http://msdo.iptvsystem.cloud:8880/9oiua87waZ/213eOPlayuza/87
+#EXTINF:-1,NOVO TEMPO
+http://msdo.iptvsystem.cloud:8880/9oiua87waZ/213eOPlayuza/538
+#EXTINF:-1,PARAMOUNT HD
+http://msdo.iptvsystem.cloud:8880/9oiua87waZ/213eOPlayuza/127
+#EXTINF:-1,PLAY TV HD
+http://msdo.iptvsystem.cloud:8880/9oiua87waZ/213eOPlayuza/71
+#EXTINF:-1,OFF HD
+http://msdo.iptvsystem.cloud:8880/9oiua87waZ/213eOPlayuza/86
+#EXTINF:-1,PREMIERE CLUBE HD
+http://msdo.iptvsystem.cloud:8880/9oiua87waZ/213eOPlayuza/34
+#EXTINF:-1,PREMIERE 1 HD
+http://msdo.iptvsystem.cloud:8880/9oiua87waZ/213eOPlayuza/39
+#EXTINF:-1,PREMIERE 2 HD
+http://msdo.iptvsystem.cloud:8880/9oiua87waZ/213eOPlayuza/30
+#EXTINF:-1,PREMIERE 3 HD
+http://msdo.iptvsystem.cloud:8880/9oiua87waZ/213eOPlayuza/27
+#EXTINF:-1,PREMIERE 4 HD
+http://msdo.iptvsystem.cloud:8880/9oiua87waZ/213eOPlayuza/29
+#EXTINF:-1,PREMIERE 5 HD
+http://msdo.iptvsystem.cloud:8880/9oiua87waZ/213eOPlayuza/33
+#EXTINF:-1,PREMIERE 6 HD
+http://msdo.iptvsystem.cloud:8880/9oiua87waZ/213eOPlayuza/31
+#EXTINF:-1,PREMIERE 7 HD
+http://msdo.iptvsystem.cloud:8880/9oiua87waZ/213eOPlayuza/35
+#EXTINF:-1,PREMIERE 8 HD
+http://msdo.iptvsystem.cloud:8880/9oiua87waZ/213eOPlayuza/38
+#EXTINF:-1,PRIME BOX BRASIL HD
+http://msdo.iptvsystem.cloud:8880/9oiua87waZ/213eOPlayuza/99
+#EXTINF:-1,RBI HD
+http://msdo.iptvsystem.cloud:8880/9oiua87waZ/213eOPlayuza/117
+#EXTINF:-1,RBS PORTO ALEGRE
+http://msdo.iptvsystem.cloud:8880/9oiua87waZ/213eOPlayuza/299
+#EXTINF:-1,RECORD HD
+http://msdo.iptvsystem.cloud:8880/9oiua87waZ/213eOPlayuza/105
+#EXTINF:-1,RECORD NEWS HD
+http://msdo.iptvsystem.cloud:8880/9oiua87waZ/213eOPlayuza/41
+#EXTINF:-1,REDE BRASIL HD
+http://msdo.iptvsystem.cloud:8880/9oiua87waZ/213eOPlayuza/40
+#EXTINF:-1,REDE TV HD
+http://msdo.iptvsystem.cloud:8880/9oiua87waZ/213eOPlayuza/118
+#EXTINF:-1,REDE VIDA HD
+http://msdo.iptvsystem.cloud:8880/9oiua87waZ/213eOPlayuza/42
+#EXTINF:-1,RIT HD
+http://msdo.iptvsystem.cloud:8880/9oiua87waZ/213eOPlayuza/44
+#EXTINF:-1,SBT HD
+http://msdo.iptvsystem.cloud:8880/9oiua87waZ/213eOPlayuza/60
+#EXTINF:-1,SIC INTERNACIONAL HD
+http://msdo.iptvsystem.cloud:8880/9oiua87waZ/213eOPlayuza/50
+#EXTINF:-1,CANAL SONY HD
+http://msdo.iptvsystem.cloud:8880/9oiua87waZ/213eOPlayuza/52
+#EXTINF:-1,SPACE HD
+http://msdo.iptvsystem.cloud:8880/9oiua87waZ/213eOPlayuza/64
+#EXTINF:-1,SPORTV HD
+http://msdo.iptvsystem.cloud:8880/9oiua87waZ/213eOPlayuza/130
+#EXTINF:-1,SPORTV 2 HD
+http://msdo.iptvsystem.cloud:8880/9oiua87waZ/213eOPlayuza/133
+#EXTINF:-1,SPORTV 3 HD
+http://msdo.iptvsystem.cloud:8880/9oiua87waZ/213eOPlayuza/104
+#EXTINF:-1,STUDIO UNIVERSAL HD
+http://msdo.iptvsystem.cloud:8880/9oiua87waZ/213eOPlayuza/98
+#EXTINF:-1,SYFY HD
+http://msdo.iptvsystem.cloud:8880/9oiua87waZ/213eOPlayuza/122
+#EXTINF:-1,TBS HD
+http://msdo.iptvsystem.cloud:8880/9oiua87waZ/213eOPlayuza/125
+#EXTINF:-1,TCM HD
+http://msdo.iptvsystem.cloud:8880/9oiua87waZ/213eOPlayuza/100
+#EXTINF:-1,TELECINE ACTION HD
+http://msdo.iptvsystem.cloud:8880/9oiua87waZ/213eOPlayuza/131
+#EXTINF:-1,TELECINE CULT HD
+http://msdo.iptvsystem.cloud:8880/9oiua87waZ/213eOPlayuza/132
+#EXTINF:-1,TELECINE FUN HD
+http://msdo.iptvsystem.cloud:8880/9oiua87waZ/213eOPlayuza/13
+#EXTINF:-1,TELECINE PIPOCA HD
+http://msdo.iptvsystem.cloud:8880/9oiua87waZ/213eOPlayuza/129
+#EXTINF:-1,TELECINE PREMIUM HD
+http://msdo.iptvsystem.cloud:8880/9oiua87waZ/213eOPlayuza/142
+#EXTINF:-1,TELECINE TOUCH HD
+http://msdo.iptvsystem.cloud:8880/9oiua87waZ/213eOPlayuza/14
+#EXTINF:-1,TERRA VIVA
+http://msdo.iptvsystem.cloud:8880/9oiua87waZ/213eOPlayuza/560
+#EXTINF:-1,TLC HD
+http://msdo.iptvsystem.cloud:8880/9oiua87waZ/213eOPlayuza/6
+#EXTINF:-1,TNT HD
+http://msdo.iptvsystem.cloud:8880/9oiua87waZ/213eOPlayuza/63
+#EXTINF:-1,TNT HD
+http://msdo.iptvsystem.cloud:8880/9oiua87waZ/213eOPlayuza/102
+#EXTINF:-1,TOONCAST HD
+http://msdo.iptvsystem.cloud:8880/9oiua87waZ/213eOPlayuza/12
+#EXTINF:-1,TRAVEL BOX HD
+http://msdo.iptvsystem.cloud:8880/9oiua87waZ/213eOPlayuza/70
+#EXTINF:-1,TRU TV HD
+http://msdo.iptvsystem.cloud:8880/9oiua87waZ/213eOPlayuza/17
+#EXTINF:-1,TV5 MONDE HD
+http://msdo.iptvsystem.cloud:8880/9oiua87waZ/213eOPlayuza/49
+#EXTINF:-1,TV BRASIL HD
+http://msdo.iptvsystem.cloud:8880/9oiua87waZ/213eOPlayuza/91
+#EXTINF:-1,TV CULTURA HD
+http://msdo.iptvsystem.cloud:8880/9oiua87waZ/213eOPlayuza/45
+#EXTINF:-1,TV ESCOLA HD
+http://msdo.iptvsystem.cloud:8880/9oiua87waZ/213eOPlayuza/47
+#EXTINF:-1,TV GAZETA HD
+http://msdo.iptvsystem.cloud:8880/9oiua87waZ/213eOPlayuza/15
+#EXTINF:-1,TV JUSTIÇA HD
+http://msdo.iptvsystem.cloud:8880/9oiua87waZ/213eOPlayuza/62
+#EXTINF:-1,TV RÁ TIM BUM HD
+http://msdo.iptvsystem.cloud:8880/9oiua87waZ/213eOPlayuza/88
+#EXTINF:-1,UNIVERSAL CHANNEL HD
+http://msdo.iptvsystem.cloud:8880/9oiua87waZ/213eOPlayuza/85
+#EXTINF:-1,VH1 MEGA HITS HD
+http://msdo.iptvsystem.cloud:8880/9oiua87waZ/213eOPlayuza/9
+#EXTINF:-1,VIVA HD
+http://msdo.iptvsystem.cloud:8880/9oiua87waZ/213eOPlayuza/97
+#EXTINF:-1,WARNER HD
+http://msdo.iptvsystem.cloud:8880/9oiua87waZ/213eOPlayuza/7
+#EXTINF:-1,WOOHOO HD
+http://msdo.iptvsystem.cloud:8880/9oiua87waZ/213eOPlayuza/75
+#EXTINF:-1,CANAL RURAL
+http://67149o.ha.azioncdn.net/hlsmedium/playlist.m3u8
+ 
+#EXTINF:-1,AGRO BRASIL
+http://177.54.152.243:1935/agrobrasiltv/agrobrasiltv/playlist.m3u8
+ 
+#EXTINF:-1,TERRA VIVA
+http://evpp.mm.uol.com.br:1935/band/terraviva/chunklist_w283850461.m3u8
+📺 LISTA DE CANAIS 📺
+ 
+#EXTINF: -1 tvg-logo=" " group-title="CANAIS BRASIL COMBO 1",A Fazenda 10
+http://51.68.152.224:8080/AFazenda2018/mpegts?token=cYW_L52030
+ 
+#EXTINF: -1, Globo SP
+http://51.68.152.224:8080/GloboSP/mpegts?token=cYW_L52030
+ 
+#EXTINF:-1, Globo RJ
+http://51.68.152.224:8080/GloboRJ/mpegts?token=cYW_L52030
+ 
+#EXTINF: -1, SBT SP
+http://51.68.152.224:8080/SBTSP/mpegts?token=cYW_L52030
+ 
+#EXTINF: -1, RECORD SP HD
+http://51.68.152.224:8080/RECORDSPHD/mpegts?token=cYW_L52030
+ 
+#EXTINF: -1, REDETV HD
+http://51.68.152.224:8080/REDETVHD/mpegts?token=cYW_L52030
+ 
+#EXTINF: -1, Terra Viva
+http://evpp.mm.uol.com.br:1935/band/terraviva/playlist.m3u8
+ 
+#EXTINF: -1, TV ESCOLA
+http://51.68.152.224:8080/TVESCOLA/mpegts?token=cYW_L52030
+ 
+#EXTINF: -1, Animal Planet HD
+http://51.68.152.224:8080/AnimalPlanetHD/mpegts?token=cYW_L52030
+ 
+#EXTINF: -1, Nat Geo Wild HD
+http://51.68.152.224:8080/NatGeoWildHD/mpegts?token=cYW_L52030
+ 
+#EXTINF: -1, History HD
+http://51.68.152.224:8080/HistoryHD/mpegts?token=cYW_L52030
+ 
+#EXTINF: -1, National Geographic HD
+http://51.68.152.224:8080/NationalGeographicHD/mpegts?token=cYW_L52030
+ 
+#EXTINF: -1, Discovery Turbo HD
+http://51.68.152.224:8080/DiscoveryTurboHD/mpegts?token=cYW_L52030
+ 
+#EXTINF: -1, Discovery Channel HD
+http://51.68.152.224:8080
+/DiscoveryChannelHD/mpegts?token=cYW_L52030
+ 
+#EXTINF: -1, Discovery H&H
+http://51.68.152.224:8080/DiscoveryH&H/mpegts?token=cYW_L52030
+ 
+#EXTINF: -1,
+http://51.68.152.224:8080/BandSports/ mpegts?token=cYW_L52030
+ 
+#EXTINF: -1, Combate
+http://51.68.152.224:8080/Combate/mpegts?token=cYW_L52030
+ 
+#EXTINF: -1, SporTV
+http://51.68.152.224:8080/SporTV/mpegts?token=cYW_L52030
+ 
+#EXTINF: -1, SporTV2
+http://51.68.152.224:8080/SporTV2/mpegts?token=cYW_L52030
+ 
+#EXTINF: -1, SporTV3
+http://51.68.152.224:8080/SporTV3/mpegts?token=cYW_L52030
+ 
+#EXTINF: -1, Fox Sports
+http://51.68.152.224:8080/FoxSports/mpegts?token=cYW_L52030
+ 
+#EXTINF: -1, Fox Sports 2
+http://51.68.152.224:8080/FoxSports2/mpegts?token=cYW_L52030
+ 
+#EXTINF: -1, ESPN
+http://51.68.152.224:8080/ESPN/mpegts?token=cYW_L52030
+ 
+#EXTINF: -1, ESPN Brasil
+http://51.68.152.224:8080/ESPNBrasil/mpegts?token=cYW_L52030
+ 
+#EXTINF: -1, MEGAPIX HD
+http://51.68.152.224:8080/MEGAPIXHD/mpegts?token=cYW_L52030
+ 
+#EXTINF: -1, MAXPRIME HD
+http://51.68.152.224:8080/MAXPRIMEHD/mpegts?token=cYW_L52030
+ 
+#EXTINF: -1, AXN HD
+http://51.68.152.224:8080/AXNHD/mpegts?token=cYW_L52030
+ 
+#EXTINF: -1, TNT SERIES HD
+http://51.68.152.224:8080/TNTSERIESHD/mpegts?token=cYW_L52030
+ 
+#EXTINF: -1, AMC HD
+http://51.68.152.224:8080/AMCHD/mpegts?token=cYW_L52030
+ 
+#EXTINF: -1, CINEMAX HD
+http://51.68.152.224:8080/CINEMAXHD/mpegts?token=cYW_L52030
+ 
+#EXTINF: -1, HBO HD
+http://51.68.152.224:8080/HBOHD/mpegts?token=cYW_L52030
+ 
+#EXTINF: -1, HBO Family HD
+http://51.68.152.224:8080/HBOFamilyHD/mpegts?token=cYW_L52030
+ 
+#EXTINF: -1, HBO Plus HD
+http://51.68.152.224:8080/HBOPlusHD/mpegts?token=cYW_L52030
+ 
+#EXTINF: -1, HBO Signature HD
+http://51.68.152.224:8080/HBOSignatureHD/mpegts?token=cYW_L52030
+ 
+#EXTINF: -1, Telecine Action HD
+http://51.68.152.224:8080/TelecineActionHD/mpegts?token=cYW_L52030
+ 
+#EXTINF: -1, Telecine Premium
+http://51.68.152.224:8080/TelecinePremium/mpegts?token=cYW_L52030
+ 
+#EXTINF: -1, Telecine Pipoca
+http://51.68.152.224:8080/TelecinePipoca/mpegts?token=cYW_L52030
+ 
+#EXTINF: -1, Telecine Cult HD
+http://51.68.152.224:8080/TelecineCultHD/mpegts?token=cYW_L52030
+ 
+#EXTINF: -1, SYFY
+http://51.68.152.224:8080/SYFY/mpegts?token=cYW_L52030
+ 
+#EXTINF: -1, FX HD
+http://51.68.152.224:8080/FXHD/mpegts?token=cYW_L52030
+ 
+#EXTINF: -1, Space HD
+http://51.68.152.224:8080/SpaceHD/mpegts?token=cYW_L52030
+ 
+#EXTINF: -1, TNTHD
+http://51.68.152.224:8080/TNTHD/mpegts?token=cYW_L52030
+ 
+#EXTINF: -1, Sony HD
+http://51.68.152.224:8080/SonyHD/mpegts?token=cYW_L52030
+ 
+#EXTINF: -1, GLOBOSAT
+http://51.68.152.224:8080/GLOBOSAT/mpegts?token=cYW_L52030
+ 
+#EXTINF: -1, Nickelodeon HD
+http://51.68.152.224:8080/NickelodeonHD/mpegts?token=cYW_L52030
+ 
+#EXTINF: -1, Tooncast HD
+http://51.68.152.224:8080/TooncastHD/mpegts?token=cYW_L52030
+ 
+#EXTINF: -1, Boomerang HD
+http://51.68.152.224:8080/BoomerangHD/mpegts?token=cYW_L52030
+ 
+#EXTINF: -1, Nick Jr HD
+http://51.68.152.224:8080/NickJrHD/mpegts?token=cYW_L52030
+ 
+#EXTINF: -1, Disney XD HD
+http://51.68.152.224:8080/DisneyXDHD/mpegts?token=cYW_L52030
+ 
+#EXTINF: -1, Record News
+http://51.68.152.224:8080/RecordNews/mpegts?token=cYW_L52030
+ 
+#EXTINF: -1, Globo News
+http://51.68.152.224:8080/GloboNews/mpegts?token=cYW_L52030
+ 
+#EXTINF: -1, Band News
+http://51.68.152.224:8080/BandNews/mpegts?token=cYW_L52030
+ 
+#EXTINF: -1, MTV Clipes HD
+http://51.68.152.224:8080/MTVClipesHD/mpegts?token=cYW_L52030
+ 
+#EXTINF: -1, GNT HD
+http://51.68.152.224:8080/GNTHD/mpegts?token=cYW_L52030
+ 
+#EXTINF: -1, Top Tv
+http://stmv3.euroti.com.br:1935/toptv/toptv/playlist.m3u8
+ 
+#EXTM3U
+#EXTINF:-1 tvg-logo=" " group-title="CANAIS BRASIL COMBO 2",BRASIL
+#EXTINF:-1,Globo RJ
+http://51.68.152.224:8080/GloboRJ/mpegts?token=cYW_L52030
+#EXTINF:-1,Globo SP
+http://51.68.152.224:8080/GloboSP/mpegts?token=cYW_L52030
+#EXTINF:-1,RECORD SP HD
+http://51.68.152.224:8080/RECORDSPHD/mpegts?token=cYW_L52030
+#EXTINF:-1,REDETV HD
+http://51.68.152.224:8080/REDETVHD/mpegts?token=cYW_L52030
+#EXTINF:-1,SBT SP
+http://51.68.152.224:8080/SBTSP/mpegts?token=cYW_L52030
+#EXTINF:-1,TV ESCOLA
+http://51.68.152.224:8080/TVESCOLA/mpegts?token=cYW_L52030
+#EXTINF:-1,GLOBOSAT
+http://51.68.152.224:8080/GLOBOSAT/mpegts?token=cYW_L52030
+#EXTINF:-1,GNT HD
+http://51.68.152.224:8080/GNTHD/mpegts?token=cYW_L52030
+#EXTINF:-1,MTV Clipes HD
+http://51.68.152.224:8080/MTVClipesHD/mpegts?token=cYW_L52030
+#EXTINF:-1,Boomerang HD
+http://51.68.152.224:8080/BoomerangHD/mpegts?token=cYW_L52030
+#EXTINF:-1,CARTOON NETWORK HD
+http://51.68.152.224:8080/CARTOONNETWORKHD/mpegts?token=cYW_L52030
+#EXTINF:-1,Disney XD HD
+http://51.68.152.224:8080/DisneyXDHD/mpegts?token=cYW_L52030
+#EXTINF:-1,Nick Jr HD
+http://51.68.152.224:8080/NickJrHD/mpegts?token=cYW_L52030
+#EXTINF:-1,Nickelodeon HD
+http://51.68.152.224:8080/NickelodeonHD/mpegts?token=cYW_L52030
+#EXTINF:-1,Tooncast HD
+http://51.68.152.224:8080/TooncastHD/mpegts?token=cYW_L52030
+#EXTINF:-1,Band News
+http://51.68.152.224:8080/BandNews/mpegts?token=cYW_L52030
+#EXTINF:-1,Globo News
+http://51.68.152.224:8080/GloboNews/mpegts?token=cYW_L52030
+#EXTINF:-1,Record News
+http://51.68.152.224:8080/RecordNews/mpegts?token=cYW_L52030
+#EXTINF:-1,Animal Planet HD
+http://51.68.152.224:8080/AnimalPlanetHD/mpegts?token=cYW_L52030
+#EXTINF:-1,Discovery Channel HD
+http://51.68.152.224:8080/DiscoveryChannelHD/mpegts?token=cYW_L52030
+#EXTINF:-1,BandSports
+http://51.68.152.224:8080/BandSports/mpegts?token=cYW_L52030
+#EXTINF:-1,Combate
+http://51.68.152.224:8080/Combate/mpegts?token=cYW_L52030
+#EXTINF:-1,SporTV
+http://51.68.152.224:8080/SporTV/mpegts?token=cYW_L52030
+#EXTINF:-1,SporTV 2
+http://51.68.152.224:8080/SporTV2/mpegts?token=cYW_L52030
+#EXTINF:-1,SporTV 3
+http://51.68.152.224:8080/SporTV3/mpegts?token=cYW_L52030
+#EXTINF:-1,Fox Sports
+http://51.68.152.224:8080/FoxSports/mpegts?token=cYW_L52030
+#EXTINF:-1,Fox Sports 2
+http://51.68.152.224:8080/FoxSports2/mpegts?token=cYW_L52030
+#EXTINF:-1,ESPN
+http://51.68.152.224:8080/ESPN/mpegts?token=cYW_L52030
+#EXTINF:-1,ESPN Brasil
+http://51.68.152.224:8080/ESPNBrasil/mpegts?token=cYW_L52030
+#EXTINF:-1,AMC HD
+http://51.68.152.224:8080/AMCHD/mpegts?token=cYW_L52030
+#EXTINF:-1,AXN HD
+http://51.68.152.224:8080/AXNHD/mpegts?token=cYW_L52030
+#EXTINF:-1,CINEMAX HD
+http://51.68.152.224:8080/CINEMAXHD/mpegts?token=cYW_L52030
+#EXTINF:-1,FX HD
+http://51.68.152.224:8080/FXHD/mpegts?token=cYW_L52030
+#EXTINF:-1,HBO Family HD
+http://51.68.152.224:8080/HBOFamilyHD/mpegts?token=cYW_L52030
+#EXTINF:-1,HBO HD
+http://51.68.152.224:8080/HBOHD/mpegts?token=cYW_L52030
+#EXTINF:-1,HBO Plus HD
+http://51.68.152.224:8080/HBOPlusHD/mpegts?token=cYW_L52030
+#EXTINF:-1,HBO Signature HD
+http://51.68.152.224:8080/HBOSignatureHD/mpegts?token=cYW_L52030
+#EXTINF:-1,MAXPRIME HD
+http://51.68.152.224:8080/MAXPRIMEHD/mpegts?token=cYW_L52030
+#EXTINF:-1,MEGAPIX HD
+http://51.68.152.224:8080/MEGAPIXHD/mpegts?token=cYW_L52030
+#EXTINF:-1,Sony HD
+http://51.68.152.224:8080/SonyHD/mpegts?token=cYW_L52030
+#EXTINF:-1,Space HD
+http://51.68.152.224:8080/SpaceHD/mpegts?token=cYW_L52030
+#EXTINF:-1,SYFY
+http://51.68.152.224:8080/SYFY/mpegts?token=cYW_L52030
+#EXTINF:-1,Telecine Action HD
+http://51.68.152.224:8080/TelecineActionHD/mpegts?token=cYW_L52030
+#EXTINF:-1,Telecine Cult HD
+http://51.68.152.224:8080/TelecineCultHD/mpegts?token=cYW_L52030
+#EXTINF:-1,Telecine Pipoca
+http://51.68.152.224:8080/TelecinePipoca/mpegts?token=cYW_L52030
+#EXTINF:-1,Telecine Premium
+http://51.68.152.224:8080/TelecinePremium/mpegts?token=cYW_L52030
+#EXTINF:-1,TNT HD
+http://51.68.152.224:8080/TNTHD/mpegts?token=cYW_L52030
+#EXTINF:-1,TNT SERIES HD
+http://51.68.152.224:8080/TNTSERIESHD/mpegts?token=cYW_L52030
+#EXTINF:-1,Nat Geo Wild HD
+http://51.68.152.224:8080/NatGeoWildHD/mpegts?token=cYW_L52030
+#EXTINF:-1,History HD
+http://51.68.152.224:8080/HistoryHD/mpegts?token=cYW_L52030
+#EXTINF:-1,H2 HD
+http://51.68.152.224:8080/H2HD/mpegts?token=cYW_L52030
+#EXTINF:-1,National Geographic HD
+http://51.68.152.224:8080/NationalGeographicHD/mpegts?token=cYW_L52030
+#EXTINF:-1,Discovery Turbo HD
+http://51.68.152.224:8080/DiscoveryTurboHD/mpegts?token=cYW_L52030
+ 
+ 
+#EXTINF:-1 tvg-logo=" " group-title="CANAIS ANIMES", KIDS: My KIDS
+http://210.210.155.35/qwr9ew/s/s30/index2.m3u8
+ 
+#EXTINF:-1, KIDS: MIAO MI
+https://d3kw4vhbdpgtqk.cloudfront.net/hls/miaomipcweb/prog_index.m3u8
+ 
+#EXTINF:-1, KIDS: ANIMAX ID
+http://210.210.155.35/session/83bc2526-da69-11e8-881b-c81f66f89318/dr9445/h/h144/index2.m3u8
+ 
+#EXTINF:-1, KIDS: MY KIDS
+http://210.210.155.35/session/e182f600-c3a1-11e8-aa13-a4dba5aaae34/x6bnqe/s/s30/S4/mnf.m3u8
+ 
+#EXTINF:-1, KIDS: MIAO MI
+https://d3kw4vhbdpgtqk.cloudfront.net/hls/miaomipcweb/prog_index.m3u8
+ 
+#EXTINF:-1, KIDS: ANIPLUS
+http://45.126.83.51/dr9445/h/h02/01.m3u8
+ 
+#EXTINF:-1, KIDS: TOKYO TV
+http://dlhls.cdn.zhanqi.tv/zqlive/41832_NfsIa.m3u8
+ 
+#EXTINF:-1, KIDS: GONGMAX TV
+http://51.254.215.79/appflux/gongmax/GONGMAX/gongmax_1280/chunks.m3u8
+ 
+#EXTINF:-1, KIDS: ZHANQI TV
+http://dlhls.cdn.zhanqi.tv/zqlive/41832_NfsIa.m3u8
+ 
+#EXTINF:-1, KIDS: ANIMAX
+http://210.210.155.35/session/83bc2526-da69-11e8-881b-c81f66f89318/dr9445/h/h144/index2.m3u8
+ 
+#EXTINF:-1, tvg-logo=" " group-title="CANAIS ANIMES", KIDS: DISNEY JUNIOR
+http://103.47.132.164/PLTV/88888888/224/3221226011/04.m3u8
+ 
+#EXTINF:-1, KIDS: KIDS JR
+http://aldirect.hls.huya.com/huyalive/94525224-2553630828-10967760892317401088-3049003140-10057-A-0-1_1200.m3u8
+ 
+#EXTINF:-1, KIDS: CARTOON NETWORK
+http://161.0.157.9/PLTV/88888888/224/3221226843/index.m3u8
+ 
+#EXTINF:-1, KIDS: CARTOON NETWORK 2
+http://persik.by/stream/2944/263250/32.m3u8
+ 
+#EXTINF:-1, KIDS: DISNEY CHANNEL
+http://161.0.157.6/PLTV/88888888/224/3221226299/index.m3u8
+ 
+#EXTINF:-1, KIDS: DISNEY JUNIOR
+http://103.47.132.164/PLTV/88888888/224/3221226011/04.m3u8
+ 
+#EXTINF:-1, KIDS: CARTOON NETWORK
+http://persik.by/stream/2944/263250/32.m3u8
+ 
+#EXTINF:-1, KIDS: CARTOON NETWOR
+http://161.0.157.9/PLTV/88888888/224/3221226843/index.m3u8
