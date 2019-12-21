@@ -133,40 +133,79 @@ Mas o tempo passa e Marília, diagnosticada com câncer, se vê diante de uma si
 <info>Um pastor é questionado por um morador de rua sobre sua crença em Deus, e passa a usar essa pergunta com seus fiéis também. A partir daí, doze histórias diferentes se cruzam, cada uma com sua provação sobre até onde vai a fé em Deus de cada uma das pessoas envolvidas.</info>
 </item>
 
-#EXTINF:-1  tvg-logo="https://goo.gl/jqP2iR" group-title="Filmes", O Livro De Daniel
-plugin://plugin.video.youtube/play/?video_id=RfFwiV54lWc
- 
-#EXTINF:-1  tvg-logo="https://goo.gl/jqP2iR" group-title="Filmes", Davi e Golias (dublado)
-plugin://plugin.video.youtube/play/?video_id=yk2zl7fxhTM
- 
-#EXTINF:-1  tvg-logo="https://goo.gl/qT0Qna" group-title="Filmes", Davi e Batseba (dublado)
-plugin://plugin.video.youtube/play/?video_id=hEybTo_UrfU
- 
-#EXTINF:-1  tvg-logo="https://goo.gl/qT0Qna" group-title="Filmes", Saul e Davi (1964) dublado
-=PhS31YaEHmM
- 
-#EXTINF:-1  tvg-logo="https://goo.gl/qT0Qna" group-title="Filmes", O Rei Davi - Desenho dublado
-plugin://plugin.video.youtube/play/?video_id=BrLc6LJTXE8
- 
-#EXTINF:-1  tvg-logo="https://goo.gl/qT0Qna" group-title="Filmes", Jacó - O Homem que Lutou com Deus
-plugin://plugin.video.youtube/play/?video_id=_Vxh_oFMerA
- 
-#EXTINF:-1  tvg-logo="https://goo.gl/qT0Qna" group-title="Filmes", Rainha Ester
-plugin://plugin.video.youtube/play/?video_id=4nUc1BSaNaU
- 
-#EXTINF:-1  tvg-logo="https://goo.gl/qT0Qna" group-title="Filmes", Sacrifício de Abraão - Serie Heróis da Bíblia
-plugin://plugin.video.youtube/play/?video_id=5BzzkomCv_Q
- 
-#EXTINF:-1  tvg-logo="https://goo.gl/qT0Qna" group-title="Filmes", O Velho Testamento
-plugin://plugin.video.youtube/play/?video_id=ddX5osb2qns
- 
-#EXTINF:-1  tvg-logo="https://goo.gl/qT0Qna" group-title="Filmes", Os Profetas Bíblicos
-plugin://plugin.video.youtube/play/?video_id=lhJ08LlbStQ&feature=youtu.be
- 
-#EXTINF:-1  tvg-logo="https://goo.gl/qT0Qna" group-title="Filmes", Os Apóstolos de Jesus Cristo
-plugin://plugin.video.youtube/play/?video_id=oPXFwwiZ2ww&feature=youtu.be
- 
-#EXTINF:-1  tvg-logo="https://goo.gl/qT0Qna" group-title="Filmes", A História de Judas e Jesus
-plugin://plugin.video.youtube/play/?video_id=j1EdXGw6Y8s&feature=youtu.be
 
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+<item>
+<title>Mais que Vencedor (Baseado em um história real)</title>
+<link>plugin://plugin.video.youtube/play/?video_id=Z3V_vpL3GyA</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
 
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+
+<item>
+<title>O Milagre de Cokeville(Baseado em um história real)</title>
+<link>plugin://plugin.video.youtube/play/?video_id=rZQo5H-uJP0</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
+
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+<item>
+<title>Escolhas (Curta-metragem)</title>
+<link>plugin://plugin.video.youtube/play/?video_id=DzvCqhEgvkk</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info>Em meio a um difícil problema, a jornalista Helena conhece a mãe de Léo, que o procura desde que desapareceu há 7 anos. Esse encontro das duas resultará em um reencontro incrível.
+</info>
+</item>
+
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+<item>
+<title>O Valor de um Sonho</title>
+<link>plugin://plugin.video.youtube/play/?video_id=xNWSeEuCy2I</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info>Este filme retrata a necessidade de mudança de um jovem de uma pequena cidade do sertão baiano, que movido pelos seus sonhos e ambições, muda-se para cidade grande. Embarcando nos sonhos de consumo da sociedade moderna, ele acredita que se tornará realizado como pessoa e deixando assim para trás toda sua estrutura humilde de vida. Nessa jornada de dificuldades ele irá perceber, que apenas pelo perdão, arrependimento e conversão de vida lhe permitirá encontrar a verdadeira realização.</info>
+</item>
+
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+<item>
+<title>Despertar da Fé</title>
+<link>plugin://plugin.video.youtube/play/?video_id=75J31spK81Y</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
+
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+<item>
+<title>Campos de esperança</title>
+<link>plugin://plugin.video.youtube/play/?video_id=CeCdHjWk9Ys</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info>O adolescente Seth McArdle (Samuel Davis) passa por uma situação complicada: além de ser constantemente maltratado pelos jogadores de futebol do colégio, ele trabalha em um emprego mal remunerado. O garoto tem dificuldades para sustentar sozinho suas duas irmãs pequenas, já que o pai abandonou a família e a mãe morreu. Cansado desta situação, ele revida contra um dos jovens da escola que o agride, e é punido pelo treinador. Seth é obrigado a cuidar do gramado do campo de futebol, junto do solitário funcionário Abel (Kevin Sorbo). Aos poucos, estes dois homens percebem várias semelhanças em suas vidas, e começam a ajudar um ao outro.</info>
+</item>
+
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+<item>
+<title>A Cura</title>
+<link>plugin://plugin.video.youtube/play/?video_id=jlS3D94X45Y</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
+
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+<item>
+<title>A Cura</title>
+<link>plugin://plugin.video.youtube/play/?video_id=jlS3D94X45Y</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
+
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
