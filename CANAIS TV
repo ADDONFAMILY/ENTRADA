@@ -86,11 +86,11 @@ https://mj1b2xsspj.singularcdn.net.br/encompass/ESPN_Brasil/master_Layer3.m3u8
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/d/d5/ESPN2.svg/revision/latest/scale-to-width-down/200?cb=20180427153715" group-title="", ESPN2
 https://mj1b2xsspj.singularcdn.net.br/encompass/ESPN2/master_Layer3.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/zthOyFr.png" group-title="", ESPN Extra
+#EXTINF:-1 tvg-logo="https://i.imgur.com/zthOyFr.png" group-title="", ESPN EXTRA
 https://mj1b2xsspj.singularcdn.net.br/encompass/ESPN_Extra/master_Layer3.m3u8
 
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/3/34/ESPN.svg/revision/latest/scale-to-width-down/200?
-#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/a/a3/TV_Gazeta_2.svg/revision/latest/scale-to-width-down/147?cb=20150223064602" group-title="", TV Gazeta
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/a/a3/TV_Gazeta_2.svg/revision/latest/scale-to-width-down/147?cb=20150223064602" group-title="", TV GAZETA
 https://vlw22jqafe.singularcdn.net.br/live/TVGAZETA/playlist-360p.m3u8
 #EXTINF:-1, DISNEY CHANNEL
 https://mj1b2xsspj.singularcdn.net.br/encompass/DisneyChannelBRA/master_Layer3.m3u8
