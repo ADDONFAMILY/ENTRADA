@@ -79,23 +79,23 @@ http://173.236.10.10:1935/gvnews/gvnews/live.m3u8
 #EXTINF:-1 tvg-logo="" group-title="",GLOBO RJ
 https://canaisgratis.info/3b8fcaa1-04c4-4bbf-abe2-dfa295c1746d
 
-#EXTINF:,GLOBO SP
+#EXTINF:-1 tvg-logo="" group-title="",GLOBO SP
 blob:https://canaisgratis.info/18e40ca2-30ec-43b6-bc1e-4261940b884e
 
-#EXTINF:,GLOBO NORDESTE
+#EXTINF:-1 tvg-logo="" group-title="",GLOBO NORDESTE
 blob:https://canaisgratis.info/354ec029-9eab-4828-a7f0-85b05d628cbf
 
-#EXTINF:,GLOBO NEWS
+#EXTINF:-1 tvg-logo="" group-title="",GLOBO NEWS
 blob:https://canaisgratis.info/b6a23fe2-f2bd-4d6f-89af-d252d0400486
 
-#EXTINF:,BAND NEWS
-https://awsclo.azureedge.net/hls1/bandnews.m3u8?wmsAuthSign=
+#EXTINF:-1 tvg-logo="" group-title="",BAND NEWS
+blob:https://canaisgratis.info/14b6362b-89db-4e25-8520-55c41aba2201
 
-#EXTINF:,RECORD NEWS
+#EXTINF:-1 tvg-logo="" group-title="",RECORD NEWS
 blob:https://canaisgratis.info/33a99404-d4ec-4cba-9a7d-f82d5377e226
 
-#EXTINF:,RECORD TV SP
+#EXTINF:-1 tvg-logo="" group-title="",RECORD TV SP
 https://canaisgratis.info/assistir-record-tv-sp-online-24-horas-ao-vivo_c22659597.html
 
-#EXTINF:,BAND
+#EXTINF:-1 tvg-logo="" group-title="",BAND
 blob:https://canaisgratis.info/dd0b233f-3c4c-4fc0-b539-e492b98e36aa
