@@ -75,8 +75,12 @@ http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-b.m3u8
  
 #EXTINF:-1 tvg-logo="http://gvnews.tv.br/wp-content/uploads/2015/06/Untitled-1.jpg",[COLOR white][B]GV NEWS[/B][/COLOR]
 http://173.236.10.10:1935/gvnews/gvnews/live.m3u8
- 
 
+#EXTINF:,GLOBO RJ
+blob:https://canaisgratis.info/3b8fcaa1-04c4-4bbf-abe2-dfa295c1746d
 
+#EXTINF:,GLOBO SP
+blob:https://canaisgratis.info/18e40ca2-30ec-43b6-bc1e-4261940b884e
 
-
+#EXTINF:,GLOBO NORDESTE
+blob:https://canaisgratis.info/354ec029-9eab-4828-a7f0-85b05d628cbf
