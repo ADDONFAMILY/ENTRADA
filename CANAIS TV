@@ -112,101 +112,23 @@ http://hvod.imirun.net:8080/Band-Sports-HD/index.m3u8
 >>>>>>>>>>>>>>
 
 
-#EXTINF:-1 tvg-logo="" group-title="",PREMIERE CLUBS
-http://thallo.tvcast.xyz/hls/s:95.216.15.44:81/premiereclubes_3f1522d0_a025ba199aa79b789e069bafaadc7b8bd8ddbf2a/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",WARNER CHANNEL
+http://163.172.10.216:8081/loadbalance/warner/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvNS8yMDE5IDQ6MDg6MDAgQU0maGFzaF92YWx1ZT1QeEJZRExrNWtHQVVQS214Y0djc1pBPT0mdmFsaWRtaW51dGVzPTIw
+ 
+#EXTINF:-1 tvg-logo="" group-title="",MEGAPIX 2
+http://195.154.161.57:8081/loadbalance/megapix/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvNS8yMDE5IDQ6MzA6MDMgQU0maGFzaF92YWx1ZT0wN3lYbTRaWFZSRkRucFQrbTJ6SDBBPT0mdmFsaWRtaW51dGVzPTIw
  
 #EXTINF:-1 tvg-logo="" group-title="",SPORTV
-http://167.114.210.177:8080/SporTV/tracks-v1a1/mono.m3u8
+http://62.210.116.21:8081/loadbalance/sportv/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvNS8yMDE5IDQ6MTU6MzUgQU0maGFzaF92YWx1ZT1MYytEd1RVV3VEaFd4cEVSRThOeVhnPT0mdmFsaWRtaW51dGVzPTIw
  
-#EXTINF:-1 tvg-logo="" group-title="",SPORTV 2
-http://hvod.imirun.net:8080/SporTV-2/tracks-v1a1/mono.m3u8
- 
-#EXTINF:-1 tvg-logo="" group-title="",SPORTV 3
-http://hvod.imirun.net:8080/SporTV-3/tracks-v1a1/mono.m3u8
- 
-#EXTINF:-1 tvg-logo="" group-title="",COMBATE
-http://playback.imirun.net:8080/Combate/tracks-v1a1/mono.m3u8
- 
-#EXTINF:-1 tvg-logo="" group-title="",SPACE
-http://hvod.imirun.net:8080/Space/tracks-v1a1/mono.m3u8
- 
-#EXTINF:-1 tvg-logo="",TV POPULAR
-https://5c483b9d1019c.streamlock.net/8076/8076/chunklist_w1001792225.m3u8
- 
-#EXTINF:-1 tvg-logo=""(felipe)",TLN
-https://mj1b2xsspj.singularcdn.net.br/encompass/TLN_Network/master_Layer2.m3u8
- 
-#EXTINF:-1 tvg-logo=""(felipe)",ESPN
-https://mj1b2xsspj.singularcdn.net.br/encompass/ESPN_Extra/master_Layer3.m3u8
- 
-#EXTINF:-1 tvg-logo=""(felipe)",ESPN 2
-https://c3170-gbbrslbps-sambatech.akamaized.net/live/3170%2C8466%2C9ec60c643a1230d86dc50926adad9faa%3Bbase64np%3BGP-IfJ-7Ok-32mA%21/amlst%3AGP9wZYLwP06omuz_/chunklist_b2244608.m3u8?sts=st=1567710340~exp=1567716940~acl=/*~hmac=3f31802fc0fc014301684fa9fefad90776bde08c08215b27c76364b8ac5bf58e
- 
-#EXTINF:-1 tvg-logo="",ESPN BRASIL
-https://c3170-gbbrslbps-sambatech.akamaized.net/live/3170%2C8466%2C0c93d3a53ee212d5d9b0e2e3a2114102%3Bbase64np%3Bt0Ra-0WB1fg0PMk%21/amlst%3At0Si4ljK0PkrfEV_/chunklist_b2244608.m3u8?sts=st=1567662335~exp=1567668935~acl=/*~hmac=2cf513e2b71f35919ff90ca99f0e6290e6d20c276fad981f821d20578eb40e94
- 
-#EXTINF:-1 tvg-logo="",ESPN EXTRA
-https://c3170-gbbrslbps-sambatech.akamaized.net/live/3170%2C8466%2C3958f83a366a90dbbd093f8907129171%3Bbase64np%3Bk_t80-AGg9JIUeY%21/amlst%3Ak_uEyv1NhtNXEWo1/chunklist_b2244608.m3u8?sts=st=1567662332~exp=1567668932~acl=/*~hmac=f4ec578f5d17223a96d4634fb85e7ffe9fd0ba8071cc4d0e6659026f2a0bbd83
- 
-#EXTINF:-1 tvg-logo=""(felipe)",DISNEY XD
-https://mj1b2xsspj.singularcdn.net.br/encompass/DisneyXDBRA/master_Layer2.m3u8
- 
-#EXTINF:-1 tvg-logo=""(felipe)",DISNEY CHANNEL
-https://mj1b2xsspj.singularcdn.net.br/encompass/DisneyChannelBRA/master_Layer3.m3u8
- 
-#EXTINF:-1 tvg-logo=""(felipe)",DESENHOS 24 HORAS
-https://5vefzfyztw.singularcdn.net.br/hls/269/255_500k/playlist.m3u8
- 
-#EXTINF:-1 tvg-logo="" group-title="",A&E
-http://hvod.imirun.net:8080/A&E-HD/index.m3u8
- 
-#EXTINF:-1 tvg-logo="" group-title="",FX
-http://hvod.imirun.net:8080/FX-HD/index.m3u8
- 
-#EXTINF:-1 tvg-logo="" group-title="",GLOOB
-http://hvod.imirun.net:8080/Gloob-HD/index.m3u8
- 
-#EXTINF:-1 tvg-logo="" group-title="",HBO
-http://hvod.imirun.net:8080/HBO-HD/index.m3u8
- 
-#EXTINF:-1 tvg-logo="" group-title="",PREMIERE 2
-http://hvod.imirun.net:8080/Premiere-2-HD/index.m3u8
- 
-#EXTINF:-1 tvg-logo="" group-title="",PREMIERE 4
-http://hvod.imirun.net:8080/Premiere-4-HD/index.m3u8
- 
-#EXTINF:-1 tvg-logo="" group-title="",PREMIERE 5
-http://hvod.imirun.net:8080/Premiere-5-HD/index.m3u8
- 
-#EXTINF:-1 tvg-logo="" group-title="",PREMIERE 6
-http://hvod.imirun.net:8080/Premiere-6-HD/index.m3u8
- 
-#EXTINF:-1 tvg-logo="" group-title="", TNT
-http://hvod.imirun.net:8080/TNT-HD/index.m3u8
- 
-#EXTINF:-1 tvg-logo="" group-title="", UNIVERSAL
-http://hvod.imirun.net:8080/UniversalChannelHD/index.m3u8
- 
-#EXTINF:-1 tvg-logo="" group-title="",HBO 2
-http://161.0.157.5/PLTV/88888888/224/3221227026/03.m3u8?fluxustv.m3u8
- 
-#EXTINF:-1 tvg-logo="" group-title="",HISTOY CHANNEL
-http://edge.aovivoplayer.ml/hls/s:45.32.217.66/history_b7eb6c68_d494708d9293b3b0894a4428b1ec91bd2bda2cd5/410p/chunklist.m3u8
- 
-#EXTINF:-1 tvg-logo="" group-title="",SIFY
-http://edge.aovivoplayer.ml/hls/s:155.138.227.156/syfy_097ccd4f_0e2f86c62c9c488c06640a14ad5854125ade801c/480p/chunklist.m3u8
- 
-#EXTINF:-1 tvg-logo="" group-title="",TELECINE PREMIUM
-http://edge.aovivoplayer.ml/hls/s:155.138.227.45/telecinepremium_a929eb33_6ea4156eae8522eabe17adfc89f2d36abf80f286/480p/chunklist.m3u8
- 
-#EXTINF:-1 tvg-logo="" group-title="",TELECINE TOUCH
-http://edge.aovivoplayer.ml/hls/s:45.32.217.66/telecinetouch_74cbd2c2_8c22809dafd5ecc13add8d9db548eb4620713e56/480p/chunklist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",TELECINE PIPOCA
+http://163.172.10.216:8081/loadbalance/tcpipoca/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvNS8yMDE5IDQ6MDk6MzEgQU0maGFzaF92YWx1ZT0zSVR6N1d5a2ZmU1h6citTMnU4Zi9RPT0mdmFsaWRtaW51dGVzPTIw
  
 #EXTINF:-1 tvg-logo="" group-title="",TELECINE ACTION
-http://edge.aovivoplayer.ml/hls/s:45.32.217.66/telecineaction_be057d4c_923591465b62b3d02787acaf1b48d29cd1c9616e/480p/chunklist.m3u8
+http://62.210.192.35:8081/loadbalance/tcaction/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvNS8yMDE5IDQ6MTA6MzAgQU0maGFzaF92YWx1ZT1ONmhXOHZ1Y0lpSEJTRnhUYUxCd0tnPT0mdmFsaWRtaW51dGVzPTIw
  
-#EXTINF:-1 tvg-logo="" group-title="",TELECINE CULT
-http://edge.aovivoplayer.ml/hls/s:95.216.15.44:81/telecinecult_8d255e1e_54c71bc301fa1a5eebd156cf8b33bde623f58bd3.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",TNT
+http://163.172.13.10:8081/loadbalance/tnt/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvNS8yMDE5IDQ6Mjg6MTcgQU0maGFzaF92YWx1ZT1zUDM4dlpGL1Z3WnBWb1VDZEpvYVVnPT0mdmFsaWRtaW51dGVzPTIw
  
-#EXTINF:-1 tvg-logo="" group-title="", HISTORY TESTE
-http://edge.aovivoplayer.ml/hls/s:45.32.217.66/historyopcao2_00a8a5c3_36df846c328c0c2984784c9c6b94688d1d27fe8c/410p/chunklist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",SPACE
+http://62.210.116.21:8081/loadbalance/space/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvNS8yMDE5IDQ6MTY6NDUgQU0maGFzaF92YWx1ZT1uamIyUllKNTlmQ3VHSlYzbDJGb09BPT0mdmFsaWRtaW51dGVzPTIw
