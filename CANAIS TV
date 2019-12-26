@@ -84,3 +84,18 @@ blob:https://canaisgratis.info/18e40ca2-30ec-43b6-bc1e-4261940b884e
 
 #EXTINF:,GLOBO NORDESTE
 blob:https://canaisgratis.info/354ec029-9eab-4828-a7f0-85b05d628cbf
+
+#EXTINF:,GLOBO NEWS
+blob:https://canaisgratis.info/b6a23fe2-f2bd-4d6f-89af-d252d0400486
+
+#EXTINF:,BAND NEWS
+https://awsclo.azureedge.net/hls1/bandnews.m3u8?wmsAuthSign=
+
+#EXTINF:,RECORD NEWS
+blob:https://canaisgratis.info/33a99404-d4ec-4cba-9a7d-f82d5377e226
+
+#EXTINF:,RECORD TV SP
+blob:https://canaisgratis.info/1629e4b2-c6b0-4ed0-b979-c690343759bc
+
+#EXTINF:,BAND
+blob:https://canaisgratis.info/dd0b233f-3c4c-4fc0-b539-e492b98e36aa
