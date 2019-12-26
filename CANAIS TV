@@ -76,7 +76,7 @@ http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-b.m3u8
 #EXTINF:-1 tvg-logo="http://gvnews.tv.br/wp-content/uploads/2015/06/Untitled-1.jpg",[COLOR white][B]GV NEWS[/B][/COLOR]
 http://173.236.10.10:1935/gvnews/gvnews/live.m3u8
 
-#EXTINF:,GLOBO RJ
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/98f2c63bd8626875fa4b533767d074ff.png" group-title="",GLOBO RJ
 blob:https://canaisgratis.info/3b8fcaa1-04c4-4bbf-abe2-dfa295c1746d
 
 #EXTINF:,GLOBO SP
