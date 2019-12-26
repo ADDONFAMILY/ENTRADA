@@ -76,48 +76,204 @@ http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-b.m3u8
 #EXTINF:-1 tvg-logo="http://gvnews.tv.br/wp-content/uploads/2015/06/Untitled-1.jpg",[COLOR white][B]GV NEWS[/B][/COLOR]
 http://173.236.10.10:1935/gvnews/gvnews/live.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="",GLOBO RJ
-https://canaisgratis.info/3b8fcaa1-04c4-4bbf-abe2-dfa295c1746d
-
-#EXTINF:-1 tvg-logo="" group-title="",GLOBO SP
-blob:https://canaisgratis.info/18e40ca2-30ec-43b6-bc1e-4261940b884e
-
-#EXTINF:-1 tvg-logo="" group-title="",GLOBO NORDESTE
-blob:https://canaisgratis.info/354ec029-9eab-4828-a7f0-85b05d628cbf
-
-#EXTINF:-1 tvg-logo="" group-title="",GLOBO NEWS
-blob:https://canaisgratis.info/b6a23fe2-f2bd-4d6f-89af-d252d0400486
-
-#EXTINF:-1 tvg-logo="" group-title="",BAND NEWS
-blob:https://canaisgratis.info/14b6362b-89db-4e25-8520-55c41aba2201
-
-#EXTINF:-1 tvg-logo="" group-title="",RECORD NEWS
-blob:https://canaisgratis.info/33a99404-d4ec-4cba-9a7d-f82d5377e226
-
-#EXTINF:-1 tvg-logo="" group-title="",RECORD TV SP
-https://canaisgratis.info/assistir-record-tv-sp-online-24-horas-ao-vivo_c22659597.html
-
-#EXTINF:-1 tvg-logo="" group-title="",BAND
-blob:https://canaisgratis.info/dd0b233f-3c4c-4fc0-b539-e492b98e36aa
-
-
-#EXTINF:-1 tvg-logo="" goup-title="Esporte", SPORTV
-http://edge-aws.aovivo.club/hls/s:95.216.15.44:81/sportv_91dfde1d_a7bc9304a491de8e8b1fb040f58b0e33efd934ef/playlist.m3u8
  
 #EXTINF:-1 tvg-logo="" goup-title="Esporte", ESPN
 https://mj1b2xsspj.singularcdn.net.br/encompass/ESPN/master_Layer3.m3u8
  
-#EXTINF:-1 tvg-logo="" goup-title="Esporte", FOX SPORTS
-http://edge-aws.aovivo.club/hls/s:95.216.15.44:81/foxsportshd_98fbc42f_2cd95da1848883ab2d06f8daa124fd438bed7452/playlist.m3u8
- 
 #EXTINF:-1 tvg-logo="" goup-title="Esporte", ESPN BRASIL
 https://mj1b2xsspj.singularcdn.net.br/encompass/ESPN_Brasil/master_Layer3.m3u8
  
-#EXTINF:-1 tvg-logo="" goup-title="Noticias", GLOBO NEWS
-http://edge-aws.aovivo.club/hls/s:95.216.15.44:81/globonews_dc685e2c_7128bb63f010af55a8399ef25f406bf37d43e45c.m3u8
+#EXTINF:0 tvg-logo="" group-title="ESPORTES",BAND SPORTS
+http://m3.portalcrazzy.me/hls1/bandsports.m3u8
  
-#EXTINF:-1 tvg-logo="" goup-title="Noticias", BAND NEWS
-http://edge-aws.aovivo.club/hls/s:95.216.15.44:81/bandnews_aee544ce_a22479f40d78171524809fe6fb63dcdc1ea6dacf/playlist.m3u8
+#EXTINF:0 tvg-logo="" group-title="",COMBATE
+http://m3.portalcrazzy.me/hls1/combate.m3u8
  
-#EXTINF:-1 tvg-logo="" goup-title="Documentarios", DISCOVERY CIVILIZATION
-http://edge-aws.aovivo.club/hls/s:95.216.15.44:81/discoverycivilization_2473f015_193ac9fd3b047aa2635e075bd3c15e2e943259f1.m3u8
+#EXTINF:0 tvg-logo="" group-title="",ESPN
+http://m3.portalcrazzy.me/hls1/espn.m3u8
+ 
+#EXTINF:0 tvg-logo="" group-title="",ESPN+
+http://m3.portalcrazzy.me/hls1/espnmais.m3u8
+ 
+#EXTINF:0 tvg-logo="" group-title="",ESPN BRASIL
+http://m3.portalcrazzy.me/hls1/espnbrasil.m3u8
+ 
+ 
+#EXTINF:0 tvg-logo="" group-title="",FOX SPORTS
+http://m3.portalcrazzy.me/hls1/foxsports1.m3u8
+ 
+#EXTINF:0 tvg-logo="" group-title="",ESPORTE INTERATIVO
+http://m3.portalcrazzy.me/hls1/esporteinterativo1.m3u8
+ 
+#EXTINF:0 tvg-logo="" group-title="",ESPORTE INTERATIVO 2
+http://m3.portalcrazzy.me/hls1/esporteinterativo2.m3u8
+ 
+#EXTINF:0 tvg-logo="" group-title="",FOX SPORTS 2
+http://m3.portalcrazzy.me/hls1/foxsports2.m3u8
+ 
+#EXTINF:0 tvg-logo="https://i.imgur.com/sgf2n3a.png   " group-title="",SPORTV
+http://m3.portalcrazzy.me/hls1/sportv1.m3u8
+ 
+#EXTINF:0 tvg-logo="https://i.imgur.com/sgf2n3a.png   " group-title="",SPORTV 2
+http://m3.portalcrazzy.me/hls1/sportv2.m3u8
+ 
+#EXTINF:0 tvg-logo="https://i.imgur.com/sgf2n3a.png  " group-title="",SPORTV 3
+http://m3.portalcrazzy.me/hls1/sportv3.m3u8
+ 
+#EXTINF:0 tvg-logo="https://i.imgur.com/vmwlNej.jpg   " group-title="",PREMIERE CLUBE
+http://m3.portalcrazzy.me/hls1/premiereclubes.m3u8
+ 
+#EXTINF:0 tvg-logo="https://i.imgur.com/jUcnMHk.jpg " group-title="",Premiere 2
+http://m3.portalcrazzy.me/hls1/premiere2.m3u8
+ 
+#EXTINF:0 tvg-logo="https://i.imgur.com/jUcnMHk.jpg " group-title="",Premiere 3
+http://m3.portalcrazzy.me/hls1/premiere3.m3u8
+ 
+#EXTINF:0 tvg-logo="https://i.imgur.com/jUcnMHk.jpg " group-title="",Premiere 4
+http://m3.portalcrazzy.me/hls1/premiere4.m3u8
+ 
+#EXTINF:0 tvg-logo="https://i.imgur.com/jUcnMHk.jpg" group-title="",Premiere 5
+http://m3.portalcrazzy.me/hls1/premiere6.m3u8
+ 
+#EXTINF:0 tvg-logo="https://i.imgur.com/jUcnMHk.jpg " group-title="",Premiere 6 Off
+http://cdn.iptvbr.tv:8080/live/Next/WY4XAoaCkFRo/135.m3u8
+ 
+#EXTINF:0 tvg-logo="https://i.imgur.com/jUcnMHk.jpg " group-title="",Premiere 7 Off
+http://cdn.iptvbr.tv:8080/live/Next/WY4XAoaCkFRo/136.m3u8
+ 
+                            INFANTIL
+ 
+#EXTINF:0 tvg-logo="" group-title="INFANTIL",BOOMERANG
+http://m3.portalcrazzy.me/hls1/boomerang.m3u8
+ 
+#EXTINF:0 tvg-logo="" group-title="",CARTOON NETWORK
+http://m3.portalcrazzy.me/hls1/cartoon.m3u8
+ 
+#EXTINF:0 tvg-logo="" group-title="",DISNEY KIDS
+http://m3.portalcrazzy.me/hls1/discoverykids.m3u8
+ 
+#EXTINF:0 tvg-logo="" group-title="",DISNEY JÚNIOR
+http://m3.portalcrazzy.me/hls1/disneyjunior.m3u8
+ 
+#EXTINF:0 tvg-logo="" group-title="",DISNEY
+http://m3.portalcrazzy.me/hls1/disney.m3u8
+ 
+#EXTINF:0 tvg-logo="" group-title="",GLOOB
+http://m3.portalcrazzy.me/hls1/gloob.m3u8
+ 
+#EXTINF:0 tvg-logo="" group-title="",NAT GEO KIDS
+http://m3.portalcrazzy.me/hls1/natgeokids.m3u8
+ 
+#EXTINF:0 tvg-logo="" group-title="",NICK
+http://m3.portalcrazzy.me/hls1/nick.m3u8
+ 
+#EXTINF:0 tvg-logo="" group-title="",NICK JUNIOR
+http://m3.portalcrazzy.me/hls1/nickjr.m3u8
+ 
+#EXTINF:0 tvg-logo="" group-title="",DISNEY XD
+http://m3.portalcrazzy.me/hls1/disneyxd.m3u8
+ 
+#EXTINF:0 tvg-logo="" group-title="",TOOCAST
+http://m3.portalcrazzy.me/hls1/tooncast.m3u8
+ 
+                     FILMES & SÉRIES
+ 
+ 
+#EXTINF:0 tvg-logo="" group-title="FILMES & SÉRIES",SPACE
+http://m3.portalcrazzy.me/hls1/space.m3u8
+ 
+#EXTINF:0 tvg-logo="" group-title="",TNT
+http://m3.portalcrazzy.me/hls1/tnt.m3u8
+ 
+#EXTINF:0 tvg-logo="" group-title="",TNT SÉRIES
+http://m3.portalcrazzy.me/hls1/tntseries.m3u8
+ 
+#EXTINF:0 tvg-logo="" group-title="",MAX
+http://m3.portalcrazzy.me/hls1/max.m3u8
+ 
+#EXTINF:0 tvg-logo="" group-title="",MAX UP
+http://m3.portalcrazzy.me/hls1/maxup.m3u8
+ 
+#EXTINF:0 tvg-logo="" group-title="",MAXPRIME
+http://m3.portalcrazzy.me/hls1/maxprime.m3u8
+ 
+#EXTINF:0 tvg-logo="" group-title="",MEGAPIX
+http://m3.portalcrazzy.me/hls1/megapix.m3u8
+ 
+#EXTINF:0 tvg-logo="" group-title="",PARAMOONT
+http://cdn.iptvbr.tv:8080/live/Next/WY4XAoaCkFRo/169.m3u8
+ 
+#EXTINF:0 tvg-logo="" group-title="",CANAL SONY
+http://m3.portalcrazzy.me/hls1/sony.m3u8
+ 
+#EXTINF:0 tvg-logo="" group-title="",STUDIO UNIVERSAL
+http://m3.portalcrazzy.me/hls1/studiouniversal.m3u8
+ 
+#EXTINF:0 tvg-logo="" group-title="",WARNER
+http://m3.portalcrazzy.me/hls1/warner.m3u8
+ 
+#EXTINF:0 tvg-logo="" group-title="",UNIVERSAL  CHANNEL
+http://m3.portalcrazzy.me/hls1/universal.m3u8
+ 
+#EXTINF:0 tvg-logo="" group-title="",A&E
+http://m3.portalcrazzy.me/hls1/aie.m3u8
+ 
+#EXTINF:0 tvg-logo="" group-title="",AXN
+http://m3.portalcrazzy.me/hls1/axn.m3u8
+ 
+#EXTINF:0 tvg-logo="" group-title="",CINEMAX
+http://m3.portalcrazzy.me/hls1/cinemax.m3u8
+ 
+#EXTINF:0 tvg-logo="" group-title="",FOX
+http://m3.portalcrazzy.me/hls1/fox.m3u8
+ 
+#EXTINF:0 tvg-logo="" group-title="",FOX PREMIUM 1
+http://m3.portalcrazzy.me/hls1/foxpremium1.m3u8
+ 
+#EXTINF:0 tvg-logo="" group-title="",FOX PREMIUM 2
+http://m3.portalcrazzy.me/hls1/foxpremium2.m3u8
+ 
+#EXTINF:0 tvg-logo="" group-title="",FX
+http://m3.portalcrazzy.me/hls1/fx.m3u8
+ 
+#EXTINF:-1 tvg-id="" tvg-logo="http://goo.gl/M9RuAA?" group-title="",TCM
+http://m3.portalcrazzy.me/hls1/tcm.m3u8
+ 
+#EXTINF:-1 tvg-id="" tvg-logo="http://goo.gl/M9RuAA?" group-title="",AMC
+http://m3.portalcrazzy.me/hls1/amc.m3u8
+ 
+#EXTINF:0 tvg-logo="" group-title="",SYFY
+http://m3.portalcrazzy.me/hls1/syfy.m3u8
+ 
+#EXTINF:0 tvg-logo="" group-title="",HBO
+http://m3.portalcrazzy.me/hls1/hbo.m3u8
+ 
+#EXTINF:0 tvg-logo="" group-title="",HBO 2
+http://m3.portalcrazzy.me/hls1/hbo2.m3u8
+ 
+#EXTINF:0 tvg-logo="" group-title="",HBO FAMILY
+http://m3.portalcrazzy.me/hls1/hbofamily.m3u8
+ 
+#EXTINF:0 tvg-logo="" group-title="",HBO PLUS
+http://m3.portalcrazzy.me/hls1/hboplus.m3u8
+ 
+#EXTINF:0 tvg-logo="" group-title="",HBO SIGNATURE
+http://m3.portalcrazzy.me/hls1/hbosignature.m3u8
+ 
+#EXTINF:0 tvg-logo="" group-title="",TELECINE ACTION
+http://m3.portalcrazzy.me/hls1/telecineaction.m3u8
+ 
+#EXTINF:0 tvg-logo="" group-title="",TELECINE FUN
+http://m3.portalcrazzy.me/hls1/telecinefun.m3u8
+ 
+#EXTINF:0 tvg-logo="" group-title="",TELECINE PIPOCA
+http://m3.portalcrazzy.me/hls1/telecinepipoca.m3u8
+ 
+#EXTINF:0 tvg-logo="" group-title="",TELECINE PREMIUM
+http://m3.portalcrazzy.me/hls1/telecinepremium.m3u8
+ 
+#EXTINF:0 tvg-logo="" group-title="",TELECINE TOUCHE
+http://m3.portalcrazzy.me/hls1/telecinetouch.m3u8
+ 
+#EXTINF:0 tvg-logo="" group-title="",TELECINE CULT
+http://m3.portalcrazzy.me/hls1/telecinecult.m3u8
