@@ -12,7 +12,7 @@ hospedamos nenhum deles, apenas organizamos em uma grade.</info>
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
 <channels>
 <channel>
-<name>[COLOR yellow]☻[/COLOR][COLOR yellow]FamilyTV[/COLOR] FILMES - Atualizado 25/12</name>
+<name>[COLOR yellow]☻[/COLOR][COLOR yellow]FamilyTV[/COLOR] FILMES - Atualizado 29/12</name>
 <thumbnail>https://ia601401.us.archive.org/11/items/filmes_20191204/filmes.png</thumbnail>
 <externallink>https://raw.githubusercontent.com/ADDONFAMILY/ENTRADA/master/FILMES</externallink>
 <fanart></fanart>
@@ -35,6 +35,18 @@ hospedamos nenhum deles, apenas organizamos em uma grade.</info>
 </channel>
 </channels>
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+<channels>
+<channel>
+<name>[COLOR yellow]☻[/COLOR][COLOR yellow]FamilyTV[/COLOR] DESENHOS BÍBLICOS - Atualizado 29/12</name>
+<thumbnail></thumbnail>
+<externallink>https://raw.githubusercontent.com/ADDONFAMILY/ENTRADA/master/DESENHOS%20BIBLICOS</externallink>
+<fanart></fanart>
+<info>- O MELHOR ENTRETENIMENTO PARA TODA FAMÍLIA -
+Lembramos que todos esses canais são encontrados na rede, e que NÃO transmitimos NEM
+hospedamos nenhum deles, apenas organizamos em uma grade.</info>
+</channel>
+</channels>
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
 
 <channels>
 <channel>
@@ -99,3 +111,6 @@ Lembramos que todos esses canais são encontrados na rede, e que NÃO transmitim
 hospedamos nenhum deles, apenas organizamos em uma grade.</info>
 </channel>
 </channels>
+
+
+
