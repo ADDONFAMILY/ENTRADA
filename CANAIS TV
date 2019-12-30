@@ -73,7 +73,7 @@ http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-b.m3u8
 #EXTINF:-1 tvg-logo="http://gvnews.tv.br/wp-content/uploads/2015/06/Untitled-1.jpg",[COLOR white][B]GV NEWS[/B][/COLOR]
 http://173.236.10.10:1935/gvnews/gvnews/live.m3u8
 
-#EXTINF:-1,group-title="Esportes",BAND
+#EXTINF:-1,BAND
 https://mj1b2xsspj.singularcdn.net.br/encompass/BandeirantesHD/master_Layer1.m3u8
  
 #EXTINF:-1 tvg-logo="" goup-title="Esporte", ESPN
