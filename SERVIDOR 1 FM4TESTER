@@ -1,3 +1,4 @@
+#EXTM3U
 #EXTINF:-1 tvg-id="" tvg-name="Nova Tv Lages" tvg-logo="https://sounovatv.com.br/wp-content/uploads/2017/12/logo.png" group-title="CANAIS ABERTOS",Nova Tv Lages
 plugin://plugin.video.f4mTester/?name=On Line&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:25461/alexandra13/alexandra13/33641
 #EXTINF:-1 tvg-id="Ae.br" tvg-name="A&E FHD (DUAL AUDIO)" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/0021_ae.png" group-title="CANAIS FILMES E SERIES",A&E FHD (DUAL AUDIO)
