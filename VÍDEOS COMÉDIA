@@ -285,3 +285,217 @@
  </item>
  
  >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQXAbTxSeAUeI58KGNcPCXy8tXZNr-qvM27RxUEMTwAnCsM5ylX" group-title="Câmeras Escondidas ",Ricardão Pula Janela  
+plugin://plugin.video.youtube/play/?video_id=tIiMUwUP2zw
+ 
+ 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQXAbTxSeAUeI58KGNcPCXy8tXZNr-qvM27RxUEMTwAnCsM5ylX" group-title="Câmeras Escondidas ",Prêmio no Mercado
+plugin://plugin.video.youtube/play/?video_id=vhbbm0ANYVA
+ 
+ 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQXAbTxSeAUeI58KGNcPCXy8tXZNr-qvM27RxUEMTwAnCsM5ylX" group-title="Câmeras Escondidas ",Papai Paquerador
+plugin://plugin.video.youtube/play/?video_id=hClTEMGnsyU
+ 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQXAbTxSeAUeI58KGNcPCXy8tXZNr-qvM27RxUEMTwAnCsM5ylX" group-title="Câmeras Escondidas ",Marca de batom
+plugin://plugin.video.youtube/play/?video_id=QIcT-71KbDU
+ 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQXAbTxSeAUeI58KGNcPCXy8tXZNr-qvM27RxUEMTwAnCsM5ylX" group-title="Câmeras Escondidas ",Escada Rolante que Gruda
+plugin://plugin.video.youtube/play/?video_id=p78bRBZ2b8o
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQXAbTxSeAUeI58KGNcPCXy8tXZNr-qvM27RxUEMTwAnCsM5ylX" group-title="Câmeras Escondidas ",Pet Shop Mágico
+plugin://plugin.video.youtube/play/?video_id=gsZswjAACZo
+ 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQXAbTxSeAUeI58KGNcPCXy8tXZNr-qvM27RxUEMTwAnCsM5ylX" group-title="Câmeras Escondidas ",Tv mágica
+plugin://plugin.video.youtube/play/?video_id=TEFp2s3aoO4
+ 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQXAbTxSeAUeI58KGNcPCXy8tXZNr-qvM27RxUEMTwAnCsM5ylX" group-title="Câmeras Escondidas ", Consultório no Teatro
+plugin://plugin.video.youtube/play/?video_id=ghTURKhR3H0
+ 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQXAbTxSeAUeI58KGNcPCXy8tXZNr-qvM27RxUEMTwAnCsM5ylX" group-title="Câmeras Escondidas ",Aprendiz de cabeleireiro
+plugin://plugin.video.youtube/play/?video_id=XkDGpECyR6Q
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQXAbTxSeAUeI58KGNcPCXy8tXZNr-qvM27RxUEMTwAnCsM5ylX" group-title="Câmeras Escondidas ",Roubando Joalheria
+plugin://plugin.video.youtube/play/?video_id=4eJ7hAGCAdg
+ 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQXAbTxSeAUeI58KGNcPCXy8tXZNr-qvM27RxUEMTwAnCsM5ylX" group-title="Câmeras Escondidas ", Máquina de Suco
+plugin://plugin.video.youtube/play/?video_id=T1FtP2PtbIs
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQXAbTxSeAUeI58KGNcPCXy8tXZNr-qvM27RxUEMTwAnCsM5ylX" group-title="Câmeras Escondidas ",Cheiro de Chulé
+plugin://plugin.video.youtube/play/?video_id=dU42sjoJueg
+ 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQXAbTxSeAUeI58KGNcPCXy8tXZNr-qvM27RxUEMTwAnCsM5ylX" group-title="Câmeras Escondidas ",Contar Piada e Cuspir
+plugin://plugin.video.youtube/play/?video_id=I7Bo0_HSqdc
+ 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQXAbTxSeAUeI58KGNcPCXy8tXZNr-qvM27RxUEMTwAnCsM5ylX" group-title="Câmeras Escondidas ", Passar Bronzeador
+plugin://plugin.video.youtube/play/?video_id=z5J_lJqjbko
+ 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQXAbTxSeAUeI58KGNcPCXy8tXZNr-qvM27RxUEMTwAnCsM5ylX" group-title="Câmeras Escondidas ",Choque no Vaso Sanitário
+plugin://plugin.video.youtube/play/?video_id=30VNlwmAx6Y
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQXAbTxSeAUeI58KGNcPCXy8tXZNr-qvM27RxUEMTwAnCsM5ylX" group-title="Câmeras Escondidas ",Candidato Procurado
+plugin://plugin.video.youtube/play/?video_id=b5CQ-w0egPc
+ 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQXAbTxSeAUeI58KGNcPCXy8tXZNr-qvM27RxUEMTwAnCsM5ylX" group-title="Câmeras Escondidas ",Roubando Laranja
+plugin://plugin.video.youtube/play/?video_id=oxU208BSxHU
+ 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQXAbTxSeAUeI58KGNcPCXy8tXZNr-qvM27RxUEMTwAnCsM5ylX" group-title="Câmeras Escondidas ",Policiais Tarados
+plugin://plugin.video.youtube/play/?video_id=gZQLwAB6tNA
+ 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQXAbTxSeAUeI58KGNcPCXy8tXZNr-qvM27RxUEMTwAnCsM5ylX" group-title="Câmeras Escondidas ",Paleta Apimentada
+plugin://plugin.video.youtube/play/?video_id=HP2LMmC6sSQ
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQXAbTxSeAUeI58KGNcPCXy8tXZNr-qvM27RxUEMTwAnCsM5ylX" group-title="Câmeras Escondidas ",Ivo Bombeiro
+plugin://plugin.video.youtube/play/?video_id=PMS35q3W160
+ 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQXAbTxSeAUeI58KGNcPCXy8tXZNr-qvM27RxUEMTwAnCsM5ylX" group-title="Câmeras Escondidas ",Celular Detector
+plugin://plugin.video.youtube/play/?video_id=pnoVNcVWw4I
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQXAbTxSeAUeI58KGNcPCXy8tXZNr-qvM27RxUEMTwAnCsM5ylX" group-title="Câmeras Escondidas ",Ducha de Lama
+plugin://plugin.video.youtube/play/?video_id=6_phEInRE-c
+ 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQXAbTxSeAUeI58KGNcPCXy8tXZNr-qvM27RxUEMTwAnCsM5ylX" group-title="Câmeras Escondidas ",Banheiro Balsa
+plugin://plugin.video.youtube/play/?video_id=4Trj_uFkO_o
+ 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQXAbTxSeAUeI58KGNcPCXy8tXZNr-qvM27RxUEMTwAnCsM5ylX" group-title="Câmeras Escondidas ", Espelho Sem Reflexo
+plugin://plugin.video.youtube/play/?video_id=e-0I1Nm1Lp4
+ 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQXAbTxSeAUeI58KGNcPCXy8tXZNr-qvM27RxUEMTwAnCsM5ylX" group-title="Câmeras Escondidas ",Garçom derruba bife
+plugin://plugin.video.youtube/play/?video_id=18hhuV6p5Ks
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQXAbTxSeAUeI58KGNcPCXy8tXZNr-qvM27RxUEMTwAnCsM5ylX" group-title="Câmeras Escondidas ",Churrasquinho de Gato
+plugin://plugin.video.youtube/play/?video_id=muIgCt9mXhE
+ 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQXAbTxSeAUeI58KGNcPCXy8tXZNr-qvM27RxUEMTwAnCsM5ylX" group-title="Câmeras Escondidas ",Mulher Bonita na Farmácia
+plugin://plugin.video.youtube/play/?video_id=jbyiB_tIGaI
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQXAbTxSeAUeI58KGNcPCXy8tXZNr-qvM27RxUEMTwAnCsM5ylX" group-title="Câmeras Escondidas ",Fugitiva no Celular
+plugin://plugin.video.youtube/play/?video_id=bv1HvVpLWMc
+ 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQXAbTxSeAUeI58KGNcPCXy8tXZNr-qvM27RxUEMTwAnCsM5ylX" group-title="Câmeras Escondidas ",Rabo do Leão
+plugin://plugin.video.youtube/play/?video_id=-KhRSXvhZ_w
+ 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQXAbTxSeAUeI58KGNcPCXy8tXZNr-qvM27RxUEMTwAnCsM5ylX" group-title="Câmeras Escondidas ",Câmera Escondida
+plugin://plugin.video.youtube/play/?video_id=adbSDKgbbhY
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQXAbTxSeAUeI58KGNcPCXy8tXZNr-qvM27RxUEMTwAnCsM5ylX" group-title="Câmeras Escondidas ",Saco de Dinheiro
+plugin://plugin.video.youtube/play/?video_id=s7tBr5MLWC8
+ 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQXAbTxSeAUeI58KGNcPCXy8tXZNr-qvM27RxUEMTwAnCsM5ylX" group-title="Câmeras Escondidas ",Carona para Família
+plugin://plugin.video.youtube/play/?video_id=IJhbrV7EUXE
+ 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQXAbTxSeAUeI58KGNcPCXy8tXZNr-qvM27RxUEMTwAnCsM5ylX" group-title="Câmeras Escondidas ",Passe no Ônibus
+plugin://plugin.video.youtube/play/?video_id=hTNAjQLa5DM
+ 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQXAbTxSeAUeI58KGNcPCXy8tXZNr-qvM27RxUEMTwAnCsM5ylX" group-title="Câmeras Escondidas ", Máquina de dinheiro na praia
+plugin://plugin.video.youtube/play/?video_id=FZPwGQjiGA0
+ 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQXAbTxSeAUeI58KGNcPCXy8tXZNr-qvM27RxUEMTwAnCsM5ylX" group-title="Câmeras Escondidas ",Frutas Falantes
+plugin://plugin.video.youtube/play/?video_id=iYeR68yPJo0
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQXAbTxSeAUeI58KGNcPCXy8tXZNr-qvM27RxUEMTwAnCsM5ylX" group-title="Câmeras Escondidas ",Troca de atriz na van
+plugin://plugin.video.youtube/play/?video_id=w53NkaP38vw
+ 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQXAbTxSeAUeI58KGNcPCXy8tXZNr-qvM27RxUEMTwAnCsM5ylX" group-title="Câmeras Escondidas ",Esmola para Cego e Surdo
+plugin://plugin.video.youtube/play/?video_id=5hZKkd89rUw
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQXAbTxSeAUeI58KGNcPCXy8tXZNr-qvM27RxUEMTwAnCsM5ylX" group-title="Câmeras Escondidas ",Espetinho na Marra
+plugin://plugin.video.youtube/play/?video_id=CLfDq7hnpoU
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQXAbTxSeAUeI58KGNcPCXy8tXZNr-qvM27RxUEMTwAnCsM5ylX" group-title="Câmeras Escondidas ",Cegos Paqueradores
+plugin://plugin.video.youtube/play/?video_id=K3A8TQ9g1Rk
+ 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQXAbTxSeAUeI58KGNcPCXy8tXZNr-qvM27RxUEMTwAnCsM5ylX" group-title="Câmeras Escondidas ",Elevador Panorâmico
+plugin://plugin.video.youtube/play/?video_id=fSK5MuI6M6I
+ 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQXAbTxSeAUeI58KGNcPCXy8tXZNr-qvM27RxUEMTwAnCsM5ylX" group-title="Câmeras Escondidas ",Cega Paqueradora
+plugin://plugin.video.youtube/play/?video_id=Rw8JdAOzDy0
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQXAbTxSeAUeI58KGNcPCXy8tXZNr-qvM27RxUEMTwAnCsM5ylX" group-title="Câmeras Escondidas ",Paquera na Escada Rolante 3
+plugin://plugin.video.youtube/play/?video_id=8B4tYKt8-fo
+ 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQXAbTxSeAUeI58KGNcPCXy8tXZNr-qvM27RxUEMTwAnCsM5ylX" group-title="Câmeras Escondidas ",Xixi de Cachorro na Varanda
+plugin://plugin.video.youtube/play/?video_id=j6VOVC4wBIQ
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQXAbTxSeAUeI58KGNcPCXy8tXZNr-qvM27RxUEMTwAnCsM5ylX" group-title="Câmeras Escondidas ",Trocar Carro
+plugin://plugin.video.youtube/play/?video_id=DkZE17aatis
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQXAbTxSeAUeI58KGNcPCXy8tXZNr-qvM27RxUEMTwAnCsM5ylX" group-title="Câmeras Escondidas ",Roubando Supermercado
+plugin://plugin.video.youtube/play/?video_id=lr2E2COxeIc
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQXAbTxSeAUeI58KGNcPCXy8tXZNr-qvM27RxUEMTwAnCsM5ylX" group-title="Câmeras Escondidas ",Quebrando Ovos de Páscoa
+plugin://plugin.video.youtube/play/?video_id=oI-t5qNVLlU
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQXAbTxSeAUeI58KGNcPCXy8tXZNr-qvM27RxUEMTwAnCsM5ylX" group-title="Câmeras Escondidas ", Sanduíche Caprichado
+plugin://plugin.video.youtube/play/?video_id=ZQ9rhxRNeRw
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQXAbTxSeAUeI58KGNcPCXy8tXZNr-qvM27RxUEMTwAnCsM5ylX" group-title="Câmeras Escondidas ",Molha Bolacha
+plugin://plugin.video.youtube/play/?video_id=_Bm0kAh7ahI
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQXAbTxSeAUeI58KGNcPCXy8tXZNr-qvM27RxUEMTwAnCsM5ylX" group-title="Câmeras Escondidas ",Pão na Padaria
+plugin://plugin.video.youtube/play/?video_id=x_9NjfF7lKM
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQXAbTxSeAUeI58KGNcPCXy8tXZNr-qvM27RxUEMTwAnCsM5ylX" group-title="Câmeras Escondidas ",Detector de Viado
+plugin://plugin.video.youtube/play/?video_id=_7PXVob_t4s
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQXAbTxSeAUeI58KGNcPCXy8tXZNr-qvM27RxUEMTwAnCsM5ylX" group-title="Câmeras Escondidas ", Perfume Afrodisíaco
+plugin://plugin.video.youtube/play/?video_id=u62sKfbfDqU
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQXAbTxSeAUeI58KGNcPCXy8tXZNr-qvM27RxUEMTwAnCsM5ylX" group-title="Câmeras Escondidas ",Falso Manequim
+plugin://plugin.video.youtube/play/?video_id=gqtJTCpqSsU
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQXAbTxSeAUeI58KGNcPCXy8tXZNr-qvM27RxUEMTwAnCsM5ylX" group-title="Câmeras Escondidas ",Respiração Boca a Boca
+plugin://plugin.video.youtube/play/?video_id=_yWyPR9NHmQ
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQXAbTxSeAUeI58KGNcPCXy8tXZNr-qvM27RxUEMTwAnCsM5ylX" group-title="Câmeras Escondidas ",Mãos Dadas
+plugin://plugin.video.youtube/play/?video_id=LVupQwwdmRQ
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQXAbTxSeAUeI58KGNcPCXy8tXZNr-qvM27RxUEMTwAnCsM5ylX" group-title="Câmeras Escondidas ",O Barbeiro
+plugin://plugin.video.youtube/play/?video_id=9nEtNRFvSEU
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQXAbTxSeAUeI58KGNcPCXy8tXZNr-qvM27RxUEMTwAnCsM5ylX" group-title="Câmeras Escondidas ",Cego no Banheiro Químico
+plugin://plugin.video.youtube/play/?video_id=GQKsbtl8Lns?list=PLNSPiWvuc501UM6YHvrtCUspiG_gFIMet
+ 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQXAbTxSeAUeI58KGNcPCXy8tXZNr-qvM27RxUEMTwAnCsM5ylX" group-title="Câmeras Escondidas ",Lanche com Laranjada
+plugin://plugin.video.youtube/play/?video_id=HAH9_SJLt9k?list=PLNSPiWvuc501UM6YHvrtCUspiG_gFIMet
+ 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQXAbTxSeAUeI58KGNcPCXy8tXZNr-qvM27RxUEMTwAnCsM5ylX" group-title="Câmeras Escondidas ",Mosca no Bar
+plugin://plugin.video.youtube/play/?video_id=Wg97hlRFwtk
+ 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQXAbTxSeAUeI58KGNcPCXy8tXZNr-qvM27RxUEMTwAnCsM5ylX" group-title="Câmeras Escondidas ",Bandeja de Ovos 5 Reais
+plugin://plugin.video.youtube/play/?video_id=0iUvy7oPSuQ
+ 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQXAbTxSeAUeI58KGNcPCXy8tXZNr-qvM27RxUEMTwAnCsM5ylX" group-title="Câmeras Escondidas ",IT - A Coisa
+plugin://plugin.video.youtube/play/?video_id=az4amgoeUOk
+ 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQXAbTxSeAUeI58KGNcPCXy8tXZNr-qvM27RxUEMTwAnCsM5ylX" group-title="Câmeras Escondidas ",A Loira do Banheiro
+plugin://plugin.video.youtube/play/?video_id=0nV9j7FmcfE
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQXAbTxSeAUeI58KGNcPCXy8tXZNr-qvM27RxUEMTwAnCsM5ylX" group-title="Câmeras Escondidas ",Olha a Bomba!
+plugin://plugin.video.youtube/play/?video_id=WVs-hU7jtsk
+ 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQXAbTxSeAUeI58KGNcPCXy8tXZNr-qvM27RxUEMTwAnCsM5ylX" group-title="Câmeras Escondidas ",Manequim passa a mão
+plugin://plugin.video.youtube/play/?video_id=NnO3szFJUdY
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQXAbTxSeAUeI58KGNcPCXy8tXZNr-qvM27RxUEMTwAnCsM5ylX" group-title="Câmeras Escondidas ",Banho da Sereia
+plugin://plugin.video.youtube/play/?video_id=sKV8vtnjt4U
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQXAbTxSeAUeI58KGNcPCXy8tXZNr-qvM27RxUEMTwAnCsM5ylX" group-title="Câmeras Escondidas ",Fortão Ciumento
+plugin://plugin.video.youtube/play/?video_id=BQ0HFEfgacQ
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQXAbTxSeAUeI58KGNcPCXy8tXZNr-qvM27RxUEMTwAnCsM5ylX" group-title="Câmeras Escondidas ", TV Raio X
+plugin://plugin.video.youtube/play/?video_id=EwFYJXoBRtw
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQXAbTxSeAUeI58KGNcPCXy8tXZNr-qvM27RxUEMTwAnCsM5ylX" group-title="Câmeras Escondidas ",Câmera Escondida Christina Rocha
+plugin://plugin.video.youtube/play/?video_id=eOm8ZkgCd6Y
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQXAbTxSeAUeI58KGNcPCXy8tXZNr-qvM27RxUEMTwAnCsM5ylX" group-title="Câmeras Escondidas ",Velhinho Rouba Carro-Forte
+plugin://plugin.video.youtube/play/?video_id=ZkJgfACqHaU
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQXAbTxSeAUeI58KGNcPCXy8tXZNr-qvM27RxUEMTwAnCsM5ylX" group-title="Câmeras Escondidas ",Ivo Pintor
+plugin://plugin.video.youtube/play/?video_id=HOfmj2vLIRA
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQXAbTxSeAUeI58KGNcPCXy8tXZNr-qvM27RxUEMTwAnCsM5ylX" group-title="Câmeras Escondidas ",Que Tiro Foi Esse?
+plugin://plugin.video.youtube/play/?video_id=Mqy6w8mLZvw
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQXAbTxSeAUeI58KGNcPCXy8tXZNr-qvM27RxUEMTwAnCsM5ylX" group-title="Câmeras Escondidas ",Viatura Dividida ao Meio
+plugin://plugin.video.youtube/play/?video_id=igxLO7q463s
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQXAbTxSeAUeI58KGNcPCXy8tXZNr-qvM27RxUEMTwAnCsM5ylX" group-title="Câmeras Escondidas ",Saco de Galinhas Furado
+plugin://plugin.video.youtube/play/?video_id=Eqhdqehgw3M
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQXAbTxSeAUeI58KGNcPCXy8tXZNr-qvM27RxUEMTwAnCsM5ylX" group-title="Câmeras Escondidas ",Psicanálise
+plugin://plugin.video.youtube/play/?video_id=Ba7sopelX8g
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQXAbTxSeAUeI58KGNcPCXy8tXZNr-qvM27RxUEMTwAnCsM5ylX" group-title="Câmeras Escondidas ",Thompson
+plugin://plugin.video.youtube/play/?video_id=UUblM7SriNs
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQXAbTxSeAUeI58KGNcPCXy8tXZNr-qvM27RxUEMTwAnCsM5ylX" group-title="Câmeras Escondidas ",Filme Pornô
+plugin://plugin.video.youtube/play/?video_id=MzggxDeFI6Q
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQXAbTxSeAUeI58KGNcPCXy8tXZNr-qvM27RxUEMTwAnCsM5ylX" group-title="Câmeras Escondidas ",Marido no Motel
+plugin://plugin.video.youtube/play/?video_id=fG8FRGe2wnY
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQXAbTxSeAUeI58KGNcPCXy8tXZNr-qvM27RxUEMTwAnCsM5ylX" group-title="Câmeras Escondidas ",Detetive por Correspondência
+plugin://plugin.video.youtube/play/?video_id=1vYxDqiVS10
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQXAbTxSeAUeI58KGNcPCXy8tXZNr-qvM27RxUEMTwAnCsM5ylX" group-title="Câmeras Escondidas ",Espremer Laranja
+plugin://plugin.video.youtube/play/?video_id=NH7_C8ls_CI
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQXAbTxSeAUeI58KGNcPCXy8tXZNr-qvM27RxUEMTwAnCsM5ylX" group-title="Câmeras Escondidas ",Trombadinha
+plugin://plugin.video.youtube/play/?video_id=VOCDOsWU2gU
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQXAbTxSeAUeI58KGNcPCXy8tXZNr-qvM27RxUEMTwAnCsM5ylX" group-title="Câmeras Escondidas ", Bomba no Barco
+plugin://plugin.video.youtube/play/?video_id=2dQL0nmzKjI
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQXAbTxSeAUeI58KGNcPCXy8tXZNr-qvM27RxUEMTwAnCsM5ylX" group-title="Câmeras Escondidas ",Bombardeio Aéreo
+plugin://plugin.video.youtube/play/?video_id=ujYtV4GZD08
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQXAbTxSeAUeI58KGNcPCXy8tXZNr-qvM27RxUEMTwAnCsM5ylX" group-title="Câmeras Escondidas ",Atropelar Cachorro do Ceguinho
+plugin://plugin.video.youtube/play/?video_id=fsXTf0XykwM
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQXAbTxSeAUeI58KGNcPCXy8tXZNr-qvM27RxUEMTwAnCsM5ylX" group-title="Câmeras Escondidas ",Rodízio de Linguiça
+plugin://plugin.video.youtube/play/?video_id=t6ja4XVlkCI
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQXAbTxSeAUeI58KGNcPCXy8tXZNr-qvM27RxUEMTwAnCsM5ylX" group-title="Câmeras Escondidas ",Último pedaço de pizza
+plugin://plugin.video.youtube/play/?video_id=q3mGbxQmAgA
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQXAbTxSeAUeI58KGNcPCXy8tXZNr-qvM27RxUEMTwAnCsM5ylX" group-title="Câmeras Escondidas ",Xixi nos Carros
+plugin://plugin.video.youtube/play/?video_id=vREAamGT1GU
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQXAbTxSeAUeI58KGNcPCXy8tXZNr-qvM27RxUEMTwAnCsM5ylX" group-title="Câmeras Escondidas ",Borracheiro Safado
+plugin://plugin.video.youtube/play/?video_id=2zND9QPTBls
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQXAbTxSeAUeI58KGNcPCXy8tXZNr-qvM27RxUEMTwAnCsM5ylX" group-title="Câmeras Escondidas ", Ladrão
+plugin://plugin.video.youtube/play/?video_id=3zjpC7OSOkk
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQXAbTxSeAUeI58KGNcPCXy8tXZNr-qvM27RxUEMTwAnCsM5ylX" group-title="Câmeras Escondidas ",Notícia de Morte
+plugin://plugin.video.youtube/play/?video_id=V5b5K_6HGxQ
