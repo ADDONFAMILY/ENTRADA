@@ -133,8 +133,6 @@ plugin://plugin.video.f4mTester/?name=On Line&streamtype=TSDOWNLOADER&amp;url=ht
 
 #EXTINF:-1 tvg-id="Globorj.br" tvg-name="GLOBO RJ HD*" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/Logo-tv-globo-2015.png" group-title="CANAIS GLOBO",GLOBO RJ HD*
 plugin://plugin.video.f4mTester/?name=On Line&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:25461/alexandra13/alexandra13/22756
-#EXTINF:-1 tvg-id="Globorj.br" tvg-name="GLOBO RJ SD" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/Logo-tv-globo-2015.png" group-title="CANAIS GLOBO",GLOBO RJ SD
-plugin://plugin.video.f4mTester/?name=On Line&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:25461/alexandra13/alexandra13/7547
 
 
 #EXTINF:-1 tvg-id="Globosp.br" tvg-name="Globo SP HD [Alternativo]" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/Logo-tv-globo-2015.png" group-title="CANAIS GLOBO",Globo SP HD [Alternativo]
