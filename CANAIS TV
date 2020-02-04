@@ -100,131 +100,59 @@ https://mj1b2xsspj.singularcdn.net.br/encompass/DisneyJrBRA/master_Layer4.m3u8
 
 
 >>>>>>>>>>>>>>
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/k003Qzk.png" group-title="",TLN Network
-https://mj1b2xsspj.singularcdn.net.br/encompass/TLN_Network/master_Layer2.m3u8                                                
-#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/1/15/RCNnovelas2019.png/revision/latest?cb=20191226224137" group-title="", RCN Novelas
-https://mj1b2xsspj.singularcdn.net.br/encompass/RCNNovelas/master_Layer4.m3u8
-#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/f/ff/Disney_channel_2019.svg/revision/latest/scale-to-width-down/300?cb=20190808121629" group-title="", Disney Channel
-https://mj1b2xsspj.singularcdn.net.br:443/encompass/DisneyChannelBRA/master_Layer3.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/3SmhZRG.png" group-title="", Las Estrellas
-https://mj1b2xsspj.singularcdn.net.br/encompass/Estrellas/master_Layer3.m3u8
-#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/b/b4/NuestraTeleInternacional2019.png/revision/latest?cb=20191225023419" group-title="", RCN Nuestra Tele Internacional
-https://mj1b2xsspj.singularcdn.net.br/encompass/NuestraTeleSD/master_Layer4.m3u8
-#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/2/2e/ESPN_Brasil_logo.svg/revision/latest/scale-to-width-down/250?cb=20151114160807" group-title="", ESPN Brasil
-https://mj1b2xsspj.singularcdn.net.br/encompass/ESPN_Brasil/master_Layer3.m3u8
-#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/d/d5/ESPN2.svg/revision/latest/scale-to-width-down/200?cb=20180427153715" group-title="", ESPN2
-https://mj1b2xsspj.singularcdn.net.br/encompass/ESPN2/master_Layer3.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/zthOyFr.png" group-title="", ESPN Extra
-https://mj1b2xsspj.singularcdn.net.br/encompass/ESPN_Extra/master_Layer3.m3u8
-#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/3/34/ESPN.svg/revision/latest/scale-to-width-down/200?cb=20170609170727" group-title="", ESPN
-https://mj1b2xsspj.singularcdn.net.br/encompass/ESPN/master_Layer3.m3u8                                                       #EXTINF:-1 tvg-id="AeE" tvg-name="A&E" tvg-logo="http://img.starbr.in/1559753182_4b72d6156df91099369211265277cf98ca748194.jpg" group-title="Variedades e Musicas",A&E
-http://list.deeplist.nl/live/joaogabriel01/Gabi54321/1120.m3u8                                                                #EXTINF:-1 tvg-id="BAND SP" tvg-name="BAND SP" tvg-logo="http://img.starbr.in/1559753792_8a3ff5902c89337e88632304fd198dc92999c3ee.png" group-title="Canais Abertos",BAND SP
-http://list.deeplist.nl/live/joaogabriel01/Gabi54321/1713.m3u8                                                              
-#EXTINF:-1 tvg-id="BAND SPORTS" tvg-name="BAND SPORTS" tvg-logo="http://img.starbr.in/1559753919_5ae36f44066af89786ac144fa11f2ad596465922.png" group-title="Esportes",BAND SPORTS
-http://list.deeplist.nl/live/joaogabriel01/Gabi54321/1106.m3u8                                                                #EXTINF:-1 tvg-id="CARTOON NETWORK" tvg-name="CARTOON NETWORK" tvg-logo="http://img.starbr.in/1559754696_e1e9b7ed53cb8474ddcecf70cedb8fd7b98af1b9.jpg" group-title="Infantil",CARTOON NETWORK
-http://list.deeplist.nl/live/joaogabriel01/Gabi54321/1095.m3u8                                                                #EXTINF:-1 tvg-id="CINEMAX" tvg-name="CINEMAX" tvg-logo="http://img.starbr.in/1559754776_86c9fb0b20ae009eb96575c87478c74eb229cad5.png" group-title="Filmes e Series",CINEMAX
-http://list.deeplist.nl/live/joaogabriel01/Gabi54321/2483.m3u8                                                              
-#EXTINF:-1 tvg-id="COMBATE" tvg-name="COMBATE HD" tvg-logo="http://img.starbr.in/1559754996_6bf6dde2fbde848d0d4fcaf5e684157bcf127379.jpg" group-title="Esportes",COMBATE HD
-http://list.deeplist.nl/live/joaogabriel01/Gabi54321/1088.m3u8                                                                #EXTINF:-1 tvg-id="COMEDY CENTRAL" tvg-name="COMEDY CENTRAL" tvg-logo="http://img.starbr.in/1559755088_fbef5bc2fb73c82d4992227200c8f6ea085ea099.jpg" group-title="Variedades e Musicas",COMEDY CENTRAL
-http://list.deeplist.nl/live/joaogabriel01/Gabi54321/52240.m3u8                                                               #EXTINF:-1 tvg-id="FOX" tvg-name="FOX HD" tvg-logo="http://img.starbr.in/1559757317_a829fd6d1dd746721747241d7a558d3f14599a5d.png" group-title="Filmes e Series",FOX HD
-http://list.deeplist.nl/live/joaogabriel01/Gabi54321/1047.m3u8                                                                #EXTINF:-1 tvg-id="FOX PREMIUM 1" tvg-name="FOX PREMIUM 1" tvg-logo="http://img.starbr.in/1559757449_4d49d0230e3bcdbddd4cf31f2c2e735023fc6573.png" group-title="Filmes e Series",FOX PREMIUM 1
-http://list.deeplist.nl/live/joaogabriel01/Gabi54321/20815.m3u8                                                               #EXTINF:-1 tvg-id="FOX SPORTS" tvg-name="FOX SPORTS" tvg-logo="http://img.starbr.in/1559757583_5f1bd1eb932e0a1690ccd546d827fc1719220967.png" group-title="Esportes",FOX SPORTS
-http://list.deeplist.nl/live/joaogabriel01/Gabi54321/2391.m3u8                                                                #EXTINF:-1 tvg-id="FOX SPORTS 2" tvg-name="FOX SPORTS 2 HD" tvg-logo="http://img.starbr.in/1559757662_e9fddb85a4659b1af3c9b875e40bcb0703c1870c.jpg" group-title="Esportes",FOX SPORTS 2 HD
-http://list.deeplist.nl/live/joaogabriel01/Gabi54321/1031.m3u8                                                                #EXTINF:-1 tvg-id="FX" tvg-name="FX" tvg-logo="http://img.starbr.in/1559757791_57a7a53ef0ead970525b5a0190a3561a1dd3daf5.jpg" group-title="Filmes e Series",FX
-http://list.deeplist.nl/live/joaogabriel01/Gabi54321/1028.m3u8                                                                #EXTINF:-1 tvg-id="GLOBO ACRE" tvg-name="GLOBO ACRE HD" tvg-logo="http://img.starbr.in/1559758286_ba9c4e2f32ee815a870502f48d3e3f24675d36ab.jpg" group-title="Canais Abertos",GLOBO ACRE HD
-http://list.deeplist.nl/live/joaogabriel01/Gabi54321/49721.m3u8                                                              
- #EXTINF:-1 tvg-id="GLOBO BRASILIA" tvg-name="GLOBO BRASILIA HD" tvg-logo="http://img.starbr.in/1559758286_ba9c4e2f32ee815a870502f48d3e3f24675d36ab.jpg" group-title="Canais Abertos",GLOBO BRASILIA HD
-http://list.deeplist.nl/live/joaogabriel01/Gabi54321/17121.m3u8                                                               #EXTINF:-1 tvg-id="GLOBO MG" tvg-name="GLOBO MG HD+" tvg-logo="http://img.starbr.in/1559758286_ba9c4e2f32ee815a870502f48d3e3f24675d36ab.jpg" group-title="Canais Abertos",GLOBO MG HD+
-http://list.deeplist.nl/live/joaogabriel01/Gabi54321/21803.m3u8                                                               #EXTINF:-1 tvg-id="GLOBO NORDESTE" tvg-name="GLOBO NORDESTE HD" tvg-logo="http://img.starbr.in/1559758286_ba9c4e2f32ee815a870502f48d3e3f24675d36ab.jpg" group-title="Canais Abertos",GLOBO NORDESTE HD
-http://list.deeplist.nl/live/joaogabriel01/Gabi54321/17130.m3u8                                                               #EXTINF:-1 tvg-id="GLOBO REDE AMAZONICA" tvg-name="GLOBO REDE AMAZONICA HD" tvg-logo="http://img.starbr.in/1559759255_bea5ead27a3c40a53253cbefee3add925b60b52f.png" group-title="Canais Abertos",GLOBO REDE AMAZONICA HD
-http://list.deeplist.nl/live/joaogabriel01/Gabi54321/38452.m3u8                                                               #EXTINF:-1 tvg-id="GLOBO RJ" tvg-name="GLOBO RJ HD" tvg-logo="http://img.starbr.in/1559758286_ba9c4e2f32ee815a870502f48d3e3f24675d36ab.jpg" group-title="Canais Abertos",GLOBO RJ HD
-http://list.deeplist.nl/live/joaogabriel01/Gabi54321/1207.m3u8                                                                #EXTINF:-1 tvg-id="GLOBO RORAIMA" tvg-name="GLOBO RORAIMA SD 1" tvg-logo="http://img.starbr.in/1559758286_ba9c4e2f32ee815a870502f48d3e3f24675d36ab.jpg" group-title="Canais Abertos",GLOBO RORAIMA SD 1
-http://list.deeplist.nl/live/joaogabriel01/Gabi54321/49730.m3u8                                                            
-#EXTINF:-1 tvg-id="GLOBO SP" tvg-name="GLOBO SP HD" tvg-logo="http://img.starbr.in/1559758286_ba9c4e2f32ee815a870502f48d3e3f24675d36ab.jpg" group-title="Canais Abertos",GLOBO SP HD
-http://list.deeplist.nl/live/joaogabriel01/Gabi54321/17122.m3u8                                                              
-#EXTINF:-1 tvg-id="GLOOB" tvg-name="GLOOB HD" tvg-logo="http://img.starbr.in/1559760817_884370d2e3f71574f4320654097de4dd1895ea8b.jpg" group-title="Infantil",GLOOB HD
-http://list.deeplist.nl/live/joaogabriel01/Gabi54321/5086.m3u8                                                                #EXTINF:-1 tvg-id="GLOOB" tvg-name="GLOOB SD 1" tvg-logo="http://img.starbr.in/1559760817_884370d2e3f71574f4320654097de4dd1895ea8b.jpg" group-title="Infantil",GLOOB SD 1
-http://list.deeplist.nl/live/joaogabriel01/Gabi54321/38719.m3u8                                                               #EXTINF:-1 tvg-id="HBO" tvg-name="HBO HD" tvg-logo="http://img.starbr.in/1559761759_1d66b76a8b8286f521bdf7f4b0750f9bf10a8ec3.png" group-title="Filmes e Series",HBO HD
-http://list.deeplist.nl/live/joaogabriel01/Gabi54321/1209.m3u8                                                                #EXTINF:-1 tvg-id="HBO 2" tvg-name="HBO 2 HD" tvg-logo="http://manager.hidromail.ch/files/imagem_canal/1559761827_5aaa156f4572e5e678fae272a3c103da9a7a0ed6.png" group-title="Filmes e Series",HBO 2 HD
-http://list.deeplist.nl/live/joaogabriel01/Gabi54321/52583.m3u8                                                               #EXTINF:-1 tvg-id="HBO FAMILY" tvg-name="HBO FAMILY HD" tvg-logo="http://img.starbr.in/1559761893_01080c8b3204e55ac25c697b0474c2db0d0ce1c5.png" group-title="Filmes e Series",HBO FAMILY HD
-http://list.deeplist.nl/live/joaogabriel01/Gabi54321/2392.m3u8                                                                #EXTINF:-1 tvg-id="HBO PLUS" tvg-name="HBO PLUS HD" tvg-logo="http://manager.hidromail.ch/files/imagem_canal/1559762040_77185eac2297557cfa23c38270dbf7383daaf5ad.png" group-title="Filmes e Series",HBO PLUS HD
-http://list.deeplist.nl/live/joaogabriel01/Gabi54321/52671.m3u8                                                               #EXTINF:-1 tvg-id="HBO SIGNATURE" tvg-name="HBO SIGNATURE" tvg-logo="http://img.starbr.in/1559762087_4484b1196124231578e93b9f38c35b5d283f2b6b.png" group-title="Filmes e Series",HBO SIGNATURE
-http://list.deeplist.nl/live/joaogabriel01/Gabi54321/2488.m3u8                                                              
-#EXTINF:-1 tvg-id="MAIS GLOBOSAT" tvg-name="MAIS GLOBOSAT HD" tvg-logo="http://img.starbr.in/1559762573_a9c98b1ed3bbd822e5e07390cc0c912e10271869.png" group-title="Variedades e Musicas",MAIS GLOBOSAT HD
-http://list.deeplist.nl/live/joaogabriel01/Gabi54321/5088.m3u8                                                                #EXTINF:-1 tvg-id="MAX" tvg-name="MAX" tvg-logo="http://img.starbr.in/1559762649_f10e014584d9d5d5f34feae650100a754bba0ac3.png" group-title="Filmes e Series",MAX
-http://list.deeplist.nl/live/joaogabriel01/Gabi54321/1007.m3u8                                                                #EXTINF:-1 tvg-id="MAX PRIME" tvg-name="MAX PRIME" tvg-logo="http://img.starbr.in/1559762733_76ad2d24f8951a33cf71f5f96fa52e896cbd1bbf.jpg" group-title="Filmes e Series",MAX PRIME
-http://list.deeplist.nl/live/joaogabriel01/Gabi54321/1006.m3u8                                                                #EXTINF:-1 tvg-id="MAX UP" tvg-name="MAX UP" tvg-logo="http://img.starbr.in/1559762793_4785a97cbcfc7ee1006a920ce8fb383be5d0f3a3.png" group-title="Filmes e Series",MAX UP
-http://list.deeplist.nl/live/joaogabriel01/Gabi54321/1005.m3u8                                                                #EXTINF:-1 tvg-id="MEGAPIX" tvg-name="MEGAPIX" tvg-logo="http://manager.hidromail.ch/files/imagem_canal/1559762850_96d6e189ce41f2c1050ec0095ff91dfff5577169.png" group-title="Filmes e Series",MEGAPIX
-http://list.deeplist.nl/live/joaogabriel01/Gabi54321/52585.m3u8                                                               #EXTINF:-1 tvg-id="MTV" tvg-name="MTV" tvg-logo="http://img.starbr.in/1559762902_95972e29e78aef677d4eb3b94e58b6b51d6d72d7.jpg" group-title="Variedades e Musicas",MTV
-http://list.deeplist.nl/live/joaogabriel01/Gabi54321/5092.m3u8                                                                #EXTINF:-1 tvg-id="MULTISHOW" tvg-name="MULTISHOW HD" tvg-logo="http://img.starbr.in/1559762958_b02df352bf66242149d4418dfedce17c7641cb28.png" group-title="Variedades e Musicas",MULTISHOW HD
-http://list.deeplist.nl/live/joaogabriel01/Gabi54321/2385.m3u8                                                                #EXTINF:-1 tvg-id="NICK" tvg-name="NICK" tvg-logo="http://img.starbr.in/1559763480_5b7e41329f4ce3cdd75f9cdd9276de4db9cfda70.jpg" group-title="Infantil",NICK
-http://list.deeplist.nl/live/joaogabriel01/Gabi54321/1206.m3u8                                                                #EXTINF:-1 tvg-id="NOVO TEMPO" tvg-name="NOVO TEMPO" tvg-logo="http://manager.hidromail.ch/files/imagem_canal/1559763598_3856efd18df8ce7529e8fca1c321f76a1f2061c8.jpg" group-title="Canais Abertos",NOVO TEMPO
-http://list.deeplist.nl/live/joaogabriel01/Gabi54321/52678.m3u8                                                               #EXTINF:-1 tvg-id="PARAMOUNT CHANNEL" tvg-name="PARAMOUNT CHANNEL" tvg-logo="http://img.starbr.in/1559763768_da459707ae1064bd6512c81181780fa0af78a857.png" group-title="Filmes e Series",PARAMOUNT CHANNEL
-http://list.deeplist.nl/live/joaogabriel01/Gabi54321/980.m3u8                                                                 #EXTINF:-1 tvg-id="PLAY TV" tvg-name="PLAY TV" tvg-logo="http://manager.hidromail.ch/files/imagem_canal/1559763836_7f74d77c777ddb1d2a1d641e408f6c4d284b7eb4.png" group-title="Variedades e Musicas",PLAY TV
-http://list.deeplist.nl/live/joaogabriel01/Gabi54321/52679.m3u8                                                               #EXTINF:-1 tvg-id="PREMIERE 2" tvg-name="PREMIERE 2 HD" tvg-logo="http://img.starbr.in/1559764209_74d30997828ad52da3424f0912a94a9d3d42cc02.jpg" group-title="Esportes",PREMIERE 2 HD
-http://list.deeplist.nl/live/joaogabriel01/Gabi54321/1213.m3u8                                                                #EXTINF:-1 tvg-id="PREMIERE 3" tvg-name="PREMIERE 3 HD" tvg-logo="http://img.starbr.in/1559764209_74d30997828ad52da3424f0912a94a9d3d42cc02.jpg" group-title="Esportes",PREMIERE 3 HD
-http://list.deeplist.nl/live/joaogabriel01/Gabi54321/1214.m3u8                                                                #EXTINF:-1 tvg-id="PREMIERE 4" tvg-name="PREMIERE 4 SD 1" tvg-logo="http://img.starbr.in/1559764209_74d30997828ad52da3424f0912a94a9d3d42cc02.jpg" group-title="Esportes",PREMIERE 4 SD 1
-http://list.deeplist.nl/live/joaogabriel01/Gabi54321/38792.m3u8                                                               #EXTINF:-1 tvg-id="PREMIERE 5" tvg-name="PREMIERE 5 HD" tvg-logo="http://img.starbr.in/1559764209_74d30997828ad52da3424f0912a94a9d3d42cc02.jpg" group-title="Esportes",PREMIERE 5 HD
-http://list.deeplist.nl/live/joaogabriel01/Gabi54321/1216.m3u8                                                                #EXTINF:-1 tvg-id="PREMIERE 6" tvg-name="PREMIERE 6 HD" tvg-logo="http://img.starbr.in/1559764209_74d30997828ad52da3424f0912a94a9d3d42cc02.jpg" group-title="Esportes",PREMIERE 6 HD
-http://list.deeplist.nl/live/joaogabriel01/Gabi54321/16211.m3u8                                                               #EXTINF:-1 tvg-id="PREMIERE 7" tvg-name="PREMIERE 7 HD" tvg-logo="http://img.starbr.in/1559764209_74d30997828ad52da3424f0912a94a9d3d42cc02.jpg" group-title="Esportes",PREMIERE 7 HD
-http://list.deeplist.nl/live/joaogabriel01/Gabi54321/16213.m3u8                                                               #EXTINF:-1 tvg-id="PREMIERE 8" tvg-name="PREMIERE 8 HD" tvg-logo="http://img.starbr.in/1559764209_74d30997828ad52da3424f0912a94a9d3d42cc02.jpg" group-title="Esportes",PREMIERE 8 HD
-http://list.deeplist.nl/live/joaogabriel01/Gabi54321/38359.m3u8                                                               #EXTINF:-1 tvg-id="PREMIERE CLUBES" tvg-name="PREMIERE CLUBES HD" tvg-logo="http://img.starbr.in/1559764209_74d30997828ad52da3424f0912a94a9d3d42cc02.jpg" group-title="Esportes",PREMIERE CLUBES HD
-http://list.deeplist.nl/live/joaogabriel01/Gabi54321/1714.m3u8                                                              
-#EXTINF:-1 tvg-id="PREMIERE CLUBES" tvg-name="PREMIERE CLUBES SD 1" tvg-logo="http://img.starbr.in/1559764209_74d30997828ad52da3424f0912a94a9d3d42cc02.jpg" group-title="Esportes",PREMIERE CLUBES SD 1
-http://list.deeplist.nl/live/joaogabriel01/Gabi54321/38672.m3u8                                                               #EXTINF:-1 tvg-id="RECORD NEWS" tvg-name="RECORD NEWS HD" tvg-logo="http://img.starbr.in/1559765553_028559ac6e59ebde93bf1a0bad36ed1c8232b4f7.png" group-title="Noticias",RECORD NEWS HD
-http://list.deeplist.nl/live/joaogabriel01/Gabi54321/2400.m3u8                                                                #EXTINF:-1 tvg-id="RECORD RJ" tvg-name="RECORD RJ HD" tvg-logo="http://img.starbr.in/1559765327_837673f738401fa3f79099612c8a56082306545b.png" group-title="Canais Abertos",RECORD RJ HD
-http://list.deeplist.nl/live/joaogabriel01/Gabi54321/29371.m3u8                                                               #EXTINF:-1 tvg-id="RECORD RJ" tvg-name="RECORD RJ SD 1" tvg-logo="http://img.starbr.in/1559765327_837673f738401fa3f79099612c8a56082306545b.png" group-title="Canais Abertos",RECORD RJ SD 1
-http://list.deeplist.nl/live/joaogabriel01/Gabi54321/38767.m3u8                                                               #EXTINF:-1 tvg-id="RECORD RS" tvg-name="RECORD RS HD" tvg-logo="http://img.starbr.in/1559765327_837673f738401fa3f79099612c8a56082306545b.png" group-title="Canais Abertos",RECORD RS HD
-http://list.deeplist.nl/live/joaogabriel01/Gabi54321/29373.m3u8                                                               #EXTINF:-1 tvg-id="RECORD RS" tvg-name="RECORD RS SD 1" tvg-logo="http://img.starbr.in/1559765327_837673f738401fa3f79099612c8a56082306545b.png" group-title="Canais Abertos",RECORD RS SD 1
-http://list.deeplist.nl/live/joaogabriel01/Gabi54321/38838.m3u8                                                               #EXTINF:-1 tvg-id="RECORD SP" tvg-name="RECORD SP HD" tvg-logo="http://img.starbr.in/1559765327_837673f738401fa3f79099612c8a56082306545b.png" group-title="Canais Abertos",RECORD SP HD
-http://list.deeplist.nl/live/joaogabriel01/Gabi54321/1210.m3u8                                                                #EXTINF:-1 tvg-id="RECORD SP" tvg-name="RECORD SP SD 1" tvg-logo="http://img.starbr.in/1559765327_837673f738401fa3f79099612c8a56082306545b.png" group-title="Canais Abertos",RECORD SP SD 1
-http://list.deeplist.nl/live/joaogabriel01/Gabi54321/38765.m3u8                                                               #EXTINF:-1 tvg-id="REDE TV" tvg-name="REDE TV" tvg-logo="http://img.starbr.in/1559765918_384ff04a3316bd4769202aacf0d5f7f3f7e942f9.png" group-title="Canais Abertos",REDE TV
-http://list.deeplist.nl/live/joaogabriel01/Gabi54321/963.m3u8                                                                 #EXTINF:-1 tvg-id="REDE VIDA" tvg-name="REDE VIDA" tvg-logo="http://img.starbr.in/1559765959_6d6a9aeb4b5c8eea3a431fdc2f1c70b433db0572.jpg" group-title="Religioso",REDE VIDA
-http://list.deeplist.nl/live/joaogabriel01/Gabi54321/2499.m3u8                                                                #EXTINF:-1 tvg-id="RIT TV" tvg-name="RIT TV" tvg-logo="http://manager.hidromail.ch/files/imagem_canal/1559766014_20fef172b57520055f289b2768c0dddf49c5e9e7.png" group-title="Religioso",RIT TV
-http://list.deeplist.nl/live/joaogabriel01/Gabi54321/52680.m3u8                                                            
-#EXTINF:-1 tvg-id="SBT" tvg-name="SBT HD" tvg-logo="http://img.starbr.in/1559766167_3e61ab4fa75ec2fa11ff17bc6d1886097d031795.png" group-title="Canais Abertos",SBT HD
-http://list.deeplist.nl/live/joaogabriel01/Gabi54321/1208.m3u8                                                                #EXTINF:-1 tvg-id="SBT" tvg-name="SBT SD 1" tvg-logo="http://img.starbr.in/1559766167_3e61ab4fa75ec2fa11ff17bc6d1886097d031795.png" group-title="Canais Abertos",SBT SD 1
-http://list.deeplist.nl/live/joaogabriel01/Gabi54321/38920.m3u8                                                               #EXTINF:-1 tvg-id="SBT TV JORNAL" tvg-name="SBT TV JORNAL" tvg-logo="http://img.starbr.in/1559766312_7b420258a1ea039e2f2c4596d4505d9394da3636.jpg" group-title="Canais Abertos",SBT TV JORNAL
-http://list.deeplist.nl/live/joaogabriel01/Gabi54321/37795.m3u8                                                               #EXTINF:-1 tvg-id="SONY" tvg-name="SONY" tvg-logo="http://img.starbr.in/1559766866_9c82c923dafb334fa5a7b1b308b61a1a94cc1cd6.png" group-title="Filmes e Series",SONY
-http://list.deeplist.nl/live/joaogabriel01/Gabi54321/1096.m3u8                                                                #EXTINF:-1 tvg-id="SONY" tvg-name="SONY FULL HD" tvg-logo="http://img.starbr.in/1559766866_9c82c923dafb334fa5a7b1b308b61a1a94cc1cd6.png" group-title="Filmes e Series",SONY FULL HD
-http://list.deeplist.nl/live/joaogabriel01/Gabi54321/52600.m3u8                                                               #EXTINF:-1 tvg-id="SPACE" tvg-name="SPACE" tvg-logo="http://img.starbr.in/1559766918_c0073c730f58bbd5cdaa3143f58a6afb80ebeacd.png" group-title="Filmes e Series",SPACE
-http://list.deeplist.nl/live/joaogabriel01/Gabi54321/2501.m3u8                                                                #EXTINF:-1 tvg-id="SPACE" tvg-name="SPACE HD" tvg-logo="http://img.starbr.in/1559766918_c0073c730f58bbd5cdaa3143f58a6afb80ebeacd.png" group-title="Filmes e Series",SPACE HD
-http://list.deeplist.nl/live/joaogabriel01/Gabi54321/1327.m3u8                                                                #EXTINF:-1 tvg-id="SPORTV" tvg-name="SPORTV 1 HD" tvg-logo="http://img.starbr.in/1559766984_400420869701d90f1b3348ee115aa14467c403ec.png" group-title="Esportes",SPORTV 1 HD
-http://list.deeplist.nl/live/joaogabriel01/Gabi54321/1203.m3u8                                                                #EXTINF:-1 tvg-id="SPORTV" tvg-name="SPORTV 1 SD 1" tvg-logo="http://img.starbr.in/1559766984_400420869701d90f1b3348ee115aa14467c403ec.png" group-title="Esportes",SPORTV 1 SD 1
-http://list.deeplist.nl/live/joaogabriel01/Gabi54321/47528.m3u8                                                               #EXTINF:-1 tvg-id="SPORTV 2" tvg-name="SPORTV 2 HD" tvg-logo="http://img.starbr.in/1559767136_beb250b47a8f261b8dc9f81c035ad059abf4b90d.jpg" group-title="Esportes",SPORTV 2 HD
-http://list.deeplist.nl/live/joaogabriel01/Gabi54321/2401.m3u8                                                              
-#EXTINF:-1 tvg-id="SPORTV 2" tvg-name="SPORTV 2 SD 1" tvg-logo="http://img.starbr.in/1559767136_beb250b47a8f261b8dc9f81c035ad059abf4b90d.jpg" group-title="Esportes",SPORTV 2 SD 1
-http://list.deeplist.nl/live/joaogabriel01/Gabi54321/38710.m3u8                                                               #EXTINF:-1 tvg-id="SPORTV 3" tvg-name="SPORTV 3 HD" tvg-logo="http://img.starbr.in/1559767279_50e3fb28e897b471b2d5ea3e671a2e62505ebc31.png" group-title="Esportes",SPORTV 3 HD
-http://list.deeplist.nl/live/joaogabriel01/Gabi54321/2402.m3u8                                                                #EXTINF:-1 tvg-id="SPORTV 3" tvg-name="SPORTV 3 SD 1" tvg-logo="http://img.starbr.in/1559767279_50e3fb28e897b471b2d5ea3e671a2e62505ebc31.png" group-title="Esportes",SPORTV 3 SD 1
-http://list.deeplist.nl/live/joaogabriel01/Gabi54321/38713.m3u8                                                            
-#EXTINF:-1 tvg-id="STUDIO UNIVERSAL" tvg-name="STUDIO UNIVERSAL" tvg-logo="http://img.starbr.in/1559767887_978f5018ea1c7b9a3b529306c6e90fcc9b4430b2.png" group-title="Filmes e Series",STUDIO UNIVERSAL
-http://list.deeplist.nl/live/joaogabriel01/Gabi54321/2384.m3u8                                                              
-#EXTINF:-1 tvg-id="SYFY" tvg-name="SYFY" tvg-logo="http://img.starbr.in/1559767978_264d890564806d9bd4d65f24015abfd21d7d5edc.png" group-title="Filmes e Series",SYFY
-http://list.deeplist.nl/live/joaogabriel01/Gabi54321/939.m3u8                                                                 #EXTINF:-1 tvg-id="TBS" tvg-name="TBS HD" tvg-logo="http://img.starbr.in/1559768045_dfb002c430a54d81e1872542455aecfbb8bd7a5b.png" group-title="Filmes e Series",TBS HD
-http://list.deeplist.nl/live/joaogabriel01/Gabi54321/2473.m3u8                                                                #EXTINF:-1 tvg-id="TBS" tvg-name="TBS" tvg-logo="http://img.starbr.in/1559768045_dfb002c430a54d81e1872542455aecfbb8bd7a5b.png" group-title="Filmes e Series",TBS
-http://list.deeplist.nl/live/joaogabriel01/Gabi54321/937.m3u8                                                                 #EXTINF:-1 tvg-id="TCM" tvg-name="TCM" tvg-logo="http://manager.hidromail.ch/files/imagem_canal/1559768471_301eda035c94a449755f1ea79b2208599af261b0.png" group-title="Filmes e Series",TCM
-http://list.deeplist.nl/live/joaogabriel01/Gabi54321/52252.m3u8                                                               #EXTINF:-1 tvg-id="TC ACTION" tvg-name="TELECINE ACTION" tvg-logo="http://manager.hidromail.ch/files/imagem_canal/1559768114_893f4f74afaa7a1bb04b4cd69944407e5484395c.png" group-title="Filmes e Series",TELECINE ACTION
-http://list.deeplist.nl/live/joaogabriel01/Gabi54321/52589.m3u8                                                               #EXTINF:-1 tvg-id="TC FUN" tvg-name="TELECINE FUN" tvg-logo="http://img.starbr.in/1559768244_cf9af94b93e3e9822e29adb9743aef3ed5802712.png" group-title="Filmes e Series",TELECINE FUN
-http://list.deeplist.nl/live/joaogabriel01/Gabi54321/931.m3u8                                                                 #EXTINF:-1 tvg-id="TC PIPOCA" tvg-name="TELECINE PIPOCA" tvg-logo="http://img.starbr.in/1559768323_366798749b48fcf44002badff0abe6b71622d10a.png" group-title="Filmes e Series",TELECINE PIPOCA
-http://list.deeplist.nl/live/joaogabriel01/Gabi54321/929.m3u8                                                                 #EXTINF:-1 tvg-id="TC PREMIUM" tvg-name="TELECINE PREMIUM" tvg-logo="http://manager.hidromail.ch/files/imagem_canal/1559768374_3ab3da273f6376f805201173c21a95ebf05b9f28.png" group-title="Filmes e Series",TELECINE PREMIUM
-http://list.deeplist.nl/live/joaogabriel01/Gabi54321/52591.m3u8                                                            
-#EXTINF:-1 tvg-id="TC TOUCH" tvg-name="TELECINE TOUCH" tvg-logo="http://img.starbr.in/1559768433_a9ac4ebebeb8daddf3e3ebc24c612bdbffbdb8fc.png" group-title="Filmes e Series",TELECINE TOUCH
-http://list.deeplist.nl/live/joaogabriel01/Gabi54321/926.m3u8                                                                 #EXTINF:-1 tvg-id="TNT" tvg-name="TNT" tvg-logo="http://img.starbr.in/1559768670_0f6919dd5e99410decc40d8a186989957324a660.png" group-title="Filmes e Series",TNT
-http://list.deeplist.nl/live/joaogabriel01/Gabi54321/921.m3u8                                                                 #EXTINF:-1 tvg-id="TNT" tvg-name="TNT HD" tvg-logo="http://img.starbr.in/1559768670_0f6919dd5e99410decc40d8a186989957324a660.png" group-title="Filmes e Series",TNT HD
-http://list.deeplist.nl/live/joaogabriel01/Gabi54321/2383.m3u8                                                                #EXTINF:-1 tvg-id="TNT SERIES" tvg-name="TNT SERIES" tvg-logo="http://img.starbr.in/1559768728_eb93074e60333bfa09df1e9f942483932fe75ee0.png" group-title="Filmes e Series",TNT SERIES
-http://list.deeplist.nl/live/joaogabriel01/Gabi54321/1204.m3u8
-#EXTINF:-1 tvg-id="TNT SERIES" tvg-name="TNT SERIES HD" tvg-logo="http://img.starbr.in/1559768728_eb93074e60333bfa09df1e9f942483932fe75ee0.png" group-title="Filmes e Series",TNT SERIES HD
-http://list.deeplist.nl/live/joaogabriel01/Gabi54321/2474.m3u8                                                                #EXTINF:-1 tvg-id="TOONCAST" tvg-name="TOONCAST" tvg-logo="http://img.myapp.st/1559768777_383b0b099b79e33a1a2ec6fa9223c52e34de3da4.png" group-title="Infantil",TOONCAST
-http://list.deeplist.nl/live/joaogabriel01/Gabi54321/50244.m3u8                                                               #EXTINF:-1 tvg-id="UNIVERSAL CHANNEL" tvg-name="UNIVERSAL CHANNEL" tvg-logo="http://img.starbr.in/1559769363_07757ac3ca69f90b02da98cb3214fe02462c89d7.png" group-title="Filmes e Series",UNIVERSAL CHANNEL
-http://list.deeplist.nl/live/joaogabriel01/Gabi54321/940.m3u8                                                                 #EXTINF:-1 tvg-id="UNIVERSAL CHANNEL" tvg-name="UNIVERSAL CHANNEL HD" tvg-logo="http://img.starbr.in/1559769363_07757ac3ca69f90b02da98cb3214fe02462c89d7.png" group-title="Filmes e Series",UNIVERSAL CHANNEL HD
-http://list.deeplist.nl/live/joaogabriel01/Gabi54321/2475.m3u8                                                                #EXTINF:-1 tvg-id="VH1 MEGA HITS" tvg-name="VH1 MEGA HITS" tvg-logo="http://img.starbr.in/1559769416_a51a51f9968d83ce169505e82221587e124a8094.png" group-title="Variedades e Musicas",VH1 MEGA HITS
-http://list.deeplist.nl/live/joaogabriel01/Gabi54321/898.m3u8                                                                 #EXTINF:-1 tvg-id="VIVA" tvg-name="VIVA HD" tvg-logo="http://img.starbr.in/1559769504_0a5cca6f12f3535e0a1959002ddaf0819462ae23.jpg" group-title="Variedades e Musicas",VIVA HD
-http://list.deeplist.nl/live/joaogabriel01/Gabi54321/2476.m3u8
-#EXTINF:-1 tvg-id="VIVA" tvg-name="VIVA SD 1" tvg-logo="http://img.starbr.in/1559769504_0a5cca6f12f3535e0a1959002ddaf0819462ae23.jpg" group-title="Variedades e Musicas",VIVA SD 1
-http://list.deeplist.nl/live/joaogabriel01/Gabi54321/38722.m3u8                                                               #EXTINF:-1 tvg-id="WARNER CHANNEL" tvg-name="WARNER CHANNEL" tvg-logo="http://img.starbr.in/1559769581_aa569a41e20a7b3833a7a28de6a221b7ac640138.png" group-title="Filmes e Series",WARNER CHANNEL
-http://list.deeplist.nl/live/joaogabriel01/Gabi54321/896.m3u8
-#EXTINF:-1 tvg-id="WARNER CHANNEL" tvg-name="WARNER CHANNEL FULL HD" tvg-logo="http://img.starbr.in/1559769581_aa569a41e20a7b3833a7a28de6a221b7ac640138.png" group-title="Filmes e Series",WARNER CHANNEL FULL HD
-http://list.deeplist.nl/live/joaogabriel01/Gabi54321/52619.m3u8
-#EXTINF:-1 tvg-id="WARNER CHANNEL" tvg-name="WARNER CHANNEL HD" tvg-logo="http://img.starbr.in/1559769581_aa569a41e20a7b3833a7a28de6a221b7ac640138.png" group-title="Filmes e Series",WARNER CHANNEL HD
-http://list.deeplist.nl/live/joaogabriel01/Gabi54321/2478.m3u8
+#EXTINF:-1 tvg-logo="https://www.kindpng.com/picc/m/19-194195_disney-junior-logo-disney-junior-channel-logo-hd.png "group-title= " INFANTIL", DISNEY JR Fotodicas
+https://mj1b2xsspj.singularcdn.net.br/encompass/DisneyJrBRA/master_Layer4.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://www.kindpng.com/picc/m/19-194195_disney-junior-logo-disney-junior-channel-logo-hd.png "group-title= " INFANTIL", DISNEY JR SD+TechRuthes
+http://list.deeplist.nl/live/34hhsh74m60j0rfgvx58qn4gr/54p3uf8hruhskgjah75uta9ae/38441.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://www.kindpng.com/picc/m/419-4190751_boomerang-logo-hd-png-download.png"group-title= " INFANTIL",BOOMERANG TechR
+http://list.deeplist.nl/live/34hhsh74m60j0rfgvx58qn4gr/54p3uf8hruhskgjah75uta9ae/1102.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://www.kindpng.com/picc/m/419-4190751_boomerang-logo-hd-png-download.png"group-title= " INFANTIL",BOOMERANG
+https://tcloud1.azureedge.net/hls1/boomerang.m3u8?wmsAuthSign=
+ 
+#EXTINF:-1 tvg-logo="https://www.kindpng.com/picc/m/434-4349896_the-gallery-for-gt-nick-jr-logo-nick.png"group-title= "INFANTIL",NICK JR TechR
+http://list.deeplist.nl/live/34hhsh74m60j0rfgvx58qn4gr/54p3uf8hruhskgjah75uta9ae/986.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://www.kindpng.com/picc/m/434-4349896_the-gallery-for-gt-nick-jr-logo-nick.png"group-title=    "INFANTIL",NICK JR canais
+https://tcloud1.azureedge.net/hls1/nickjr.m3u8?wmsAuthSign=
+ 
+#EXTINF:-1 tvg-logo="https://www.kindpng.com/picc/m/128-1280904_check-out-the-official-gumball-page-on-cartoon.png"group-title= "INFANTIL",CARTOON NTW Tech
+http://list.deeplist.nl/live/34hhsh74m60j0rfgvx58qn4gr/54p3uf8hruhskgjah75uta9ae/43516.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://www.kindpng.com/picc/m/128-1280904_check-out-the-official-gumball-page-on-cartoon.png"group-title= "INFANTIL",CARTOON NTW Canais
+https://tcloud1.azureedge.net/hls1/cartoon.m3u8?wmsAuthSign=
+ 
+#EXTINF:-1 tvg-logo="https://www.kindpng.com/picc/m/47-476185_nick-funny-brand-redesign-png-logo-design-logo.png"group-title= "INFANTIL",NICKLODEON TechR
+http://list.deeplist.nl/live/34hhsh74m60j0rfgvx58qn4gr/54p3uf8hruhskgjah75uta9ae/1206.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://www.kindpng.com/picc/m/47-476185_nick-funny-brand-redesign-png-logo-design-logo.png"group-title= "INFANTIL",NICKLODEON Hiper Tela
+https://tcloud1.azureedge.net/hls1/nick.m3u8?wmsAuthSign=
+ 
+#EXTINF:-1 tvg-logo="https://www.kindpng.com/picc/m/249-2498251_transparent-disney-xd-png-discovery-kids-png-download.png"group-title= "INFANTIL",DISCOVERY KIDS TechR
+http://list.deeplist.nl/live/34hhsh74m60j0rfgvx58qn4gr/54p3uf8hruhskgjah75uta9ae/1080.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://www.kindpng.com/picc/m/249-2498251_transparent-disney-xd-png-discovery-kids-png-download.png"group-title= "INFANTIL",DISCOVERY KIDS Hiper te
+http://edge-aws.aovivo.club/hls/s:95.216.15.44:81/discoverykids_80e28a51_4556b1c9be0e3e8f87195c0bc3c8a5dfa27ef0cd/playlist.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://www.kindpng.com/picc/m/34-345168_logo-toy-story-psd-hd-png-download.png"group-title= "INFANTIL",DISNEY XD TechR
+http://list.deeplist.nl/live/34hhsh74m60j0rfgvx58qn4gr/54p3uf8hruhskgjah75uta9ae/20810.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://www.kindpng.com/picc/m/34-345168_logo-toy-story-psd-hd-png-download.png"group-title= "INFANTIL",DISNEY XD Canais grat
+https://tcloud1.azureedge.net/hls1/disneyxd.m3u8?wmsAuthSign=
+ 
+#EXTINF:-1 tvg-logo="https://www.kindpng.com/picc/m/106-1066265_baby-tv-dish-hd-png-download.png"group-title= "INFANTIL",BABY TV TechR
+http://list.deeplist.nl/live/34hhsh74m60j0rfgvx58qn4gr/54p3uf8hruhskgjah75uta9ae/52235.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Tooncast_logo.svg/1200px-Tooncast_logo.svg.png"group-title= "INFANTIL",TOONCAST TechRutes
+http://list.deeplist.nl/live/34hhsh74m60j0rfgvx58qn4gr/54p3uf8hruhskgjah75uta9ae/50244.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Tooncast_logo.svg/1200px-Tooncast_logo.svg.png"group-title= "INFANTIL",TOONCAST hipertela
+https://tcloud1.azureedge.net/hls1/tooncast.m3u8?wmsAuthSign=
+ 
+#EXTINF:-1 tvg-logo="https://www.kindpng.com/picc/m/107-1076187_animal-planet-channel-logo-green-animal-planet-logo.png"group-title= "DOCUMENTARIO",ANIMAL PLANET TechR
+http://list.deeplist.nl/live/34hhsh74m60j0rfgvx58qn4gr/54p3uf8hruhskgjah75uta9ae/1719.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://www.kindpng.com/picc/m/107-1076187_animal-planet-channel-logo-green-animal-planet-logo.png "group-title="DOCUMENTARIO",ANIMAL PLANET hipertela
+https://tcloud1.azureedge.net/hls1/animalplanet.m3u8?wmsAuthSign=
