@@ -247,3 +247,122 @@ http://evpp.mm.uol.com.br/ne10/ne10.smil/chunklist_w902022027_b216000_sleng.m3u8
  
 #EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="cine",Gospel Cartoon
 http://stmv1.srvstm.com/gospelcartoon/gospelcartoon/playlist.m3u8?wowzasessionid=495096105
+#EXTINF:-1 tvg-logo="http://s20.postimg.org/4i8o6fouh/DHING.jpg" group-title="TV Musicas",DJ Hits
+http://www.djing.com/tv/04.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://s20.postimg.org/kqthtnn2h/retromusic.jpg" group-title="TV Musicas",Retro Music
+http://stream.mediawork.cz/retrotv//retrotvHQ1/playlist.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://s20.postimg.org/5xeu8wfbd/radio105.png" group-title="TV Musicas",Radio 105 TV
+http://fms.105.net:1935/live/105Test1/playlist.m3u8
+ 
+#EXTINF:-1 tvg-logo="" group-title="TV Musicas",ONE 0
+http://rtmp.one.by:1200
+ 
+#EXTINF:-1 tvg-logo="" group-title="TV Musicas",ONE 1 HD
+http://rtmp.one.by:1300
+ 
+#EXTINF:-1 tvg-logo="" group-title="TV Musicas",ONE 4 HD
+http://rtmp.one.by:2300
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0a/Investiga%C3%A7%C3%A3o_Discovery_1.png" group-title"CANAIS/FILMES E SERIES",INVESTIGAÇÃO DISCOVERY
+http://tvnanet.xyz:25461/live/palestra2021/verdao2021/149.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/15/MAX_Prime.png" group-title"CANAIS/FILMES E SERIES",MAX PRIME
+http://tvnanet.xyz:25461/live/palestra2021/verdao2021/155.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5a/Max-up-canal.png" group-title"CANAIS/FILMES E SERIES",MAX UP
+http://tvnanet.xyz:25461/live/palestra2021/verdao2021/160.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1a/Max_logo.png" group-title"CANAIS/FILMES E SERIES",MAX
+http://tvnanet.xyz:25461/live/palestra2021/verdao2021/158.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/28/Lifetime_tv_logo.png" group-title"CANAIS/FILMES E SERIES",LIFETIME
+http://tvnanet.xyz:25461/live/palestra2021/verdao2021/152.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2a/Studio_Universal.svg" group-title"CANAIS/FILMES E SERIES",STUDIO UNIVERS
+http://tvnanet.xyz:25461/live/palestra2021/verdao2021/233.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/70/Universal_Channel_Logo_2013.svg" group-title"CANAIS/FILMES E SERIES",UNIVERSAL CHANNEL
+http://tvnanet.xyz:25461/live/palestra2021/verdao2021/258.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ef/Turner_Classic_Movies_%28TCM%2C_Latin_America%29_-_2015_logo.png" group-title"CANAIS/FILMES E SERIES",TCM
+http://tvnanet.xyz:25461/live/palestra2021/verdao2021/237.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://pt.m.wikipedia.org/wiki/Paramount_Network#/media/Ficheiro%3AParamount_Network.svg" group-title"CANAIS/FILMES E SERIES",PARAMOUNT
+http://tvnanet.xyz:25461/live/palestra2021/verdao2021/183.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6a/Cinemax_LA.png" group-title"CANAIS/FILMES E SERIES",CINEMAX
+http://tvnanet.xyz:25461/live/palestra2021/verdao2021/31.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/52/AXN_logo_%282015%29.svg" group-title"CANAIS/FILMES E SERIES",AXN
+http://tvnanet.xyz:25461/live/palestra2021/verdao2021/12.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a7/Megapix_logo_2011.png" group-title"CANAIS/FILMES E SERIES",MEGAPIX
+http://tvnanet.xyz:25461/live/palestra2021/verdao2021/162.m3u8
+ 
+#EXTINF:-1 tvg-logo="" group-title"CANAIS/FILMES E SERIES",SPACE
+http://tvnanet.xyz:25461/live/palestra2021/verdao2021/225.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/2/2d/AMC_logo_2013.png" group-title"CANAIS/FILMES E SERIES",AMC
+http://tvnanet.xyz:25461/live/palestra2021/verdao2021/6.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/75/TNT_Series_Logo_2016.png" group-title"CANAIS/FILMES E SERIES",TNT SERIES
+http://tvnanet.xyz:25461/live/palestra2021/verdao2021/251.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/24/TNT_Logo_2016.svg" group-title"CANAIS/FILMES E SERIES",TNT
+http://tvnanet.xyz:25461/live/palestra2021/verdao2021/252.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/54/Fox_life_logo.png" group-title"CANAIS/FILMES E SERIES",FOX LIFE
+http://tvnanet.xyz:25461/live/palestra2021/verdao2021/81.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://pt.m.wikipedia.org/wiki/Fox_Broadcasting_Company#/media/Ficheiro%3AFOX_wordmark.svg" group-title"CANAIS/FILMES E SERIES",FOX
+http://tvnanet.xyz:25461/live/palestra2021/verdao2021/86.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://pt.m.wikipedia.org/wiki/Fox_Premium#/media/Ficheiro%3AFOXPremium2018.png" group-title"CANAIS/FILMES E SERIES",FOX PREMIUM1
+http://tvnanet.xyz:25461/live/palestra2021/verdao2021/83.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/22/Canal_Sony_logo.svg" group-title"CANAIS/FILMES E SERIES",CANAL SONY
+http://tvnanet.xyz:25461/live/palestra2021/verdao2021/223.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3a/HBO_Family_logo.png" group-title"CANAIS/FILMES E SERIES",HBO FAMILY
+http://tvnanet.xyz:25461/live/palestra2021/verdao2021/138.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3b/HBO2_logo.png" group-title"CANAIS/FILMES E SERIES",HBO2
+http://tvnanet.xyz:25461/live/palestra2021/verdao2021/136.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/de/HBO_logo.svg" group-title"CANAIS/FILMES E SERIES",HBO
+http://tvnanet.xyz:25461/live/palestra2021/verdao2021/144.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3d/HBO_Plus.png" group-title"CANAIS/FILMES E SERIES",HBO PLUS
+http://tvnanet.xyz:25461/live/palestra2021/verdao2021/141.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3d/HBO_Plus.png" group-title"CANAIS/FILMES E SERIES",TELECINE TOUCH
+http://tvnanet.xyz:25461/live/palestra2021/verdao2021/249.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/37/Telecine_Action_2.png" group-title"CANAIS/FILMES E SERIES",TELECINE ACTION
+http://tvnanet.xyz:25461/live/palestra2021/verdao2021/239.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2a/Telecine_Pipoca.png" group-title"CANAIS/FILMES E SERIES",TELECINE PIPOCA
+http://tvnanet.xyz:25461/live/palestra2021/verdao2021/245.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/09/Telecine_Premium.png" group-title"CANAIS/FILMES E SERIES",TELECINE PRIMIUM
+http://tvnanet.xyz:25461/live/palestra2021/verdao2021/247.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4d/FX_International_logo.svg" group-title"CANAIS/FILMES E SERIES",FX
+http://tvnanet.xyz:25461/live/palestra2021/verdao2021/94.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/df/A%26E_Network_logo.svg" group-title"CANAIS/FILMES E SERIES",A&E
+http://tvnanet.xyz:25461/live/palestra2021/verdao2021/4.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f9/Combate_Flat_Sem_Slogan_png.png" group-title"CANAIS/ESPORTR",COMBARTE
+http://tvnanet.xyz:25461/live/palestra2021/verdao2021/34.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/a/a2/Logo_Premiere_FC_2018.png" group-title"CANAIS/ESPORTR",PRIMIERE2
+http://tvnanet.xyz:25461/live/palestra2021/verdao2021/199.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/a/a2/Logo_Premiere_FC_2018.png" group-title"CANAIS/ESPORTR",PRIMIERE
+http://tvnanet.xyz:25461/live/palestra2021/verdao2021/186.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/77/Logo_espnbrasil.png" group-title"CANAIS/ESPORTR",ESPN BRASIL
+http://tvnanet.xyz:25461/live/palestra2021/verdao2021/72.m3u8
