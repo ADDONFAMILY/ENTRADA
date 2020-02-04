@@ -1,22 +1,6 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="http://s20.postimg.org/4i8o6fouh/DHING.jpg" group-title="TV Musicas",DJ Hits
-http://www.djing.com/tv/04.m3u8
- 
-#EXTINF:-1 tvg-logo="http://s20.postimg.org/kqthtnn2h/retromusic.jpg" group-title="TV Musicas",Retro Music
-http://stream.mediawork.cz/retrotv//retrotvHQ1/playlist.m3u8
- 
-#EXTINF:-1 tvg-logo="http://s20.postimg.org/5xeu8wfbd/radio105.png" group-title="TV Musicas",Radio 105 TV
-http://fms.105.net:1935/live/105Test1/playlist.m3u8
- 
-#EXTINF:-1 tvg-logo="" group-title="TV Musicas",ONE 0
-http://rtmp.one.by:1200
- 
-#EXTINF:-1 tvg-logo="" group-title="TV Musicas",ONE 1 HD
-http://rtmp.one.by:1300
- 
-#EXTINF:-1 tvg-logo="" group-title="TV Musicas",ONE 4 HD
-http://rtmp.one.by:2300
+
  
 #EXTINF:-1 tvg-logo="http://i.imgur.com/MmJBR9j.png" group-title="Sound!",Kids
 http://192.99.150.31:9431/stream
