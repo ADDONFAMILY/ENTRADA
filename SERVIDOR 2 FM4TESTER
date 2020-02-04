@@ -1,1817 +1,220 @@
 #EXTM3U
-#EXTINF:-1,Nova Tv Lages
-plugin://plugin.video.f4mTester/?name=On Line&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:25461/regis/12345/33641
-#EXTINF:-1,A&E FHD (DUAL AUDIO)
-plugin://plugin.video.f4mTester/?name=On Line&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:25461/regis/12345/9344
-#EXTINF:-1,A&E HD
-plugin://plugin.video.f4mTester/?name=On Line&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:25461/regis/12345/8139
-#EXTINF:-1,A&E HD [Alternativo]
-plugin://plugin.video.f4mTester/?name=On Line&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:25461/regis/12345/11314
-#EXTINF:-1,A&E HD*
-plugin://plugin.video.f4mTester/?name=On Line&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:25461/regis/12345/20892
-#EXTINF:-1,A&E SD
-plugin://plugin.video.f4mTester/?name=On Line&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:25461/regis/12345/4404
-#EXTINF:-1,A&E SD [Alternativo]
-plugin://plugin.video.f4mTester/?name=On Line&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:25461/regis/12345/11316
-#EXTINF:-1,A&E SD*
-plugin://plugin.video.f4mTester/?name=On Line&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:25461/regis/12345/20893
-#EXTINF:-1,AGRO CANAL SD
-plugin://plugin.video.f4mTester/?name=On Line&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:25461/regis/12345/5983
-#EXTINF:-1,ALJAZEERA HD
-plugin://plugin.video.f4mTester/?name=On Line&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:25461/regis/12345/7550
-#EXTINF:-1,ALL SPORT SD
-plugin://plugin.video.f4mTester/?name=On Line&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:25461/regis/12345/6812
-#EXTINF:-1,ALL SPORTS HD
-plugin://plugin.video.f4mTester/?name=On Line&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:25461/regis/12345/20591
-#EXTINF:-1,AMC FHD (DUAL AUDIO)
-plugin://plugin.video.f4mTester/?name=On Line&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:25461/regis/12345/9343
-#EXTINF:-1,AMC HD
-plugin://plugin.video.f4mTester/?name=On Line&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:25461/regis/12345/7691
-#EXTINF:-1,AMC HD [Alternativo]
-plugin://plugin.video.f4mTester/?name=On Line&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:25461/regis/12345/11080
-#EXTINF:-1,AMC HD*
-plugin://plugin.video.f4mTester/?name=On Line&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:25461/regis/12345/20890
-#EXTINF:-1,AMC SD
-plugin://plugin.video.f4mTester/?name=On Line&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:25461/regis/12345/7448
-#EXTINF:-1,AMC SD [Alternativo]
-plugin://plugin.video.f4mTester/?name=On Line&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:25461/regis/12345/11312
-#EXTINF:-1,AMC SD*
-plugin://plugin.video.f4mTester/?name=On Line&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:25461/regis/12345/20891
-#EXTINF:-1,ANIMAL PLANET 4K
-plugin://plugin.video.f4mTester/?name=On Line&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:25461/regis/12345/33758
-#EXTINF:-1,ANIMAL PLANET FHD (DUAL AUDIO)
-plugin://plugin.video.f4mTester/?name=On Line&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:25461/regis/12345/13205
-#EXTINF:-1,ANIMAL PLANET HD
-plugin://plugin.video.f4mTester/?name=On Line&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:25461/regis/12345/6142
-#EXTINF:-1,Animal Planet HD [Alternativo]
-plugin://plugin.video.f4mTester/?name=On Line&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:25461/regis/12345/11079
-#EXTINF:-1,ANIMAL PLANET HD*
-plugin://plugin.video.f4mTester/?name=On Line&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:25461/regis/12345/24628
-#EXTINF:-1,ANIMAL PLANET SD
-plugin://plugin.video.f4mTester/?name=On Line&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:25461/regis/12345/4403
-#EXTINF:-1,ANIMAL PLANET SD [Alternativo]
-plugin://plugin.video.f4mTester/?name=On Line&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:25461/regis/12345/11310
-#EXTINF:-1,ANIMAL PLANET SD*
-plugin://plugin.video.f4mTester/?name=On Line&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:25461/regis/12345/20887
-#EXTINF:-1,ARIRANG TV SD
-plugin://plugin.video.f4mTester/?name=On Line&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:25461/regis/12345/4407
-#EXTINF:-1,ARTE 1 FHD
-plugin://plugin.video.f4mTester/?name=On Line&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:25461/regis/12345/11308
-#EXTINF:-1,ARTE 1 HD
-plugin://plugin.video.f4mTester/?name=On Line&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:25461/regis/12345/10235
-#EXTINF:-1,TruTV SD
-plugin://plugin.video.f4mTester/?name=On Line&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:25461/regis/12345/7904
-#EXTINF:-1,As Meninas Superpoderosas 24HS
-plugin://plugin.video.f4mTester/?name=On Line&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:25461/regis/12345/33711
-#EXTINF:-1,AS TARTARUGAS NINJA 24 HRS
-plugin://plugin.video.f4mTester/?name=On Line&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:25461/regis/12345/33719
-#EXTINF:-1, AS AVENTURAS DE JACKIE CHAN  24 HRS
-plugin://plugin.video.f4mTester/?name=On Line&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:25461/regis/12345/33712
-#EXTINF:-1, CHAPOLIN 24 HRS
-plugin://plugin.video.f4mTester/?name=On Line&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:25461/regis/12345/33709
-#EXTINF:-1, MR BEAN 24 HRS
-plugin://plugin.video.f4mTester/?name=On Line&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:25461/regis/12345/33717
-#EXTINF:-1,2 HOMENS E MEIO
-plugin://plugin.video.f4mTester/?name=On Line&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:25461/regis/12345/33713
-#EXTINF:-1,AXN FHD (DUAL AUDIO)
-plugin://plugin.video.f4mTester/?name=On Line&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:25461/regis/12345/13212
+http://clientportalpro.com:2500/live/1122335566/1122335566/5056.ts
+#EXTINF:-1,A&E Brasil
+http://clientportalpro.com:2500/live/1122335566/1122335566/13258.ts
+#EXTINF:-1,ALL SPORTS
+http://clientportalpro.com:2500/live/1122335566/1122335566/13257.ts
+#EXTINF:-1,ANHANGUERA TV
+http://clientportalpro.com:2500/live/1122335566/1122335566/13256.ts
 #EXTINF:-1,AXN HD
-plugin://plugin.video.f4mTester/?name=On Line&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:25461/regis/12345/6140
-#EXTINF:-1,AXN HD [Alternativo]
-plugin://plugin.video.f4mTester/?name=On Line&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:25461/regis/12345/11078
-#EXTINF:-1,AXN HD*
-plugin://plugin.video.f4mTester/?name=On Line&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:25461/regis/12345/20882
-#EXTINF:-1,AXN SD
-plugin://plugin.video.f4mTester/?name=On Line&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:25461/regis/12345/4402
-#EXTINF:-1,AXN SD [Alternativo]
-plugin://plugin.video.f4mTester/?name=On Line&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:25461/regis/12345/11306
-#EXTINF:-1,AXN SD*
-plugin://plugin.video.f4mTester/?name=On Line&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:25461/regis/12345/20884
-#EXTINF:-1,BABY TV SD
-plugin://plugin.video.f4mTester/?name=On Line&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:25461/regis/12345/4401
-#EXTINF:-1,BABY TV SD*
-plugin://plugin.video.f4mTester/?name=On Line&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:25461/regis/12345/20871
-#EXTINF:-1,BAND 4K
-plugin://plugin.video.f4mTester/?name=On Line&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:25461/regis/12345/33747
-#EXTINF:-1,BAND ARACAJU HD (MANUTENÇÃO)
-plugin://plugin.video.f4mTester/?name=On Line&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:25461/regis/12345/24752
-#EXTINF:-1,BAND BAHIA SD
-plugin://plugin.video.f4mTester/?name=On Line&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:25461/regis/12345/30427
-#EXTINF:-1,BAND BRASILIA HD
-plugin://plugin.video.f4mTester/?name=On Line&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:25461/regis/12345/33274
-#EXTINF:-1,BAND CAMPINAS HD
-plugin://plugin.video.f4mTester/?name=On Line&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:25461/regis/12345/33280
-#EXTINF:-1,BAND FHD
-plugin://plugin.video.f4mTester/?name=On Line&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:25461/regis/12345/25008
-#EXTINF:-1,BAND GOIANIA HD
-plugin://plugin.video.f4mTester/?name=On Line&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:25461/regis/12345/25019
+http://clientportalpro.com:2500/live/1122335566/1122335566/13255.ts
 #EXTINF:-1,BAND HD
-plugin://plugin.video.f4mTester/?name=On Line&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:25461/regis/12345/6882
-#EXTINF:-1,BAND HD*
-plugin://plugin.video.f4mTester/?name=On Line&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:25461/regis/12345/20874
-#EXTINF:-1,BAND NEWS FHD (DUAL AUDIO)
-plugin://plugin.video.f4mTester/?name=On Line&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:25461/regis/12345/11536
-#EXTINF:-1,BAND NEWS HD
-plugin://plugin.video.f4mTester/?name=On Line&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:25461/regis/12345/10296
-#EXTINF:-1,BAND NEWS SD
-plugin://plugin.video.f4mTester/?name=On Line&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:25461/regis/12345/4399
-#EXTINF:-1,BAND NEWS SD [Alternativo]
-plugin://plugin.video.f4mTester/?name=On Line&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:25461/regis/12345/11301
-#EXTINF:-1,BAND PARANA SD
-plugin://plugin.video.f4mTester/?name=On Line&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:25461/regis/12345/24927
-#EXTINF:-1,BAND RJ HD
-plugin://plugin.video.f4mTester/?name=On Line&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:25461/regis/12345/25542
-#EXTINF:-1,BAND RS HD
-plugin://plugin.video.f4mTester/?name=On Line&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:25461/regis/12345/25018
-#EXTINF:-1,BAND SD
-plugin://plugin.video.f4mTester/?name=On Line&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:25461/regis/12345/4400
-#EXTINF:-1,BAND SD*
-plugin://plugin.video.f4mTester/?name=On Line&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:25461/regis/12345/20875
-#EXTINF:-1,BAND SPORTS FHD (DUAL AUDIO)
-plugin://plugin.video.f4mTester/?name=On Line&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:25461/regis/12345/11535
-#EXTINF:-1,BAND SPORTS HD
-plugin://plugin.video.f4mTester/?name=On Line&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:25461/regis/12345/6138
-#EXTINF:-1,BAND SPORTS HD [Alternativo]
-plugin://plugin.video.f4mTester/?name=On Line&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:25461/regis/12345/11294
-#EXTINF:-1,BAND SPORTS HD*
-plugin://plugin.video.f4mTester/?name=On Line&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:25461/regis/12345/20863
-#EXTINF:-1,BAND SPORTS SD
-plugin://plugin.video.f4mTester/?name=On Line&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:25461/regis/12345/4398
-#EXTINF:-1,BAND SPORTS SD [Alternativo]
-plugin://plugin.video.f4mTester/?name=On Line&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:25461/regis/12345/11297
-#EXTINF:-1,BAND SPORTS SD*
-plugin://plugin.video.f4mTester/?name=On Line&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:25461/regis/12345/20864
-#EXTINF:-1,BAND TV TAROBA PARANA HD
-plugin://plugin.video.f4mTester/?name=On Line&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:25461/regis/12345/24924
-#EXTINF:-1,BIS FHD (DUAL AUDIO)
-plugin://plugin.video.f4mTester/?name=On Line&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:25461/regis/12345/11547
-#EXTINF:-1,BIS HD
-plugin://plugin.video.f4mTester/?name=On Line&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:25461/regis/12345/6881
-#EXTINF:-1,BIS HD [Alternativo]
-plugin://plugin.video.f4mTester/?name=On Line&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:25461/regis/12345/11291
-#EXTINF:-1,BIS HD*
-plugin://plugin.video.f4mTester/?name=On Line&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:25461/regis/12345/20866
-#EXTINF:-1,BIS SD
-plugin://plugin.video.f4mTester/?name=On Line&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:25461/regis/12345/6964
-#EXTINF:-1,BIS SD [Alternativo]
-plugin://plugin.video.f4mTester/?name=On Line&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:25461/regis/12345/11293
-#EXTINF:-1,BIS SD*
-plugin://plugin.video.f4mTester/?name=On Line&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:25461/regis/12345/20868
-#EXTINF:-1,BLOOMBERG TV SD
-plugin://plugin.video.f4mTester/?name=On Line&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:25461/regis/12345/7424
-#EXTINF:-1,BOA VONTADE TV SD
-plugin://plugin.video.f4mTester/?name=On Line&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:25461/regis/12345/20869
-#EXTINF:-1,BOB ESPONJA 24HS
-plugin://plugin.video.f4mTester/?name=On Line&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:25461/regis/12345/33722
-#EXTINF:-1,BOOMERANG FHD (DUAL AUDIO)
-plugin://plugin.video.f4mTester/?name=On Line&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:25461/regis/12345/11534
-#EXTINF:-1,BOOMERANG HD
-plugin://plugin.video.f4mTester/?name=On Line&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:25461/regis/12345/10294
-#EXTINF:-1,Boomerang HD [Alternativo]
-plugin://plugin.video.f4mTester/?name=On Line&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:25461/regis/12345/11076
-#EXTINF:-1,BOOMERANG SD
-plugin://plugin.video.f4mTester/?name=On Line&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:25461/regis/12345/4396
-#EXTINF:-1,BOOMERANG SD [Alternativo]
-plugin://plugin.video.f4mTester/?name=On Line&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:25461/regis/12345/11289
-#EXTINF:-1,BOOMERANG SD*
-plugin://plugin.video.f4mTester/?name=On Line&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:25461/regis/12345/20857
-#EXTINF:-1,Breaking Bad 24hs
-plugin://plugin.video.f4mTester/?name=On Line&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:25461/regis/12345/33723
-#EXTINF:-1,Breaking Bad 24hs
-plugin://plugin.video.f4mTester/?name=On Line&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:25461/regis/12345/30020
-#EXTINF:-1,CANAL 26 ARGENTINA HD
-plugin://plugin.video.f4mTester/?name=On Line&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:25461/regis/12345/11205
-#EXTINF:-1,CANAL BRASIL HD
-plugin://plugin.video.f4mTester/?name=On Line&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:25461/regis/12345/10293
-#EXTINF:-1,CANAL BRASIL SD
-plugin://plugin.video.f4mTester/?name=On Line&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:25461/regis/12345/6963
-#EXTINF:-1,CANAL BRASIL SD*
-plugin://plugin.video.f4mTester/?name=On Line&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:25461/regis/12345/20838
-#EXTINF:-1,CANAL DO BOI SD
-plugin://plugin.video.f4mTester/?name=On Line&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:25461/regis/12345/11287
-#EXTINF:-1,CANAL SONY FHD (DUAL AUDIO)
-plugin://plugin.video.f4mTester/?name=On Line&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:25461/regis/12345/13202
-#EXTINF:-1,CANAL SONY HD
-plugin://plugin.video.f4mTester/?name=On Line&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:25461/regis/12345/6961
-#EXTINF:-1,Canal Sony HD [Alternativo]
-plugin://plugin.video.f4mTester/?name=On Line&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:25461/regis/12345/11075
-#EXTINF:-1,CANAL SONY HD*
-plugin://plugin.video.f4mTester/?name=On Line&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:25461/regis/12345/20527
-#EXTINF:-1,CANAL SONY SD
-plugin://plugin.video.f4mTester/?name=On Line&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:25461/regis/12345/4395
-#EXTINF:-1,CANAL SONY SD [Alternativo]
-plugin://plugin.video.f4mTester/?name=On Line&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:25461/regis/12345/11283
-#EXTINF:-1,CANAL SONY SD*
-plugin://plugin.video.f4mTester/?name=On Line&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:25461/regis/12345/20529
-#EXTINF:-1,CANCAO NOVA SD*
-plugin://plugin.video.f4mTester/?name=On Line&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:25461/regis/12345/30662
-#EXTINF:-1,CANCAO NOVA SD
-plugin://plugin.video.f4mTester/?name=On Line&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:25461/regis/12345/6173
-#EXTINF:-1,CAO CORAGEM 24HS
-plugin://plugin.video.f4mTester/?name=On Line&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:25461/regis/12345/33725
-#EXTINF:-1,CARTON NETWORK SD [Alternativo]
-plugin://plugin.video.f4mTester/?name=On Line&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:25461/regis/12345/11281
-#EXTINF:-1,CARTOON NETWORK 4K
-plugin://plugin.video.f4mTester/?name=On Line&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:25461/regis/12345/33761
-#EXTINF:-1,CARTOON NETWORK FHD (DUAL AUDIO)
-plugin://plugin.video.f4mTester/?name=On Line&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:25461/regis/12345/13210
-#EXTINF:-1,CARTOON NETWORK HD
-plugin://plugin.video.f4mTester/?name=On Line&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:25461/regis/12345/7817
-#EXTINF:-1,Cartoon Network HD [Alternativo]
-plugin://plugin.video.f4mTester/?name=On Line&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:25461/regis/12345/11074
-#EXTINF:-1,CARTOON NETWORK HD*
-plugin://plugin.video.f4mTester/?name=On Line&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:25461/regis/12345/20844
-#EXTINF:-1,CARTOON NETWORK SD
-plugin://plugin.video.f4mTester/?name=On Line&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:25461/regis/12345/4394
-#EXTINF:-1,CARTOON NETWORK SD*
-plugin://plugin.video.f4mTester/?name=On Line&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:25461/regis/12345/20845
-#EXTINF:-1,Caverna do Dragão 24Hrs
-plugin://plugin.video.f4mTester/?name=On Line&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:25461/regis/12345/24936
-#EXTINF:-1,Chapolin Colorado 24hs
-plugin://plugin.video.f4mTester/?name=On Line&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:25461/regis/12345/30015
-#EXTINF:-1,CHAVES 24HS  
-plugin://plugin.video.f4mTester/?name=On Line&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:25461/regis/12345/33726
-#EXTINF:-1,CINEMAX FHD (DUAL AUDIO)
-plugin://plugin.video.f4mTester/?name=On Line&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:25461/regis/12345/10993
-#EXTINF:-1,CINEMAX HD
-plugin://plugin.video.f4mTester/?name=On Line&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:25461/regis/12345/7802
-#EXTINF:-1,Cinemax HD [Alternativo]
-plugin://plugin.video.f4mTester/?name=On Line&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:25461/regis/12345/11073
-#EXTINF:-1,CINEMAX HD*
-plugin://plugin.video.f4mTester/?name=On Line&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:25461/regis/12345/20834
-#EXTINF:-1,CINEMAX SD
-plugin://plugin.video.f4mTester/?name=On Line&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:25461/regis/12345/4393
-#EXTINF:-1,CINEMAX SD [Alternativo]
-plugin://plugin.video.f4mTester/?name=On Line&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:25461/regis/12345/11280
-#EXTINF:-1,CINEMAX SD*
-plugin://plugin.video.f4mTester/?name=On Line&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:25461/regis/12345/24630
-#EXTINF:-1,CNN INTERNACIONAL SD
-plugin://plugin.video.f4mTester/?name=On Line&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:25461/regis/12345/20506
-#EXTINF:-1,COMBATE 4K
-plugin://plugin.video.f4mTester/?name=On Line&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:25461/regis/12345/33748
-#EXTINF:-1,COMBATE FHD (DUAL AUDIO)
-plugin://plugin.video.f4mTester/?name=On Line&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:25461/regis/12345/8152
-#EXTINF:-1,COMBATE HD
-plugin://plugin.video.f4mTester/?name=On Line&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:25461/regis/12345/6172
-#EXTINF:-1,Combate HD [Alternativo]
-plugin://plugin.video.f4mTester/?name=On Line&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:25461/regis/12345/11072
-#EXTINF:-1,COMBATE HD*
-plugin://plugin.video.f4mTester/?name=On Line&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:25461/regis/12345/20831
-#EXTINF:-1,COMBATE SD
-plugin://plugin.video.f4mTester/?name=On Line&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:25461/regis/12345/4392
-#EXTINF:-1,COMBATE SD [Alternativo]
-plugin://plugin.video.f4mTester/?name=On Line&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:25461/regis/12345/11277
-#EXTINF:-1,COMBATE SD*
-plugin://plugin.video.f4mTester/?name=On Line&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:25461/regis/12345/20832
-#EXTINF:-1,COMEDY CENTRAL FHD (DUAL AUDIO)
-plugin://plugin.video.f4mTester/?name=On Line&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:25461/regis/12345/24920
-#EXTINF:-1,COMEDY CENTRAL HD
-plugin://plugin.video.f4mTester/?name=On Line&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:25461/regis/12345/10292
-#EXTINF:-1,Comedy Central HD [Alternativo]
-plugin://plugin.video.f4mTester/?name=On Line&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:25461/regis/12345/11071
-#EXTINF:-1,COMEDY CENTRAL HD*
-plugin://plugin.video.f4mTester/?name=On Line&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:25461/regis/12345/20827
-#EXTINF:-1,COMEDY CENTRAL SD
-plugin://plugin.video.f4mTester/?name=On Line&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:25461/regis/12345/4391
-#EXTINF:-1,COMEDY CENTRAL SD [Alternativo]
-plugin://plugin.video.f4mTester/?name=On Line&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:25461/regis/12345/11275
-#EXTINF:-1,COMEDY CENTRAL SD*
-plugin://plugin.video.f4mTester/?name=On Line&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:25461/regis/12345/20828
-#EXTINF:-1,COPA DO NORDESTE HD
-plugin://plugin.video.f4mTester/?name=On Line&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:25461/regis/12345/20070
-#EXTINF:-1,COPA DO NORDESTE SD
-plugin://plugin.video.f4mTester/?name=On Line&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:25461/regis/12345/20069
-#EXTINF:-1,COPA LIBERTADORES
-plugin://plugin.video.f4mTester/?name=On Line&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:25461/regis/12345/32205
-#EXTINF:-1,CURTA SD*
-plugin://plugin.video.f4mTester/?name=On Line&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:25461/regis/12345/20826
-#EXTINF:-1,CURTA! SD
-plugin://plugin.video.f4mTester/?name=On Line&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:25461/regis/12345/10291
-#EXTINF:-1,DAZN HD
-plugin://plugin.video.f4mTester/?name=On Line&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:25461/regis/12345/30422
-#EXTINF:-1,DAZN HD 2
-plugin://plugin.video.f4mTester/?name=On Line&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:25461/regis/12345/33638
-#EXTINF:-1,DAZN HD 3
-plugin://plugin.video.f4mTester/?name=On Line&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:25461/regis/12345/33639
-#EXTINF:-1,DAZN HD 4
-plugin://plugin.video.f4mTester/?name=On Line&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:25461/regis/12345/33640
-#EXTINF:-1,DAZN HD*
-plugin://plugin.video.f4mTester/?name=On Line&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:25461/regis/12345/31005
-#EXTINF:-1,DENIS O PIMENTINHA 24 HRS
-plugin://plugin.video.f4mTester/?name=On Line&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:25461/regis/12345/33720
-#EXTINF:-1,Desenhos Biblicos 24hs
-plugin://plugin.video.f4mTester/?name=On Line&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:25461/regis/12345/33728
-#EXTINF:-1,Desenhos Disney 24HS
-plugin://plugin.video.f4mTester/?name=On Line&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:25461/regis/12345/33729
-#EXTINF:-1,Digimon 24HS
-plugin://plugin.video.f4mTester/?name=On Line&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:25461/regis/12345/33707
-#EXTINF:-1,DISCOVERY CHANNEL 4K
-plugin://plugin.video.f4mTester/?name=On Line&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:25461/regis/12345/33754
-#EXTINF:-1,DISCOVERY CHANNEL FHD (DUAL AUDIO)
-plugin://plugin.video.f4mTester/?name=On Line&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:25461/regis/12345/11548
-#EXTINF:-1,DISCOVERY CHANNEL HD
-plugin://plugin.video.f4mTester/?name=On Line&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:25461/regis/12345/6132
-#EXTINF:-1,Discovery Channel HD [Alternativo]
-plugin://plugin.video.f4mTester/?name=On Line&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:25461/regis/12345/11070
-#EXTINF:-1,DISCOVERY CHANNEL HD*
-plugin://plugin.video.f4mTester/?name=On Line&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:25461/regis/12345/20824
-#EXTINF:-1,DISCOVERY CHANNEL SD
-plugin://plugin.video.f4mTester/?name=On Line&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:25461/regis/12345/4390
-#EXTINF:-1,DISCOVERY CHANNEL SD [Alternativo]
-plugin://plugin.video.f4mTester/?name=On Line&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:25461/regis/12345/11273
-#EXTINF:-1,DISCOVERY CHANNEL SD*
-plugin://plugin.video.f4mTester/?name=On Line&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:25461/regis/12345/20825
-#EXTINF:-1,HGTV SD [Alternativo]
-plugin://plugin.video.f4mTester/?name=On Line&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:25461/regis/12345/11271
-#EXTINF:-1,HGTV FHD (DUAL AUDIO)
-plugin://plugin.video.f4mTester/?name=On Line&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:25461/regis/12345/13208
-#EXTINF:-1,HGTV HD
-plugin://plugin.video.f4mTester/?name=On Line&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:25461/regis/12345/7862
-#EXTINF:-1,HGTV HD [Alternativo]
-plugin://plugin.video.f4mTester/?name=On Line&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:25461/regis/12345/11069
-#EXTINF:-1,HGTV HD*
-plugin://plugin.video.f4mTester/?name=On Line&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:25461/regis/12345/20820
-#EXTINF:-1,HGTV SD
-plugin://plugin.video.f4mTester/?name=On Line&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:25461/regis/12345/10236
-#EXTINF:-1,DISCOVERY HOME & HEALTH FHD (DUAL AUDIO)
-plugin://plugin.video.f4mTester/?name=On Line&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:25461/regis/12345/11533
-#EXTINF:-1,DISCOVERY HOME & HEALTH HD
-plugin://plugin.video.f4mTester/?name=On Line&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:25461/regis/12345/6131
-#EXTINF:-1,Discovery Home & Health HD [Alternativo]
-plugin://plugin.video.f4mTester/?name=On Line&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:25461/regis/12345/11068
-#EXTINF:-1,DISCOVERY HOME & HEALTH HD*
-plugin://plugin.video.f4mTester/?name=On Line&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:25461/regis/12345/20813
-#EXTINF:-1,DISCOVERY HOME & HEALTH SD
-plugin://plugin.video.f4mTester/?name=On Line&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:25461/regis/12345/4389
-#EXTINF:-1,Discovery Home & Health SD [Alternativo]
-plugin://plugin.video.f4mTester/?name=On Line&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:25461/regis/12345/11270
-#EXTINF:-1,DISCOVERY HOME & HELTH SD*
-plugin://plugin.video.f4mTester/?name=On Line&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:25461/regis/12345/20814
-#EXTINF:-1,DISCOVERY KIDS FHD (DUAL AUDIO)
-plugin://plugin.video.f4mTester/?name=On Line&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:25461/regis/12345/11532
-#EXTINF:-1,DISCOVERY KIDS HD
-plugin://plugin.video.f4mTester/?name=On Line&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:25461/regis/12345/7538
-#EXTINF:-1,Discovery Kids HD [Alternativo]
-plugin://plugin.video.f4mTester/?name=On Line&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:25461/regis/12345/11067
-#EXTINF:-1,DISCOVERY KIDS HD*
-plugin://plugin.video.f4mTester/?name=On Line&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:25461/regis/12345/20816
-#EXTINF:-1,DISCOVERY KIDS SD
-plugin://plugin.video.f4mTester/?name=On Line&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:25461/regis/12345/4388
-#EXTINF:-1,DISCOVERY KIDS SD [Alternativo]
-plugin://plugin.video.f4mTester/?name=On Line&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:25461/regis/12345/11269
-#EXTINF:-1,DISCOVERY KIDS SD*
-plugin://plugin.video.f4mTester/?name=On Line&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:25461/regis/12345/20818
-#EXTINF:-1,DISCOVERY SCIENCE FHD (DUAL ADUIO)
-plugin://plugin.video.f4mTester/?name=On Line&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:25461/regis/12345/13206
-#EXTINF:-1,DISCOVERY SCIENCE HD
-plugin://plugin.video.f4mTester/?name=On Line&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:25461/regis/12345/7861
-#EXTINF:-1,Discovery Science HD [Alternativo]
-plugin://plugin.video.f4mTester/?name=On Line&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:25461/regis/12345/11066
-#EXTINF:-1,DISCOVERY SCIENCE HD*
-plugin://plugin.video.f4mTester/?name=On Line&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:25461/regis/12345/20811
-#EXTINF:-1,DISCOVERY SCIENCE SD
-plugin://plugin.video.f4mTester/?name=On Line&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:25461/regis/12345/10237
-#EXTINF:-1,DISCOVERY SCIENCE SD [Alternativo]
-plugin://plugin.video.f4mTester/?name=On Line&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:25461/regis/12345/11272
-#EXTINF:-1,DISCOVERY THEATER FHD (DUAL AUDIO)
-plugin://plugin.video.f4mTester/?name=On Line&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:25461/regis/12345/11530
-#EXTINF:-1,DISCOVERY THEATER HD
-plugin://plugin.video.f4mTester/?name=On Line&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:25461/regis/12345/6130
-#EXTINF:-1,Discovery Theater HD [Alternativo]
-plugin://plugin.video.f4mTester/?name=On Line&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:25461/regis/12345/11065
-#EXTINF:-1,DISCOVERY THEATER HD*
-plugin://plugin.video.f4mTester/?name=On Line&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:25461/regis/12345/20806
-#EXTINF:-1,DISCOVERY THEATER SD
-plugin://plugin.video.f4mTester/?name=On Line&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:25461/regis/12345/10289
-#EXTINF:-1,DISCOVERY THEATER SD [Alternativo]
-plugin://plugin.video.f4mTester/?name=On Line&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:25461/regis/12345/11268
-#EXTINF:-1,DISCOVERY TURBO FHD (DUAL AUDIO)
-plugin://plugin.video.f4mTester/?name=On Line&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:25461/regis/12345/11531
-#EXTINF:-1,DISCOVERY TURBO HD
-plugin://plugin.video.f4mTester/?name=On Line&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:25461/regis/12345/6877
-#EXTINF:-1,Discovery Turbo HD [Alternativo]
-plugin://plugin.video.f4mTester/?name=On Line&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:25461/regis/12345/11064
-#EXTINF:-1,DISCOVERY TURBO HD*
-plugin://plugin.video.f4mTester/?name=On Line&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:25461/regis/12345/20808
-#EXTINF:-1,DISCOVERY TURBO SD
-plugin://plugin.video.f4mTester/?name=On Line&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:25461/regis/12345/4386
-#EXTINF:-1,DISCOVERY TURBO SD [Alternativo]
-plugin://plugin.video.f4mTester/?name=On Line&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:25461/regis/12345/11267
-#EXTINF:-1,DISCOVERY TURBO SD*
-plugin://plugin.video.f4mTester/?name=On Line&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:25461/regis/12345/20809
-#EXTINF:-1,DISCOVERY WORLD HD
-plugin://plugin.video.f4mTester/?name=On Line&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:25461/regis/12345/6128
-#EXTINF:-1,Discovery World HD [Alternativo]
-plugin://plugin.video.f4mTester/?name=On Line&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:25461/regis/12345/11063
-#EXTINF:-1,DISCOVERY WORLD HD*
-plugin://plugin.video.f4mTester/?name=On Line&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:25461/regis/12345/20801
-#EXTINF:-1,DISCOVERY WORLD SD
-plugin://plugin.video.f4mTester/?name=On Line&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:25461/regis/12345/10288
-#EXTINF:-1,DISCOVERY WORLD SD [Alternativo]
-plugin://plugin.video.f4mTester/?name=On Line&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:25461/regis/12345/11266
-#EXTINF:-1,DISNEY CHANNEL FHD (DUAL AUDIO)
-plugin://plugin.video.f4mTester/?name=On Line&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:25461/regis/12345/11546
-#EXTINF:-1,DISNEY CHANNEL HD
-plugin://plugin.video.f4mTester/?name=On Line&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:25461/regis/12345/7902
-#EXTINF:-1,Disney Channel HD [Alternativo]
-plugin://plugin.video.f4mTester/?name=On Line&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:25461/regis/12345/11062
-#EXTINF:-1,DISNEY CHANNEL HD*
-plugin://plugin.video.f4mTester/?name=On Line&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:25461/regis/12345/20797
-#EXTINF:-1,DISNEY CHANNEL SD
-plugin://plugin.video.f4mTester/?name=On Line&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:25461/regis/12345/4385
-#EXTINF:-1,DISNEY CHANNEL SD [Alternativo]
-plugin://plugin.video.f4mTester/?name=On Line&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:25461/regis/12345/11265
-#EXTINF:-1,DISNEY CHANNEL SD*
-plugin://plugin.video.f4mTester/?name=On Line&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:25461/regis/12345/20799
-#EXTINF:-1,DISNEY JUNIOR FHD (DUAL AUDIO)
-plugin://plugin.video.f4mTester/?name=On Line&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:25461/regis/12345/13207
-#EXTINF:-1,DISNEY JUNIOR HD
-plugin://plugin.video.f4mTester/?name=On Line&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:25461/regis/12345/10286
-#EXTINF:-1,Disney Junior HD [Alternativo]
-plugin://plugin.video.f4mTester/?name=On Line&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:25461/regis/12345/11061
-#EXTINF:-1,DISNEY JUNIOR HD*
-plugin://plugin.video.f4mTester/?name=On Line&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:25461/regis/12345/20794
-#EXTINF:-1,DISNEY JUNIOR SD
-plugin://plugin.video.f4mTester/?name=On Line&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:25461/regis/12345/4384
-#EXTINF:-1,DISNEY JUNIOR SD [Alternativo]
-plugin://plugin.video.f4mTester/?name=On Line&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:25461/regis/12345/11264
-#EXTINF:-1,DISNEY JUNIOR SD*
-plugin://plugin.video.f4mTester/?name=On Line&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:25461/regis/12345/20795
-#EXTINF:-1,Disney XD [Alternativo]
-plugin://plugin.video.f4mTester/?name=On Line&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:25461/regis/12345/11060
-#EXTINF:-1,DISNEY XD HD
-plugin://plugin.video.f4mTester/?name=On Line&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:25461/regis/12345/20791
-#EXTINF:-1,DISNEY XD SD
-plugin://plugin.video.f4mTester/?name=On Line&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:25461/regis/12345/4383
-#EXTINF:-1,DISNEY XD SD*
-plugin://plugin.video.f4mTester/?name=On Line&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:25461/regis/12345/20792
-#EXTINF:-1,DOG TV HD
-plugin://plugin.video.f4mTester/?name=On Line&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:25461/regis/12345/11204
-#EXTINF:-1,DOUG
-plugin://plugin.video.f4mTester/?name=On Line&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:25461/regis/12345/33706
-#EXTINF:-1,DRAGON BALL CLASSICO
-plugin://plugin.video.f4mTester/?name=On Line&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:25461/regis/12345/33705
-#EXTINF:-1,DRAGON BALL SUPER
-plugin://plugin.video.f4mTester/?name=On Line&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:25461/regis/12345/33704
-#EXTINF:-1,DRAGON BALL Z
-plugin://plugin.video.f4mTester/?name=On Line&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:25461/regis/12345/33703
-#EXTINF:-1,DW ALEMANHA HD
-plugin://plugin.video.f4mTester/?name=On Line&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:25461/regis/12345/20790
-#EXTINF:-1,DW SD
-plugin://plugin.video.f4mTester/?name=On Line&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:25461/regis/12345/4425
-#EXTINF:-1,E! HD
-plugin://plugin.video.f4mTester/?name=On Line&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:25461/regis/12345/10285
-#EXTINF:-1,E! HD*
-plugin://plugin.video.f4mTester/?name=On Line&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:25461/regis/12345/20788
-#EXTINF:-1,E! SD
-plugin://plugin.video.f4mTester/?name=On Line&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:25461/regis/12345/4382
-#EXTINF:-1,E! SD*
-plugin://plugin.video.f4mTester/?name=On Line&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:25461/regis/12345/20789
-#EXTINF:-1,EI PLUS 1 HD
-plugin://plugin.video.f4mTester/?name=On Line&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:25461/regis/12345/32162
-#EXTINF:-1,EI PLUS 2 HD
-plugin://plugin.video.f4mTester/?name=On Line&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:25461/regis/12345/33613
-#EXTINF:-1,EI PLUS 3 HD
-plugin://plugin.video.f4mTester/?name=On Line&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:25461/regis/12345/32163
-#EXTINF:-1,EI PLUS 4 HD
-plugin://plugin.video.f4mTester/?name=On Line&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:25461/regis/12345/24835
-#EXTINF:-1,ELEVEN SPORT 1  HD (Liga dos Campeões)
-plugin://plugin.video.f4mTester/?name=On Line&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:25461/regis/12345/30761
-#EXTINF:-1,ELEVEN SPORTS 1 (Liga dos Campeões)
-plugin://plugin.video.f4mTester/?name=On Line&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:25461/regis/12345/30760
-#EXTINF:-1,ELEVEN SPORTS 1 FHD (Liga dos Campeões)
-plugin://plugin.video.f4mTester/?name=On Line&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:25461/regis/12345/30762
-#EXTINF:-1,ELEVEN SPORTS 2 FHD (Liga dos Campeões)
-plugin://plugin.video.f4mTester/?name=On Line&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:25461/regis/12345/30758
-#EXTINF:-1,ELEVEN SPORTS 2 HD (Liga dos Campeões)
-plugin://plugin.video.f4mTester/?name=On Line&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:25461/regis/12345/30757
-#EXTINF:-1,ELEVEN SPORTS 3 HD (Liga dos Campeões)
-plugin://plugin.video.f4mTester/?name=On Line&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:25461/regis/12345/30755
-#EXTINF:-1,ELEVEN SPORTS 4 HD (Liga dos Campeões)
-plugin://plugin.video.f4mTester/?name=On Line&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:25461/regis/12345/30753
-#EXTINF:-1,ELEVEN SPORTS 5 HD (Liga dos Campeões)
-plugin://plugin.video.f4mTester/?name=On Line&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:25461/regis/12345/30752
-#EXTINF:-1,ELEVEN SPORTS 6 HD (Liga dos Campeões)
-plugin://plugin.video.f4mTester/?name=On Line&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:25461/regis/12345/30751
-#EXTINF:-1,ESPN 2 FHD (DUAL AUDIO)
-plugin://plugin.video.f4mTester/?name=On Line&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:25461/regis/12345/11521
-#EXTINF:-1,ESPN 2 HD
-plugin://plugin.video.f4mTester/?name=On Line&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:25461/regis/12345/6143
-#EXTINF:-1,ESPN 2 SD
-plugin://plugin.video.f4mTester/?name=On Line&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:25461/regis/12345/7988
-#EXTINF:-1,ESPN 4K
-plugin://plugin.video.f4mTester/?name=On Line&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:25461/regis/12345/33766
-#EXTINF:-1,ESPN BRASIL FHD (DUAL AUDIO)
-plugin://plugin.video.f4mTester/?name=On Line&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:25461/regis/12345/11557
-#EXTINF:-1,ESPN BRASIL HD
-plugin://plugin.video.f4mTester/?name=On Line&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:25461/regis/12345/6124
-#EXTINF:-1,ESPN Brasil HD [Alternativo]
-plugin://plugin.video.f4mTester/?name=On Line&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:25461/regis/12345/11057
-#EXTINF:-1,ESPN BRASIL HD*
-plugin://plugin.video.f4mTester/?name=On Line&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:25461/regis/12345/20783
-#EXTINF:-1,ESPN BRASIL SD
-plugin://plugin.video.f4mTester/?name=On Line&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:25461/regis/12345/4380
-#EXTINF:-1,ESPN BRASIL SD [Alternativo]
-plugin://plugin.video.f4mTester/?name=On Line&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:25461/regis/12345/11258
-#EXTINF:-1,ESPN BRASIL SD*
-plugin://plugin.video.f4mTester/?name=On Line&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:25461/regis/12345/20784
-#EXTINF:-1,ESPN EXTRA HD
-plugin://plugin.video.f4mTester/?name=On Line&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:25461/regis/12345/24788
-#EXTINF:-1,ESPN FHD (DUAL AUDIO)
-plugin://plugin.video.f4mTester/?name=On Line&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:25461/regis/12345/11545
-#EXTINF:-1,ESPN HD
-plugin://plugin.video.f4mTester/?name=On Line&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:25461/regis/12345/6127
-#EXTINF:-1,ESPN HD*
-plugin://plugin.video.f4mTester/?name=On Line&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:25461/regis/12345/20779
-#EXTINF:-1,ESPN SD
-plugin://plugin.video.f4mTester/?name=On Line&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:25461/regis/12345/4381
-#EXTINF:-1,ESPN SD [Alternativo]
-plugin://plugin.video.f4mTester/?name=On Line&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:25461/regis/12345/11259
-#EXTINF:-1,ESPN SD*
-plugin://plugin.video.f4mTester/?name=On Line&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:25461/regis/12345/20780
-#EXTINF:-1,ESPORTES 3 SD
-plugin://plugin.video.f4mTester/?name=On Line&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:25461/regis/12345/30244
-#EXTINF:-1,Eu a Patroa e as Crianças 24hs
-plugin://plugin.video.f4mTester/?name=On Line&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:25461/regis/12345/33730
-#EXTINF:-1,FILM&ARTS SD
-plugin://plugin.video.f4mTester/?name=On Line&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:25461/regis/12345/11180
-#EXTINF:-1,FISH TV HD
-plugin://plugin.video.f4mTester/?name=On Line&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:25461/regis/12345/20773
-#EXTINF:-1,FISH TV SD
-plugin://plugin.video.f4mTester/?name=On Line&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:25461/regis/12345/4377
-#EXTINF:-1,FISH TV SD [Alternativo]
-plugin://plugin.video.f4mTester/?name=On Line&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:25461/regis/12345/11255
-#EXTINF:-1,FOOD NETWORK FHD
-plugin://plugin.video.f4mTester/?name=On Line&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:25461/regis/12345/13196
-#EXTINF:-1,FOOD NETWORK HD
-plugin://plugin.video.f4mTester/?name=On Line&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:25461/regis/12345/7534
-#EXTINF:-1,FOOD NETWORK HD*
-plugin://plugin.video.f4mTester/?name=On Line&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:25461/regis/12345/20756
-#EXTINF:-1,FOOD NETWORK SD
-plugin://plugin.video.f4mTester/?name=On Line&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:25461/regis/12345/6959
-#EXTINF:-1,FOOD NETWORK SD*
-plugin://plugin.video.f4mTester/?name=On Line&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:25461/regis/12345/20757
-#EXTINF:-1,FORMIGA ATOMICA
-plugin://plugin.video.f4mTester/?name=On Line&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:25461/regis/12345/33702
-#EXTINF:-1,FOX FHD (DUAL AUDIO)
-plugin://plugin.video.f4mTester/?name=On Line&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:25461/regis/12345/9141
-#EXTINF:-1,FOX HD
-plugin://plugin.video.f4mTester/?name=On Line&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:25461/regis/12345/6122
-#EXTINF:-1,FOX HD [Alternativo]
-plugin://plugin.video.f4mTester/?name=On Line&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:25461/regis/12345/11053
-#EXTINF:-1,FOX HD*
-plugin://plugin.video.f4mTester/?name=On Line&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:25461/regis/12345/20759
-#EXTINF:-1,FOX LIFE FHD
-plugin://plugin.video.f4mTester/?name=On Line&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:25461/regis/12345/25009
-#EXTINF:-1,FOX LIFE HD
-plugin://plugin.video.f4mTester/?name=On Line&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:25461/regis/12345/6876
-#EXTINF:-1,FOX Life HD [Alternativo]
-plugin://plugin.video.f4mTester/?name=On Line&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:25461/regis/12345/11052
-#EXTINF:-1,FOX LIFE HD*
-plugin://plugin.video.f4mTester/?name=On Line&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:25461/regis/12345/20761
-#EXTINF:-1,FOX LIFE SD
-plugin://plugin.video.f4mTester/?name=On Line&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:25461/regis/12345/4374
-#EXTINF:-1,FOX Life SD [Alternativo]
-plugin://plugin.video.f4mTester/?name=On Line&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:25461/regis/12345/11252
-#EXTINF:-1,FOX LIFE SD*
-plugin://plugin.video.f4mTester/?name=On Line&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:25461/regis/12345/20762
-#EXTINF:-1,FOX NEWS SD
-plugin://plugin.video.f4mTester/?name=On Line&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:25461/regis/12345/6835
-#EXTINF:-1,FOX PREMIUM 1 HD
-plugin://plugin.video.f4mTester/?name=On Line&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:25461/regis/12345/10279
-#EXTINF:-1,FOX Premium 1 HD [Alternativo]
-plugin://plugin.video.f4mTester/?name=On Line&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:25461/regis/12345/11050
-#EXTINF:-1,FOX PREMIUM 1 HD*
-plugin://plugin.video.f4mTester/?name=On Line&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:25461/regis/12345/20763
-#EXTINF:-1,Fox Premium 1 SD [Alternativo]
-plugin://plugin.video.f4mTester/?name=On Line&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:25461/regis/12345/11251
-#EXTINF:-1,FOX PREMIUM 2 FHD (DUAL AUDIO)
-plugin://plugin.video.f4mTester/?name=On Line&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:25461/regis/12345/11529
-#EXTINF:-1,FOX PREMIUM 2 HD
-plugin://plugin.video.f4mTester/?name=On Line&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:25461/regis/12345/10278
-#EXTINF:-1,FOX Premium 2 HD [Alternativo]
-plugin://plugin.video.f4mTester/?name=On Line&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:25461/regis/12345/11051
-#EXTINF:-1,FOX PREMIUM 2 HD*
-plugin://plugin.video.f4mTester/?name=On Line&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:25461/regis/12345/20764
-#EXTINF:-1,Fox Premium 2 SD [Alternativo]
-plugin://plugin.video.f4mTester/?name=On Line&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:25461/regis/12345/11250
-#EXTINF:-1,FOX SD
-plugin://plugin.video.f4mTester/?name=On Line&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:25461/regis/12345/4375
-#EXTINF:-1,FOX SD [Alternativo]
-plugin://plugin.video.f4mTester/?name=On Line&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:25461/regis/12345/11253
-#EXTINF:-1,FOX SD*
-plugin://plugin.video.f4mTester/?name=On Line&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:25461/regis/12345/20760
-#EXTINF:-1,FOX SPORTS 2 4K
-plugin://plugin.video.f4mTester/?name=On Line&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:25461/regis/12345/33763
-#EXTINF:-1,FOX SPORTS 2 FHD (DUAL ALDIO)
-plugin://plugin.video.f4mTester/?name=On Line&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:25461/regis/12345/8151
-#EXTINF:-1,FOX SPORTS 2 HD
-plugin://plugin.video.f4mTester/?name=On Line&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:25461/regis/12345/6117
-#EXTINF:-1,FOX Sports 2 HD [Alternativo]
-plugin://plugin.video.f4mTester/?name=On Line&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:25461/regis/12345/11049
-#EXTINF:-1,FOX SPORTS 2 HD*
-plugin://plugin.video.f4mTester/?name=On Line&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:25461/regis/12345/20767
-#EXTINF:-1,FOX SPORTS 2 SD
-plugin://plugin.video.f4mTester/?name=On Line&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:25461/regis/12345/4372
-#EXTINF:-1,Fox Sports 2 SD [Alternativo]
-plugin://plugin.video.f4mTester/?name=On Line&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:25461/regis/12345/11248
-#EXTINF:-1,FOX SPORTS 2 SD*
-plugin://plugin.video.f4mTester/?name=On Line&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:25461/regis/12345/20768
-#EXTINF:-1,FOX SPORTS 4K
-plugin://plugin.video.f4mTester/?name=On Line&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:25461/regis/12345/33756
-#EXTINF:-1,FOX SPORTS FHD (DUAL AUDIO)
-plugin://plugin.video.f4mTester/?name=On Line&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:25461/regis/12345/11556
-#EXTINF:-1,FOX SPORTS HD
-plugin://plugin.video.f4mTester/?name=On Line&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:25461/regis/12345/6118
-#EXTINF:-1,Fox Sports HD [Alternativo]
-plugin://plugin.video.f4mTester/?name=On Line&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:25461/regis/12345/11048
-#EXTINF:-1,FOX SPORTS HD*
-plugin://plugin.video.f4mTester/?name=On Line&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:25461/regis/12345/20771
-#EXTINF:-1,FOX SPORTS SD
-plugin://plugin.video.f4mTester/?name=On Line&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:25461/regis/12345/4373
-#EXTINF:-1,Fox Sports SD [Alternativo]
-plugin://plugin.video.f4mTester/?name=On Line&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:25461/regis/12345/11249
-#EXTINF:-1,FOX SPORTS SD*
-plugin://plugin.video.f4mTester/?name=On Line&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:25461/regis/12345/20772
-#EXTINF:-1,FUTURA SD
-plugin://plugin.video.f4mTester/?name=On Line&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:25461/regis/12345/10277
-#EXTINF:-1,FUTURA SD*
-plugin://plugin.video.f4mTester/?name=On Line&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:25461/regis/12345/20753
-#EXTINF:-1,FX FHD (DUAL AUDIO)
-plugin://plugin.video.f4mTester/?name=On Line&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:25461/regis/12345/13199
-#EXTINF:-1,FX HD
-plugin://plugin.video.f4mTester/?name=On Line&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:25461/regis/12345/6116
-#EXTINF:-1,FX HD [Alternativo]
-plugin://plugin.video.f4mTester/?name=On Line&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:25461/regis/12345/11047
-#EXTINF:-1,FX HD*
-plugin://plugin.video.f4mTester/?name=On Line&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:25461/regis/12345/20775
-#EXTINF:-1,FX SD
-plugin://plugin.video.f4mTester/?name=On Line&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:25461/regis/12345/4371
-#EXTINF:-1,FX SD [Alternativo]
-plugin://plugin.video.f4mTester/?name=On Line&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:25461/regis/12345/11246
-#EXTINF:-1,FX SD*
-plugin://plugin.video.f4mTester/?name=On Line&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:25461/regis/12345/20777
-#EXTINF:-1,Galinha Pintadinha 24hs
-plugin://plugin.video.f4mTester/?name=On Line&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:25461/regis/12345/33731
-#EXTINF:-1,GLOBO 4K
-plugin://plugin.video.f4mTester/?name=On Line&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:25461/regis/12345/33749
-#EXTINF:-1,GLOBO GOIAS FHD
-plugin://plugin.video.f4mTester/?name=On Line&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:25461/regis/12345/21985
-#EXTINF:-1,GLOBO BAHIA SD
-plugin://plugin.video.f4mTester/?name=On Line&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:25461/regis/12345/7539
-#EXTINF:-1,GLOBO BRASILIA HD
-plugin://plugin.video.f4mTester/?name=On Line&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:25461/regis/12345/10239
-#EXTINF:-1,GLOBO BRASILIA SD
-plugin://plugin.video.f4mTester/?name=On Line&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:25461/regis/12345/7530
-#EXTINF:-1,GLOBO BRASILIA SD*
-plugin://plugin.video.f4mTester/?name=On Line&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:25461/regis/12345/22769
-#EXTINF:-1,GLOBO EPTV CAMPINAS SD
-plugin://plugin.video.f4mTester/?name=On Line&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:25461/regis/12345/10234
-#EXTINF:-1,GLOBO EPTV CAMPINAS SD
-plugin://plugin.video.f4mTester/?name=On Line&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:25461/regis/12345/7932
-#EXTINF:-1,GLOBO EPTV CAMPINAS SD*
-plugin://plugin.video.f4mTester/?name=On Line&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:25461/regis/12345/22767
-#EXTINF:-1,GLOBO EPTV RIBEIRAO PRETO SD
-plugin://plugin.video.f4mTester/?name=On Line&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:25461/regis/12345/9471
-#EXTINF:-1,GLOBO EPTV RIBEIRAO PRETO SD*
-plugin://plugin.video.f4mTester/?name=On Line&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:25461/regis/12345/22765
-#EXTINF:-1,GLOBO EPTV RIBERAO PRETO SD
-plugin://plugin.video.f4mTester/?name=On Line&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:25461/regis/12345/33271
-#EXTINF:-1,GLOBO EPTV SAO CARLOS SD
-plugin://plugin.video.f4mTester/?name=On Line&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:25461/regis/12345/22766
-#EXTINF:-1,GLOBO VERDES MARES FHD
-plugin://plugin.video.f4mTester/?name=On Line&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:25461/regis/12345/32807
-#EXTINF:-1,GLOBO GAZETA SUL ES HD
-plugin://plugin.video.f4mTester/?name=On Line&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:25461/regis/12345/33612
-#EXTINF:-1,GLOBO GAZETA SUL ES SD
-plugin://plugin.video.f4mTester/?name=On Line&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:25461/regis/12345/33611
-#EXTINF:-1,GLOBO INTER TV CABUGI HD
-plugin://plugin.video.f4mTester/?name=On Line&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:25461/regis/12345/33269
-#EXTINF:-1,GLOBO INTERNACIONAL
-plugin://plugin.video.f4mTester/?name=On Line&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:25461/regis/12345/24928
-#EXTINF:-1,GLOBO INTERTV CABUGI SD
-plugin://plugin.video.f4mTester/?name=On Line&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:25461/regis/12345/22763
-#EXTINF:-1,GLOBO MATO GROSSO HD
-plugin://plugin.video.f4mTester/?name=On Line&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:25461/regis/12345/20595
-#EXTINF:-1,GLOBO MINAS HD
-plugin://plugin.video.f4mTester/?name=On Line&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:25461/regis/12345/7528
-#EXTINF:-1,GLOBO MINAS HD*
-plugin://plugin.video.f4mTester/?name=On Line&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:25461/regis/12345/22760
-#EXTINF:-1,GLOBO MINAS SD
-plugin://plugin.video.f4mTester/?name=On Line&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:25461/regis/12345/10276
-#EXTINF:-1,GLOBO MINAS SD*
-plugin://plugin.video.f4mTester/?name=On Line&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:25461/regis/12345/22761
-#EXTINF:-1,GLOBO NEWS FHD (DUAL AUDIO)
-plugin://plugin.video.f4mTester/?name=On Line&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:25461/regis/12345/25010
-#EXTINF:-1,GLOBO NEWS HD
-plugin://plugin.video.f4mTester/?name=On Line&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:25461/regis/12345/7442
-#EXTINF:-1,GLOBO NEWS HD*
-plugin://plugin.video.f4mTester/?name=On Line&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:25461/regis/12345/11043
-#EXTINF:-1,GLOBO NEWS SD
-plugin://plugin.video.f4mTester/?name=On Line&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:25461/regis/12345/4432
-#EXTINF:-1,GLOBO NEWS SD*
-plugin://plugin.video.f4mTester/?name=On Line&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:25461/regis/12345/11243
-#EXTINF:-1,GLOBO NORDESTE SD
-plugin://plugin.video.f4mTester/?name=On Line&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:25461/regis/12345/7527
-#EXTINF:-1,GLOBO NORDESTE HD
-plugin://plugin.video.f4mTester/?name=On Line&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:25461/regis/12345/33266
-#EXTINF:-1,GLOBO MATO GROSSO FHD
-plugin://plugin.video.f4mTester/?name=On Line&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:25461/regis/12345/31116
-#EXTINF:-1,Globo NSC Florianopolis HD
-plugin://plugin.video.f4mTester/?name=On Line&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:25461/regis/12345/30227
-#EXTINF:-1,GLOBO RBS FHD
-plugin://plugin.video.f4mTester/?name=On Line&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:25461/regis/12345/31110
-#EXTINF:-1,GLOBO MINAS FHD
-plugin://plugin.video.f4mTester/?name=On Line&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:25461/regis/12345/31114
-#EXTINF:-1,GLOBO NSCTV SANTA CATARINA HD
-plugin://plugin.video.f4mTester/?name=On Line&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:25461/regis/12345/33294
-#EXTINF:-1,GLOBO TV MIRANTE MARANHAO FHD
-plugin://plugin.video.f4mTester/?name=On Line&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:25461/regis/12345/33282
-#EXTINF:-1,GLOBO RBS HD
-plugin://plugin.video.f4mTester/?name=On Line&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:25461/regis/12345/33287
-#EXTINF:-1,GLOBO RBS TV POA HD
-plugin://plugin.video.f4mTester/?name=On Line&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:25461/regis/12345/25007
-#EXTINF:-1,GLOBO NORDESTE FHD
-plugin://plugin.video.f4mTester/?name=On Line&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:25461/regis/12345/25011
-#EXTINF:-1,GLOBO RBS TV PORTO ALEGRE SD
-plugin://plugin.video.f4mTester/?name=On Line&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:25461/regis/12345/33265
-#EXTINF:-1,GLOBO REDE AMAZONICA MANAUS SD
-plugin://plugin.video.f4mTester/?name=On Line&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:25461/regis/12345/33264
-#EXTINF:-1,GLOBO FHD
-plugin://plugin.video.f4mTester/?name=On Line&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:25461/regis/12345/30230
-#EXTINF:-1,GLOBO RJ HD
-plugin://plugin.video.f4mTester/?name=On Line&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:25461/regis/12345/6113
-#EXTINF:-1,Globo RJ HD [Alternativo]
-plugin://plugin.video.f4mTester/?name=On Line&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:25461/regis/12345/11041
-#EXTINF:-1,GLOBO RJ HD*
-plugin://plugin.video.f4mTester/?name=On Line&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:25461/regis/12345/22756
-#EXTINF:-1,GLOBO RJ SD
-plugin://plugin.video.f4mTester/?name=On Line&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:25461/regis/12345/7547
-#EXTINF:-1,Globo RJ SD [Alternativo]
-plugin://plugin.video.f4mTester/?name=On Line&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:25461/regis/12345/11239
-#EXTINF:-1,GLOBO RJ SD*
-plugin://plugin.video.f4mTester/?name=On Line&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:25461/regis/12345/22753
-#EXTINF:-1,GLOBO RPC CURITIBA HD
-plugin://plugin.video.f4mTester/?name=On Line&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:25461/regis/12345/22750
-#EXTINF:-1,RPC HD
-plugin://plugin.video.f4mTester/?name=On Line&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:25461/regis/12345/11201
-#EXTINF:-1,GLOBO RPC TV CURITIBA SD
-plugin://plugin.video.f4mTester/?name=On Line&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:25461/regis/12345/33258
-#EXTINF:-1,GLOBO SOROCABA SD
-plugin://plugin.video.f4mTester/?name=On Line&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:25461/regis/12345/7684
-#EXTINF:-1,GLOBO SP HD
-plugin://plugin.video.f4mTester/?name=On Line&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:25461/regis/12345/7529
-#EXTINF:-1,Globo SP HD [Alternativo]
-plugin://plugin.video.f4mTester/?name=On Line&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:25461/regis/12345/11039
-#EXTINF:-1,GLOBO SP HD*
-plugin://plugin.video.f4mTester/?name=On Line&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:25461/regis/12345/22755
-#EXTINF:-1,GLOBO SP SD
-plugin://plugin.video.f4mTester/?name=On Line&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:25461/regis/12345/4431
-#EXTINF:-1,Globo SP SD [Alternativo]
-plugin://plugin.video.f4mTester/?name=On Line&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:25461/regis/12345/11237
-#EXTINF:-1,GLOBO SP SD*
-plugin://plugin.video.f4mTester/?name=On Line&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:25461/regis/12345/22757
-#EXTINF:-1,GLOBO TV ANHANGUERA FHD
-plugin://plugin.video.f4mTester/?name=On Line&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:25461/regis/12345/33286
-#EXTINF:-1,GLOBO TV ANHANGUERA HD
-plugin://plugin.video.f4mTester/?name=On Line&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:25461/regis/12345/22004
-#EXTINF:-1,GLOBO TV BAHIA SD
-plugin://plugin.video.f4mTester/?name=On Line&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:25461/regis/12345/33261
-#EXTINF:-1,GLOBO TV CAMBUGI SD
-plugin://plugin.video.f4mTester/?name=On Line&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:25461/regis/12345/20533
-#EXTINF:-1,GLOBO TV CENTRO AMERICA CUIABA SD
-plugin://plugin.video.f4mTester/?name=On Line&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:25461/regis/12345/22017
-#EXTINF:-1,GLOBO NSC FLORIANOPOLIS FHD
-plugin://plugin.video.f4mTester/?name=On Line&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:25461/regis/12345/32806
-#EXTINF:-1,GLOBO TV GAZETA ES HD
-plugin://plugin.video.f4mTester/?name=On Line&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:25461/regis/12345/24959
-#EXTINF:-1,GLOBO TV GAZETA ES SD
-plugin://plugin.video.f4mTester/?name=On Line&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:25461/regis/12345/24958
-#EXTINF:-1,GLOBO TV MIRANTE COCAIS SD
-plugin://plugin.video.f4mTester/?name=On Line&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:25461/regis/12345/22744
-#EXTINF:-1,GLOBO TV Morena Ponta Pora HD
-plugin://plugin.video.f4mTester/?name=On Line&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:25461/regis/12345/22734
-#EXTINF:-1,GLOBO TV SANTA CRUZ SD
-plugin://plugin.video.f4mTester/?name=On Line&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:25461/regis/12345/10238
-#EXTINF:-1,GLOBO TV SERGIPE HD
-plugin://plugin.video.f4mTester/?name=On Line&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:25461/regis/12345/24750
-#EXTINF:-1,GLOBO TV TEM BAURU SD
-plugin://plugin.video.f4mTester/?name=On Line&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:25461/regis/12345/9465
-#EXTINF:-1,GLOBO TV TEM BAURU SD*
-plugin://plugin.video.f4mTester/?name=On Line&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:25461/regis/12345/22738
-#EXTINF:-1,GLOBO TV TEM SOROCABA SD*
-plugin://plugin.video.f4mTester/?name=On Line&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:25461/regis/12345/22737
-#EXTINF:-1,GLOBO TV TRIBUNA SANTOS SD
-plugin://plugin.video.f4mTester/?name=On Line&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:25461/regis/12345/22732
-#EXTINF:-1,GLOBO TV VANGUARDA SJ DOS CAMPOS SD
-plugin://plugin.video.f4mTester/?name=On Line&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:25461/regis/12345/22735
-#EXTINF:-1,GLOBO TV VERDES MARES SD
-plugin://plugin.video.f4mTester/?name=On Line&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:25461/regis/12345/22733
-#EXTINF:-1,GLOBO VERDES MARES HD
-plugin://plugin.video.f4mTester/?name=On Line&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:25461/regis/12345/20623
-#EXTINF:-1,GLOOB HD
-plugin://plugin.video.f4mTester/?name=On Line&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:25461/regis/12345/7526
-#EXTINF:-1,Gloob HD [Alternativo]
-plugin://plugin.video.f4mTester/?name=On Line&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:25461/regis/12345/11037
-#EXTINF:-1,GLOOB HD*
-plugin://plugin.video.f4mTester/?name=On Line&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:25461/regis/12345/20749
-#EXTINF:-1,GLOOB SD
-plugin://plugin.video.f4mTester/?name=On Line&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:25461/regis/12345/4369
-#EXTINF:-1,Gloob SD [Alternativo]
-plugin://plugin.video.f4mTester/?name=On Line&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:25461/regis/12345/11232
-#EXTINF:-1,GLOOB SD*
-plugin://plugin.video.f4mTester/?name=On Line&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:25461/regis/12345/20750
-#EXTINF:-1,GLOOBINHO FHD (DUAL AUDIO)
-plugin://plugin.video.f4mTester/?name=On Line&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:25461/regis/12345/25013
-#EXTINF:-1,GLOOBINHO SD
-plugin://plugin.video.f4mTester/?name=On Line&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:25461/regis/12345/10270
-#EXTINF:-1,GLOOBINHO SD*
-plugin://plugin.video.f4mTester/?name=On Line&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:25461/regis/12345/20701
-#EXTINF:-1,GNT FHD
-plugin://plugin.video.f4mTester/?name=On Line&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:25461/regis/12345/31123
-#EXTINF:-1,GNT HD
-plugin://plugin.video.f4mTester/?name=On Line&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:25461/regis/12345/6956
-#EXTINF:-1,GNT HD*
-plugin://plugin.video.f4mTester/?name=On Line&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:25461/regis/12345/20752
-#EXTINF:-1,GNT SD
-plugin://plugin.video.f4mTester/?name=On Line&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:25461/regis/12345/4368
-#EXTINF:-1,GNT SD*
-plugin://plugin.video.f4mTester/?name=On Line&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:25461/regis/12345/20751
-#EXTINF:-1,GUARDIOES DA GALAXIA
-plugin://plugin.video.f4mTester/?name=On Line&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:25461/regis/12345/33701
-#EXTINF:-1,H2 FHD (DUAL AUDIO)
-plugin://plugin.video.f4mTester/?name=On Line&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:25461/regis/12345/13187
-#EXTINF:-1,H2 HD
-plugin://plugin.video.f4mTester/?name=On Line&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:25461/regis/12345/6111
-#EXTINF:-1,H2 HD [Alternativo]
-plugin://plugin.video.f4mTester/?name=On Line&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:25461/regis/12345/11036
-#EXTINF:-1,H2 HD*
-plugin://plugin.video.f4mTester/?name=On Line&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:25461/regis/12345/20698
-#EXTINF:-1,H2 SD
-plugin://plugin.video.f4mTester/?name=On Line&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:25461/regis/12345/4367
-#EXTINF:-1,H2 SD [Alternativo]
-plugin://plugin.video.f4mTester/?name=On Line&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:25461/regis/12345/11231
-#EXTINF:-1,H2 SD*
-plugin://plugin.video.f4mTester/?name=On Line&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:25461/regis/12345/20700
-#EXTINF:-1,HBO 2 FHD (DUAL AUDIO)
-plugin://plugin.video.f4mTester/?name=On Line&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:25461/regis/12345/11567
-#EXTINF:-1,HBO 2 HD
-plugin://plugin.video.f4mTester/?name=On Line&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:25461/regis/12345/6110
-#EXTINF:-1,HBO 2 HD [Alternativo]
-plugin://plugin.video.f4mTester/?name=On Line&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:25461/regis/12345/11035
-#EXTINF:-1,HBO 2 HD*
-plugin://plugin.video.f4mTester/?name=On Line&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:25461/regis/12345/20690
-#EXTINF:-1,HBO 2 SD
-plugin://plugin.video.f4mTester/?name=On Line&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:25461/regis/12345/4365
-#EXTINF:-1,HBO 2 SD [Alternativo]
-plugin://plugin.video.f4mTester/?name=On Line&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:25461/regis/12345/11229
-#EXTINF:-1,HBO 2 SD*
-plugin://plugin.video.f4mTester/?name=On Line&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:25461/regis/12345/20692
-#EXTINF:-1,HBO FAMILY FHD (DUAL AUDIO)
-plugin://plugin.video.f4mTester/?name=On Line&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:25461/regis/12345/11568
-#EXTINF:-1,HBO FAMILY HD
-plugin://plugin.video.f4mTester/?name=On Line&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:25461/regis/12345/6109
-#EXTINF:-1,HBO Family HD [Alternativo]
-plugin://plugin.video.f4mTester/?name=On Line&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:25461/regis/12345/11034
-#EXTINF:-1,HBO FAMILY HD*
-plugin://plugin.video.f4mTester/?name=On Line&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:25461/regis/12345/20687
-#EXTINF:-1,HBO FAMILY SD
-plugin://plugin.video.f4mTester/?name=On Line&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:25461/regis/12345/4364
-#EXTINF:-1,HBO Family SD [Alternativo]
-plugin://plugin.video.f4mTester/?name=On Line&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:25461/regis/12345/11228
-#EXTINF:-1,HBO FAMILY SD*
-plugin://plugin.video.f4mTester/?name=On Line&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:25461/regis/12345/20688
-#EXTINF:-1,HBO FHD (DUAL AUDIO)
-plugin://plugin.video.f4mTester/?name=On Line&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:25461/regis/12345/11566
-#EXTINF:-1,HBO HD
-plugin://plugin.video.f4mTester/?name=On Line&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:25461/regis/12345/6108
-#EXTINF:-1,HBO HD [Alternativo]
-plugin://plugin.video.f4mTester/?name=On Line&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:25461/regis/12345/11033
-#EXTINF:-1,HBO HD*
-plugin://plugin.video.f4mTester/?name=On Line&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:25461/regis/12345/20694
-#EXTINF:-1,HBO PLUS FHD (DUAL AUDIO)
-plugin://plugin.video.f4mTester/?name=On Line&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:25461/regis/12345/13190
-#EXTINF:-1,HBO PLUS HD
-plugin://plugin.video.f4mTester/?name=On Line&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:25461/regis/12345/6106
-#EXTINF:-1,HBO Plus HD [Alternativo]
-plugin://plugin.video.f4mTester/?name=On Line&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:25461/regis/12345/11032
-#EXTINF:-1,HBO PLUS HD*
-plugin://plugin.video.f4mTester/?name=On Line&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:25461/regis/12345/20920
-#EXTINF:-1,HBO PLUS SD
-plugin://plugin.video.f4mTester/?name=On Line&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:25461/regis/12345/4363
-#EXTINF:-1,HBO Plus SD [Alternativo]
-plugin://plugin.video.f4mTester/?name=On Line&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:25461/regis/12345/11227
-#EXTINF:-1,HBO PLUS SD*
-plugin://plugin.video.f4mTester/?name=On Line&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:25461/regis/12345/20684
-#EXTINF:-1,HBO SD
-plugin://plugin.video.f4mTester/?name=On Line&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:25461/regis/12345/4366
-#EXTINF:-1,HBO SD [Alternativo]
-plugin://plugin.video.f4mTester/?name=On Line&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:25461/regis/12345/11230
-#EXTINF:-1,HBO SD*
-plugin://plugin.video.f4mTester/?name=On Line&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:25461/regis/12345/20696
-#EXTINF:-1,HBO SIGNATURE FHD (DUAL AUDIO)
-plugin://plugin.video.f4mTester/?name=On Line&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:25461/regis/12345/11570
-#EXTINF:-1,HBO SIGNATURE HD
-plugin://plugin.video.f4mTester/?name=On Line&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:25461/regis/12345/6105
-#EXTINF:-1,HBO Signature HD [Alternativo]
-plugin://plugin.video.f4mTester/?name=On Line&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:25461/regis/12345/11031
-#EXTINF:-1,HBO SIGNATURE HD*
-plugin://plugin.video.f4mTester/?name=On Line&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:25461/regis/12345/20678
-#EXTINF:-1,HBO SIGNATURE SD
-plugin://plugin.video.f4mTester/?name=On Line&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:25461/regis/12345/4361
-#EXTINF:-1,HBO Signature SD [Alternativo]
-plugin://plugin.video.f4mTester/?name=On Line&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:25461/regis/12345/11226
-#EXTINF:-1,HBO SIGNATURE SD*
-plugin://plugin.video.f4mTester/?name=On Line&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:25461/regis/12345/20679
-#EXTINF:-1,Hércules 24hs
-plugin://plugin.video.f4mTester/?name=On Line&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:25461/regis/12345/33733
-#EXTINF:-1,Historias Disney 24hs
-plugin://plugin.video.f4mTester/?name=On Line&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:25461/regis/12345/33734
-#EXTINF:-1,HISTORY CHANNEL FHD (DUAL AUDIO)
-plugin://plugin.video.f4mTester/?name=On Line&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:25461/regis/12345/13211
-#EXTINF:-1,HISTORY CHANNEL HD
-plugin://plugin.video.f4mTester/?name=On Line&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:25461/regis/12345/6104
-#EXTINF:-1,History Channel HD [Alternativo]
-plugin://plugin.video.f4mTester/?name=On Line&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:25461/regis/12345/11030
-#EXTINF:-1,HISTORY CHANNEL HD*
-plugin://plugin.video.f4mTester/?name=On Line&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:25461/regis/12345/20468
-#EXTINF:-1,HISTORY CHANNEL SD
-plugin://plugin.video.f4mTester/?name=On Line&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:25461/regis/12345/4314
-#EXTINF:-1,History Channel SD [Alternativo]
-plugin://plugin.video.f4mTester/?name=On Line&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:25461/regis/12345/11225
-#EXTINF:-1,HISTORY CHANNEL SD*
-plugin://plugin.video.f4mTester/?name=On Line&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:25461/regis/12345/20469
-#EXTINF:-1,HOMEM ARANHA 24HS
-plugin://plugin.video.f4mTester/?name=On Line&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:25461/regis/12345/33736
-#EXTINF:-1,Homem de Ferro 24hs
-plugin://plugin.video.f4mTester/?name=On Line&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:25461/regis/12345/32363
-#EXTINF:-1,HOMENS DE PRETO 24 hrs
-plugin://plugin.video.f4mTester/?name=On Line&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:25461/regis/12345/33700
-#EXTINF:-1,ID - INVESTIGACAO DISCOVERY FHD (DUAL AUDIO)
-plugin://plugin.video.f4mTester/?name=On Line&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:25461/regis/12345/9143
-#EXTINF:-1,ID - INVESTIGACAO DISCOVERY HD
-plugin://plugin.video.f4mTester/?name=On Line&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:25461/regis/12345/6869
-#EXTINF:-1,ID - Investigacao Discovery HD [Alternativo]
-plugin://plugin.video.f4mTester/?name=On Line&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:25461/regis/12345/11029
-#EXTINF:-1,ID - INVESTIGACAO DISCOVERY HD*
-plugin://plugin.video.f4mTester/?name=On Line&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:25461/regis/12345/20672
-#EXTINF:-1,ID - INVESTIGACAO DISCOVERY SD
-plugin://plugin.video.f4mTester/?name=On Line&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:25461/regis/12345/4360
-#EXTINF:-1,ID - Investigacao Discovery SD [Alternativo]
-plugin://plugin.video.f4mTester/?name=On Line&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:25461/regis/12345/11224
-#EXTINF:-1,ID - INVESTIGACAO DISCOVERY SD*
-plugin://plugin.video.f4mTester/?name=On Line&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:25461/regis/12345/20673
-#EXTINF:-1,ID Investigation Discovery FHD
-plugin://plugin.video.f4mTester/?name=On Line&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:25461/regis/12345/30696
-#EXTINF:-1,IDEAL SD
-plugin://plugin.video.f4mTester/?name=On Line&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:25461/regis/12345/11179
-#EXTINF:-1,IDEAL TV SD
-plugin://plugin.video.f4mTester/?name=On Line&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:25461/regis/12345/20674
-#EXTINF:-1,IMPD TV SD
-plugin://plugin.video.f4mTester/?name=On Line&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:25461/regis/12345/25915
-#EXTINF:-1,Incrível Hulk 24h
-plugin://plugin.video.f4mTester/?name=On Line&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:25461/regis/12345/33737
-#EXTINF:-1,JASPION 24 hrs
-plugin://plugin.video.f4mTester/?name=On Line&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:25461/regis/12345/33699
-#EXTINF:-1,JIRAYA O Incrível Ninja 24HS
-plugin://plugin.video.f4mTester/?name=On Line&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:25461/regis/12345/33738
-#EXTINF:-1,Kenan e Kel 24hs
-plugin://plugin.video.f4mTester/?name=On Line&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:25461/regis/12345/33698
-#EXTINF:-1,LIFETIME FHD (DUAL AUDIO)
-plugin://plugin.video.f4mTester/?name=On Line&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:25461/regis/12345/11540
-#EXTINF:-1,LIFETIME HD
-plugin://plugin.video.f4mTester/?name=On Line&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:25461/regis/12345/7525
-#EXTINF:-1,LIFETIME HD*
-plugin://plugin.video.f4mTester/?name=On Line&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:25461/regis/12345/20668
-#EXTINF:-1,LIFETIME SD
-plugin://plugin.video.f4mTester/?name=On Line&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:25461/regis/12345/7876
-#EXTINF:-1,LIFETIME SD*
-plugin://plugin.video.f4mTester/?name=On Line&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:25461/regis/12345/20670
-#EXTINF:-1,LULUZINHA
-plugin://plugin.video.f4mTester/?name=On Line&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:25461/regis/12345/33697
-#EXTINF:-1,MAIS GLOBOSAT HD
-plugin://plugin.video.f4mTester/?name=On Line&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:25461/regis/12345/9262
-#EXTINF:-1,Mais Globosat HD [Alternativo]
-plugin://plugin.video.f4mTester/?name=On Line&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:25461/regis/12345/11038
-#EXTINF:-1,MAIS GLOBOSAT HD*
-plugin://plugin.video.f4mTester/?name=On Line&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:25461/regis/12345/20665
-#EXTINF:-1,MAIS GLOBOSAT SD
-plugin://plugin.video.f4mTester/?name=On Line&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:25461/regis/12345/6953
-#EXTINF:-1,Mais Globosat SD [Alternativo]
-plugin://plugin.video.f4mTester/?name=On Line&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:25461/regis/12345/11233
-#EXTINF:-1,MAIS GLOBOSAT SD*
-plugin://plugin.video.f4mTester/?name=On Line&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:25461/regis/12345/20666
-#EXTINF:-1,MAX FHD (DUAL AUDIO)
-plugin://plugin.video.f4mTester/?name=On Line&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:25461/regis/12345/13189
-#EXTINF:-1,MAX HD
-plugin://plugin.video.f4mTester/?name=On Line&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:25461/regis/12345/10266
-#EXTINF:-1,MAX HD [Alternativo]
-plugin://plugin.video.f4mTester/?name=On Line&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:25461/regis/12345/11028
-#EXTINF:-1,MAX HD*
-plugin://plugin.video.f4mTester/?name=On Line&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:25461/regis/12345/20662
-#EXTINF:-1,MAX PRIME FHD (DUAL AUDIO)
-plugin://plugin.video.f4mTester/?name=On Line&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:25461/regis/12345/25014
-#EXTINF:-1,MAX PRIME HD
-plugin://plugin.video.f4mTester/?name=On Line&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:25461/regis/12345/7850
-#EXTINF:-1,MAX Prime HD [Alternativo]
-plugin://plugin.video.f4mTester/?name=On Line&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:25461/regis/12345/11027
-#EXTINF:-1,MAX PRIME HD*
-plugin://plugin.video.f4mTester/?name=On Line&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:25461/regis/12345/20657
-#EXTINF:-1,MAX PRIME SD
-plugin://plugin.video.f4mTester/?name=On Line&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:25461/regis/12345/4357
-#EXTINF:-1,MAX Prime SD [Alternativo]
-plugin://plugin.video.f4mTester/?name=On Line&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:25461/regis/12345/11222
-#EXTINF:-1,MAX PRIME SD*
-plugin://plugin.video.f4mTester/?name=On Line&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:25461/regis/12345/20658
-#EXTINF:-1,MAX SD
-plugin://plugin.video.f4mTester/?name=On Line&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:25461/regis/12345/4358
-#EXTINF:-1,MAX SD [Alternativo]
-plugin://plugin.video.f4mTester/?name=On Line&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:25461/regis/12345/11223
-#EXTINF:-1,MAX SD*
-plugin://plugin.video.f4mTester/?name=On Line&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:25461/regis/12345/20664
-#EXTINF:-1,MAX UP FHD (DUAL AUDIO)
-plugin://plugin.video.f4mTester/?name=On Line&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:25461/regis/12345/25015
-#EXTINF:-1,MAX UP HD
-plugin://plugin.video.f4mTester/?name=On Line&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:25461/regis/12345/10265
-#EXTINF:-1,MAX UP HD [Alternativo]
-plugin://plugin.video.f4mTester/?name=On Line&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:25461/regis/12345/11026
-#EXTINF:-1,MAX UP HD*
-plugin://plugin.video.f4mTester/?name=On Line&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:25461/regis/12345/20659
-#EXTINF:-1,MAX UP SD
-plugin://plugin.video.f4mTester/?name=On Line&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:25461/regis/12345/4355
-#EXTINF:-1,MAX UP SD [Alternativo]
-plugin://plugin.video.f4mTester/?name=On Line&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:25461/regis/12345/11220
-#EXTINF:-1,MAX UP SD*
-plugin://plugin.video.f4mTester/?name=On Line&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:25461/regis/12345/20660
-#EXTINF:-1,Medabots 24hs
-plugin://plugin.video.f4mTester/?name=On Line&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:25461/regis/12345/33739
-#EXTINF:-1,MegaMan 24hs
-plugin://plugin.video.f4mTester/?name=On Line&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:25461/regis/12345/32359
-#EXTINF:-1,MEGAPIX 4K
-plugin://plugin.video.f4mTester/?name=On Line&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:25461/regis/12345/33762
-#EXTINF:-1,MEGAPIX FHD (DUAL AUDIO)
-plugin://plugin.video.f4mTester/?name=On Line&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:25461/regis/12345/8146
-#EXTINF:-1,MEGAPIX HD
-plugin://plugin.video.f4mTester/?name=On Line&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:25461/regis/12345/6101
-#EXTINF:-1,Megapix HD [Alternativo]
-plugin://plugin.video.f4mTester/?name=On Line&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:25461/regis/12345/11025
-#EXTINF:-1,MEGAPIX HD*
-plugin://plugin.video.f4mTester/?name=On Line&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:25461/regis/12345/20653
-#EXTINF:-1,MEGAPIX SD
-plugin://plugin.video.f4mTester/?name=On Line&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:25461/regis/12345/4354
-#EXTINF:-1,Megapix SD [Alternativo]
-plugin://plugin.video.f4mTester/?name=On Line&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:25461/regis/12345/11219
-#EXTINF:-1,MEGAPIX SD*
-plugin://plugin.video.f4mTester/?name=On Line&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:25461/regis/12345/20654
-#EXTINF:-1,MIAMI TV HD
-plugin://plugin.video.f4mTester/?name=On Line&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:25461/regis/12345/20594
-#EXTINF:-1,MLB HD
-plugin://plugin.video.f4mTester/?name=On Line&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:25461/regis/12345/20592
-#EXTINF:-1,Mortal Kombat 24hs
-plugin://plugin.video.f4mTester/?name=On Line&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:25461/regis/12345/32358
-#EXTINF:-1,MTV FHD (DUAL AUDIO)
-plugin://plugin.video.f4mTester/?name=On Line&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:25461/regis/12345/11573
-#EXTINF:-1,MTV HD
-plugin://plugin.video.f4mTester/?name=On Line&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:25461/regis/12345/7524
-#EXTINF:-1,MTV HD*
-plugin://plugin.video.f4mTester/?name=On Line&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:25461/regis/12345/20644
-#EXTINF:-1,MTV LIVE HD
-plugin://plugin.video.f4mTester/?name=On Line&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:25461/regis/12345/11202
-#EXTINF:-1,MTV SD
-plugin://plugin.video.f4mTester/?name=On Line&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:25461/regis/12345/4353
-#EXTINF:-1,MTV SD [Alternativo]
-plugin://plugin.video.f4mTester/?name=On Line&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:25461/regis/12345/11218
-#EXTINF:-1,MTV SD*
-plugin://plugin.video.f4mTester/?name=On Line&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:25461/regis/12345/20646
-#EXTINF:-1,MULTISHOW 4K
-plugin://plugin.video.f4mTester/?name=On Line&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:25461/regis/12345/33760
-#EXTINF:-1,MULTISHOW FHD (DUAL AUDIO)
-plugin://plugin.video.f4mTester/?name=On Line&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:25461/regis/12345/13201
-#EXTINF:-1,MULTISHOW HD
-plugin://plugin.video.f4mTester/?name=On Line&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:25461/regis/12345/6867
-#EXTINF:-1,Multishow HD [Alternativo]
-plugin://plugin.video.f4mTester/?name=On Line&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:25461/regis/12345/11024
-#EXTINF:-1,MULTISHOW HD*
-plugin://plugin.video.f4mTester/?name=On Line&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:25461/regis/12345/20648
-#EXTINF:-1,MULTISHOW SD
-plugin://plugin.video.f4mTester/?name=On Line&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:25461/regis/12345/4352
-#EXTINF:-1,Multishow SD [Alternativo]
-plugin://plugin.video.f4mTester/?name=On Line&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:25461/regis/12345/11217
-#EXTINF:-1,MULTISHOW SD*
-plugin://plugin.video.f4mTester/?name=On Line&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:25461/regis/12345/20650
-#EXTINF:-1,MUSIC BOX BRASIL SD
-plugin://plugin.video.f4mTester/?name=On Line&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:25461/regis/12345/7848
-#EXTINF:-1,MUSIC BOX BRASIL SD*
-plugin://plugin.video.f4mTester/?name=On Line&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:25461/regis/12345/20655
-#EXTINF:-1,NARUTO 24HS
-plugin://plugin.video.f4mTester/?name=On Line&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:25461/regis/12345/30038
-#EXTINF:-1,Naruto Shippuden DUB 24HS
-plugin://plugin.video.f4mTester/?name=On Line&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:25461/regis/12345/33740
-#EXTINF:-1,NATGEO KIDS FHD (DUAL AUDIO)
-plugin://plugin.video.f4mTester/?name=On Line&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:25461/regis/12345/13198
-#EXTINF:-1,NATGEO KIDS HD
-plugin://plugin.video.f4mTester/?name=On Line&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:25461/regis/12345/10261
-#EXTINF:-1,NatGeo Kids HD [Alternativo]
-plugin://plugin.video.f4mTester/?name=On Line&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:25461/regis/12345/11023
-#EXTINF:-1,NATGEO KIDS HD*
-plugin://plugin.video.f4mTester/?name=On Line&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:25461/regis/12345/20632
-#EXTINF:-1,NATGEO KIDS SD
-plugin://plugin.video.f4mTester/?name=On Line&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:25461/regis/12345/4350
-#EXTINF:-1,NatGeo Kids SD [Alternativo]
-plugin://plugin.video.f4mTester/?name=On Line&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:25461/regis/12345/11215
-#EXTINF:-1,NATGEO KIDS SD*
-plugin://plugin.video.f4mTester/?name=On Line&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:25461/regis/12345/20642
-#EXTINF:-1,NATGEO WILD FHD (DUAL AUDIO)
-plugin://plugin.video.f4mTester/?name=On Line&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:25461/regis/12345/11528
-#EXTINF:-1,NATGEO WILD HD
-plugin://plugin.video.f4mTester/?name=On Line&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:25461/regis/12345/6099
-#EXTINF:-1,NatGeo Wild HD [Alternativo]
-plugin://plugin.video.f4mTester/?name=On Line&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:25461/regis/12345/11022
-#EXTINF:-1,NATGEO WILD HD*
-plugin://plugin.video.f4mTester/?name=On Line&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:25461/regis/12345/20640
-#EXTINF:-1,NATGEO WILD SD
-plugin://plugin.video.f4mTester/?name=On Line&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:25461/regis/12345/4349
-#EXTINF:-1,NatGeo Wild SD [Alternativo]
-plugin://plugin.video.f4mTester/?name=On Line&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:25461/regis/12345/11214
-#EXTINF:-1,NATGEO WILD SD*
-plugin://plugin.video.f4mTester/?name=On Line&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:25461/regis/12345/20641
-#EXTINF:-1,National Geography  SD [Alternativo]
-plugin://plugin.video.f4mTester/?name=On Line&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:25461/regis/12345/11213
-#EXTINF:-1,NATIONAL GEOGRAPHY 4K
-plugin://plugin.video.f4mTester/?name=On Line&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:25461/regis/12345/33764
-#EXTINF:-1,NATIONAL GEOGRAPHY FHD (DUAL AUDIO)
-plugin://plugin.video.f4mTester/?name=On Line&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:25461/regis/12345/13188
-#EXTINF:-1,NATIONAL GEOGRAPHY HD
-plugin://plugin.video.f4mTester/?name=On Line&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:25461/regis/12345/6098
-#EXTINF:-1,National Geography HD [Alternativo]
-plugin://plugin.video.f4mTester/?name=On Line&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:25461/regis/12345/11021
-#EXTINF:-1,NATIONAL GEOGRAPHY HD*
-plugin://plugin.video.f4mTester/?name=On Line&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:25461/regis/12345/20629
-#EXTINF:-1,NATIONAL GEOGRAPHY SD
-plugin://plugin.video.f4mTester/?name=On Line&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:25461/regis/12345/4348
-#EXTINF:-1,NATIONAL GEOGRAPHY SD*
-plugin://plugin.video.f4mTester/?name=On Line&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:25461/regis/12345/20630
-#EXTINF:-1,NHK HD
-plugin://plugin.video.f4mTester/?name=On Line&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:25461/regis/12345/4347
-#EXTINF:-1,NHK SD
-plugin://plugin.video.f4mTester/?name=On Line&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:25461/regis/12345/6949
-#EXTINF:-1,NICK JR FHD (DUAL AUDIO)
-plugin://plugin.video.f4mTester/?name=On Line&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:25461/regis/12345/11527
-#EXTINF:-1,NICK JR HD
-plugin://plugin.video.f4mTester/?name=On Line&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:25461/regis/12345/10260
-#EXTINF:-1,Nick Jr HD [Alternativo]
-plugin://plugin.video.f4mTester/?name=On Line&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:25461/regis/12345/11020
-#EXTINF:-1,NICK JR HD*
-plugin://plugin.video.f4mTester/?name=On Line&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:25461/regis/12345/20631
-#EXTINF:-1,NICK JR SD
-plugin://plugin.video.f4mTester/?name=On Line&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:25461/regis/12345/4346
-#EXTINF:-1,Nick Jr SD [Alternativo]
-plugin://plugin.video.f4mTester/?name=On Line&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:25461/regis/12345/11212
-#EXTINF:-1,NICK JR SD*
-plugin://plugin.video.f4mTester/?name=On Line&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:25461/regis/12345/20637
-#EXTINF:-1,Nickeloden HD [Alternativo]
-plugin://plugin.video.f4mTester/?name=On Line&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:25461/regis/12345/11019
-#EXTINF:-1,NICKELODEON FHD (DUAL AUDIO)
-plugin://plugin.video.f4mTester/?name=On Line&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:25461/regis/12345/11526
-#EXTINF:-1,NICKELODEON HD
-plugin://plugin.video.f4mTester/?name=On Line&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:25461/regis/12345/7537
-#EXTINF:-1,NICKELODEON HD*
-plugin://plugin.video.f4mTester/?name=On Line&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:25461/regis/12345/20635
-#EXTINF:-1,NICKELODEON SD
-plugin://plugin.video.f4mTester/?name=On Line&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:25461/regis/12345/4345
-#EXTINF:-1,Nickelodeon SD [Alternativo]
-plugin://plugin.video.f4mTester/?name=On Line&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:25461/regis/12345/11211
-#EXTINF:-1,NICKELODEON SD*
-plugin://plugin.video.f4mTester/?name=On Line&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:25461/regis/12345/20636
-#EXTINF:-1,NOVO TEMPO SD
-plugin://plugin.video.f4mTester/?name=On Line&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:25461/regis/12345/6948
-#EXTINF:-1,O FANTASTICO MUNDO DE BOBBY 24hs
-plugin://plugin.video.f4mTester/?name=On Line&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:25461/regis/12345/30006
-#EXTINF:-1,O INSPETOR 24hs
-plugin://plugin.video.f4mTester/?name=On Line&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:25461/regis/12345/33741
-#EXTINF:-1,O Máskara 24hs
-plugin://plugin.video.f4mTester/?name=On Line&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:25461/regis/12345/30035
-#EXTINF:-1,OFF FHD (DUAL AULDIO)
-plugin://plugin.video.f4mTester/?name=On Line&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:25461/regis/12345/9152
-#EXTINF:-1,OFF HD
-plugin://plugin.video.f4mTester/?name=On Line&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:25461/regis/12345/6947
-#EXTINF:-1,OFF HD [Alternativo]
-plugin://plugin.video.f4mTester/?name=On Line&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:25461/regis/12345/11210
-#EXTINF:-1,OFF HD*
-plugin://plugin.video.f4mTester/?name=On Line&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:25461/regis/12345/20622
-#EXTINF:-1,OFF SD
-plugin://plugin.video.f4mTester/?name=On Line&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:25461/regis/12345/4344
-#EXTINF:-1,Os Anjinhos - Rugrats 24HS
-plugin://plugin.video.f4mTester/?name=On Line&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:25461/regis/12345/33742
-#EXTINF:-1,Os Cavaleiros do Zodiaco 24hs
-plugin://plugin.video.f4mTester/?name=On Line&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:25461/regis/12345/30033
-#EXTINF:-1,Os Flintstones 24HS
-plugin://plugin.video.f4mTester/?name=On Line&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:25461/regis/12345/30032
-#EXTINF:-1,OS SIMPSONS 24 HRS
-plugin://plugin.video.f4mTester/?name=On Line&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:25461/regis/12345/33714
-#EXTINF:-1,Os Ursinhos Carinhosos 24HS
-plugin://plugin.video.f4mTester/?name=On Line&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:25461/regis/12345/30018
-#EXTINF:-1,Os Vingadores 24hs
-plugin://plugin.video.f4mTester/?name=On Line&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:25461/regis/12345/32364
-#EXTINF:-1,Papa-Léguas 24Hrs
-plugin://plugin.video.f4mTester/?name=On Line&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:25461/regis/12345/30012
-#EXTINF:-1,PARAMOUNT FHD (DUAL AUDIO)
-plugin://plugin.video.f4mTester/?name=On Line&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:25461/regis/12345/13185
-#EXTINF:-1,PARAMOUNT HD
-plugin://plugin.video.f4mTester/?name=On Line&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:25461/regis/12345/6945
-#EXTINF:-1,Paramount HD [Alternativo]
-plugin://plugin.video.f4mTester/?name=On Line&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:25461/regis/12345/11018
-#EXTINF:-1,PARAMOUNT HD*
-plugin://plugin.video.f4mTester/?name=On Line&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:25461/regis/12345/20619
-#EXTINF:-1,PARAMOUNT SD
-plugin://plugin.video.f4mTester/?name=On Line&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:25461/regis/12345/6946
-#EXTINF:-1,Paramount SD [Alternativo]
-plugin://plugin.video.f4mTester/?name=On Line&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:25461/regis/12345/11208
-#EXTINF:-1,PARAMOUNT SD*
-plugin://plugin.video.f4mTester/?name=On Line&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:25461/regis/12345/20621
-#EXTINF:-1,Peppa Pig 24hs
-plugin://plugin.video.f4mTester/?name=On Line&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:25461/regis/12345/32360
-#EXTINF:-1,PERNALONGA 24HS
-plugin://plugin.video.f4mTester/?name=On Line&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:25461/regis/12345/33718
-#EXTINF:-1,Phineas e Ferb 24HS
-plugin://plugin.video.f4mTester/?name=On Line&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:25461/regis/12345/33743
-#EXTINF:-1,PICA PAU 24HS
-plugin://plugin.video.f4mTester/?name=On Line&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:25461/regis/12345/30028
-#EXTINF:-1,Pink-e-Cerebro 24hs
-plugin://plugin.video.f4mTester/?name=On Line&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:25461/regis/12345/33744
-#EXTINF:-1,PLAY KIDS HD
-plugin://plugin.video.f4mTester/?name=On Line&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:25461/regis/12345/32164
-#EXTINF:-1,PLAY TV SD
-plugin://plugin.video.f4mTester/?name=On Line&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:25461/regis/12345/20617
-#EXTINF:-1,POKEMON 24HS
-plugin://plugin.video.f4mTester/?name=On Line&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:25461/regis/12345/33745
-#EXTINF:-1,POLISHOP TV
-plugin://plugin.video.f4mTester/?name=On Line&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:25461/regis/12345/4342
-#EXTINF:-1,Popeye O Marinheiro 24hs
-plugin://plugin.video.f4mTester/?name=On Line&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:25461/regis/12345/32368
-#EXTINF:-1,PREMIERE CLUBES  4K
-plugin://plugin.video.f4mTester/?name=On Line&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:25461/regis/12345/33753
-#EXTINF:-1,PREMIERE CLUBES HD
-plugin://plugin.video.f4mTester/?name=On Line&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:25461/regis/12345/6089
-#EXTINF:-1,PREMIERE CLUBES HD*
-plugin://plugin.video.f4mTester/?name=On Line&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:25461/regis/12345/20599
-#EXTINF:-1,PREMIERE CLUBES SD
-plugin://plugin.video.f4mTester/?name=On Line&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:25461/regis/12345/4333
-#EXTINF:-1,Premiere Clubes SD [Alternativo]
-plugin://plugin.video.f4mTester/?name=On Line&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:25461/regis/12345/11206
-#EXTINF:-1,PREMIERE CLUBES SD*
-plugin://plugin.video.f4mTester/?name=On Line&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:25461/regis/12345/20596
-#EXTINF:-1,PREMIERE CLUBES FHD  (DUAL AUDIO)
-plugin://plugin.video.f4mTester/?name=On Line&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:25461/regis/12345/9144
-#EXTINF:-1,Premiere Clubes HD [ ALTERNATIVO ]
-plugin://plugin.video.f4mTester/?name=On Line&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:25461/regis/12345/8191
-#EXTINF:-1,PREMIERE 2 FHD (DUAL AUDIO)
-plugin://plugin.video.f4mTester/?name=On Line&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:25461/regis/12345/8149
-#EXTINF:-1,PREMIERE 2 HD
-plugin://plugin.video.f4mTester/?name=On Line&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:25461/regis/12345/6093
-#EXTINF:-1,Premiere 2 HD [Alternativo]
-plugin://plugin.video.f4mTester/?name=On Line&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:25461/regis/12345/11016
-#EXTINF:-1,PREMIERE 2 HD*
-plugin://plugin.video.f4mTester/?name=On Line&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:25461/regis/12345/20615
-#EXTINF:-1,PREMIERE 2 SD
-plugin://plugin.video.f4mTester/?name=On Line&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:25461/regis/12345/4341
-#EXTINF:-1,PREMIERE 3 FHD (DUAL AUDIO)
-plugin://plugin.video.f4mTester/?name=On Line&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:25461/regis/12345/9230
-#EXTINF:-1,PREMIERE 3 HD
-plugin://plugin.video.f4mTester/?name=On Line&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:25461/regis/12345/6092
-#EXTINF:-1,Premiere 3 HD [Alternativo]
-plugin://plugin.video.f4mTester/?name=On Line&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:25461/regis/12345/11015
-#EXTINF:-1,PREMIERE 3 HD*
-plugin://plugin.video.f4mTester/?name=On Line&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:25461/regis/12345/20612
-#EXTINF:-1,PREMIERE 3 SD
-plugin://plugin.video.f4mTester/?name=On Line&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:25461/regis/12345/4340
-#EXTINF:-1,PREMIERE 4 FHD (DUAL AUDIO)
-plugin://plugin.video.f4mTester/?name=On Line&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:25461/regis/12345/11552
-#EXTINF:-1,PREMIERE 4 HD
-plugin://plugin.video.f4mTester/?name=On Line&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:25461/regis/12345/6091
-#EXTINF:-1,Premiere 4 HD [Alternativo]
-plugin://plugin.video.f4mTester/?name=On Line&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:25461/regis/12345/11014
-#EXTINF:-1,PREMIERE 4 HD*
-plugin://plugin.video.f4mTester/?name=On Line&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:25461/regis/12345/20609
-#EXTINF:-1,PREMIERE 4 SD
-plugin://plugin.video.f4mTester/?name=On Line&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:25461/regis/12345/4339
-#EXTINF:-1,Premiere 4 SD [Alternativo]
-plugin://plugin.video.f4mTester/?name=On Line&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:25461/regis/12345/11203
-#EXTINF:-1,PREMIERE 4 SD*
-plugin://plugin.video.f4mTester/?name=On Line&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:25461/regis/12345/20593
-#EXTINF:-1,PREMIERE 5 FHD (DUAL AUDIO)
-plugin://plugin.video.f4mTester/?name=On Line&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:25461/regis/12345/9231
-#EXTINF:-1,PREMIERE 5 HD
-plugin://plugin.video.f4mTester/?name=On Line&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:25461/regis/12345/6090
-#EXTINF:-1,Premiere 5 HD [Alternativo]
-plugin://plugin.video.f4mTester/?name=On Line&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:25461/regis/12345/11013
-#EXTINF:-1,PREMIERE 5 HD*
-plugin://plugin.video.f4mTester/?name=On Line&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:25461/regis/12345/20606
-#EXTINF:-1,PREMIERE 5 SD
-plugin://plugin.video.f4mTester/?name=On Line&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:25461/regis/12345/4338
-#EXTINF:-1,PREMIERE 6 FHD (DUAL AUDIO)
-plugin://plugin.video.f4mTester/?name=On Line&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:25461/regis/12345/11550
-#EXTINF:-1,PREMIERE 6 HD
-plugin://plugin.video.f4mTester/?name=On Line&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:25461/regis/12345/10259
-#EXTINF:-1,PREMIERE 6 HD*
-plugin://plugin.video.f4mTester/?name=On Line&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:25461/regis/12345/20603
-#EXTINF:-1,PREMIERE 6 SD
-plugin://plugin.video.f4mTester/?name=On Line&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:25461/regis/12345/4337
-#EXTINF:-1,PREMIERE 7 FHD (DUAL AUDIO)
-plugin://plugin.video.f4mTester/?name=On Line&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:25461/regis/12345/11549
-#EXTINF:-1,PREMIERE 7 HD
-plugin://plugin.video.f4mTester/?name=On Line&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:25461/regis/12345/10258
-#EXTINF:-1,Premiere 7 HD [Alternativo]
-plugin://plugin.video.f4mTester/?name=On Line&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:25461/regis/12345/11012
-#EXTINF:-1,PREMIERE 7 HD*
-plugin://plugin.video.f4mTester/?name=On Line&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:25461/regis/12345/20601
-#EXTINF:-1,PREMIERE 7 SD
-plugin://plugin.video.f4mTester/?name=On Line&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:25461/regis/12345/4336
-#EXTINF:-1,Premiere 7 SD [Alternativo]
-plugin://plugin.video.f4mTester/?name=On Line&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:25461/regis/12345/11200
-#EXTINF:-1,PREMIERE 7 SD*
-plugin://plugin.video.f4mTester/?name=On Line&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:25461/regis/12345/20590
-#EXTINF:-1,PREMIERE 8 SD
-plugin://plugin.video.f4mTester/?name=On Line&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:25461/regis/12345/20589
-#EXTINF:-1,PREMIERE 9 SD
-plugin://plugin.video.f4mTester/?name=On Line&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:25461/regis/12345/20588
-#EXTINF:-1,PRIME BOX BRASIL SD*
-plugin://plugin.video.f4mTester/?name=On Line&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:25461/regis/12345/20587
-#EXTINF:-1,PRIME BOX BRAZIL SD
-plugin://plugin.video.f4mTester/?name=On Line&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:25461/regis/12345/4332
-#EXTINF:-1,PT: FOX News
-plugin://plugin.video.f4mTester/?name=On Line&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:25461/regis/12345/30819
-#EXTINF:-1,Rambo 24hs
-plugin://plugin.video.f4mTester/?name=On Line&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:25461/regis/12345/33746
-#EXTINF:-1,RBS TV PORTO ALEGRE SD
-plugin://plugin.video.f4mTester/?name=On Line&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:25461/regis/12345/6942
-#EXTINF:-1,REAL MADRID TV SD
-plugin://plugin.video.f4mTester/?name=On Line&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:25461/regis/12345/6183
-#EXTINF:-1,RECORD TV GOIANIA HD
-plugin://plugin.video.f4mTester/?name=On Line&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:25461/regis/12345/30708
-#EXTINF:-1,RECORD 4K
-plugin://plugin.video.f4mTester/?name=On Line&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:25461/regis/12345/33750
-#EXTINF:-1,RECORD BRASILIA HD
-plugin://plugin.video.f4mTester/?name=On Line&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:25461/regis/12345/33275
-#EXTINF:-1,RECORD CAMPINAS HD
-plugin://plugin.video.f4mTester/?name=On Line&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:25461/regis/12345/33277
-#EXTINF:-1,RECORD ES SD
-plugin://plugin.video.f4mTester/?name=On Line&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:25461/regis/12345/6817
-#EXTINF:-1,RECORD FHD (DUAL AUDIO)
-plugin://plugin.video.f4mTester/?name=On Line&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:25461/regis/12345/13183
-#EXTINF:-1,RECORD GOIANIA FHD
-plugin://plugin.video.f4mTester/?name=On Line&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:25461/regis/12345/30437
-#EXTINF:-1,RECORD HD
-plugin://plugin.video.f4mTester/?name=On Line&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:25461/regis/12345/7836
-#EXTINF:-1,Record HD [Alternativo]
-plugin://plugin.video.f4mTester/?name=On Line&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:25461/regis/12345/11011
-#EXTINF:-1,RECORD HD*
-plugin://plugin.video.f4mTester/?name=On Line&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:25461/regis/12345/20571
-#EXTINF:-1,RECORD NEWS ES
-plugin://plugin.video.f4mTester/?name=On Line&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:25461/regis/12345/20557
-#EXTINF:-1,RECORD NEWS ES HD
-plugin://plugin.video.f4mTester/?name=On Line&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:25461/regis/12345/10255
-#EXTINF:-1,RECORD NEWS ES SD
-plugin://plugin.video.f4mTester/?name=On Line&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:25461/regis/12345/6941
-#EXTINF:-1,RECORD NEWS SD
-plugin://plugin.video.f4mTester/?name=On Line&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:25461/regis/12345/30707
-#EXTINF:-1,RECORD PARANA HD
-plugin://plugin.video.f4mTester/?name=On Line&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:25461/regis/12345/18148
-#EXTINF:-1,RECORD RIO HD
-plugin://plugin.video.f4mTester/?name=On Line&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:25461/regis/12345/25543
-#EXTINF:-1,RECORD RS HD
-plugin://plugin.video.f4mTester/?name=On Line&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:25461/regis/12345/25017
-#EXTINF:-1,RECORD SANTA CATARINA HD
-plugin://plugin.video.f4mTester/?name=On Line&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:25461/regis/12345/18153
-#EXTINF:-1,RECORD SAO JOSE DO RIO PRETO HD
-plugin://plugin.video.f4mTester/?name=On Line&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:25461/regis/12345/30432
-#EXTINF:-1,RECORD SD
-plugin://plugin.video.f4mTester/?name=On Line&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:25461/regis/12345/4423
-#EXTINF:-1,Record SD [Alternativo]
-plugin://plugin.video.f4mTester/?name=On Line&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:25461/regis/12345/11197
-#EXTINF:-1,RECORD SP HD
-plugin://plugin.video.f4mTester/?name=On Line&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:25461/regis/12345/18168
-#EXTINF:-1,RECORD TV ATALAIA HD
-plugin://plugin.video.f4mTester/?name=On Line&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:25461/regis/12345/24751
-#EXTINF:-1,RECORD TV BELEM HD
-plugin://plugin.video.f4mTester/?name=On Line&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:25461/regis/12345/30426
-#EXTINF:-1,RECORD TV GOIAS HD
-plugin://plugin.video.f4mTester/?name=On Line&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:25461/regis/12345/18151
-#EXTINF:-1,RECORD TV LITORAL SANTOS HD
-plugin://plugin.video.f4mTester/?name=On Line&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:25461/regis/12345/30423
-#EXTINF:-1,REDE BRASIL SD
-plugin://plugin.video.f4mTester/?name=On Line&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:25461/regis/12345/4421
-#EXTINF:-1,REDE FAMILIA HD
-plugin://plugin.video.f4mTester/?name=On Line&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:25461/regis/12345/32579
-#EXTINF:-1,REDE GOSPEL SD
-plugin://plugin.video.f4mTester/?name=On Line&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:25461/regis/12345/25975
-#EXTINF:-1,REDE RECORD MINAS HD
-plugin://plugin.video.f4mTester/?name=On Line&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:25461/regis/12345/30435
-#EXTINF:-1,REDE TV 4K
-plugin://plugin.video.f4mTester/?name=On Line&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:25461/regis/12345/33751
-#EXTINF:-1,REDE TV HD
-plugin://plugin.video.f4mTester/?name=On Line&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:25461/regis/12345/6940
-#EXTINF:-1,REDE TV HD*
-plugin://plugin.video.f4mTester/?name=On Line&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:25461/regis/12345/20574
-#EXTINF:-1,REDE TV SD
-plugin://plugin.video.f4mTester/?name=On Line&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:25461/regis/12345/4420
-#EXTINF:-1,REDE TV SD*
-plugin://plugin.video.f4mTester/?name=On Line&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:25461/regis/12345/20575
-#EXTINF:-1,REDE VIDA SD
-plugin://plugin.video.f4mTester/?name=On Line&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:25461/regis/12345/6939
-#EXTINF:-1,RIT SD
-plugin://plugin.video.f4mTester/?name=On Line&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:25461/regis/12345/20572
-#EXTINF:-1,SBT 4K
-plugin://plugin.video.f4mTester/?name=On Line&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:25461/regis/12345/33757
-#EXTINF:-1,SBT ARACAJU HD
-plugin://plugin.video.f4mTester/?name=On Line&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:25461/regis/12345/24753
-#EXTINF:-1,SBT BRASILIA HD
-plugin://plugin.video.f4mTester/?name=On Line&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:25461/regis/12345/33276
-#EXTINF:-1,BAND GOIANIA FHD
-plugin://plugin.video.f4mTester/?name=On Line&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:25461/regis/12345/30438
-#EXTINF:-1,SBT HD
-plugin://plugin.video.f4mTester/?name=On Line&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:25461/regis/12345/6889
-#EXTINF:-1,SBT HD [Alternativo]
-plugin://plugin.video.f4mTester/?name=On Line&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:25461/regis/12345/11010
-#EXTINF:-1,SBT HD*
-plugin://plugin.video.f4mTester/?name=On Line&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:25461/regis/12345/20554
-#EXTINF:-1,SBT JORNAL HD
-plugin://plugin.video.f4mTester/?name=On Line&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:25461/regis/12345/24956
-#EXTINF:-1,SBT PARANA HD
-plugin://plugin.video.f4mTester/?name=On Line&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:25461/regis/12345/24925
-#EXTINF:-1,SBT PARANA SD
-plugin://plugin.video.f4mTester/?name=On Line&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:25461/regis/12345/20502
-#EXTINF:-1,SBT PE HD
-plugin://plugin.video.f4mTester/?name=On Line&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:25461/regis/12345/20552
-#EXTINF:-1,SBT PI FHD
-plugin://plugin.video.f4mTester/?name=On Line&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:25461/regis/12345/13182
-#EXTINF:-1,SBT RJ HD
-plugin://plugin.video.f4mTester/?name=On Line&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:25461/regis/12345/25544
-#EXTINF:-1,SBT RS HD
-plugin://plugin.video.f4mTester/?name=On Line&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:25461/regis/12345/25303
-#EXTINF:-1,SBT SANTA CATARINA HD
-plugin://plugin.video.f4mTester/?name=On Line&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:25461/regis/12345/33293
-#EXTINF:-1,RECORD NEWS Santa Catarina HD
-plugin://plugin.video.f4mTester/?name=On Line&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:25461/regis/12345/24923
-#EXTINF:-1,SBT SD
-plugin://plugin.video.f4mTester/?name=On Line&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:25461/regis/12345/4331
-#EXTINF:-1,SBT SD [Alternativo]
-plugin://plugin.video.f4mTester/?name=On Line&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:25461/regis/12345/11192
-#EXTINF:-1,SBT SD*
-plugin://plugin.video.f4mTester/?name=On Line&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:25461/regis/12345/20555
-#EXTINF:-1,SBT SERRA DOURADA FHD
-plugin://plugin.video.f4mTester/?name=On Line&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:25461/regis/12345/33284
-#EXTINF:-1,SBT Serra Dourada HD
-plugin://plugin.video.f4mTester/?name=On Line&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:25461/regis/12345/33768
-#EXTINF:-1,SCOOBY DOO 24hs
-plugin://plugin.video.f4mTester/?name=On Line&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:25461/regis/12345/30026
-#EXTINF:-1,SHOP TIME HD
-plugin://plugin.video.f4mTester/?name=On Line&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:25461/regis/12345/20573
-#EXTINF:-1,SIC INTERNACIONAL SD
-plugin://plugin.video.f4mTester/?name=On Line&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:25461/regis/12345/20525
-#EXTINF:-1,SKY NEWS
-plugin://plugin.video.f4mTester/?name=On Line&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:25461/regis/12345/30822
-#EXTINF:-1,Smallville 24hs
-plugin://plugin.video.f4mTester/?name=On Line&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:25461/regis/12345/32357
-#EXTINF:-1,Sobrenatural 24hs
-plugin://plugin.video.f4mTester/?name=On Line&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:25461/regis/12345/32370
-#EXTINF:-1,South Park 24hs
-plugin://plugin.video.f4mTester/?name=On Line&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:25461/regis/12345/30025
-#EXTINF:-1,SPACE 4K
-plugin://plugin.video.f4mTester/?name=On Line&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:25461/regis/12345/33767
-#EXTINF:-1,SPACE FHD (DUAL AUDIO)
-plugin://plugin.video.f4mTester/?name=On Line&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:25461/regis/12345/13197
-#EXTINF:-1,SPACE HD
-plugin://plugin.video.f4mTester/?name=On Line&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:25461/regis/12345/6085
-#EXTINF:-1,Space HD [Alternativo]
-plugin://plugin.video.f4mTester/?name=On Line&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:25461/regis/12345/11009
-#EXTINF:-1,SPACE HD*
-plugin://plugin.video.f4mTester/?name=On Line&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:25461/regis/12345/20532
-#EXTINF:-1,SPACE SD
-plugin://plugin.video.f4mTester/?name=On Line&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:25461/regis/12345/4328
-#EXTINF:-1,Space SD [Alternativo]
-plugin://plugin.video.f4mTester/?name=On Line&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:25461/regis/12345/11191
-#EXTINF:-1,SporTV  HD [Alternativo]
-plugin://plugin.video.f4mTester/?name=On Line&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:25461/regis/12345/11006
-#EXTINF:-1,SPORTV 2 FHD (DUAL AUDIO)
-plugin://plugin.video.f4mTester/?name=On Line&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:25461/regis/12345/11539
-#EXTINF:-1,SPORTV 2 HD
-plugin://plugin.video.f4mTester/?name=On Line&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:25461/regis/12345/6084
-#EXTINF:-1,SporTV 2 HD [Alternativo]
-plugin://plugin.video.f4mTester/?name=On Line&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:25461/regis/12345/11008
-#EXTINF:-1,SPORTV 2 HD*
-plugin://plugin.video.f4mTester/?name=On Line&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:25461/regis/12345/20540
-#EXTINF:-1,SPORTV 2 SD
-plugin://plugin.video.f4mTester/?name=On Line&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:25461/regis/12345/4326
-#EXTINF:-1,Sportv 2 SD [Alternativo]
-plugin://plugin.video.f4mTester/?name=On Line&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:25461/regis/12345/11189
-#EXTINF:-1,SPORTV 2 SD*
-plugin://plugin.video.f4mTester/?name=On Line&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:25461/regis/12345/20541
-#EXTINF:-1,SPORTV 3 FHD (DUAL AUDIO)
-plugin://plugin.video.f4mTester/?name=On Line&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:25461/regis/12345/11538
-#EXTINF:-1,SPORTV 3 HD
-plugin://plugin.video.f4mTester/?name=On Line&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:25461/regis/12345/6083
-#EXTINF:-1,SporTV 3 HD [Alternativo]
-plugin://plugin.video.f4mTester/?name=On Line&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:25461/regis/12345/11007
-#EXTINF:-1,SPORTV 3 HD*
-plugin://plugin.video.f4mTester/?name=On Line&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:25461/regis/12345/20536
-#EXTINF:-1,SPORTV 3 SD
-plugin://plugin.video.f4mTester/?name=On Line&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:25461/regis/12345/4325
-#EXTINF:-1,Sportv 3 SD [Alternativo]
-plugin://plugin.video.f4mTester/?name=On Line&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:25461/regis/12345/11188
-#EXTINF:-1,SPORTV 3 SD*
-plugin://plugin.video.f4mTester/?name=On Line&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:25461/regis/12345/20537
-#EXTINF:-1,SPORTV 4K
-plugin://plugin.video.f4mTester/?name=On Line&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:25461/regis/12345/33759
-#EXTINF:-1,SPORTV FHD (DUAL AUDIO)
-plugin://plugin.video.f4mTester/?name=On Line&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:25461/regis/12345/11563
-#EXTINF:-1,SPORTV HD
-plugin://plugin.video.f4mTester/?name=On Line&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:25461/regis/12345/6082
-#EXTINF:-1,SPORTV HD*
-plugin://plugin.video.f4mTester/?name=On Line&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:25461/regis/12345/20544
-#EXTINF:-1,SPORTV SD
-plugin://plugin.video.f4mTester/?name=On Line&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:25461/regis/12345/4327
-#EXTINF:-1,Sportv SD [Alternativo]
-plugin://plugin.video.f4mTester/?name=On Line&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:25461/regis/12345/11190
-#EXTINF:-1,SPORTV SD*
-plugin://plugin.video.f4mTester/?name=On Line&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:25461/regis/12345/20545
-#EXTINF:-1,Steve Universe 24Hrs
-plugin://plugin.video.f4mTester/?name=On Line&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:25461/regis/12345/24934
-#EXTINF:-1,Steven Universe 24HS
-plugin://plugin.video.f4mTester/?name=On Line&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:25461/regis/12345/33708
-#EXTINF:-1,STUDIO UNIVERSAL FHD (DUAL AUDIO)
-plugin://plugin.video.f4mTester/?name=On Line&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:25461/regis/12345/13194
-#EXTINF:-1,STUDIO UNIVERSAL HD
-plugin://plugin.video.f4mTester/?name=On Line&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:25461/regis/12345/7874
-#EXTINF:-1,Studio Universal HD [Alternativo]
-plugin://plugin.video.f4mTester/?name=On Line&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:25461/regis/12345/11005
-#EXTINF:-1,STUDIO UNIVERSAL HD*
-plugin://plugin.video.f4mTester/?name=On Line&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:25461/regis/12345/20546
-#EXTINF:-1,STUDIO UNIVERSAL SD
-plugin://plugin.video.f4mTester/?name=On Line&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:25461/regis/12345/4324
-#EXTINF:-1,Studio Universal SD [Alternativo]
-plugin://plugin.video.f4mTester/?name=On Line&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:25461/regis/12345/11187
-#EXTINF:-1,STUDIO UNIVERSAL SD*
-plugin://plugin.video.f4mTester/?name=On Line&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:25461/regis/12345/20547
-#EXTINF:-1,Superman 24hs
-plugin://plugin.video.f4mTester/?name=On Line&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:25461/regis/12345/32362
-#EXTINF:-1,SYFY FHD (DUAL AUDIO)
-plugin://plugin.video.f4mTester/?name=On Line&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:25461/regis/12345/13195
-#EXTINF:-1,SYFY HD
-plugin://plugin.video.f4mTester/?name=On Line&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:25461/regis/12345/7795
-#EXTINF:-1,SYFY HD*
-plugin://plugin.video.f4mTester/?name=On Line&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:25461/regis/12345/20550
-#EXTINF:-1,SYFY SD
-plugin://plugin.video.f4mTester/?name=On Line&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:25461/regis/12345/4323
-#EXTINF:-1,Syfy SD [Alternativo]
-plugin://plugin.video.f4mTester/?name=On Line&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:25461/regis/12345/11186
-#EXTINF:-1,SYFY SD*
-plugin://plugin.video.f4mTester/?name=On Line&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:25461/regis/12345/20551
-#EXTINF:-1,TBS HD
-plugin://plugin.video.f4mTester/?name=On Line&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:25461/regis/12345/7873
-#EXTINF:-1,TBS HD [Alternativo]
-plugin://plugin.video.f4mTester/?name=On Line&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:25461/regis/12345/11004
-#EXTINF:-1,TBS HD*
-plugin://plugin.video.f4mTester/?name=On Line&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:25461/regis/12345/20521
-#EXTINF:-1,TBS SD
-plugin://plugin.video.f4mTester/?name=On Line&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:25461/regis/12345/4322
-#EXTINF:-1,TBS SD*
-plugin://plugin.video.f4mTester/?name=On Line&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:25461/regis/12345/20522
-#EXTINF:-1,TCM SD
-plugin://plugin.video.f4mTester/?name=On Line&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:25461/regis/12345/4321
-#EXTINF:-1,TCM SD [Alternativo]
-plugin://plugin.video.f4mTester/?name=On Line&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:25461/regis/12345/11184
-#EXTINF:-1,TCM SD*
-plugin://plugin.video.f4mTester/?name=On Line&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:25461/regis/12345/20496
-#EXTINF:-1,TELECINE ACTION FHD (DUAL AUDIO)
-plugin://plugin.video.f4mTester/?name=On Line&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:25461/regis/12345/8141
-#EXTINF:-1,TELECINE ACTION HD
-plugin://plugin.video.f4mTester/?name=On Line&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:25461/regis/12345/6080
-#EXTINF:-1,Telecine Action HD [Alternativo]
-plugin://plugin.video.f4mTester/?name=On Line&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:25461/regis/12345/11002
-#EXTINF:-1,TELECINE ACTION HD*
-plugin://plugin.video.f4mTester/?name=On Line&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:25461/regis/12345/20517
-#EXTINF:-1,TELECINE ACTION SD
-plugin://plugin.video.f4mTester/?name=On Line&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:25461/regis/12345/4320
-#EXTINF:-1,Telecine Action SD [Alternativo]
-plugin://plugin.video.f4mTester/?name=On Line&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:25461/regis/12345/11183
-#EXTINF:-1,TELECINE ACTION SD*
-plugin://plugin.video.f4mTester/?name=On Line&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:25461/regis/12345/20518
-#EXTINF:-1,TELECINE CULT FHD (DUAL AUDIO)
-plugin://plugin.video.f4mTester/?name=On Line&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:25461/regis/12345/8143
-#EXTINF:-1,TELECINE CULT HD
-plugin://plugin.video.f4mTester/?name=On Line&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:25461/regis/12345/10247
-#EXTINF:-1,TELECINE CULT HD*
-plugin://plugin.video.f4mTester/?name=On Line&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:25461/regis/12345/20513
-#EXTINF:-1,TELECINE CULT SD
-plugin://plugin.video.f4mTester/?name=On Line&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:25461/regis/12345/4319
-#EXTINF:-1,Telecine Cult SD [Alternativo]
-plugin://plugin.video.f4mTester/?name=On Line&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:25461/regis/12345/11182
-#EXTINF:-1,TELECINE CULT SD*
-plugin://plugin.video.f4mTester/?name=On Line&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:25461/regis/12345/20514
-#EXTINF:-1,TELECINE FUN FHD (DUAL AUDIO)
-plugin://plugin.video.f4mTester/?name=On Line&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:25461/regis/12345/11561
-#EXTINF:-1,TELECINE FUN HD
-plugin://plugin.video.f4mTester/?name=On Line&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:25461/regis/12345/6079
-#EXTINF:-1,TELECINE FUN HD*
-plugin://plugin.video.f4mTester/?name=On Line&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:25461/regis/12345/20509
-#EXTINF:-1,TELECINE FUN SD
-plugin://plugin.video.f4mTester/?name=On Line&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:25461/regis/12345/4318
-#EXTINF:-1,Telecine Fun SD [Alternativo]
-plugin://plugin.video.f4mTester/?name=On Line&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:25461/regis/12345/11181
-#EXTINF:-1,TELECINE FUN SD*
-plugin://plugin.video.f4mTester/?name=On Line&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:25461/regis/12345/20510
-#EXTINF:-1,TELECINE PIPOCA FHD (DUAL AUDIO)
-plugin://plugin.video.f4mTester/?name=On Line&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:25461/regis/12345/8144
-#EXTINF:-1,TELECINE PIPOCA HD
-plugin://plugin.video.f4mTester/?name=On Line&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:25461/regis/12345/6078
-#EXTINF:-1,TELECINE PIPOCA HD*
-plugin://plugin.video.f4mTester/?name=On Line&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:25461/regis/12345/20505
-#EXTINF:-1,TELECINE PIPOCA SD
-plugin://plugin.video.f4mTester/?name=On Line&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:25461/regis/12345/4317
-#EXTINF:-1,TELECINE PREMIUM FHD (DUAL AUDIO)
-plugin://plugin.video.f4mTester/?name=On Line&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:25461/regis/12345/8140
-#EXTINF:-1,TELECINE PREMIUM HD
-plugin://plugin.video.f4mTester/?name=On Line&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:25461/regis/12345/6077
-#EXTINF:-1,TELECINE PREMIUM HD*
-plugin://plugin.video.f4mTester/?name=On Line&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:25461/regis/12345/20501
-#EXTINF:-1,TELECINE PREMIUM SD
-plugin://plugin.video.f4mTester/?name=On Line&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:25461/regis/12345/4316
-#EXTINF:-1,TELECINE TOUCH FHD (DUAL AUDIO)
-plugin://plugin.video.f4mTester/?name=On Line&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:25461/regis/12345/25016
-#EXTINF:-1,TELECINE TOUCH HD
-plugin://plugin.video.f4mTester/?name=On Line&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:25461/regis/12345/6076
-#EXTINF:-1,Telecine Touch HD [Alternativo]
-plugin://plugin.video.f4mTester/?name=On Line&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:25461/regis/12345/10997
-#EXTINF:-1,TELECINE TOUCH HD*
-plugin://plugin.video.f4mTester/?name=On Line&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:25461/regis/12345/20497
-#EXTINF:-1,TELECINE TOUCH SD
-plugin://plugin.video.f4mTester/?name=On Line&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:25461/regis/12345/4315
-#EXTINF:-1,TERRA VIVA SD
-plugin://plugin.video.f4mTester/?name=On Line&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:25461/regis/12345/6936
-#EXTINF:-1,Thundercats 24hs
-plugin://plugin.video.f4mTester/?name=On Line&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:25461/regis/12345/30014
-#EXTINF:-1,TLC HD
-plugin://plugin.video.f4mTester/?name=On Line&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:25461/regis/12345/24786
-#EXTINF:-1,TLC HD [Alternativo]
-plugin://plugin.video.f4mTester/?name=On Line&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:25461/regis/12345/10996
-#EXTINF:-1,TLC SD
-plugin://plugin.video.f4mTester/?name=On Line&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:25461/regis/12345/4313
-#EXTINF:-1,TNT 4K
-plugin://plugin.video.f4mTester/?name=On Line&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:25461/regis/12345/33755
-#EXTINF:-1,TNT FHD (DUAL AUDIO)
-plugin://plugin.video.f4mTester/?name=On Line&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:25461/regis/12345/13181
-#EXTINF:-1,TNT HD
-plugin://plugin.video.f4mTester/?name=On Line&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:25461/regis/12345/6074
-#EXTINF:-1,TNT HD [Alternativo]
-plugin://plugin.video.f4mTester/?name=On Line&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:25461/regis/12345/10995
-#EXTINF:-1,TNT HD*
-plugin://plugin.video.f4mTester/?name=On Line&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:25461/regis/12345/20493
-#EXTINF:-1,TNT SD
-plugin://plugin.video.f4mTester/?name=On Line&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:25461/regis/12345/4312
-#EXTINF:-1,TNT Series [Alternativo]
-plugin://plugin.video.f4mTester/?name=On Line&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:25461/regis/12345/10994
-#EXTINF:-1,TNT SERIES 4K
-plugin://plugin.video.f4mTester/?name=On Line&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:25461/regis/12345/33765
-#EXTINF:-1,TNT SERIES FHD (DUAL AUDIO)
-plugin://plugin.video.f4mTester/?name=On Line&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:25461/regis/12345/13186
-#EXTINF:-1,TNT SERIES HD
-plugin://plugin.video.f4mTester/?name=On Line&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:25461/regis/12345/6073
-#EXTINF:-1,TNT SERIES HD*
-plugin://plugin.video.f4mTester/?name=On Line&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:25461/regis/12345/20489
-#EXTINF:-1,TNT SERIES SD
-plugin://plugin.video.f4mTester/?name=On Line&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:25461/regis/12345/4311
-#EXTINF:-1,TODO MUNDO ODEIA O CHRIS 24Hrs
-plugin://plugin.video.f4mTester/?name=On Line&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:25461/regis/12345/24955
-#EXTINF:-1,TOONCAST HD
-plugin://plugin.video.f4mTester/?name=On Line&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:25461/regis/12345/20485
-#EXTINF:-1,TOONCAST SD
-plugin://plugin.video.f4mTester/?name=On Line&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:25461/regis/12345/4310
-#EXTINF:-1,Tooncast SD [Alternativo]
-plugin://plugin.video.f4mTester/?name=On Line&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:25461/regis/12345/11174
-#EXTINF:-1,TOONCAST SD*
-plugin://plugin.video.f4mTester/?name=On Line&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:25461/regis/12345/20486
-#EXTINF:-1,Tres Espias Demais 24hs
-plugin://plugin.video.f4mTester/?name=On Line&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:25461/regis/12345/32361
-#EXTINF:-1,TRUTV SD
-plugin://plugin.video.f4mTester/?name=On Line&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:25461/regis/12345/6935
-#EXTINF:-1,TV ALTEROSA SBT DIVINOPOLIS MG SD
-plugin://plugin.video.f4mTester/?name=On Line&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:25461/regis/12345/30433
-#EXTINF:-1,TV ALTEROSA SBT MINAS HD
-plugin://plugin.video.f4mTester/?name=On Line&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:25461/regis/12345/30434
-#EXTINF:-1,TV ANHANGUERA GOIANIA HD
-plugin://plugin.video.f4mTester/?name=On Line&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:25461/regis/12345/30439
-#EXTINF:-1,TV ANHANGUERA SD
-plugin://plugin.video.f4mTester/?name=On Line&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:25461/regis/12345/33257
-#EXTINF:-1,TV APARECIDA SD
-plugin://plugin.video.f4mTester/?name=On Line&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:25461/regis/12345/4438
-#EXTINF:-1,TV ARATU SBT BAHIA HD
-plugin://plugin.video.f4mTester/?name=On Line&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:25461/regis/12345/30428
-#EXTINF:-1,TV BRASIL SD*
-plugin://plugin.video.f4mTester/?name=On Line&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:25461/regis/12345/20482
-#EXTINF:-1,TV CABRALIA RECORD BAHIA HD
-plugin://plugin.video.f4mTester/?name=On Line&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:25461/regis/12345/30429
-#EXTINF:-1,TV CAMARA SD
-plugin://plugin.video.f4mTester/?name=On Line&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:25461/regis/12345/10245
-#EXTINF:-1,RPC PR HD
-plugin://plugin.video.f4mTester/?name=On Line&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:25461/regis/12345/20483
-#EXTINF:-1,TV CIDADE OESTE SD
-plugin://plugin.video.f4mTester/?name=On Line&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:25461/regis/12345/20484
-#EXTINF:-1,TV CLIMATEMPO SD
-plugin://plugin.video.f4mTester/?name=On Line&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:25461/regis/12345/20478
-#EXTINF:-1,TV CULTURA HD
-plugin://plugin.video.f4mTester/?name=On Line&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:25461/regis/12345/20473
-#EXTINF:-1,TV CULTURA SD
-plugin://plugin.video.f4mTester/?name=On Line&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:25461/regis/12345/4412
-#EXTINF:-1,TV ESCOLA SD*
-plugin://plugin.video.f4mTester/?name=On Line&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:25461/regis/12345/20477
-#EXTINF:-1,TV EVANGELIZAR SD
-plugin://plugin.video.f4mTester/?name=On Line&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:25461/regis/12345/6206
-#EXTINF:-1,TV GAZETA SP HD
-plugin://plugin.video.f4mTester/?name=On Line&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:25461/regis/12345/30425
-#EXTINF:-1,TV GLOBO RPC CURITIBA SD*
-plugin://plugin.video.f4mTester/?name=On Line&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:25461/regis/12345/7866
-#EXTINF:-1,TV JUSTICA SD*
-plugin://plugin.video.f4mTester/?name=On Line&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:25461/regis/12345/20475
-#EXTINF:-1,TV LIBERAL BELEM SD
-plugin://plugin.video.f4mTester/?name=On Line&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:25461/regis/12345/33256
-#EXTINF:-1,TV PAMPA - REDE TV RS HD
-plugin://plugin.video.f4mTester/?name=On Line&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:25461/regis/12345/30436
-#EXTINF:-1,TV PARANAIBA RECORD UBERLANDIA MG HD
-plugin://plugin.video.f4mTester/?name=On Line&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:25461/regis/12345/30424
-#EXTINF:-1,TV RA TIM BUM HD
-plugin://plugin.video.f4mTester/?name=On Line&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:25461/regis/12345/24787
-#EXTINF:-1,TV RA TIM BUM SD
-plugin://plugin.video.f4mTester/?name=On Line&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:25461/regis/12345/6933
-#EXTINF:-1,GLOBO TV GAZETA ES FHD
-plugin://plugin.video.f4mTester/?name=On Line&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:25461/regis/12345/20476
-#EXTINF:-1,TV SANTA CRUZ GLOBO BAHIA HD
-plugin://plugin.video.f4mTester/?name=On Line&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:25461/regis/12345/30431
-#EXTINF:-1,TV SENADO SD
-plugin://plugin.video.f4mTester/?name=On Line&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:25461/regis/12345/10246
-#EXTINF:-1,TV SUBAE GLOBO BAHIA HD
-plugin://plugin.video.f4mTester/?name=On Line&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:25461/regis/12345/30430
-#EXTINF:-1,TV TEM BAURU SD
-plugin://plugin.video.f4mTester/?name=On Line&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:25461/regis/12345/33255
-#EXTINF:-1,TV TEM SOROCABA SD
-plugin://plugin.video.f4mTester/?name=On Line&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:25461/regis/12345/33254
-#EXTINF:-1,TV TRIBUNA ES FHD
-plugin://plugin.video.f4mTester/?name=On Line&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:25461/regis/12345/33610
-#EXTINF:-1,TV TRIBUNA ES HD
-plugin://plugin.video.f4mTester/?name=On Line&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:25461/regis/12345/33609
-#EXTINF:-1,TV TRIBUNA ES SD
-plugin://plugin.video.f4mTester/?name=On Line&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:25461/regis/12345/33608
-#EXTINF:-1,TV VITORIA ES FHD
-plugin://plugin.video.f4mTester/?name=On Line&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:25461/regis/12345/33604
-#EXTINF:-1,TV VITORIA ES HD
-plugin://plugin.video.f4mTester/?name=On Line&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:25461/regis/12345/33603
-#EXTINF:-1,TV VITORIA ES SD
-plugin://plugin.video.f4mTester/?name=On Line&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:25461/regis/12345/33602
-#EXTINF:-1,TVE HD
-plugin://plugin.video.f4mTester/?name=On Line&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:25461/regis/12345/4440
-#EXTINF:-1,UM MALUCO NO PEDAÇO 24HS
-plugin://plugin.video.f4mTester/?name=On Line&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:25461/regis/12345/30031
-#EXTINF:-1,Uma Família da Pesada 24hs
-plugin://plugin.video.f4mTester/?name=On Line&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:25461/regis/12345/32369
-#EXTINF:-1,UNIVERSAL CHANNEL FHD (DUAL AUDIO)
-plugin://plugin.video.f4mTester/?name=On Line&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:25461/regis/12345/13192
-#EXTINF:-1,UNIVERSAL CHANNEL HD
-plugin://plugin.video.f4mTester/?name=On Line&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:25461/regis/12345/5987
-#EXTINF:-1,UNIVERSAL CHANNEL HD*
-plugin://plugin.video.f4mTester/?name=On Line&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:25461/regis/12345/20464
-#EXTINF:-1,TV TEM São José do Rio Preto SD
-plugin://plugin.video.f4mTester/?name=On Line&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:25461/regis/12345/4308
-#EXTINF:-1,UNIVERSAL CHANNEL SD
-plugin://plugin.video.f4mTester/?name=On Line&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:25461/regis/12345/20465
-#EXTINF:-1,Universal Channels HD [Alternativo]
-plugin://plugin.video.f4mTester/?name=On Line&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:25461/regis/12345/10992
-#EXTINF:-1,VH1 MEGA HITS HD
-plugin://plugin.video.f4mTester/?name=On Line&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:25461/regis/12345/10361
-#EXTINF:-1,VH1 MEGA HITS SD
-plugin://plugin.video.f4mTester/?name=On Line&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:25461/regis/12345/10243
-#EXTINF:-1,VIVA HD
-plugin://plugin.video.f4mTester/?name=On Line&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:25461/regis/12345/6848
-#EXTINF:-1,VIVA HD*
-plugin://plugin.video.f4mTester/?name=On Line&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:25461/regis/12345/20460
-#EXTINF:-1,VIVA SD
-plugin://plugin.video.f4mTester/?name=On Line&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:25461/regis/12345/6928
-#EXTINF:-1,VIVA SD*
-plugin://plugin.video.f4mTester/?name=On Line&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:25461/regis/12345/20461
-#EXTINF:-1,WARNER CHANNEL FHD (DUAL AUDIO)
-plugin://plugin.video.f4mTester/?name=On Line&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:25461/regis/12345/11525
-#EXTINF:-1,WARNER CHANNEL HD
-plugin://plugin.video.f4mTester/?name=On Line&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:25461/regis/12345/6072
-#EXTINF:-1,Warner Channel HD [Alternativo]
-plugin://plugin.video.f4mTester/?name=On Line&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:25461/regis/12345/10990
-#EXTINF:-1,WARNER CHANNEL HD*
-plugin://plugin.video.f4mTester/?name=On Line&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:25461/regis/12345/20456
-#EXTINF:-1,WARNER CHANNEL SD
-plugin://plugin.video.f4mTester/?name=On Line&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:25461/regis/12345/4307
-#EXTINF:-1,Warner Channel SD [Alternativo]
-plugin://plugin.video.f4mTester/?name=On Line&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:25461/regis/12345/11167
-#EXTINF:-1,WARNER CHANNEL SD*
-plugin://plugin.video.f4mTester/?name=On Line&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:25461/regis/12345/20457
-#EXTINF:-1,WOOHOO SD
-plugin://plugin.video.f4mTester/?name=On Line&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:25461/regis/12345/20453
-#EXTINF:-1,Xena 24hs
-plugin://plugin.video.f4mTester/?name=On Line&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:25461/regis/12345/30011
+http://clientportalpro.com:2500/live/1122335566/1122335566/13254.ts
+#EXTINF:-1,BIS
+http://clientportalpro.com:2500/live/1122335566/1122335566/13253.ts
+#EXTINF:-1,Boomerang Brasil
+http://clientportalpro.com:2500/live/1122335566/1122335566/13252.ts
+#EXTINF:-1,Brazil 7
+http://clientportalpro.com:2500/live/1122335566/1122335566/13251.ts
+#EXTINF:-1,CAN??O NOVA
+http://clientportalpro.com:2500/live/1122335566/1122335566/13250.ts
+#EXTINF:-1,Canal Do Boi Tv
+http://clientportalpro.com:2500/live/1122335566/1122335566/13249.ts
+#EXTINF:-1,Canal Sony HD
+http://clientportalpro.com:2500/live/1122335566/1122335566/13248.ts
+#EXTINF:-1,CAPELINHA FaTIMA
+http://clientportalpro.com:2500/live/1122335566/1122335566/13247.ts
+#EXTINF:-1,Cartoon Network Brasil
+http://clientportalpro.com:2500/live/1122335566/1122335566/13246.ts
+#EXTINF:-1,CINEMAX
+http://clientportalpro.com:2500/live/1122335566/1122335566/13245.ts
+#EXTINF:-1,Combate HD
+http://clientportalpro.com:2500/live/1122335566/1122335566/13244.ts
+#EXTINF:-1,Conexaobr Tv
+http://clientportalpro.com:2500/live/1122335566/1122335566/13243.ts
+#EXTINF:-1,Discovery Brasil
+http://clientportalpro.com:2500/live/1122335566/1122335566/13242.ts
+#EXTINF:-1,Discovery Civilization
+http://clientportalpro.com:2500/live/1122335566/1122335566/13241.ts
+#EXTINF:-1,Discovery Home & Health HD
+http://clientportalpro.com:2500/live/1122335566/1122335566/13240.ts
+#EXTINF:-1,Discovery ID
+http://clientportalpro.com:2500/live/1122335566/1122335566/13239.ts
+#EXTINF:-1,Discovery Kids
+http://clientportalpro.com:2500/live/1122335566/1122335566/13238.ts
+#EXTINF:-1,Discovery Science
+http://clientportalpro.com:2500/live/1122335566/1122335566/13237.ts
+#EXTINF:-1,Discovery Turbo Brasil
+http://clientportalpro.com:2500/live/1122335566/1122335566/13236.ts
+#EXTINF:-1,Disney Brasil
+http://clientportalpro.com:2500/live/1122335566/1122335566/13235.ts
+#EXTINF:-1,Disney XD Brasil
+http://clientportalpro.com:2500/live/1122335566/1122335566/13234.ts
+#EXTINF:-1,DW Latin
+http://clientportalpro.com:2500/live/1122335566/1122335566/13233.ts
+#EXTINF:-1,EI MAXX 2 HD
+http://clientportalpro.com:2500/live/1122335566/1122335566/13232.ts
+#EXTINF:-1,Ei Maxx Brasil
+http://clientportalpro.com:2500/live/1122335566/1122335566/13231.ts
+#EXTINF:-1,ESPN
+http://clientportalpro.com:2500/live/1122335566/1122335566/13230.ts
+#EXTINF:-1,ESPN Brasil HD
+http://clientportalpro.com:2500/live/1122335566/1122335566/13229.ts
+#EXTINF:-1,FAZENDA
+http://clientportalpro.com:2500/live/1122335566/1122335566/13228.ts
+#EXTINF:-1,Fish TV
+http://clientportalpro.com:2500/live/1122335566/1122335566/13227.ts
+#EXTINF:-1,FOOD NETWORK
+http://clientportalpro.com:2500/live/1122335566/1122335566/13226.ts
+#EXTINF:-1,Fox Brasil
+http://clientportalpro.com:2500/live/1122335566/1122335566/13225.ts
+#EXTINF:-1,FOX Sports 1
+http://clientportalpro.com:2500/live/1122335566/1122335566/13224.ts
+#EXTINF:-1,Fox Sports 2
+http://clientportalpro.com:2500/live/1122335566/1122335566/13223.ts
+#EXTINF:-1,Futura tv
+http://clientportalpro.com:2500/live/1122335566/1122335566/13222.ts
+#EXTINF:-1,Fx Brasil
+http://clientportalpro.com:2500/live/1122335566/1122335566/13221.ts
+#EXTINF:-1,GLOBO NORDESTE
+http://clientportalpro.com:2500/live/1122335566/1122335566/13220.ts
+#EXTINF:-1,Globo SP
+http://clientportalpro.com:2500/live/1122335566/1122335566/13219.ts
+#EXTINF:-1,Gloob Cine
+http://clientportalpro.com:2500/live/1122335566/1122335566/13218.ts
+#EXTINF:-1,H2 Brasil
+http://clientportalpro.com:2500/live/1122335566/1122335566/13217.ts
+#EXTINF:-1,HBO 2 Brasil
+http://clientportalpro.com:2500/live/1122335566/1122335566/13216.ts
+#EXTINF:-1,HBO Brasil
+http://clientportalpro.com:2500/live/1122335566/1122335566/13215.ts
+#EXTINF:-1,HBO Family Brazil
+http://clientportalpro.com:2500/live/1122335566/1122335566/13214.ts
+#EXTINF:-1,HBO Plus Brasil
+http://clientportalpro.com:2500/live/1122335566/1122335566/13213.ts
+#EXTINF:-1,HBO PLUS E
+http://clientportalpro.com:2500/live/1122335566/1122335566/13212.ts
+#EXTINF:-1,HBO Signature Brasil
+http://clientportalpro.com:2500/live/1122335566/1122335566/13211.ts
+#EXTINF:-1,History Brasil
+http://clientportalpro.com:2500/live/1122335566/1122335566/13210.ts
+#EXTINF:-1,LIFETIME
+http://clientportalpro.com:2500/live/1122335566/1122335566/13209.ts
+#EXTINF:-1,MANA SAT
+http://clientportalpro.com:2500/live/1122335566/1122335566/13208.ts
+#EXTINF:-1,Max Brasil
+http://clientportalpro.com:2500/live/1122335566/1122335566/13207.ts
+#EXTINF:-1,Max Prime
+http://clientportalpro.com:2500/live/1122335566/1122335566/13206.ts
+#EXTINF:-1,Max UP
+http://clientportalpro.com:2500/live/1122335566/1122335566/13205.ts
+#EXTINF:-1,Megapix
+http://clientportalpro.com:2500/live/1122335566/1122335566/13204.ts
+#EXTINF:-1,MTV
+http://clientportalpro.com:2500/live/1122335566/1122335566/13203.ts
+#EXTINF:-1,Multishow HD
+http://clientportalpro.com:2500/live/1122335566/1122335566/13202.ts
+#EXTINF:-1,Nat Geo Brasil
+http://clientportalpro.com:2500/live/1122335566/1122335566/13201.ts
+#EXTINF:-1,Nick Brasil
+http://clientportalpro.com:2500/live/1122335566/1122335566/13200.ts
+#EXTINF:-1,Nick Jr Brasil
+http://clientportalpro.com:2500/live/1122335566/1122335566/13199.ts
+#EXTINF:-1,Nickelodeon
+http://clientportalpro.com:2500/live/1122335566/1122335566/13198.ts
+#EXTINF:-1,Novo Tempo
+http://clientportalpro.com:2500/live/1122335566/1122335566/13197.ts
+#EXTINF:-1,Paramount Brasil
+http://clientportalpro.com:2500/live/1122335566/1122335566/13196.ts
+#EXTINF:-1,PLAY TV
+http://clientportalpro.com:2500/live/1122335566/1122335566/13195.ts
+#EXTINF:-1,Premiere 1
+http://clientportalpro.com:2500/live/1122335566/1122335566/13194.ts
+#EXTINF:-1,Premiere 2
+http://clientportalpro.com:2500/live/1122335566/1122335566/13193.ts
+#EXTINF:-1,Premiere 3
+http://clientportalpro.com:2500/live/1122335566/1122335566/13192.ts
+#EXTINF:-1,Premiere 4
+http://clientportalpro.com:2500/live/1122335566/1122335566/13191.ts
+#EXTINF:-1,Premiere 5
+http://clientportalpro.com:2500/live/1122335566/1122335566/13190.ts
+#EXTINF:-1,Proyecto 40
+http://clientportalpro.com:2500/live/1122335566/1122335566/13189.ts
+#EXTINF:-1,RCTV
+http://clientportalpro.com:2500/live/1122335566/1122335566/13188.ts
+#EXTINF:-1,RECORD
+http://clientportalpro.com:2500/live/1122335566/1122335566/13187.ts
+#EXTINF:-1,RECORD NEWS
+http://clientportalpro.com:2500/live/1122335566/1122335566/13186.ts
+#EXTINF:-1,REDE GOSPEL
+http://clientportalpro.com:2500/live/1122335566/1122335566/5045.ts
+#EXTINF:-1,REDE TV RONDONIA
+http://clientportalpro.com:2500/live/1122335566/1122335566/5044.ts
+#EXTINF:-1,Space Brasil
+http://clientportalpro.com:2500/live/1122335566/1122335566/13185.ts
+#EXTINF:-1,SporTV 1 HD
+http://clientportalpro.com:2500/live/1122335566/1122335566/13184.ts
+#EXTINF:-1,SporTV 2 HD
+http://clientportalpro.com:2500/live/1122335566/1122335566/13183.ts
+#EXTINF:-1,SporTV 3 HD
+http://clientportalpro.com:2500/live/1122335566/1122335566/13182.ts
+#EXTINF:-1,Studio Universal
+http://clientportalpro.com:2500/live/1122335566/1122335566/13181.ts
+#EXTINF:-1,Telecine Action
+http://clientportalpro.com:2500/live/1122335566/1122335566/13180.ts
+#EXTINF:-1,Telecine Cult
+http://clientportalpro.com:2500/live/1122335566/1122335566/13179.ts
+#EXTINF:-1,Telecine Fun
+http://clientportalpro.com:2500/live/1122335566/1122335566/13178.ts
+#EXTINF:-1,Telecine Pipoca
+http://clientportalpro.com:2500/live/1122335566/1122335566/13177.ts
+#EXTINF:-1,Telecine Premium
+http://clientportalpro.com:2500/live/1122335566/1122335566/13176.ts
+#EXTINF:-1,Telecine Touch
+http://clientportalpro.com:2500/live/1122335566/1122335566/13175.ts
+#EXTINF:-1,TNT Brasil
+http://clientportalpro.com:2500/live/1122335566/1122335566/13174.ts
+#EXTINF:-1,TNT SERIES
+http://clientportalpro.com:2500/live/1122335566/1122335566/13173.ts
+#EXTINF:-1,TRU HD
+http://clientportalpro.com:2500/live/1122335566/1122335566/13172.ts
+#EXTINF:-1,TV DIaRIO
+http://clientportalpro.com:2500/live/1122335566/1122335566/13171.ts
+#EXTINF:-1,TV GAZETA HD
+http://clientportalpro.com:2500/live/1122335566/1122335566/13170.ts
+#EXTINF:-1,tv globo
+http://clientportalpro.com:2500/live/1122335566/1122335566/13169.ts
+#EXTINF:-1,TV Globo Premium
+http://clientportalpro.com:2500/live/1122335566/1122335566/13168.ts
+#EXTINF:-1,TV MAN¨¢ FRANCE
+http://clientportalpro.com:2500/live/1122335566/1122335566/13167.ts
+#EXTINF:-1,TV POCOS
+http://clientportalpro.com:2500/live/1122335566/1122335566/13166.ts
+#EXTINF:-1,TV Series  HD
+http://clientportalpro.com:2500/live/1122335566/1122335566/13165.ts
+#EXTINF:-1,tvdiario
+http://clientportalpro.com:2500/live/1122335566/1122335566/13164.ts
+#EXTINF:-1,TVE RS
+http://clientportalpro.com:2500/live/1122335566/1122335566/13163.ts
+#EXTINF:-1,TVI
+http://clientportalpro.com:2500/live/1122335566/1122335566/13162.ts
+#EXTINF:-1,TVI 24
+http://clientportalpro.com:2500/live/1122335566/1122335566/13161.ts
+#EXTINF:-1,Universal Brasil
+http://clientportalpro.com:2500/live/1122335566/1122335566/13160.ts
+#EXTINF:-1,VH1 Mega Hits
+http://clientportalpro.com:2500/live/1122335566/1122335566/13159.ts
+#EXTINF:-1,Warner Channel
+http://clientportalpro.com:2500/live/1122335566/1122335566/13158.ts
+#EXTINF:-1,BR:Animal Planet Brasil
+http://clientportalpro.com:2500/live/1122335566/1122335566/13157.ts
+#EXTINF:-1,BR:OFF
+http://clientportalpro.com:2500/live/1122335566/1122335566/13156.ts
+#EXTINF:-1,BR:Redecanais Action Cinema
+http://clientportalpro.com:2500/live/1122335566/1122335566/13155.ts
+#EXTINF:-1,BR:Redecanais Animation Cinema
+http://clientportalpro.com:2500/live/1122335566/1122335566/13154.ts
+#EXTINF:-1,BR:Redecanais Family Cinema
+http://clientportalpro.com:2500/live/1122335566/1122335566/13153.ts
+#EXTINF:-1,BR:Redecanais Premium Cinema
+http://clientportalpro.com:2500/live/1122335566/1122335566/13152.ts
