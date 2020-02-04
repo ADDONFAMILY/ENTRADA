@@ -265,155 +265,1346 @@ http://rtmp.one.by:1300
 #EXTINF:-1 tvg-logo="" group-title="TV Musicas",ONE 4 HD
 http://rtmp.one.by:2300
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSMHGF0p4vcUxeMRrbGyOgKhf1b_lv5QOwpv_YsAtGhukAXRuj2" group-title="Sportes", Espn
-http://62.210.124.111/redirect.php?key=e574B1W6q406dht546Dh-74600  
+#EXTINF:-1 ,Agro Brasil
+http://177.54.152.243:1935/agrobrasiltv/agrobrasiltv/chunklist_w1621412647.m3u8
+#EXTINF:-1 ,AGRO BRASIL
+http://177.54.152.243:1935/agrobrasiltv/agrobrasiltv/playlist.m3u8
+#EXTINF:-1 ,AGRO BRASIL
+http://177.54.152.243:1935/agrobrasiltv/agrobrasiltv/live.m3u8
+#EXTINF:-1 ,AGRO BRASIL
+http://177.54.152.243:1935/agrobrasiltv/agrobrasiltv/playlist.m3u8
+#EXTINF:-1 ,Al Jazeera English
+http://aljazeera-eng-hd-live.hls.adaptive.level3.net/aljazeera/english2/index.m3u8
+#EXTINF:-1 ,All Sports
+https://59f1cbe63db89.streamlock.net:1443/dgrau/_definst_/dgrau/playlist.m3u8
+#EXTINF:-1 ,ALL SPORTS HD
+https://59f1cbe63db89.streamlock.net:1443/dgrau/_definst_/dgrau/chunklist_w1192655349.m3u8?EDSONSOUSALIST
+#EXTINF:-1 ,ALL SPORTS TV
+http://tv01.logicahost.com.br:1935/dgrau/dgrau/live.m3u8
+#EXTINF:-1 ,ANOS 2000
+http://6d9a.webradio.upx.net.br:9940/stream?
+#EXTINF:-1 ,ANOS 70
+http://192.99.150.31:8241/stream?
+#EXTINF:-1 ,ANOS 80
+http://192.99.150.31:8697/stream?
+#EXTINF:-1 ,ANOS 90
+http://192.99.150.31:8056/stream?
+#EXTINF:-1 ,APARECIDA
+http://caikron.com.br:1935/tvaparecida/tvaparecida.stream/chunklist_w1646479017.m3u8
+#EXTINF:-1 ,APARECIDA
+http://caikron.com.br:1935/tvaparecida/tvaparecida.stream/playlist.m3u8
+#EXTINF:-1 ,Arirang
+https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
+#EXTINF:-1 ,AXN HD
+http://187.120.222.12:8000/play/AXNLEG/index.m3u8
+#EXTINF:-1 ,AXÉ
+http://192.99.150.31:8305/stream?
+#EXTINF:-1 ,Bloomberg TV
+https://liveproduseast.akamaized.net/btv/desktop/us_live.m3u8
+#EXTINF:-1 ,Boa Vontade TV
+http://187.120.222.12:8000/play/BoaVontade/index.m3u8
+#EXTINF:-1 ,BOSSA NOVA
+http://6d9a.webradio.upx.net.br:9974/stream?
+#EXTINF:-1 ,BREGA
+http://192.99.150.31:9007/stream?
+#EXTINF:-1 ,Canal Futura
+http://caikron.com.br:1935/unipar/tvup/chunklist_w1349470905.m3u8
+#EXTINF:-1 ,Canal Futura
+http://caikron.com.br:1935/unipar/tvup/playlist.m3u8
+#EXTINF:-1 ,Canal Saúde
+https://5a7bcfb834235.streamlock.net/fiocruz/fiocruz/playlist.m3u8
+#EXTINF:-1 ,Canal Sony HD
+http://187.120.222.12:8000/play/CanalSonyLEG/index.m3u8
+#EXTINF:-1 ,Canção Nova
+http://tvajuhls-lh.akamaihd.net:80/i/tvdesk_1@147040/master.m3u8
+#EXTINF:-1 ,Capital TV
+https://capital-tv-lh.akamaized.net/i/CapitalTv_1@183098/master.m3u8
+#EXTINF:-1 ,CAT TVE
+http://wowza4.catve.com.br:1935/live/livestream/chunklist_w708731897.m3u8
+#EXTINF:-1 ,CAT TVE HD
+http://wowza4.catve.com.br:1935/live/livestream/chunklist_w708731897.m3u8?EDSONSOUSALIST
+#EXTINF:-1 ,CATVE
+http://wowza4.catve.com.br:1935/live/livestream/playlist.m3u8
+#EXTINF:-1 ,CONECTV
+http://stream02.msolutionbrasil.com.br:1935/conectv/live/livestream.m3u8
+#EXTINF:-1 ,TV Baiana - Cultura
+http://hls.fm1.com.br:8080/hls/tvbaiana.m3u8
+#EXTINF:-1 ,TV Itararé - Cultura (PB)
+http://stream.tvitarare.com.br/hls/site/site.m3u8
+#EXTINF:-1 ,Catve - Cultura (PR)
+https://5b33b873179a2.streamlock.net:1443/live/livestream/chunklist_w125430112.m3u8
+#EXTINF:-1 ,Cultura HD
+http://187.120.222.12:8000/play/TVCultura/index.m3u8
+#EXTINF:-1 ,Cultura Pará
+http://177.74.1.38/funtelpa/tv_funtelpa/playlist.m3u8
+#EXTINF:-1 ,DJing
+https://www.djing.com/tv/d-28904-04.m3u8
+#EXTINF:-1 ,DJing Animation
+https://www.djing.com/tv/a-28904-04.m3u8
+#EXTINF:-1 ,EI MAXX HD
+https://vrzn-ei-ee.cdn.mdstrm.com/live-stream-secure/5801255b39c38e1109ddfabd/publish/media_2500.m3u8?VRQtpAFXeNzNFtld2tf9yeN1vyU5-lJGp-xRb4rmThesW92zv__GN1EIRJsFcos96xKG&dnt=true&access_token=OZo0Cf114fBAQJMd9p7wp9jvtlEvCwwqMmgMv2s6QgtpdAxjqgLc9CFw0NwxaYM5XbNKoVgdvnC&ref=https://eiplus.com.br/canal/47/no-ar-com-andre-henning/&es=vrzn-ei-ee.cdn.mdstrm.com&proto=https&pz=BR
+#EXTINF:-1 ,ELETRÔNICA
+http://192.99.150.31:9095/stream?
+#EXTINF:-1 ,FM O DIA 100.5 - ESTÚDIO AO VIVO
+http://c2901-slbps-sambavideos.akamaized.net/livet/FMoDiaVideo_14d480346fa04ebcb4f03173f2dae707/ngrp:livestream/chunklist_b898304.m3u8
+#EXTINF:-1 ,FESTA
+http://6d9a.webradio.upx.net.br:9070/stream?
+#EXTINF:-1 ,FONTE TV
+http://flash.softhost.com.br:1935/fonte/fontetv/live.m3u8
+#EXTINF:-1 ,FonteTV (GO)
+http://wowza.softhost.com.br:1935/fonte/fontetv/playlist.m3u8
+#EXTINF:-1 ,FORRÓ
+http://192.99.150.31:9019/stream?
+#EXTINF:-1 ,FOX HD
+http://187.120.222.12:8000/play/FOXLEG/index.m3u8
+#EXTINF:-1 ,FOX Life HD
+http://187.120.222.12:8000/play/a00q/index.m3u8
+#EXTINF:-1 ,France 24
+http://static.france24.com/live/F24_ES_LO_HLS/live_web.m3u8
+#EXTINF:-1 ,FUTURA
+http://caikron.com.br:1935/unipar/tvup/chunklist_w1393449617.m3u8
+#EXTINF:-1 ,FX HD
+http://187.120.222.12:8000/play/FXLEG/index.m3u8
+#EXTINF:-1 ,TV TEM SJRP - Globo HD
+http://187.120.222.12:8000/play/TVTEMSJRP/index.m3u8
+#EXTINF:-1 ,GLOBOSAT
+https://r2---sn-gpv7ener.c.2mdn.net/videoplayback/id/2dbe46a02a8c623e/itag/343/source/web_video_ads/ctier/L/acao/yes/ip/0.0.0.0/ipbits/0/expire/3712159797/sparams/acao,ctier,expire,id,ip,ipbits,itag,mip,mm,mn,ms,mv,mvi,pl,source/signature/4CB8D9CC017B09E943D2041F6E0B2EA965638E88.3AE93983D761185494AA8C0B22A339BCC499E5DF/key/cms1/cms_redirect/yes/mip/187.3.249.25/mm/42/mn/sn-gpv7ener/ms/onc/mt/1570637294/mv/u/mvi/1/pl/21/file/file.mp4
+#EXTINF:-1 ,Gospel Cartoon
+http://stmv1.srvstm.com/gospelcartoon/gospelcartoon/playlist.m3u8
+#EXTINF:-1 ,GOSPEL MOVEL TELEVISION
+http://stmv2.srvstm.com/gospelf/gospelf/playlist.m3u8
+#EXTINF:-1 ,GOSPEL MOVIES TELEVISION
+http://stmv2.euroti.com.br:1935/gospelf/gospelf/live.m3u8
+#EXTINF:-1 ,H!T Music
+http://hitmusic.hu/hitmusic.m3u8
+#EXTINF:-1 ,HBO Family HD
+http://187.120.222.12:8000/play/a00k/index.m3u8
+#EXTINF:-1 ,HBO HD
+http://187.120.222.12:8000/play/HBOLEG/index.m3u8
+#EXTINF:-1 ,HBO Signature HD
+http://187.120.222.12:8000/play/a00l/index.m3u8
+#EXTINF:-1 ,HBO+ HD
+http://187.120.222.12:8000/play/HBOPlusLEG/index.m3u8
+#EXTINF:-1 ,HBO2 HD
+http://187.120.222.12:8000/play/a00i/index.m3u8
+#EXTINF:-1 ,IMPD TV
+https://58a4464faef53.streamlock.net/impd/ngrp:impd_all/playlist.m3u8
+#EXTINF:-1 ,INFOR BAHIA WEB TV
+http://tv01.logicahost.com.br:1935/tvinforbahia/tvinforbahia/live.m3u8
+#EXTINF:-1 ,ITU TV
+http://tv02.logicahost.com.br:1935/itutv/itutv/live.m3u8
+#EXTINF:-1 ,IURD TV
+https://14398c.ha.azioncdn.net/primary/smil:tv_universal.smil/playlist.m3u8
+#EXTINF:-1 ,Jogo Aberto (11h00) Band
+https://evpp.mm.uol.com.br/geob_band/jogoaberto/playlist.m3u8
+#EXTINF:-1 ,KroneHIT
+https://bitcdn-kronehit.bitmovin.com/v2/hls/playlist.m3u8
+#EXTINF:-1 ,Kuriakos Kids
+http://c2.manasat.com:1935/kkids/kkids2/chunklist_w817493835.m3u8
+#EXTINF:-1 ,(ONLINE) - KURIAKOS KIDS
+http://c2.manasat.com:1935/kkids/kkids3/TeamBlue.m3u8
+#EXTINF:-1 ,TV Jornal - Limeira SP
+http://flash1.crossdigital.com.br:1935/1998/1998/playlist.m3u8?ISAQUE
+#EXTINF:-1 ,listaiptv.gratis
+https://listaiptv.gratis/site.mp4
+#EXTINF:-1 ,M2O
+https://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-b.m3u8
+#EXTINF:-1 ,MASTER TV
+http://wowza4.catve.com.br:1935/mastertv/livestream/live.m3u8
+#EXTINF:-1 ,MAX UP HD
+http://187.120.222.12:8000/play/MAXUPLEG/index.m3u8
+#EXTINF:-1 ,Megapix HD
+http://187.120.222.12:8000/play/MegapixLEG/index.m3u8
+#EXTINF:-1 ,MKK WEB TV
+http://tv02.logicahost.com.br:1935/mkkweb/mkkweb/live.m3u8
+#EXTINF:-1 ,MTV
+http://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/master.m3u8
+#EXTINF:-1 ,MULTI RIO
+http://187.111.97.45:1935/webtv/webtv/live.m3u8
+#EXTINF:-1 ,Music Box (Rússia)
+http://212.26.132.86/hls/mb_ua_2500.m3u8
+#EXTINF:-1 ,Music Channel
+https://edge126.rcs-rds.ro/digi24edge/smil:musicchannel.smil/chunklist.m3u8
+#EXTINF:-1 ,Music Top
+http://live-edge01.telecentro.net.ar/live/smil:musictop.smil/playlist.m3u8
+#EXTINF:-1 ,NOVA ERA TV
+http://wz3.dnip.com.br:1935/novaeratv/novaeratv.sdp/live.m3u8
+#EXTINF:-1 ,Novo Tempo
+http://stream.novotempo.com:1935/tv/smil:TvNovoTempoCom.smil/playlist.m3u8
+#EXTINF:-1 ,NOVO TEMPO SP
+http://stream.novotempo.com:1935/tv/tvnovotempo.stream/playlist.m3u8
+#EXTINF:-1 ,NRJ Hits
+https://5be019f0d8c6e.streamlock.net/ngroup/ngrp:NRJHitsTV_all/playlist.m3u8
+#EXTINF:-1 ,Paraná Educativa
+http://200.189.113.201/hls/tve.m3u8
+#EXTINF:-1 ,(ONLINE) TV DIÁRIO DO SERTÃO - PARAÍBA
+http://painelvj.com.br/pdsertaotv/pdsertaotv.sdp/chunklist_w980633800.m3u8
+#EXTINF:-1 ,PORTAL NEWS WEB TV
+http://stmv3.euroti.com.br:1935/portalnews/portalnews/live.m3u8
+#EXTINF:-1 ,PORTUGAL
+https://cancaonova.secure.footprint.net/egress/bhandler/cancaonovanew/channel01/stream1.m3u8
+#EXTINF:-1 ,Premiere 2 HD
+http://187.120.222.12:8000/play/PFC2/index.m3u8
+#EXTINF:-1 ,Premiere 5 HD
+http://187.120.222.12:8000/play/PFC5/index.m3u8
+#EXTINF:-1 ,Premiere Clubes HD
+http://187.120.222.12:8000/play/PremiereClubes/index.m3u8
+#EXTINF:-1 ,PUC TV
+http://flash.softhost.com.br:1935/pucgoias/aovivo/live.m3u8
+#EXTINF:-1 ,RAI Movie (Itália)
+http://b2everyrai-lh.akamaihd.net/i/raimovie_1@67348/master.m3u8
+#EXTINF:-1 ,RDC
+https://5a7d54e35f9d2.streamlock.net/rdctv/smil:rdctv.smil/playlist.m3u8
+#EXTINF:-1 ,Record News
+https://playplusnews-lh.akamaihd.net/i/pp_nws@377849/master.m3u8
+#EXTINF:-1 ,RecordTV
+https://playplusspo-lh.akamaihd.net/i/pp_sp@350176/master.m3u8
+#EXTINF:-1 ,RecordTV Bahia
+https://playplussdr-lh.akamaihd.net/i/pp_sdr@377858/master.m3u8
+#EXTINF:-1 ,RecordTV Belo Horizonte
+https://playplusbh-lh.akamaihd.net/i/pp_bh@377862/master.m3u8
+#EXTINF:-1 ,RecordTV Distrito Federal
+https://playplusbsa-lh.akamaihd.net/i/pp_bsa@377860/master.m3u8
+#EXTINF:-1 ,RecordTV Goiás
+https://playplusgoya-lh.akamaihd.net/i/pp_gna@377833/master.m3u8
+#EXTINF:-1 ,RecordTV Natal
+https://5ad482a77183d.streamlock.net/raniere73gmail.com/5d864557c902eb4a1e8def33/chunklist_w1009622126.m3u8
+#EXTINF:-1 ,RecordTV Pará
+https://playpluspa-lh.akamaihd.net/i/pp_pa@377468/master.m3u8
+#EXTINF:-1 ,RecordTV Rio de Janeiro
+https://playplusrjo-lh.akamaihd.net/i/pp_rj@377859/master.m3u8
+#EXTINF:-1 ,RecordTV Rio Grande do Sul
+https://playpluspoa-lh.akamaihd.net/i/pp_poa@377864/master.m3u8
+#EXTINF:-1 ,REDE ATIVIDADE
+http://tv01.logicahost.com.br:1935/redeatividade/redeatividade/live.m3u8
+#EXTINF:-1 ,Rede Brasil
+https://59f2354c05961.streamlock.net:1443/rbtv/_definst_/rbtv/chunklist_w207271230.m3u8
+#EXTINF:-1 ,REDE BRASIL
+http://rbc.directradios.com:1935/rbc/rbc_720p/playlist.m3u8
+#EXTINF:-1 ,Rede Brasil (SP)
+https://59f2354c05961.streamlock.net:1443/rbtv/_definst_/rbtv/playlist.m3u8
+#EXTINF:-1 ,Rede Brasil de Televisão RBTV
+https://59f2354c05961.streamlock.net:1443/rbtv/_definst_/rbtv/chunklist_w674027181.m3u8
+#EXTINF:-1 ,REDE EVANGELIZAR
+http://flash1.crossdigital.com.br:1935/evangelizar/tv/live.m3u8
+#EXTINF:-1 ,Rede Família
+https://redefamilia.cdnverizon.com.br/tvstreaming/ngrp:aovivo_all/playlist.m3u8
+#EXTINF:-1 ,Rede Gospel
+http://media.igospel.com.br:1935/live/redegospel/waldo_paes.m3u8
+#EXTINF:-1 ,Rede Minas
+https://v4-slbps-sambavideos.akamaized.net/live/3282%2C8114%2Cec4b5a296d97fa99bf990662f5b4f8e1%3Bbase64np%3BMc8VDxqNjXKCAf8%21/amlst%3AMc_tFgfGiHOdQXPB/chunklist_.m3u8
+#EXTINF:-1 ,REDE SÉCULO 21
+http://tvseculo21-lh.akamaihd.net/i/tvseculo_1@16110/master.m3u8
+#EXTINF:-1 ,REDE TV
+http://evpp.mm.uol.com.br/redetv1/redetv1/chunklist_w674014198.m3u8
+#EXTINF:-1 ,REDE TV
+https://evpp.mm.uol.com.br/redetv1/redetv1/chunklist_w112852305.m3u8
+#EXTINF:-1 ,REDE TV
+https://evpp.mm.uol.com.br/redetv1/redetv1/chunklist_w1107700234.m3u8
+#EXTINF:-1 ,REDE TV
+http://evpp.mm.uol.com.br/redetv1/redetv1/chunklist_w1695741209.m3u8
+#EXTINF:-1 ,Rede Tv
+https://evpp.mm.uol.com.br/redetv1/redetv1/chunklist_w486073916.m3u8
+#EXTINF:-1 ,REDE TV
+http://evpp.mm.uol.com.br/redetv1/redetv1/chunklist_w1537397908.m3u8
+#EXTINF:-1 ,Rede tv
+https://evpp.mm.uol.com.br/redetv1/redetv1/chunklist_w458466971.m3u8
+#EXTINF:-1 ,REDE TV
+http://evpp.mm.uol.com.br:1935/redetv2/redetv2/chunklist_w528261549.m3u8
+#EXTINF:-1 ,Rede TV HD
+http://evpp.mm.uol.com.br/redetv1/redetv1/chunklist_w1096797278.m3u8
+#EXTINF:-1 ,REDE TV RJ
+http://evpp.mm.uol.com.br:1935/redetv2/redetv2/playlist.m3u8?EDSONSOUSALIST304668891.m3u8?EDSONSOUSALIST
+#EXTINF:-1 ,REDE TV RJ
+http://evpp.mm.uol.com.br/redetv2/redetv2/chunklist_w1675943173.m3u8
+#EXTINF:-1 ,REDE TV RJ
+http://evpp.mm.uol.com.br:1935/redetv2/redetv2/playlist.m3u8
+#EXTINF:-1 ,REDE TV SP
+http://evpp.mm.uol.com.br:1935/redetv1/redetv1/playlist.m3u8
+#EXTINF:-1 ,REDE TV SP
+http://evpp.mm.uol.com.br/redetv1/redetv1/chunklist_w304668891.m3u8
+#EXTINF:-1 ,REDE VIDA
+https://cvd1.cds.ebtcvd.net/live-redevida/smil:redevida.smil/playlist.m3u8
+#EXTINF:-1 ,Rede Vida
+https://cvd1.cds.ebtcvd.net/live-redevida/smil:redevida.smil/chunklist.m3u8
+#EXTINF:-1 ,Rede Vida
+https://cvd1.cds.ebtcvd.net/live-redevida/smil:redevida.smil/chunklist_b2128000.m3u8
+#EXTINF:-1 ,TV Pampa - RedeTV! RS
+https://v8.ciclano.io:1443/rafael926/_definst_/rafael926/playlist.m3u8
+#EXTINF:-1 ,Retro Plus
+https://59f2354c05961.streamlock.net:1443/retroplustv/_definst_/retroplustv/playlist.m3u8
+#EXTINF:-1 ,Retrô TV
+http://stream.mediawork.cz/retrotv/smil:retrotv2.smil/chunklist.m3u8
+#EXTINF:-1 ,RTL (Itália)
+https://rtl-radio-stream-thron.akamaized.net/live-video/video1/ngrp:video1/chunklist_b1196000.m3u8
+#EXTINF:-1 ,RTP 1
+https://streaming-live.rtp.pt/liverepeater/rtp1HD.smil/livestream.m3u8
+#EXTINF:-1 ,RTP Internacional
+http://streaming-live-app.rtp.pt/liverepeater/smil:rtpi.smil/playlist.m3u8
+#EXTINF:-1 ,SBT
+http://bitly.com:80/Sbt-hd
+#EXTINF:-1 ,SBT HD
+http://evpp.mm.uol.com.br/ne10/ne10.smil/chunklist_w1829016892_b216000_sleng.m3u8
+#EXTINF:-1 ,SBT HD 1080
+http://evpp.mm.uol.com.br/ne10/ne10.smil/chunklist_w165930016_b216000_sleng.m3u8?CANAISGLAU
+#EXTINF:-1 ,SBT HD2018
+http://evpp.mm.uol.com.br/ne10/ne10.smil/chunklist_w902022027_b216000_sleng.m3u8
+#EXTINF:-1 ,SBT HD2018
+http://evpp.mm.uol.com.br/ne10/ne10.smil/chunklist_w902022027_b216000_sleng.m3u8
+#EXTINF:-1 ,SBT MA
+http://difusorama.zoeweb.tv:1935/z437-live/stream/chunklist_w1260675550.m3u8
+#EXTINF:-1 ,SBT PE
+http://evpp.mm.uol.com.br/ne10/ne10.smil/chunklist_w902022027_b216000_sleng.m3u8?ACDIAS
+#EXTINF:-1 ,SBT PE HD
+http://evpp.mm.uol.com.br/ne10/ne10.smil/chunklist_w165930016_b216000_sleng.m3u8?
+#EXTINF:-1 ,SBT PI HD
+http://192.99.46.182:1935/pioneira-tv3/pioneira-tv3/playlist.m3u8
+#EXTINF:-1 ,SBT SD
+http://evpp.mm.uol.com.br/ne10/ne10.smil/chunklist_w1829016892_b176000_sleng.m3u8
+#EXTINF:-1 ,SescTV HD
+https://slbps-sambatech.akamaized.net/live/2472%2C5164%2C6c1f2e9d204aab6374f0bec27834aa95%3Bbase64np%3BPvsLdjEM0QdLO5Q%21/amlst%3APvvzbyxH1AZUexiy/chunklist_b2723840.m3u8
+#EXTINF:-1 ,Sky News
+http://skydvn-nowtv-atv-prod.skydvn.com/atv/skynews/1404/live/index.m3u8
+#EXTINF:-1 ,Space HD
+http://187.120.222.12:8000/play/a00f/index.m3u8
+#EXTINF:-1 ,Super Radio Tupi
+http://cdn.rj.assocrj.com.br:80/live//tupi-estudio-video06/playlist.m3u8
+#EXTINF:-1 ,DJING CLASSIC (Copyright © 2019 - TeamBlue)
+https://www.djing.com/tv/classics.m3u8
+#EXTINF:-1 ,DJING FRENCH TOUCH (Copyright © 2019 - TeamBlue)
+http://www.djing.com/tv/session_french-touch.m3u8
+#EXTINF:-1 ,DJING ANIMATION (Copyright © 2019 - TeamBlue)
+http://www.djing.com/tv/animation.m3u8
+#EXTINF:-1 ,REAL MADRID TV HD (Copyright © 2019 - TeamBlue)
+http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1000_av-p.m3u8
+#EXTINF:-1 ,DJING FRENCH TOUCH (Copyright © 2019 - TeamBlue)
+https://www.djing.com/tv/session_french-touch.m3u8
+#EXTINF:-1 ,DJING DANCE FLOOR MUSIC (Copyright © 2019 - TeamBlue)
+https://www.djing.com/tv/dancefloor.m3u8
+#EXTINF:-1 ,Telecine Action HD
+http://187.120.222.12:8000/play/TCActionLEG/index.m3u8
+#EXTINF:-1 ,Telecine Cult HD
+http://187.120.222.12:8000/play/a00b/index.m3u8
+#EXTINF:-1 ,Telecine Fun HD
+http://187.120.222.12:8000/play/TCFunLEG/index.m3u8
+#EXTINF:-1 ,Telecine Pipoca HD
+http://187.120.222.12:8000/play/TCPipocaLEG/index.m3u8
+#EXTINF:-1 ,Telecine Premium HD
+http://187.120.222.12:8000/play/TCPremiumLEG/index.m3u8
+#EXTINF:-1 ,Telecine Touch HD
+http://187.120.222.12:8000/play/TCTouchLEG/index.m3u8
+#EXTINF:-1 ,Terra Viva
+https://evpp.mm.uol.com.br/band_live/terraviva/chunklist_w1255312138.m3u8
+#EXTINF:-1 ,The Retro Channel
+http://198.24.183.198:1936/theretrochannel/stream/playlist.m3u8
+#EXTINF:-1 ,TNT HD
+http://187.120.222.12:8000/play/TNTLEG/index.m3u8
+#EXTINF:-1 ,TNT SØries HD
+http://187.120.222.12:8000/play/TNTSeriesLEG/index.m3u8
+#EXTINF:-1 ,Top Latino TV
+http://online.radiodifusion.net:1935/livetv/latinoSD.stream/playlist.m3u8
+#EXTINF:-1 ,TopTV
+https://5d23bdca513db.streamlock.net/8006/8006/playlist.m3u8
+#EXTINF:-1 ,TV A CARA DA BAHIA
+http://hd4.com.br:1935/tvacaradabahia/tvacaradabahia/live.m3u8
+#EXTINF:-1 ,TV A Crítica
+https://v4-slbps-sambavideos.akamaized.net/live/3256%2C7930%2C679f501d2054fc8514ea1fc28fe5f167%3Bbase64np%3BS52I5Up2XHDMC-c%21/amlst%3AS51w_Fc9WXHTS2s2/chunklist.m3u8
+#EXTINF:-1 ,TV AMBIENTAL
+http://59e4b6c1beddc.streamlock.net:1935/8168/8168/live.m3u8
+#EXTINF:-1 ,Tv Aparecida
+https://caikron.com.br:8082/tvap/tvap/playlist.m3u8
+#EXTINF:-1 ,TV Arapuan HD (PB)
+https://5b7f3c45ab7c2.streamlock.net/9010/ngrp:9010_all/playlist.m3u8?DVR
+#EXTINF:-1 ,TV Birigui
+https://59f2354c05961.streamlock.net:1443/tvdigitalbirigui/_definst_/tvdigitalbirigui/chunklist_w763334596.m3u8
+#EXTINF:-1 ,TV CANÇÃO NOVA
+http://tvajuhls-lh.akamaihd.net/i/tvdesk_1@147040/master.m3u8?jhonlocao
+#EXTINF:-1 ,TV Canção Nova
+http://tvajuhls-lh.akamaihd.net/i/tvdesk_1@147040/index_1080_av-p.m3u8?sd=10&rebase=on
+#EXTINF:-1 ,TV Carioca
+https://5d2c98775bafe.streamlock.net/8180/8180/playlist.m3u8
+#EXTINF:-1 ,SBT - TV Cidade Verde - (PI)
+http://192.99.46.182:1935/pioneira-tv3/pioneira-tv3/playlist.m3u8?Grupo_UP_e_DOWN
+#EXTINF:-1 ,TV CINEC
+http://tv01.logicahost.com.br:1935/tvcinec/tvcinec/live.m3u8
+#EXTINF:-1 ,TV CLIMA
+http://stmv1.euroti.com.br:1935/tvcadm/tvcadm/live.m3u8
+#EXTINF:-1 ,Tv Cultura
+https://5b33b873179a2.streamlock.net:1443/live/livestream/chunklist_w1660601449.m3u8
+#EXTINF:-1 ,TV CULTURA
+http://wowza4.catve.com.br:1935/live/livestream/chunklist_w187362453.m3u8
+#EXTINF:-1 ,TV CULTURA HD
+http://wowza4.catve.com.br:1935/live/livestream/chunklist_w1982702716.m3u8?EDSONSOUSALIST
+#EXTINF:-1 ,TV CULTURA MG
+http://173.236.10.10:1935/redeatividade/redeatividade/playlist.m3u8?EDSONSOUSALIST
+#EXTINF:-1 ,TV CULTURA MG
+http://173.236.10.10:1935/redeatividade/redeatividade/playlist.m3u8
+#EXTINF:-1 ,(ONLINE) - TV CULTURA MG-
+http://173.236.10.10:1935/redeatividade/redeatividade/playlist.m3u8
+#EXTINF:-1 ,Tv Câmara
+https://stream3.camara.gov.br/tv1/manifest.m3u8
+#EXTINF:-1 ,TV da Gente
+https://595b85410a151.streamlock.net/tvdagenteoficial/tvdagenteoficial/playlist.m3u8
+#EXTINF:-1 ,SBT - TV Difusora (MA)
+http://difusorama.zoeweb.tv:1935/z437-live/stream/playlist.m3u8
+#EXTINF:-1 ,TV DIÁRIO DO SERTÃO
+http://painelvj.com.br:1935/pdsertaotv/pdsertaotv.sdp/live.m3u8
+#EXTINF:-1 ,TV EDUCATIVA
+http://rbc.directradios.com:1935/rbc/smil:rbc.smil/playlist.m3u8
+#EXTINF:-1 ,TV Evangelizar
+http://tvevangelizar01.crossdigital.com.br/evangelizar/tv/playlist.m3u8
+#EXTINF:-1 ,TV Faap
+http://midia.faap.br:80/faaplatamlive-live/stream_720/livestream.m3u8
+#EXTINF:-1 ,TV FUTURA PR
+http://caikron.com.br:1935/unipar/tvup/playlist.m3u8?EDSONSOUSALIST
+#EXTINF:-1 ,TV FÁTIMA PE.ZEZINHO
+http://tv01.logicahost.com.br:1935/tvfatimaparatibe/tvfatimaparatibe/live.m3u8
+#EXTINF:-1 ,TV GIDEÕES HD
+http://streaming02.zas.media:1935/gideoes/programacao/live.m3u8
+#EXTINF:-1 ,Record News - TV Guará (MA)
+https://59f2354c05961.streamlock.net:1443/tvguara/_definst_/tvguara/chunklist.m3u8
+#EXTINF:-1 ,SBT - TV Jornal (PE)
+http://evpp.mm.uol.com.br/ne10/ne10.smil/playlist.m3u8
+#EXTINF:-1 ,SBT - TV Jornal Caruaru (PE)
+http://evpp.mm.uol.com.br/ne10/ne10-tvjornal-caruaru-video-web.sdp/playlist.m3u8
+#EXTINF:-1 ,Tv Jornal Sbt PE
+https://evpp.mm.uol.com.br/ne10/ne10.smil/chunklist_w1808998711_b216000_sleng.m3u8
+#EXTINF:-1 ,TV Maceió (AL)
+https://59f1cbe63db89.streamlock.net:1443/toptv/toptv/playlist.m3u8
+#EXTINF:-1 ,Rede Brasil - TV Marajoara (PA)
+http://video01.kshost.com.br/tv31966/tv31966/playlist.m3u8
+#EXTINF:-1 ,TV MAX
+https://59f1cbe63db89.streamlock.net:1443/tvmax/_definst_/tvmax/playlist.m3u8
+#EXTINF:-1 ,TV MUNDIAL
+http://58a4464faef53.streamlock.net:1935/impd/impd/live.m3u8
+#EXTINF:-1 ,TV Rio Preto
+http://186.227.165.118:1935/insatv/livestream/live.m3u8
+#EXTINF:-1 ,TV Santa Cecília (SP)
+http://flash1.crossdigital.com.br:1935/2063/2063/live.m3u8
+#EXTINF:-1 ,SBT - TV Serra Dourada - (GO)
+https://5a7bcfb834235.streamlock.net/tvsd2/smil:9cb929910544f649.smil/playlist.m3u8
+#EXTINF:-1 ,TV Sjid (BA)
+http://stmv2.srvstm.com/tvjsid/tvjsid/playlist.m3u8
+#EXTINF:-1 ,TV Transamérica (PR)
+http://tvtransamerica.crossdigital.com.br:1935/ponto2/transamerica2/playlist.m3u8
+#EXTINF:-1 ,TV VERDADE
+http://ocatv.mcgi.me:1935/public/247_br/playlist.m3u8
+#EXTINF:-1 ,Tv Vitória Record Es
+http://tvvitoria2.viacast.tv/livepl/tvvitoria_2_original.m3u8
+#EXTINF:-1 ,TV8 Brasil
+https://cdn.jmvstream.com/w/LVW-8215/ngrp:LVW8215_fL5vRbpRn1_all/playlist.m3u8
+#EXTINF:-1 ,TVE BRASIL
+http://streaming.procergs.com.br:1935/tve/stve/playlist.m3u8
+#EXTINF:-1 ,TVE BRASIL
+http://streaming.procergs.com.br:1935/tve/stve/playlist.m3u8?EDSONSOUSALIST
+#EXTINF:-1 ,Universal TV HD
+http://187.120.222.12:8000/play/UniversalTV/index.m3u8
+#EXTINF:-1 ,Unknown_63
+http://evpp.mm.uol.com.br/ne10/ne10.smil/chunklist_w1716953599_b176000_sleng.m3u8
+#EXTINF:-1 ,Warner HD
+http://187.120.222.12:8000/play/WarnerLEG/index.m3u8
+#EXTINF:-1 ,TV Guarani - WebTV
+http://01.paineldevideo.com/rtguarany/rtguarany/playlist.m3u8
  
-#EXTINF:-1 tvg-logo="" group-title="Sportes", redbull
-https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_6660.m3u8
  
  
-#EXTINF:-1 tvg-logo="http://compass.xboxlive.com/assets/89/94/89949457-e6db-474c-9280-993e00cbf8f8.jpg?n=mod2-UFC-455x256.jpg" group-title="Sportes",COMBAT UFC
-http://62.210.124.111/redirect.php?key=e574B1W6q406dht546Dh-80130
+### Opção 2 ### segundo servidor
  
  
-#EXTINF:-1 tvg-logo="https://cdn.player.one/sites/player.one/files/styles/lg/public/2019/06/11/jasonespnlogo.jpg" group-title="Sportes", Esporte espn2
-ttp://62.210.124.111/redirect.php?key=e574B1W6q406dht546Dh-74560
  
  
-#EXTINF:-1 tvg-logo="https://cdn.player.one/sites/player.one/files/styles/lg/public/2019/06/11/jasonespnlogo.jpg" group-title="Sportes", Esporte espn
-http://62.210.124.111/redirect.php?key=41997Fi1fZt446p-7456
- 
- 
-#EXTINF:-1 tvg-logo="http://portalmakingof.com.br/uploads/posts/ddc94031ee34b87e9c9c4622cc79626e.png" group-title="Sportes", espn brasil
-http://62.210.124.111/redirect.php?key=41997Fi1fZt446p-7460
- 
- 
-#EXTINF:-1 tvg-logo="http://midiafatos.com.br/wp-content/uploads/2017/02/fox_sports_P.png" group-title="Sportes", fox sports
-http://62.210.124.111/redirect.php?key=e574B1W6q406dht546Dh-80450
- 
- 
-#EXTINF:-1 tvg-logo="http://midiafatos.com.br/wp-content/uploads/2017/02/fox_sports_P.png" group-title="Sportes", fox sports2
-http://62.210.124.111/redirect.php?key=e574B1W6q406dht546Dh-217890
- 
-#EXTINF:-1 tvg-logo="" group-title="Sportes", EI PLUS 1
-http://62.210.124.111/redirect.php?key=e574B1W6q406dht546Dh-219830 ei 1
- 
-#EXTINF:-1 tvg-logo="" group-title="Sportes", esporte premiere
-http://62.210.124.111/redirect.php?key=e574B1W6q406dht546Dh-81070
- 
-#EXTINF:-1 tvg-logo="" group-title="Sportes", ESPORTV1
-http://62.210.124.111/redirect.php?key=e574B1W6q406dht546Dh-80890
- 
-#EXTINF:-1 tvg-logo="" group-title="Sportes", ESPORTV2
-http://62.210.124.111/redirect.php?key=e574B1W6q406dht546Dh-80560
- 
-#EXTINF:-1 tvg-logo="" group-title="Sportes", ESPORTV3
-http://62.210.124.111/redirect.php?key=e574B1W6q406dht546Dh-80990
- 
-#EXTINF:-1 tvg-logo="" group-title="Sportes", FOX PREMIUM2
-http://62.210.124.111/redirect.php?key=41997Fi1fZt446p-filmes-foxpremium2
- 
- 
-#EXTINF:-1 tvg-logo="" group-title="Sportes", futebol ao vivo
-http://62.210.124.111/redirect.php?key=e574B1W6q406dht546Dh-74560
- 
-#EXTINF:-1 tvg-logo="" group-title="Sportes", esporte ptrmier 2
-http://62.210.124.111/redirect.php?key=e574B1W6q406dht546Dh-80870
- 
-#########################################################################################################################################################
- 
-                                                           filmes AO VIVO
- 
- 
-#EXTINF:-1 tvg-logo="" group-title="FILMES", SPACE
-http://62.210.124.111/redirect.php?key=e574B1W6q406dht546Dh-8027
- 
-#EXTINF:-1 tvg-logo="" group-title="FILMES", HBO PLUS
-http://62.210.124.111/redirect.php?key=e574B1W6q406dht546Dh-8021
- 
-#EXTINF:-1 tvg-logo="" group-title="FILMES", MEGAPIX
-http://62.210.124.111/redirect.php?key=e574B1W6q406dht546Dh-8096
- 
-#EXTINF:-1 tvg-logo="" group-title="FILMES", HBO2
-http://62.210.124.111/redirect.php?key=e574B1W6q406dht546Dh-8108
- 
-#EXTINF:-1 tvg-logo="" group-title="FILMES", HBO
-http://62.210.124.111/redirect.php?key=e574B1W6q406dht546Dh-8100
- 
-#EXTINF:-1 tvg-logo="" group-title="FILMES", TELECINE PIPOCA
-http://62.210.124.111/redirect.php?key=e574B1W6q406dht546Dh-8022
- 
-#EXTINF:-1 tvg-logo="" group-title="FILMES", TELECINE PREMIUM
-http://62.210.124.111/redirect.php?key=e574B1W6q406dht546Dh-8102
- 
-#EXTINF:-1 tvg-logo="" group-title="FILMES", TELECINE TOUCH
-http://62.210.124.111/redirect.php?key=e574B1W6q406dht546Dh-8101
- 
-#EXTINF:-1 tvg-logo="" group-title="FILMES", FX FILMES
-http://62.210.124.111/redirect.php?key=e574B1W6q406dht546Dh-12790
- 
-#EXTINF:-1 tvg-logo="" group-title="FILMES", cinemax
-http://62.210.124.111/redirect.php?key=e574B1W6q406dht546Dh-8095
- 
-#EXTINF:-1 tvg-logo="" group-title="FILMES", AXN
-http://62.210.124.111/redirect.php?key=e574B1W6q406dht546Dh-8067
- 
-#EXTINF:-1 tvg-logo="" group-title="FILMES", AMC
-http://62.210.124.111/redirect.php?key=e574B1W6q406dht546Dh-8103
- 
-#EXTINF:-1 tvg-logo="" group-title="FILMES", FILMES AE
-http://62.210.124.111/redirect.php?key=e574B1W6q406dht546Dh-8032
-######################################################################################################################################################
-                                                             FILME EM MP4
- 
- 
-#EXTINF:-1 tvg-logo="" group-title="FILMES", O FIM DO MUNDO FILME DUBLADO
-http://www.barretos.net/looktvs/Fim%20do%20Mundo%20Dublado.mp4
- 
-#EXTINF:-1 tvg-logo="" group-title="FILMES", ERA UMA VEZ DEADPOOL DUBLADO
-http://servidoresdedicado.net/looktvs/Era%20Uma%20Vez%20um%20Deadpool%20Dublado.mp4
- 
-#EXTINF:-1 tvg-logo="" group-title="FILMES", ANA BELLE3 DE VOLTA PRA CASA DUBLADO
-http://look-tvs.com/looktvs/Annabelle%203-%20De%20Volta%20para%20Casa%20HDCAM%20Dublado.mp4
- 
-#EXTINF:-1 tvg-logo="https://imagensemoldes.com.br/wp-content/uploads/2018/06/Aladdin-Alladin-e-Jasmine4.png" group-title="FILMES", ALLADIN
-http://look-tvs.com/looktvs/Aladdin%20R5%20Dublado.mp4
- 
-#EXTINF:-1 tvg-logo="https://vitaminanerd.com.br/wp-content/uploads/2019/04/A-Maldicao-da-Chorona-Capa.png" group-title="FILMES", A MALDIÇÃO DA CHORONA
-http://look-tvs.com/looktvs/A%20Maldi%C3%A7%C3%A3o%20da%20Chorona%20Dublado.mp4
- 
-#EXTINF:-1 tvg-logo="" group-title="FILMES", X-MEN A FENIX NEGRA DUBLADO
-http://www.barretos.net/looktvs/X-Men%20-%20A%20F%c3%aanix%20Negra%20HDTS%20Dublado.mp4
- 
-#EXTINF:-1 tvg-logo="" group-title="FILMES", CEMITÉRIO MALDITO DUBLADO
-http://look-tvs.com/looktvs/Cemit%C3%A9rio%20Maldito%20Dublado.mp4
- 
-#EXTINF:-1 tvg-logo="" group-title="FILMES", A CAMINHO DE CASA DUBLADO
-http://servidoresdedicado.net/looktvs/A%20Caminho%20de%20Casa%20Dublado1.mp4
- 
-#EXTINF:-1 tvg-logo="" group-title="FILMES", 15MINUTOS DE GUERRA DUBLADO
-http://www.barretos.net/looktvs/15%20Minutos%20de%20Guerra%20Dublado.mp4
- 
-#EXTINF:-1 tvg-logo="" group-title="FILMES", A LENDA DE GOLLEM DUBLADO
-http://look-tvs.com/looktvs/A%20Lenda%20de%20Golem%20R5%20Dublado.mp4
- 
-#EXTINF:-1 tvg-logo="" group-title="FILMES", LENDA DA PASSAGEM SEGRETA DUBLADO
-http://www.barretos.net/looktvs/A%20Lenda%20da%20Passagem%20Secreta%20Dublado.mp4
- 
-########################################################################################################################################################                    
-                                                       INFANTIL
- 
-#EXTINF:-1 tvg-logo="" group-title="FILMES", GLOOBINHO
-http://62.210.124.111/redirect.php?key=41997Fi1fZt446p-infantil-gloobinho
- 
-#EXTINF:-1 tvg-logo="" group-title="FILMES", DISCOVEY KIDS
-http://62.210.124.111/redirect.php?key=41997Fi1fZt446p-infantil-discoverykids
- 
-#EXTINF:-1 tvg-logo="" group-title="FILMES", TV RATIMBUM
-http://62.210.124.111/redirect.php?key=41997Fi1fZt446p-infantil-ratimbum
- 
-#EXTINF:-1 tvg-logo="" group-title="FILMES", NICKJR
-http://62.210.124.111/redirect.php?key=41997Fi1fZt446p-infantil-nickjr
- 
-#EXTINF:-1 tvg-logo="" group-title="FILMES", BOOMERANG
-http://62.210.124.111/redirect.php?key=41997Fi1fZt446p-infantil-boomerang
+#EXTM3U
+#EXTINF:-1,A&E
+http://lista.serverpower.me:80/923349/923349/37029
+#EXTINF:-1,A&E ¹
+http://lista.serverpower.me:80/923349/923349/37577
+#EXTINF:-1,A&E HD
+http://lista.serverpower.me:80/923349/923349/37219
+#EXTINF:-1,A&E HD ¹
+http://lista.serverpower.me:80/923349/923349/37555
+#EXTINF:-1,AMC
+http://lista.serverpower.me:80/923349/923349/37043
+#EXTINF:-1,AMC ¹
+http://lista.serverpower.me:80/923349/923349/37582
+#EXTINF:-1,AMC HD
+http://lista.serverpower.me:80/923349/923349/37132
+#EXTINF:-1,AMC HD ¹
+http://lista.serverpower.me:80/923349/923349/37557
+#EXTINF:-1,ANIMAL PLANET
+http://lista.serverpower.me:80/923349/923349/37076
+#EXTINF:-1,ANIMAL PLANET ¹
+http://lista.serverpower.me:80/923349/923349/37583
+#EXTINF:-1,ANIMAL PLANET HD
+http://lista.serverpower.me:80/923349/923349/37133
+#EXTINF:-1,ANIMAL PLANET HD ¹
+http://lista.serverpower.me:80/923349/923349/37595
+#EXTINF:-1,ARTE 1
+http://lista.serverpower.me:80/923349/923349/37075
+#EXTINF:-1,ARTE 1 HD
+http://lista.serverpower.me:80/923349/923349/37134
+#EXTINF:-1,ARTE 1 HD ¹
+http://lista.serverpower.me:80/923349/923349/37641
+#EXTINF:-1,AXN
+http://lista.serverpower.me:80/923349/923349/37077
+#EXTINF:-1,AXN ¹
+http://lista.serverpower.me:80/923349/923349/37578
+#EXTINF:-1,AXN HD
+http://lista.serverpower.me:80/923349/923349/37135
+#EXTINF:-1,AXN HD ¹
+http://lista.serverpower.me:80/923349/923349/37556
+#EXTINF:-1,BABY TV ¹
+http://lista.serverpower.me:80/923349/923349/37598
+#EXTINF:-1,BAND NEWS
+http://lista.serverpower.me:80/923349/923349/37104
+#EXTINF:-1,BAND NEWS HD
+http://lista.serverpower.me:80/923349/923349/37136
+#EXTINF:-1,BAND
+http://lista.serverpower.me:80/923349/923349/37096
+#EXTINF:-1,BAND¹
+http://lista.serverpower.me:80/923349/923349/37639
+#EXTINF:-1,BAND HD
+http://lista.serverpower.me:80/923349/923349/37220
+#EXTINF:-1,BAND SP  HD¹
+http://lista.serverpower.me:80/923349/923349/37635
+#EXTINF:-1,BAND SPORTS
+http://lista.serverpower.me:80/923349/923349/37103
+#EXTINF:-1,BAND SPORTS ¹
+http://lista.serverpower.me:80/923349/923349/37532
+#EXTINF:-1,BAND SPORTS HD
+http://lista.serverpower.me:80/923349/923349/37137
+#EXTINF:-1,BAND SPORTS HD ¹
+http://lista.serverpower.me:80/923349/923349/37543
+#EXTINF:-1,BIS
+http://lista.serverpower.me:80/923349/923349/37101
+#EXTINF:-1,BIS  ¹
+http://lista.serverpower.me:80/923349/923349/37658
+#EXTINF:-1,BIS HD
+http://lista.serverpower.me:80/923349/923349/37221
+#EXTINF:-1,BIS HD ¹
+http://lista.serverpower.me:80/923349/923349/37640
+#EXTINF:-1,TV MUNDIAL
+http://lista.serverpower.me:80/923349/923349/37662
+#EXTINF:-1,BOOMERANG
+http://lista.serverpower.me:80/923349/923349/37056
+#EXTINF:-1,BOOMERANG ¹
+http://lista.serverpower.me:80/923349/923349/37601
+#EXTINF:-1,BOOMERANG HD
+http://lista.serverpower.me:80/923349/923349/37138
+#EXTINF:-1,BOOMERANG HD ¹
+http://lista.serverpower.me:80/923349/923349/37605
+#EXTINF:-1,CANAL BRASIL
+http://lista.serverpower.me:80/923349/923349/37105
+#EXTINF:-1,CANAL BRASIL¹
+http://lista.serverpower.me:80/923349/923349/37637
+#EXTINF:-1,CANAL BRASIL HD
+http://lista.serverpower.me:80/923349/923349/37139
+#EXTINF:-1,CANAL BRASIL HD¹
+http://lista.serverpower.me:80/923349/923349/37630
+#EXTINF:-1,CANAL SONY
+http://lista.serverpower.me:80/923349/923349/37073
+#EXTINF:-1,CANAL SONY HD
+http://lista.serverpower.me:80/923349/923349/37140
+#EXTINF:-1,CANAL SONY HD ¹
+http://lista.serverpower.me:80/923349/923349/37554
+#EXTINF:-1,CARTOON NETWORK
+http://lista.serverpower.me:80/923349/923349/37041
+#EXTINF:-1,CARTOON NETWORK ¹
+http://lista.serverpower.me:80/923349/923349/37602
+#EXTINF:-1,CARTOON NETWORK HD
+http://lista.serverpower.me:80/923349/923349/37141
+#EXTINF:-1,CARTOON NETWORK HD ¹
+http://lista.serverpower.me:80/923349/923349/37612
+#EXTINF:-1, CINEMAX
+http://lista.serverpower.me:80/923349/923349/29705
+#EXTINF:-1,CINEMAX ¹
+http://lista.serverpower.me:80/923349/923349/37575
+#EXTINF:-1,CINEMAX HD
+http://lista.serverpower.me:80/923349/923349/37222
+#EXTINF:-1,CINEMAX HD ¹
+http://lista.serverpower.me:80/923349/923349/37553
+#EXTINF:-1,COMBATE
+http://lista.serverpower.me:80/923349/923349/37106
+#EXTINF:-1,COMBATE ¹
+http://lista.serverpower.me:80/923349/923349/37529
+#EXTINF:-1,COMBATE HD
+http://lista.serverpower.me:80/923349/923349/37142
+#EXTINF:-1,COMEDY CENTRAL
+http://lista.serverpower.me:80/923349/923349/37049
+#EXTINF:-1,COMEDY CENTRAL ¹
+http://lista.serverpower.me:80/923349/923349/37660
+#EXTINF:-1,COMBATE FHD
+http://lista.serverpower.me:80/923349/923349/37546
+#EXTINF:-1,COMEDY CENTRAL HD
+http://lista.serverpower.me:80/923349/923349/37143
+#EXTINF:-1,COMEDY CENTRAL HD ¹
+http://lista.serverpower.me:80/923349/923349/37643
+#EXTINF:-1,CULTURA
+http://lista.serverpower.me:80/923349/923349/37026
+#EXTINF:-1,CULTURA HD
+http://lista.serverpower.me:80/923349/923349/37223
+#EXTINF:-1,CURTA!
+http://lista.serverpower.me:80/923349/923349/37059
+#EXTINF:-1,CURTA ¹
+http://lista.serverpower.me:80/923349/923349/37661
+#EXTINF:-1,CURTA! HD
+http://lista.serverpower.me:80/923349/923349/37144
+#EXTINF:-1,DISCOVERY H&H
+http://lista.serverpower.me:80/923349/923349/37117
+#EXTINF:-1,DISCOVERY H&H ¹
+http://lista.serverpower.me:80/923349/923349/37587
+#EXTINF:-1,DISCOVERY H&H HD
+http://lista.serverpower.me:80/923349/923349/37145
+#EXTINF:-1,DISCOVERY H&H HD ¹
+http://lista.serverpower.me:80/923349/923349/37590
+#EXTINF:-1,DISCOVERY CHANNEL
+http://lista.serverpower.me:80/923349/923349/37024
+#EXTINF:-1,DISCOVERY CHANNEL ¹
+http://lista.serverpower.me:80/923349/923349/37586
+#EXTINF:-1,DISCOVERY CHANNEL HD
+http://lista.serverpower.me:80/923349/923349/37225
+#EXTINF:-1,DISCOVERY CHANNEL HD ¹
+http://lista.serverpower.me:80/923349/923349/37589
+#EXTINF:-1,DISNEY CHANNEL
+http://lista.serverpower.me:80/923349/923349/37047
+#EXTINF:-1,DISNEY CHANNEL HD
+http://lista.serverpower.me:80/923349/923349/37149
+#EXTINF:-1,DISNEY CHANNEL HD ¹
+http://lista.serverpower.me:80/923349/923349/37594
+#EXTINF:-1,DISCOVERY CIVILIZATION ¹
+http://lista.serverpower.me:80/923349/923349/37585
+#EXTINF:-1,DISCOVERY CIVILIZATION HD ¹
+http://lista.serverpower.me:80/923349/923349/37596
+#EXTINF:-1,DISCOVERY KIDS
+http://lista.serverpower.me:80/923349/923349/37102
+#EXTINF:-1,DISCOVERY KIDS ¹
+http://lista.serverpower.me:80/923349/923349/37600
+#EXTINF:-1,DISCOVERY KIDS HD
+http://lista.serverpower.me:80/923349/923349/37226
+#EXTINF:-1,DISCOVERY KIDS HD ¹
+http://lista.serverpower.me:80/923349/923349/37606
+#EXTINF:-1,DISCOVERY SCIENCE
+http://lista.serverpower.me:80/923349/923349/37020
+#EXTINF:-1,DISCOVERY SCIENCE HD
+http://lista.serverpower.me:80/923349/923349/37227
+#EXTINF:-1,DISCOVERY SCIENCE HD ¹
+http://lista.serverpower.me:80/923349/923349/37591
+#EXTINF:-1,DISCOVERY THEATER
+http://lista.serverpower.me:80/923349/923349/37042
+#EXTINF:-1,DISCOVERY THEATER HD
+http://lista.serverpower.me:80/923349/923349/37146
+#EXTINF:-1,DISCOVERY THEATER HD ¹
+http://lista.serverpower.me:80/923349/923349/37592
+#EXTINF:-1,DISCOVERY TURBO
+http://lista.serverpower.me:80/923349/923349/37051
+#EXTINF:-1,DISCOVERY TURBO HD
+http://lista.serverpower.me:80/923349/923349/37147
+#EXTINF:-1,DISCOVERY TURBO HD ¹
+http://lista.serverpower.me:80/923349/923349/37588
+#EXTINF:-1,DISCOVERY WORLD
+http://lista.serverpower.me:80/923349/923349/37036
+#EXTINF:-1,DISCOVERY WORLD HD
+http://lista.serverpower.me:80/923349/923349/37148
+#EXTINF:-1,DISCOVERY WORLD HD ¹
+http://lista.serverpower.me:80/923349/923349/37593
+#EXTINF:-1,DISNEY JR
+http://lista.serverpower.me:80/923349/923349/37044
+#EXTINF:-1,DISNEY JR ¹
+http://lista.serverpower.me:80/923349/923349/37603
+#EXTINF:-1,DISNEY JR ¹
+http://lista.serverpower.me:80/923349/923349/37599
+#EXTINF:-1,DISNEY JR HD
+http://lista.serverpower.me:80/923349/923349/37150
+#EXTINF:-1,DISNEY JR HD ¹
+http://lista.serverpower.me:80/923349/923349/37607
+#EXTINF:-1,DISNEY XD HD ¹
+http://lista.serverpower.me:80/923349/923349/37611
+#EXTINF:-1,E!
+http://lista.serverpower.me:80/923349/923349/37107
+#EXTINF:-1,E! HD
+http://lista.serverpower.me:80/923349/923349/37151
+#EXTINF:-1,EI PLUS
+http://lista.serverpower.me:80/923349/923349/37549
+#EXTINF:-1,ESPN
+http://lista.serverpower.me:80/923349/923349/37109
+#EXTINF:-1,ESPN HD
+http://lista.serverpower.me:80/923349/923349/37154
+#EXTINF:-1,ESPN HD ¹
+http://lista.serverpower.me:80/923349/923349/37547
+#EXTINF:-1,ESPN 2 HD ¹
+http://lista.serverpower.me:80/923349/923349/37537
+#EXTINF:-1,ESPN 2 ²
+http://lista.serverpower.me:80/923349/923349/46839
+#EXTINF:-1,ESPN 2 HD
+http://lista.serverpower.me:80/923349/923349/37155
+#EXTINF:-1,ESPN 2
+http://lista.serverpower.me:80/923349/923349/37110
+#EXTINF:-1,ESPN BRASIL
+http://lista.serverpower.me:80/923349/923349/37108
+#EXTINF:-1,ESPN BRASIL ¹
+http://lista.serverpower.me:80/923349/923349/37534
+#EXTINF:-1,ESPN BRASIL HD
+http://lista.serverpower.me:80/923349/923349/37152
+#EXTINF:-1,ESPN BRASIL HD ¹
+http://lista.serverpower.me:80/923349/923349/37536
+#EXTINF:-1,ESPN EXTRA
+http://lista.serverpower.me:80/923349/923349/37055
+#EXTINF:-1,ESPN EXTRA HD
+http://lista.serverpower.me:80/923349/923349/37153
+#EXTINF:-1,ESPN EXTRA HD ¹
+http://lista.serverpower.me:80/923349/923349/37538
+#EXTINF:-1,FASHION TV
+http://lista.serverpower.me:80/923349/923349/37034
+#EXTINF:-1,FASHION TV HD
+http://lista.serverpower.me:80/923349/923349/37156
+#EXTINF:-1,FASHION TV HD  ¹
+http://lista.serverpower.me:80/923349/923349/37644
+#EXTINF:-1,FISH TV
+http://lista.serverpower.me:80/923349/923349/37126
+#EXTINF:-1,FISH TV  ¹
+http://lista.serverpower.me:80/923349/923349/37683
+#EXTINF:-1,FISH TV HD
+http://lista.serverpower.me:80/923349/923349/37157
+#EXTINF:-1,FISH HD ¹
+http://lista.serverpower.me:80/923349/923349/37548
+#EXTINF:-1,FOOD NETWORK
+http://lista.serverpower.me:80/923349/923349/37115
+#EXTINF:-1,FOOD NETWORK ¹
+http://lista.serverpower.me:80/923349/923349/37651
+#EXTINF:-1,FOOD NETWORK HD
+http://lista.serverpower.me:80/923349/923349/37228
+#EXTINF:-1,FOOD NETWORK HD ¹
+http://lista.serverpower.me:80/923349/923349/37645
+#EXTINF:-1,FOX LIFE
+http://lista.serverpower.me:80/923349/923349/37081
+#EXTINF:-1,FOX LIFE ¹
+http://lista.serverpower.me:80/923349/923349/37579
+#EXTINF:-1,FOX LIFE HD
+http://lista.serverpower.me:80/923349/923349/37159
+#EXTINF:-1,FOX LIFE HD ¹
+http://lista.serverpower.me:80/923349/923349/37563
+#EXTINF:-1,FOX PREMIUM 1
+http://lista.serverpower.me:80/923349/923349/37071
+#EXTINF:-1,FOX PREMIUM 1 HD
+http://lista.serverpower.me:80/923349/923349/37160
+#EXTINF:-1,FOX
+http://lista.serverpower.me:80/923349/923349/37069
+#EXTINF:-1,FOX ¹
+http://lista.serverpower.me:80/923349/923349/37573
+#EXTINF:-1,FOX HD
+http://lista.serverpower.me:80/923349/923349/37158
+#EXTINF:-1,FOX SPORTS
+http://lista.serverpower.me:80/923349/923349/37111
+#EXTINF:-1,FOX SPORTS ¹
+http://lista.serverpower.me:80/923349/923349/37528
+#EXTINF:-1,FOX SPORTS HD
+http://lista.serverpower.me:80/923349/923349/37163
+#EXTINF:-1,FOX SPORTS HD ¹
+http://lista.serverpower.me:80/923349/923349/37542
+#EXTINF:-1,FUTURA
+http://lista.serverpower.me:80/923349/923349/37094
+#EXTINF:-1,FX
+http://lista.serverpower.me:80/923349/923349/37080
+#EXTINF:-1,FX ¹
+http://lista.serverpower.me:80/923349/923349/37580
+#EXTINF:-1,GLOBO BRASILIA FHD
+http://lista.serverpower.me:80/923349/923349/30389
+#EXTINF:-1,GLOBO BRASILIA  HD
+http://lista.serverpower.me:80/923349/923349/40458
+#EXTINF:-1,FX HD
+http://lista.serverpower.me:80/923349/923349/37165
+#EXTINF:-1,GLOBO BRASILIA HD
+http://lista.serverpower.me:80/923349/923349/37388
+#EXTINF:-1,GLOBO  ES SD
+http://lista.serverpower.me:80/923349/923349/37706
+#EXTINF:-1,GLOBO BRASILIA HD
+http://lista.serverpower.me:80/923349/923349/27525
+#EXTINF:-1,GLOBO MINAS HD
+http://lista.serverpower.me:80/923349/923349/27526
+#EXTINF:-1,GLOBO NEWS
+http://lista.serverpower.me:80/923349/923349/37062
+#EXTINF:-1,GLOBO NEWS ¹
+http://lista.serverpower.me:80/923349/923349/27533
+#EXTINF:-1,GLOBO NEWS HD
+http://lista.serverpower.me:80/923349/923349/37166
+#EXTINF:-1,GLOBO NEWS HD ¹
+http://lista.serverpower.me:80/923349/923349/37681
+#EXTINF:-1,GLOBO RJ HD
+http://lista.serverpower.me:80/923349/923349/27537
+#EXTINF:-1,GLOBO SP HD
+http://lista.serverpower.me:80/923349/923349/27530
+#EXTINF:-1,GLOOB
+http://lista.serverpower.me:80/923349/923349/37099
+#EXTINF:-1,GLOOB ¹
+http://lista.serverpower.me:80/923349/923349/37678
+#EXTINF:-1,GLOOB HD
+http://lista.serverpower.me:80/923349/923349/37231
+#EXTINF:-1,GLOOB HD ¹
+http://lista.serverpower.me:80/923349/923349/37610
+#EXTINF:-1,GNT
+http://lista.serverpower.me:80/923349/923349/37093
+#EXTINF:-1,GNT  ¹
+http://lista.serverpower.me:80/923349/923349/37656
+#EXTINF:-1,GNT HD
+http://lista.serverpower.me:80/923349/923349/37167
+#EXTINF:-1,HBO
+http://lista.serverpower.me:80/923349/923349/37119
+#EXTINF:-1,HBO HD
+http://lista.serverpower.me:80/923349/923349/37169
+#EXTINF:-1,HBO FAMILY
+http://lista.serverpower.me:80/923349/923349/37118
+#EXTINF:-1,HBO FAMILY HD
+http://lista.serverpower.me:80/923349/923349/37168
+#EXTINF:-1,HBO PLUS
+http://lista.serverpower.me:80/923349/923349/37122
+#EXTINF:-1,HBO PLUS ¹
+http://lista.serverpower.me:80/923349/923349/37618
+#EXTINF:-1,HBO PLUS HD
+http://lista.serverpower.me:80/923349/923349/37170
+#EXTINF:-1,HBO PLUS HD ¹
+http://lista.serverpower.me:80/923349/923349/37622
+#EXTINF:-1,HBO SIGNATURE
+http://lista.serverpower.me:80/923349/923349/37121
+#EXTINF:-1,HBO SIGNATURE HD
+http://lista.serverpower.me:80/923349/923349/37171
+#EXTINF:-1,HBO SIGNATURE HD ¹
+http://lista.serverpower.me:80/923349/923349/37623
+#EXTINF:-1,HGTV
+http://lista.serverpower.me:80/923349/923349/37017
+#EXTINF:-1,HGTV HD
+http://lista.serverpower.me:80/923349/923349/37224
+#EXTINF:-1,HISTORY
+http://lista.serverpower.me:80/923349/923349/37072
+#EXTINF:-1,HISTORY ¹
+http://lista.serverpower.me:80/923349/923349/37584
+#EXTINF:-1,HISTORY HD
+http://lista.serverpower.me:80/923349/923349/37173
+#EXTINF:-1,HISTORY HD ¹
+http://lista.serverpower.me:80/923349/923349/37675
+#EXTINF:-1,ID
+http://lista.serverpower.me:80/923349/923349/37035
+#EXTINF:-1,ID HD
+http://lista.serverpower.me:80/923349/923349/37174
+#EXTINF:-1,ID HD ¹
+http://lista.serverpower.me:80/923349/923349/37597
+#EXTINF:-1,IDEAL  ¹
+http://lista.serverpower.me:80/923349/923349/37652
+#EXTINF:-1,IDEAL TV HD
+http://lista.serverpower.me:80/923349/923349/38675
+#EXTINF:-1,LIFETIME
+http://lista.serverpower.me:80/923349/923349/37030
+#EXTINF:-1,LIFETIME ¹
+http://lista.serverpower.me:80/923349/923349/37568
+#EXTINF:-1,LIFETIME HD
+http://lista.serverpower.me:80/923349/923349/37233
+#EXTINF:-1,MAIS GLOBOSAT
+http://lista.serverpower.me:80/923349/923349/37677
+#EXTINF:-1,MAIS GLOBOSAT HD
+http://lista.serverpower.me:80/923349/923349/37234
+#EXTINF:-1,MAX
+http://lista.serverpower.me:80/923349/923349/37023
+#EXTINF:-1,MAX ¹
+http://lista.serverpower.me:80/923349/923349/37581
+#EXTINF:-1,MAX HD
+http://lista.serverpower.me:80/923349/923349/37235
+#EXTINF:-1,MAX UP
+http://lista.serverpower.me:80/923349/923349/37120
+#EXTINF:-1,MAX UP HD
+http://lista.serverpower.me:80/923349/923349/37176
+#EXTINF:-1,MAX PRIME
+http://lista.serverpower.me:80/923349/923349/37095
+#EXTINF:-1,MAX PRIME ¹
+http://lista.serverpower.me:80/923349/923349/37572
+#EXTINF:-1,MAX PRIME HD
+http://lista.serverpower.me:80/923349/923349/37236
+#EXTINF:-1,MAX PRIME HD ¹
+http://lista.serverpower.me:80/923349/923349/37562
+#EXTINF:-1,MEGAPIX
+http://lista.serverpower.me:80/923349/923349/37068
+#EXTINF:-1,MEGAPIX  ¹
+http://lista.serverpower.me:80/923349/923349/37570
+#EXTINF:-1,MEGAPIX HD
+http://lista.serverpower.me:80/923349/923349/37177
+#EXTINF:-1,MEGAPIX HD¹
+http://lista.serverpower.me:80/923349/923349/37551
+#EXTINF:-1,MTV
+http://lista.serverpower.me:80/923349/923349/37050
+#EXTINF:-1,MTV HD
+http://lista.serverpower.me:80/923349/923349/37178
+#EXTINF:-1,MTV HD ¹
+http://lista.serverpower.me:80/923349/923349/37648
+#EXTINF:-1,MTV LIVE
+http://lista.serverpower.me:80/923349/923349/37032
+#EXTINF:-1,MTV LIVE HD
+http://lista.serverpower.me:80/923349/923349/37179
+#EXTINF:-1,MTV LIVE HD  ¹
+http://lista.serverpower.me:80/923349/923349/37649
+#EXTINF:-1,MULTISHOW
+http://lista.serverpower.me:80/923349/923349/37092
+#EXTINF:-1,MULTISHOW  ¹
+http://lista.serverpower.me:80/923349/923349/37655
+#EXTINF:-1,MULTISHOW HD
+http://lista.serverpower.me:80/923349/923349/37180
+#EXTINF:-1,MUSIC BOX BRAZIL
+http://lista.serverpower.me:80/923349/923349/37057
+#EXTINF:-1,MUSIC BOX ¹
+http://lista.serverpower.me:80/923349/923349/37653
+#EXTINF:-1,MUSIC BOX BRAZIL HD
+http://lista.serverpower.me:80/923349/923349/37181
+#EXTINF:-1,NATGEO KIDS
+http://lista.serverpower.me:80/923349/923349/37091
+#EXTINF:-1,NATGEO KIDS HD
+http://lista.serverpower.me:80/923349/923349/37182
+#EXTINF:-1,NATGEO KIDS HD ¹
+http://lista.serverpower.me:80/923349/923349/37613
+#EXTINF:-1,NATGEO
+http://lista.serverpower.me:80/923349/923349/37079
+#EXTINF:-1,NATGEO HD
+http://lista.serverpower.me:80/923349/923349/38664
+#EXTINF:-1,NATGEO HD ¹
+http://lista.serverpower.me:80/923349/923349/37183
+#EXTINF:-1,NATGEO WILD
+http://lista.serverpower.me:80/923349/923349/37065
+#EXTINF:-1,NATGEO WILD HD
+http://lista.serverpower.me:80/923349/923349/37184
+#EXTINF:-1,NATGEO WILD HD ¹
+http://lista.serverpower.me:80/923349/923349/37674
+#EXTINF:-1,NHK
+http://lista.serverpower.me:80/923349/923349/37131
+#EXTINF:-1,NHK  ¹
+http://lista.serverpower.me:80/923349/923349/37654
+#EXTINF:-1,NHK WORLD HD ¹
+http://lista.serverpower.me:80/923349/923349/37642
+#EXTINF:-1,NICK JR
+http://lista.serverpower.me:80/923349/923349/37066
+#EXTINF:-1,NICK JR ¹
+http://lista.serverpower.me:80/923349/923349/37604
+#EXTINF:-1,NICK JR HD
+http://lista.serverpower.me:80/923349/923349/37185
+#EXTINF:-1,NICK JR HD ¹
+http://lista.serverpower.me:80/923349/923349/37609
+#EXTINF:-1,NICKELODEON
+http://lista.serverpower.me:80/923349/923349/37058
+#EXTINF:-1,NICKELODEON HD
+http://lista.serverpower.me:80/923349/923349/37186
+#EXTINF:-1,OFF
+http://lista.serverpower.me:80/923349/923349/37098
+#EXTINF:-1,OFF HD
+http://lista.serverpower.me:80/923349/923349/37237
+#EXTINF:-1,PARAMOUNT
+http://lista.serverpower.me:80/923349/923349/37052
+#EXTINF:-1,PARAMOUNT ¹
+http://lista.serverpower.me:80/923349/923349/37574
+#EXTINF:-1,PARAMOUNT HD
+http://lista.serverpower.me:80/923349/923349/37187
+#EXTINF:-1,PREMIERE CLUBES
+http://lista.serverpower.me:80/923349/923349/37088
+#EXTINF:-1,PREMIERE CLUBES HD
+http://lista.serverpower.me:80/923349/923349/37195
+#EXTINF:-1,PREMIERE  1 ¹
+http://lista.serverpower.me:80/923349/923349/37670
+#EXTINF:-1,PREMIERE 1 HD ¹
+http://lista.serverpower.me:80/923349/923349/37521
+#EXTINF:-1,PREMIERE 3
+http://lista.serverpower.me:80/923349/923349/37112
+#EXTINF:-1,PREMIERE 3 HD
+http://lista.serverpower.me:80/923349/923349/37190
+#EXTINF:-1,PREMIERE 3 HD  ¹
+http://lista.serverpower.me:80/923349/923349/37524
+#EXTINF:-1,PREMIERE 4
+http://lista.serverpower.me:80/923349/923349/37089
+#EXTINF:-1,PREMIERE 4  ¹
+http://lista.serverpower.me:80/923349/923349/37671
+#EXTINF:-1,PREMIERE 4 HD
+http://lista.serverpower.me:80/923349/923349/37191
+#EXTINF:-1,PREMIERE 4 HD ¹
+http://lista.serverpower.me:80/923349/923349/37522
+#EXTINF:-1,PREMIERE 5
+http://lista.serverpower.me:80/923349/923349/37113
+#EXTINF:-1,PREMIERE 5 HD
+http://lista.serverpower.me:80/923349/923349/37192
+#EXTINF:-1,PREMIERE 5 HD ¹
+http://lista.serverpower.me:80/923349/923349/37525
+#EXTINF:-1,PREMIERE 6
+http://lista.serverpower.me:80/923349/923349/37125
+#EXTINF:-1,PREMIERE 6 HD
+http://lista.serverpower.me:80/923349/923349/37193
+#EXTINF:-1,PREMIERE 6 HD ¹
+http://lista.serverpower.me:80/923349/923349/37526
+#EXTINF:-1,PREMIERE 7
+http://lista.serverpower.me:80/923349/923349/37124
+#EXTINF:-1,PREMIERE 7 HD
+http://lista.serverpower.me:80/923349/923349/37194
+#EXTINF:-1,PREMIERE  7 ¹
+http://lista.serverpower.me:80/923349/923349/37672
+#EXTINF:-1,PREMIERE 8  ¹
+http://lista.serverpower.me:80/923349/923349/37673
+#EXTINF:-1,PRIME BOX BRAZIL
+http://lista.serverpower.me:80/923349/923349/37054
+#EXTINF:-1,PRIME BOX BRAZIL HD
+http://lista.serverpower.me:80/923349/923349/37196
+#EXTINF:-1,PRIME BOX BRAZIL ¹
+http://lista.serverpower.me:80/923349/923349/37531
+#EXTINF:-1,PLAY TV  ¹
+http://lista.serverpower.me:80/923349/923349/37657
+#EXTINF:-1,PLAY TV HD
+http://lista.serverpower.me:80/923349/923349/38658
+#EXTINF:-1, RECORD SP  HD
+http://lista.serverpower.me:80/923349/923349/40474
+#EXTINF:-1,RECORD SP HD
+http://lista.serverpower.me:80/923349/923349/37704
+#EXTINF:-1,RECORD HD¹
+http://lista.serverpower.me:80/923349/923349/37627
+#EXTINF:-1,RECORD RJ HD
+http://lista.serverpower.me:80/923349/923349/40785
+#EXTINF:-1,RECORD DF HD
+http://lista.serverpower.me:80/923349/923349/37705
+#EXTINF:-1,RECORD AMAZONAS  HD
+http://lista.serverpower.me:80/923349/923349/40470
+#EXTINF:-1,RECORD CAMPINAS  HD
+http://lista.serverpower.me:80/923349/923349/40471
+#EXTINF:-1, RECORD MG  HD
+http://lista.serverpower.me:80/923349/923349/40472
+#EXTINF:-1,RECORD NORDESTE  HD
+http://lista.serverpower.me:80/923349/923349/40473
+#EXTINF:-1,REDE TV  SD
+http://lista.serverpower.me:80/923349/923349/37638
+#EXTINF:-1,REDE VIDA
+http://lista.serverpower.me:80/923349/923349/37061
+#EXTINF:-1,REDE VIDA HD
+http://lista.serverpower.me:80/923349/923349/37197
+#EXTINF:-1,SBT PR
+http://lista.serverpower.me:80/923349/923349/43890
+#EXTINF:-1,SBT PR HD
+http://lista.serverpower.me:80/923349/923349/43889
+#EXTINF:-1,SBT SP HD
+http://lista.serverpower.me:80/923349/923349/37625
+#EXTINF:-1,SPACE
+http://lista.serverpower.me:80/923349/923349/37037
+#EXTINF:-1,SPACE HD
+http://lista.serverpower.me:80/923349/923349/37199
+#EXTINF:-1,SPORTV
+http://lista.serverpower.me:80/923349/923349/37087
+#EXTINF:-1,SPORTV HD
+http://lista.serverpower.me:80/923349/923349/37200
+#EXTINF:-1,SPORTV HD ¹
+http://lista.serverpower.me:80/923349/923349/37682
+#EXTINF:-1,SPORTV 3
+http://lista.serverpower.me:80/923349/923349/37083
+#EXTINF:-1,SPORTV 3 ¹
+http://lista.serverpower.me:80/923349/923349/37533
+#EXTINF:-1,SPORTV 3 HD
+http://lista.serverpower.me:80/923349/923349/37202
+#EXTINF:-1,STUDIO UNIVERSAL
+http://lista.serverpower.me:80/923349/923349/37019
+#EXTINF:-1,STUDIO UNIVERSAL ¹
+http://lista.serverpower.me:80/923349/923349/37576
+#EXTINF:-1,STUDIO UNIVERSAL HD
+http://lista.serverpower.me:80/923349/923349/37239
+#EXTINF:-1,SYFY
+http://lista.serverpower.me:80/923349/923349/37027
+#EXTINF:-1,SYFY ¹
+http://lista.serverpower.me:80/923349/923349/37566
+#EXTINF:-1,SYFY HD
+http://lista.serverpower.me:80/923349/923349/37240
+#EXTINF:-1,SYFY HD ¹
+http://lista.serverpower.me:80/923349/923349/37550
+#EXTINF:-1,TBS
+http://lista.serverpower.me:80/923349/923349/37040
+#EXTINF:-1,TBS ¹
+http://lista.serverpower.me:80/923349/923349/37567
+#EXTINF:-1,TBS HD
+http://lista.serverpower.me:80/923349/923349/37203
+#EXTINF:-1,TCM ¹
+http://lista.serverpower.me:80/923349/923349/37569
+#EXTINF:-1,TELECINE ACTION
+http://lista.serverpower.me:80/923349/923349/37060
+#EXTINF:-1,TELECINE ACTION ¹
+http://lista.serverpower.me:80/923349/923349/37410
+#EXTINF:-1,TELECINE ACTION HD
+http://lista.serverpower.me:80/923349/923349/37204
+#EXTINF:-1,TELECINE ACTION HD ¹
+http://lista.serverpower.me:80/923349/923349/37402
+#EXTINF:-1,TELECINE CULT
+http://lista.serverpower.me:80/923349/923349/37067
+#EXTINF:-1,TELECINE CULT ¹
+http://lista.serverpower.me:80/923349/923349/37407
+#EXTINF:-1,TELECINE CULT HD
+http://lista.serverpower.me:80/923349/923349/37205
+#EXTINF:-1,TELECINE CULT HD ¹
+http://lista.serverpower.me:80/923349/923349/37409
+#EXTINF:-1,TELECINE FUN
+http://lista.serverpower.me:80/923349/923349/37082
+#EXTINF:-1,TELECINE FUN ²
+http://lista.serverpower.me:80/923349/923349/46867
+#EXTINF:-1,TELECINE FUN ¹
+http://lista.serverpower.me:80/923349/923349/37408
+#EXTINF:-1,TELECINE FUN HD
+http://lista.serverpower.me:80/923349/923349/37206
+#EXTINF:-1,TELECINE FUN HD ¹
+http://lista.serverpower.me:80/923349/923349/37403
+#EXTINF:-1,TELECINE PIPOCA
+http://lista.serverpower.me:80/923349/923349/37064
+#EXTINF:-1,TELECINE PIPOCA HD
+http://lista.serverpower.me:80/923349/923349/37207
+#EXTINF:-1,TELECINE PIPOCA HD ¹
+http://lista.serverpower.me:80/923349/923349/37404
+#EXTINF:-1,TELECINE PREMIUM
+http://lista.serverpower.me:80/923349/923349/37116
+#EXTINF:-1,TELECINE PREMIUM HD
+http://lista.serverpower.me:80/923349/923349/37208
+#EXTINF:-1,TELECINE PREMIUM HD ¹
+http://lista.serverpower.me:80/923349/923349/37405
+#EXTINF:-1,TELECINE TOUCH
+http://lista.serverpower.me:80/923349/923349/37063
+#EXTINF:-1,TELECINE TOUCH HD
+http://lista.serverpower.me:80/923349/923349/37209
+#EXTINF:-1,TELECINE TOUCH HD ¹
+http://lista.serverpower.me:80/923349/923349/37406
+#EXTINF:-1,TLC
+http://lista.serverpower.me:80/923349/923349/38225
+#EXTINF:-1,TLC HD
+http://lista.serverpower.me:80/923349/923349/37241
+#EXTINF:-1,TLC HD ¹
+http://lista.serverpower.me:80/923349/923349/37561
+#EXTINF:-1,TNT
+http://lista.serverpower.me:80/923349/923349/37038
+#EXTINF:-1,TNT HD
+http://lista.serverpower.me:80/923349/923349/38636
+#EXTINF:-1,TNT HD¹
+http://lista.serverpower.me:80/923349/923349/37679
+#EXTINF:-1,TNT SERIES
+http://lista.serverpower.me:80/923349/923349/37039
+#EXTINF:-1,TNT SERIES HD
+http://lista.serverpower.me:80/923349/923349/37211
+#EXTINF:-1,TNT SERIES HD ¹
+http://lista.serverpower.me:80/923349/923349/37559
+#EXTINF:-1,TOONCAST ¹
+http://lista.serverpower.me:80/923349/923349/37565
+#EXTINF:-1,TOONCAST HD ¹
+http://lista.serverpower.me:80/923349/923349/37571
+#EXTINF:-1,TRAVEL BOX BRAZIL
+http://lista.serverpower.me:80/923349/923349/37033
+#EXTINF:-1,TRAVEL BOX BRAZIL HD
+http://lista.serverpower.me:80/923349/923349/37212
+#EXTINF:-1,TV APARECIDA HD
+http://lista.serverpower.me:80/923349/923349/27675
+#EXTINF:-1,TV CABO BRANCO HD
+http://lista.serverpower.me:80/923349/923349/37015
+#EXTINF:-1,TV GAZETA HD
+http://lista.serverpower.me:80/923349/923349/37632
+#EXTINF:-1,TV NOVO TEMPO  
+http://lista.serverpower.me:80/923349/923349/37664
+#EXTINF:-1,TV NOVO TEMPO HD
+http://lista.serverpower.me:80/923349/923349/37214
+#EXTINF:-1,TV RA TIM BUM
+http://lista.serverpower.me:80/923349/923349/37242
+#EXTINF:-1,TV RA TIM BUM
+http://lista.serverpower.me:80/923349/923349/37028
+#EXTINF:-1,TV RATIMBUM HD ¹
+http://lista.serverpower.me:80/923349/923349/37615
+#EXTINF:-1,UNIVERSAL CHANNEL
+http://lista.serverpower.me:80/923349/923349/37085
+#EXTINF:-1,UNIVERSAL CHANNEL HD
+http://lista.serverpower.me:80/923349/923349/37215
+#EXTINF:-1,VH1
+http://lista.serverpower.me:80/923349/923349/37053
+#EXTINF:-1,VH1 ²
+http://lista.serverpower.me:80/923349/923349/46868
+#EXTINF:-1,VH1 HD
+http://lista.serverpower.me:80/923349/923349/37216
+#EXTINF:-1,VIVA
+http://lista.serverpower.me:80/923349/923349/37084
+#EXTINF:-1,VIVA ²
+http://lista.serverpower.me:80/923349/923349/46869
+#EXTINF:-1,VIVA HD
+http://lista.serverpower.me:80/923349/923349/37217
+#EXTINF:-1,WARNER CHANNEL
+http://lista.serverpower.me:80/923349/923349/37078
+#EXTINF:-1,WARNER CHANNEL ²
+http://lista.serverpower.me:80/923349/923349/46870
+#EXTINF:-1,WARNER CHANNEL HD
+http://lista.serverpower.me:80/923349/923349/37218
+#EXTINF:-1,WARNER CHANNEL HD ¹
+http://lista.serverpower.me:80/923349/923349/37558
+#EXTINF:-1,WOOHOO
+http://lista.serverpower.me:80/923349/923349/37021
+#EXTINF:-1,WOOHOO HD
+http://lista.serverpower.me:80/923349/923349/37243
+#EXTINF:-1,ZOOMO HD ¹
+http://lista.serverpower.me:80/923349/923349/37614
+#EXTINF:-1,REDE TV  HD
+http://lista.serverpower.me:80/923349/923349/40459
+#EXTINF:-1, GLOBO EPTV SAO CARLOS  HD
+http://lista.serverpower.me:80/923349/923349/40462
+#EXTINF:-1,GLOBO NORDESTE  HD
+http://lista.serverpower.me:80/923349/923349/40465
+#EXTINF:-1, GLOBO RIBEIRÃO  HD
+http://lista.serverpower.me:80/923349/923349/40466
+#EXTINF:-1,GLOBO RJ  HD
+http://lista.serverpower.me:80/923349/923349/40467
+#EXTINF:-1,REDE TV  HD
+http://lista.serverpower.me:80/923349/923349/40476
+#EXTINF:-1,GLOBO ANHANGUERA        
+http://lista.serverpower.me:80/923349/923349/40550
+#EXTINF:-1,TVIDEONEWS
+http://lista.serverpower.me:80/923349/923349/40803
+#EXTINF:-1,GLOBO SP HD
+http://lista.serverpower.me:80/923349/923349/41094
+#EXTINF:-1,DAZN ESPANHA
+http://lista.serverpower.me:80/923349/923349/42720
+#EXTINF:-1,DAZN BRASIL  SD
+http://lista.serverpower.me:80/923349/923349/42407
+#EXTINF:-1,ITALIA | DAZN2  UHD
+http://lista.serverpower.me:80/923349/923349/42721
+#EXTINF:-1,ITALIA | DAZN1 SERIEA UHD
+http://lista.serverpower.me:80/923349/923349/42723
+#EXTINF:-1,ITALIA | DAZN1 SERIEA HD
+http://lista.serverpower.me:80/923349/923349/42724
+#EXTINF:-1,GLOBO MANAUS HD
+http://lista.serverpower.me:80/923349/923349/43121
+#EXTINF:-1,GLOBO MANAUS SD
+http://lista.serverpower.me:80/923349/923349/43122
+#EXTINF:-1,RECORD ES FHD
+http://lista.serverpower.me:80/923349/923349/45168
+#EXTINF:-1,SBT ES FHD
+http://lista.serverpower.me:80/923349/923349/45169
+#EXTINF:-1,Canção Nova SD
+http://lista.serverpower.me:80/923349/923349/45849
+#EXTINF:-1,Canção Nova HD
+http://lista.serverpower.me:80/923349/923349/45850
+#EXTINF:-1,NSC BLUMENAU
+http://lista.serverpower.me:80/923349/923349/46871
+#EXTINF:-1,NSC FLORIANOPOLIS HD
+http://lista.serverpower.me:80/923349/923349/46872
+#EXTINF:-1,GLOBO BAHIA
+http://lista.serverpower.me:80/923349/923349/48371
+#EXTINF:-1,GLOBO ACRE
+http://lista.serverpower.me:80/923349/923349/48372
+#EXTINF:-1,TV EVANGELIZAR
+http://lista.serverpower.me:80/923349/923349/48399
+#EXTINF:-1,RECORD PORTO ALEGRE
+http://lista.serverpower.me:80/923349/923349/48402
+#EXTINF:-1,LoveNature HD
+http://lista.serverpower.me:80/923349/923349/50378
+#EXTINF:-1,LoveNature HD¹
+http://lista.serverpower.me:80/923349/923349/50379
+#EXTINF:-1,BBB20 FHD
+http://lista.serverpower.me:80/923349/923349/50404
+#EXTINF:-1,BBB20 SD
+http://lista.serverpower.me:80/923349/923349/50405
+#EXTINF:-1,TV CAMERA ²
+http://lista.serverpower.me:80/923349/923349/46866
+#EXTINF:-1,TV BRASIL ²
+http://lista.serverpower.me:80/923349/923349/46865
+#EXTINF:-1,TLC ²
+http://lista.serverpower.me:80/923349/923349/46864
+#EXTINF:-1,NATGEO KIDS ²
+http://lista.serverpower.me:80/923349/923349/46851
+#EXTINF:-1,NICKELODEON ²
+http://lista.serverpower.me:80/923349/923349/46853
+#EXTINF:-1,PAI ENTERNO ²
+http://lista.serverpower.me:80/923349/923349/46854
+#EXTINF:-1,PREMIERE 2 ²
+http://lista.serverpower.me:80/923349/923349/46856
+#EXTINF:-1,PREMIERE 6 ²
+http://lista.serverpower.me:80/923349/923349/46857
+#EXTINF:-1,PREMIERE CLUBES ²
+http://lista.serverpower.me:80/923349/923349/46858
+#EXTINF:-1,RBS PORTO ALEGRE ²
+http://lista.serverpower.me:80/923349/923349/46859
+#EXTINF:-1,NATGEO ²
+http://lista.serverpower.me:80/923349/923349/46852
+#EXTINF:-1,MAIS GLOBOSAT ²
+http://lista.serverpower.me:80/923349/923349/46850
+#EXTINF:-1,MTV ²
+http://lista.serverpower.me:80/923349/923349/46849
+#EXTINF:-1,MAX UP ²
+http://lista.serverpower.me:80/923349/923349/46848
+#EXTINF:-1,LIFETIME ²
+http://lista.serverpower.me:80/923349/923349/46847
+#EXTINF:-1,ID ²
+http://lista.serverpower.me:80/923349/923349/46846
+#EXTINF:-1,HISTORY 2 ²
+http://lista.serverpower.me:80/923349/923349/46845
+#EXTINF:-1,HBO 2 ²
+http://lista.serverpower.me:80/923349/923349/46844
+#EXTINF:-1,HBO+ ²
+http://lista.serverpower.me:80/923349/923349/46843
+#EXTINF:-1,FOX LIFE ²
+http://lista.serverpower.me:80/923349/923349/46842
+#EXTINF:-1,FILM & ARTS ²
+http://lista.serverpower.me:80/923349/923349/46841
+#EXTINF:-1,FX ²
+http://lista.serverpower.me:80/923349/923349/46840
+#EXTINF:-1,ESPN BRASIL ²
+http://lista.serverpower.me:80/923349/923349/46838
+#EXTINF:-1,DISCOVERY TURBO ²
+http://lista.serverpower.me:80/923349/923349/46837
+#EXTINF:-1,DISCOVERY H&H ²
+http://lista.serverpower.me:80/923349/923349/46836
+#EXTINF:-1,CANAL SONY ²
+http://lista.serverpower.me:80/923349/923349/46835
+#EXTINF:-1,GNT ²
+http://lista.serverpower.me:80/923349/923349/46834
+#EXTINF:-1,BAND SPORT ²
+http://lista.serverpower.me:80/923349/923349/46833
+#EXTINF:-1,BAND NEWS ²
+http://lista.serverpower.me:80/923349/923349/46832
+#EXTINF:-1,BIS ²
+http://lista.serverpower.me:80/923349/923349/46831
+#EXTINF:-1,REDE BRASIL ²
+http://lista.serverpower.me:80/923349/923349/46860
+#EXTINF:-1,SBT ²
+http://lista.serverpower.me:80/923349/923349/46861
+#EXTINF:-1,GLOBO ES HD
+http://lista.serverpower.me:80/923349/923349/27677
+#EXTINF:-1,GLOBO ES FHD
+http://lista.serverpower.me:80/923349/923349/40477
+#EXTINF:-1,GLOBO ES H265
+http://lista.serverpower.me:80/923349/923349/40478
+#EXTINF:-1,HISTORY 2
+http://lista.serverpower.me:80/923349/923349/37031
+#EXTINF:-1,HISTORY 2 HD
+http://lista.serverpower.me:80/923349/923349/37232
+#EXTINF:-1,SPORTV 2
+http://lista.serverpower.me:80/923349/923349/37086
+#EXTINF:-1,SPORTV 2 ¹
+http://lista.serverpower.me:80/923349/923349/37530
+#EXTINF:-1,SPORTV 2 HD ¹
+http://lista.serverpower.me:80/923349/923349/37540
+#EXTINF:-1,SPORTV 2 HD
+http://lista.serverpower.me:80/923349/923349/37201
+#EXTINF:-1,FOX SPORTS 2
+http://lista.serverpower.me:80/923349/923349/37114
+#EXTINF:-1,FOX SPORTS 2 HD
+http://lista.serverpower.me:80/923349/923349/37162
+#EXTINF:-1,FOX SPORTS 2 HD ¹
+http://lista.serverpower.me:80/923349/923349/37545
+#EXTINF:-1,FASHION TV
+http://lista.serverpower.me:80/923349/923349/30419
+#EXTINF:-1,GLOBO MG HD
+http://lista.serverpower.me:80/923349/923349/50472
+#EXTINF:-1,RECORD BA SD
+http://lista.serverpower.me:80/923349/923349/50480
+#EXTINF:-1,RECORD BA HD
+http://lista.serverpower.me:80/923349/923349/50481
+#EXTINF:-1,RECORD DF SD
+http://lista.serverpower.me:80/923349/923349/50482
+#EXTINF:-1,RECORD GO HD
+http://lista.serverpower.me:80/923349/923349/50483
+#EXTINF:-1,RECORD MG SD
+http://lista.serverpower.me:80/923349/923349/50484
+#EXTINF:-1,RECORD MG HD
+http://lista.serverpower.me:80/923349/923349/50485
+#EXTINF:-1,RECORD RJ SD
+http://lista.serverpower.me:80/923349/923349/50486
+#EXTINF:-1,RECORD RS SD
+http://lista.serverpower.me:80/923349/923349/50487
+#EXTINF:-1,RECORD TV SD
+http://lista.serverpower.me:80/923349/923349/50488
+#EXTINF:-1,RECORD SP HD
+http://lista.serverpower.me:80/923349/923349/50489
+#EXTINF:-1,BBB20 HD
+http://lista.serverpower.me:80/923349/923349/50493
+#EXTINF:-1,BBB HD Mosaico
+http://lista.serverpower.me:80/923349/923349/50494
