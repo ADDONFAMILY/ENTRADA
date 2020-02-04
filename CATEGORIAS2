@@ -1,15 +1,4 @@
-<channels>
-<channel>
-<name>[COLOR yellow]☻[/COLOR][COLOR yellow]FamilyTV[/COLOR] SOUND! MÚSICAS</name>
-<thumbnail>https://ia601403.us.archive.org/8/items/canais_201912/canais.png</thumbnail>
-<externallink>https://raw.githubusercontent.com/ADDONFAMILY/ENTRADA/master/CANAIS%20TV</externallink>
-<fanart></fanart>
-<info>-TV ONLINE </info>
-Lembramos que todos esses canais são encontrados na rede, e que NÃO transmitimos NEM
-hospedamos nenhum deles, apenas organizamos em uma grade.</info>
-</channel>
-</channels>
-<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
 <channels>
 <channel>
 <name>[COLOR yellow]☻[/COLOR][COLOR yellow]FamilyTV[/COLOR] CANAIS SERVIDOR F4MTESTER [COLOR green]ON[/COLOR]</name>
@@ -17,6 +6,18 @@ hospedamos nenhum deles, apenas organizamos em uma grade.</info>
 <externallink>https://raw.githubusercontent.com/ADDONFAMILY/ENTRADA/master/CANAIS%20SERVIDORES</externallink>
 <fanart></fanart>
 <info>TV ONLINE</info>
+Lembramos que todos esses canais são encontrados na rede, e que NÃO transmitimos NEM
+hospedamos nenhum deles, apenas organizamos em uma grade.</info>
+</channel>
+</channels>
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+<channels>
+<channel>
+<name>[COLOR yellow]☻[/COLOR][COLOR yellow]FamilyTV[/COLOR] SOUND! MÚSICAS</name>
+<thumbnail>https://ia601403.us.archive.org/8/items/canais_201912/canais.png</thumbnail>
+<externallink>https://raw.githubusercontent.com/ADDONFAMILY/ENTRADA/master/CANAIS%20TV</externallink>
+<fanart></fanart>
+<info>-TV ONLINE </info>
 Lembramos que todos esses canais são encontrados na rede, e que NÃO transmitimos NEM
 hospedamos nenhum deles, apenas organizamos em uma grade.</info>
 </channel>
