@@ -26,9 +26,22 @@ http://media.igospel.com.br:1935/live/redegospel/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://i.imgur.com/m7MQIPJ.png" group-title="Religiosos",Rede Século 21
 http://tvseculo21-lh.akamaihd.net/i/tvseculo_1@16110/master.m3u8
  
-#EXTINF:-1 tvg-id="" tvg-logo="http://i.imgur.com/wxqkMUE.png" group-title="Religiosos",Vem & Vê TV 1
-https://srv-rp1.sisdera.com/hls/vvtv.m3u8
-
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO BAHIA" tvg-logo="http://logocanais.ddns.net/Logo/Globo1.png" group-title="GLOBO",GLOBO BAHIA
+http://srvuhd.top:80/656062/656062/48371
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO EPTV RIBEIRÃO PRETO  HD" tvg-logo="http://logocanais.ddns.net/Logo/Globo1.png" group-title="GLOBO",GLOBO EPTV RIBEIRÃO PRETO  HD
+http://srvuhd.top:80/656062/656062/40461
+#EXTINF:-1 tvg-id="" tvg-name=" GLOBO EPTV SAO CARLOS  HD" tvg-logo="http://logocanais.ddns.net/Logo/Globo1.png" group-title="GLOBO", GLOBO EPTV SAO CARLOS  HD
+http://srvuhd.top:80/656062/656062/40462
+#EXTINF:-1 tvg-id="" tvg-name=" GLOBO INTERNACIONAL  HD" tvg-logo="http://logocanais.ddns.net/Logo/Globo1.png" group-title="GLOBO", GLOBO INTERNACIONAL  HD
+http://srvuhd.top:80/656062/656062/40463
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO NORDESTE  HD" tvg-logo="http://logocanais.ddns.net/Logo/Globo1.png" group-title="GLOBO",GLOBO NORDESTE  HD
+http://srvuhd.top:80/656062/656062/40465
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO RJ  HD" tvg-logo="http://logocanais.ddns.net/Logo/Globo1.png" group-title="GLOBO",GLOBO RJ  HD
+http://srvuhd.top:80/656062/656062/40467
+#EXTINF:-1 tvg-id="" tvg-name="REDE TV  HD" tvg-logo="http://logocanais.ddns.net/Logo/RedeTv1.png" group-title="ABERTOS",REDE TV  HD
+http://srvuhd.top:80/656062/656062/40476
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO VERDE MARES" tvg-logo="http://logocanais.ddns.net/Logo/Globo1.png" group-title="GLOBO",GLOBO VERDE MARES
+http://srvuhd.top:80/656062/656062/40551
  
 #EXTINF:-1 tvg-id="ESPN EXTRA" tvg-logo="http://i.imgur.com/TW6ZY5p.png" group-title="Esportes",ESPN Extra (Alt2)
 http://tv.factoryiptv.com:80/77777/77777/62818
@@ -1038,8 +1051,7 @@ http://srvuhd.top:80/656062/656062/45850
 http://srvuhd.top:80/656062/656062/46841
 #EXTINF:-1 tvg-id="NOW" tvg-name="NSC FLORIANOPOLIS HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8f/NSC_TV_logo.png" group-title="GLOBO",NSC FLORIANOPOLIS HD
 http://srvuhd.top:80/656062/656062/46872
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO BAHIA" tvg-logo="http://logocanais.ddns.net/Logo/Globo1.png" group-title="GLOBO",GLOBO BAHIA
-http://srvuhd.top:80/656062/656062/48371
+
 #EXTINF:-1 tvg-id="" tvg-name="TV EVANGELIZAR" tvg-logo="https://4.bp.blogspot.com/-OTZ7_0OuWng/W0YoAmQ1r9I/AAAAAAAAZEc/LprlzVVoFUA8Qi3JioESVCoq3h082k7yACLcBGAs/s1600/dp.jpg" group-title="RELIGIOSO",TV EVANGELIZAR
 http://srvuhd.top:80/656062/656062/48399
 #EXTINF:-1 tvg-id="" tvg-name="BBB HD" tvg-logo="http://srvuhd.top:80/images/652429cd596c2fab919b82f8b0991e6e.jpg" group-title="BBB20",BBB HD
@@ -2108,20 +2120,7 @@ http://srvuhd.top:80/656062/656062/37614
 http://srvuhd.top:80/656062/656062/46854
 #EXTINF:-1 tvg-id="" tvg-name="REDE TV  HD" tvg-logo="https://observatoriodatelevisao.bol.uol.com.br/wp-content/uploads/2017/03/Captura-de-Tela-2017-03-20-%C3%A0s-19.15.21.png" group-title="ABERTOS",REDE TV  HD
 http://srvuhd.top:80/656062/656062/40459
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO EPTV RIBEIRÃO PRETO  HD" tvg-logo="http://logocanais.ddns.net/Logo/Globo1.png" group-title="GLOBO",GLOBO EPTV RIBEIRÃO PRETO  HD
-http://srvuhd.top:80/656062/656062/40461
-#EXTINF:-1 tvg-id="" tvg-name=" GLOBO EPTV SAO CARLOS  HD" tvg-logo="http://logocanais.ddns.net/Logo/Globo1.png" group-title="GLOBO", GLOBO EPTV SAO CARLOS  HD
-http://srvuhd.top:80/656062/656062/40462
-#EXTINF:-1 tvg-id="" tvg-name=" GLOBO INTERNACIONAL  HD" tvg-logo="http://logocanais.ddns.net/Logo/Globo1.png" group-title="GLOBO", GLOBO INTERNACIONAL  HD
-http://srvuhd.top:80/656062/656062/40463
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO NORDESTE  HD" tvg-logo="http://logocanais.ddns.net/Logo/Globo1.png" group-title="GLOBO",GLOBO NORDESTE  HD
-http://srvuhd.top:80/656062/656062/40465
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO RJ  HD" tvg-logo="http://logocanais.ddns.net/Logo/Globo1.png" group-title="GLOBO",GLOBO RJ  HD
-http://srvuhd.top:80/656062/656062/40467
-#EXTINF:-1 tvg-id="" tvg-name="REDE TV  HD" tvg-logo="http://logocanais.ddns.net/Logo/RedeTv1.png" group-title="ABERTOS",REDE TV  HD
-http://srvuhd.top:80/656062/656062/40476
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO VERDE MARES" tvg-logo="http://logocanais.ddns.net/Logo/Globo1.png" group-title="GLOBO",GLOBO VERDE MARES
-http://srvuhd.top:80/656062/656062/40551
+
 #EXTINF:-1 tvg-id="" tvg-name="TVIDEONEWS" tvg-logo="https://i.imgur.com/abJuI1D.jpg" group-title="NOTICIAS",TVIDEONEWS
 http://srvuhd.top:80/656062/656062/40803
 #EXTINF:-1 tvg-id="Globo" tvg-name="GLOBO SP HD" tvg-logo="http://logocanais.ddns.net/Logo/Globo1.png" group-title="GLOBO",GLOBO SP HD
