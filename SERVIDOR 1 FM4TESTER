@@ -300,30 +300,11 @@ https://rtl-radio-stream-thron.akamaized.net/live-video/video1/ngrp:video1/chunk
 
 #EXTINF:-1 ,SescTV HD
 https://slbps-sambatech.akamaized.net/live/2472%2C5164%2C6c1f2e9d204aab6374f0bec27834aa95%3Bbase64np%3BPvsLdjEM0QdLO5Q%21/amlst%3APvvzbyxH1AZUexiy/chunklist_b2723840.m3u8
-
-#EXTINF:-1 ,Space HD
-http://187.120.222.12:8000/play/a00f/index.m3u8
-
-#EXTINF:-1 ,Telecine Action HD
-http://187.120.222.12:8000/play/TCActionLEG/index.m3u8
-#EXTINF:-1 ,Telecine Cult HD
-http://187.120.222.12:8000/play/a00b/index.m3u8
-#EXTINF:-1 ,Telecine Fun HD
-http://187.120.222.12:8000/play/TCFunLEG/index.m3u8
-#EXTINF:-1 ,Telecine Pipoca HD
-http://187.120.222.12:8000/play/TCPipocaLEG/index.m3u8
-#EXTINF:-1 ,Telecine Premium HD
-http://187.120.222.12:8000/play/TCPremiumLEG/index.m3u8
-#EXTINF:-1 ,Telecine Touch HD
-http://187.120.222.12:8000/play/TCTouchLEG/index.m3u8
 #EXTINF:-1 ,Terra Viva
 https://evpp.mm.uol.com.br/band_live/terraviva/chunklist_w1255312138.m3u8
 #EXTINF:-1 ,The Retro Channel
 http://198.24.183.198:1936/theretrochannel/stream/playlist.m3u8
-#EXTINF:-1 ,TNT HD
-http://187.120.222.12:8000/play/TNTLEG/index.m3u8
-#EXTINF:-1 ,TNT SØries HD
-http://187.120.222.12:8000/play/TNTSeriesLEG/index.m3u8
+
 #EXTINF:-1 ,Top Latino TV
 http://online.radiodifusion.net:1935/livetv/latinoSD.stream/playlist.m3u8
 #EXTINF:-1 ,TopTV
@@ -378,7 +359,8 @@ http://evpp.mm.uol.com.br/ne10/ne10.smil/playlist.m3u8
 #EXTINF:-1 ,SBT - TV Jornal Caruaru (PE)
 http://evpp.mm.uol.com.br/ne10/ne10-tvjornal-caruaru-video-web.sdp/playlist.m3u8
 #EXTINF:-1 ,Tv Jornal Sbt PE
-https://evpp.mm.uol.com.br/ne10/ne10.smil/chunklist_w1808998711_b216000_sleng.m3u8
+https://evpp.mm.uol.com.br/ne10/ne10.smil/chunklist_w1808998711_b216
+000_sleng.m3u8
 #EXTINF:-1 ,TV Maceió (AL)
 https://59f1cbe63db89.streamlock.net:1443/toptv/toptv/playlist.m3u8
 #EXTINF:-1 ,Rede Brasil - TV Marajoara (PA)
@@ -405,8 +387,29 @@ http://tvvitoria2.viacast.tv/livepl/tvvitoria_2_original.m3u8
 https://cdn.jmvstream.com/w/LVW-8215/ngrp:LVW8215_fL5vRbpRn1_all/playlist.m3u8
 #EXTINF:-1 ,TVE BRASIL
 http://streaming.procergs.com.br:1935/tve/stve/playlist.m3u8
-#EXTINF:-1 ,TVE BRASIL
-http://streaming.procergs.com.br:1935/tve/stve/playlist.m3u8?EDSONSOUSALIST
+
+
+****************************************
+#EXTINF:-1 ,Space HD
+http://187.120.222.12:8000/play/a00f/index.m3u8
+#EXTINF:-1 ,Telecine Action HD
+http://187.120.222.12:8000/play/TCActionLEG/index.m3u8
+#EXTINF:-1 ,Telecine Cult HD
+http://187.120.222.12:8000/play/a00b/index.m3u8
+#EXTINF:-1 ,Telecine Fun HD
+http://187.120.222.12:8000/play/TCFunLEG/index.m3u8
+#EXTINF:-1 ,Telecine Pipoca HD
+http://187.120.222.12:8000/play/TCPipocaLEG/index.m3u8
+#EXTINF:-1 ,Telecine Premium HD
+http://187.120.222.12:8000/play/TCPremiumLEG/index.m3u8
+#EXTINF:-1 ,Telecine Touch HD
+http://187.120.222.12:8000/play/TCTouchLEG/index.m3u8
+
+#EXTINF:-1 ,TNT HD
+http://187.120.222.12:8000/play/TNTLEG/index.m3u8
+#EXTINF:-1 ,TNT SØries HD
+http://187.120.222.12:8000/play/TNTSeriesLEG/index.m3u8
+
 #EXTINF:-1 ,Universal TV HD
 http://187.120.222.12:8000/play/UniversalTV/index.m3u8
 #EXTINF:-1 ,Unknown_63
