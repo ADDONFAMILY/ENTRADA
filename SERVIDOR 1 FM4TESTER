@@ -151,32 +151,13 @@ http://hls.fm1.com.br:8080/hls/tvbaiana.m3u8
 http://stream.tvitarare.com.br/hls/site/site.m3u8
 
 
-#EXTINF:-1 ,FOX HD
-http://187.120.222.12:8000/play/FOXLEG/index.m3u8
-#EXTINF:-1 ,FOX Life HD
-http://187.120.222.12:8000/play/a00q/index.m3u8
+
 
 #EXTINF:-1 ,FUTURA
 http://caikron.com.br:1935/unipar/tvup/chunklist_w1393449617.m3u8
-#EXTINF:-1 ,FX HD
-http://187.120.222.12:8000/play/FXLEG/index.m3u8
-#EXTINF:-1 ,TV TEM SJRP - Globo HD
-http://187.120.222.12:8000/play/TVTEMSJRP/index.m3u8
-#EXTINF:-1 ,GLOBOSAT
-https://r2---sn-gpv7ener.c.2mdn.net/videoplayback/id/2dbe46a02a8c623e/itag/343/source/web_video_ads/ctier/L/acao/yes/ip/0.0.0.0/ipbits/0/expire/3712159797/sparams/acao,ctier,expire,id,ip,ipbits,itag,mip,mm,mn,ms,mv,mvi,pl,source/signature/4CB8D9CC017B09E943D2041F6E0B2EA965638E88.3AE93983D761185494AA8C0B22A339BCC499E5DF/key/cms1/cms_redirect/yes/mip/187.3.249.25/mm/42/mn/sn-gpv7ener/ms/onc/mt/1570637294/mv/u/mvi/1/pl/21/file/file.mp4
-
 #EXTINF:-1 ,H!T Music
 http://hitmusic.hu/hitmusic.m3u8
-#EXTINF:-1 ,HBO Family HD
-http://187.120.222.12:8000/play/a00k/index.m3u8
-#EXTINF:-1 ,HBO HD
-http://187.120.222.12:8000/play/HBOLEG/index.m3u8
-#EXTINF:-1 ,HBO Signature HD
-http://187.120.222.12:8000/play/a00l/index.m3u8
-#EXTINF:-1 ,HBO+ HD
-http://187.120.222.12:8000/play/HBOPlusLEG/index.m3u8
-#EXTINF:-1 ,HBO2 HD
-http://187.120.222.12:8000/play/a00i/index.m3u8
+
 #EXTINF:-1 ,IMPD TV
 https://58a4464faef53.streamlock.net/impd/ngrp:impd_all/playlist.m3u8
 #EXTINF:-1 ,INFOR BAHIA WEB TV
@@ -201,10 +182,7 @@ https://listaiptv.gratis/site.mp4
 https://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-b.m3u8
 #EXTINF:-1 ,MASTER TV
 http://wowza4.catve.com.br:1935/mastertv/livestream/live.m3u8
-#EXTINF:-1 ,MAX UP HD
-http://187.120.222.12:8000/play/MAXUPLEG/index.m3u8
-#EXTINF:-1 ,Megapix HD
-http://187.120.222.12:8000/play/MegapixLEG/index.m3u8
+
 #EXTINF:-1 ,MKK WEB TV
 http://tv02.logicahost.com.br:1935/mkkweb/mkkweb/live.m3u8
 #EXTINF:-1 ,MTV
@@ -233,12 +211,7 @@ http://painelvj.com.br/pdsertaotv/pdsertaotv.sdp/chunklist_w980633800.m3u8
 http://stmv3.euroti.com.br:1935/portalnews/portalnews/live.m3u8
 #EXTINF:-1 ,PORTUGAL
 https://cancaonova.secure.footprint.net/egress/bhandler/cancaonovanew/channel01/stream1.m3u8
-#EXTINF:-1 ,Premiere 2 HD
-http://187.120.222.12:8000/play/PFC2/index.m3u8
-#EXTINF:-1 ,Premiere 5 HD
-http://187.120.222.12:8000/play/PFC5/index.m3u8
-#EXTINF:-1 ,Premiere Clubes HD
-http://187.120.222.12:8000/play/PremiereClubes/index.m3u8
+
 #EXTINF:-1 ,PUC TV
 http://flash.softhost.com.br:1935/pucgoias/aovivo/live.m3u8
 #EXTINF:-1 ,RAI Movie (Itália)
@@ -390,8 +363,37 @@ http://streaming.procergs.com.br:1935/tve/stve/playlist.m3u8
 
 
 ****************************************
-#EXTINF:-1 ,Space HD
-http://187.120.222.12:8000/play/a00f/index.m3u8
+#EXTINF:-1 ,FX HD
+http://187.120.222.12:8000/play/FXLEG/index.m3u8
+#EXTINF:-1 ,TV TEM SJRP - Globo HD
+http://187.120.222.12:8000/play/TVTEMSJRP/index.m3u8
+#EXTINF:-1 ,GLOBOSAT
+https://r2---sn-gpv7ener.c.2mdn.net/videoplayback/id/2dbe46a02a8c623e/itag/343/source/web_video_ads/ctier/L/acao/yes/ip/0.0.0.0/ipbits/0/expire/3712159797/sparams/acao,ctier,expire,id,ip,ipbits,itag,mip,mm,mn,ms,mv,mvi,pl,source/signature/4CB8D9CC017B09E943D2041F6E0B2EA965638E88.3AE93983D761185494AA8C0B22A339BCC499E5DF/key/cms1/cms_redirect/yes/mip/187.3.249.25/mm/42/mn/sn-gpv7ener/ms/onc/mt/1570637294/mv/u/mvi/1/pl/21/file/file.mp4
+
+#EXTINF:-1 ,HBO Family HD
+http://187.120.222.12:8000/play/a00k/index.m3u8
+#EXTINF:-1 ,HBO HD
+http://187.120.222.12:8000/play/HBOLEG/index.m3u8
+#EXTINF:-1 ,HBO Signature HD
+http://187.120.222.12:8000/play/a00l/index.m3u8
+#EXTINF:-1 ,HBO+ HD
+http://187.120.222.12:8000/play/HBOPlusLEG/index.m3u8
+#EXTINF:-1 ,HBO2 HD
+http://187.120.222.12:8000/play/a00i/index.m3u8
+#EXTINF:-1 ,MAX UP HD
+http://187.120.222.12:8000/play/MAXUPLEG/index.m3u8
+#EXTINF:-1 ,Megapix HD
+http://187.120.222.12:8000/play/MegapixLEG/index.m3u8
+#EXTINF:-1 ,Premiere 2 HD
+http://187.120.222.12:8000/play/PFC2/index.m3u8
+#EXTINF:-1 ,Premiere 5 HD
+http://187.120.222.12:8000/play/PFC5/index.m3u8
+#EXTINF:-1 ,Premiere Clubes HD
+http://187.120.222.12:8000/play/PremiereClubes/index.m3u8
+#EXTINF:-1 ,FOX HD
+http://187.120.222.12:8000/play/FOXLEG/index.m3u8
+#EXTINF:-1 ,FOX Life HD
+http://187.120.222.12:8000/play/a00q/index.m3u8
 #EXTINF:-1 ,Telecine Action HD
 http://187.120.222.12:8000/play/TCActionLEG/index.m3u8
 #EXTINF:-1 ,Telecine Cult HD
