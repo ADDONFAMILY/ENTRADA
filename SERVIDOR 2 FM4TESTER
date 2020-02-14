@@ -1,606 +1,1001 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="TV PAI ETERNO" tvg-logo="https://i.imgur.com/dLsBZa0.png" group-title="Religiosos",TVCI / RCI (TV PAI ETERNO)
-https://59f1cbe63db89.streamlock.net:1443/teste01/teste01/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", A&E
+http://lista.serverpower.me:80/1992/1992/37029
  
-#EXTINF:-1 tvg-id="TV EVANGELIZAR" tvg-logo="http://i.imgur.com/r22w1v6.png" group-title="Religiosos",TV Evangelizar
-http://flash32k.crossdigital.com.br:1935/evangelizar/tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", A&E ¹
+http://lista.serverpower.me:80/1992/1992/37577
  
-#EXTINF:-1 tvg-id="APARECIDA" tvg-logo="http://i.imgur.com/RP0sbkV.png" group-title="Religiosos",TV Aparecida
-https://caikron.com.br:8082/tvap/tvap/tvap/source/chunks.m3u8
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", A&E HD
+http://lista.serverpower.me:80/1992/1992/37219
  
-#EXTINF:-1 tvg-id="NOVO TEMPO" tvg-logo="http://i.imgur.com/IZKxzJ9.png" group-title="Religiosos",TV Novo Tempo SP
-https://stream.live.novotempo.com/tv/smil:tvnovotempo.smil/chunklist_b4128000_slpor.m3u8
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", A&E HD ¹
+http://lista.serverpower.me:80/1992/1992/37555
  
-#EXTINF:-1 tvg-id="REDE VIDA" tvg-logo="http://i.imgur.com/ywEa7bZ.png" group-title="Religiosos",Rede Vida
-https://cvd1.cds.ebtcvd.net/live-redevida/smil:redevida.smil/chunklist_b2128000.m3u8
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", AMC
+http://lista.serverpower.me:80/1992/1992/37043
  
-#EXTINF:-1 tvg-id="CANCAO NOVA" tvg-logo="http://i.imgur.com/XqZCYLY.png" group-title="Religiosos",TV Canção Nova
-https://tvajuhls-lh.akamaihd.net/i/tvdesk_1@147040/index_1080_av-p.m3u8
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", AMC ¹
+http://lista.serverpower.me:80/1992/1992/37582
  
-#EXTINF:-1 tvg-id="" tvg-logo="http://i.imgur.com/m7MQIPJ.png" group-title="Religiosos",Rede Século 21
-https://tvseculo21-lh.akamaihd.net/i/tvseculo_1@16110/index_1200_av-p.m3u8
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", AMC HD
+http://lista.serverpower.me:80/1992/1992/37132
  
-#EXTINF:-1 tvg-id="" tvg-logo="http://i.imgur.com/wxqkMUE.png" group-title="Religiosos",Vem & Vê TV 1
-https://srv-rp1.sisdera.com/hls/vvtv_480p/index.m3u8
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", AMC HD ¹
+http://lista.serverpower.me:80/1992/1992/37557
  
-################################################################################# TV Aberta
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", A&E ¹
+http://lista.serverpower.me:80/1992/1992/37577
  
-#EXTINF:-1 tvg-id="" tvg-logo="http://i.imgur.com/V3zjKvc.png" group-title="TV Aberta",TV FAAP
-http://midia.faap.br:80/faaplatamlive-live/stream_720/livestream.m3u8
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", A&E HD
+http://lista.serverpower.me:80/1992/1992/37219
  
-#EXTINF:-1 tvg-id="" tvg-logo="http://i.imgur.com/xGYSOgE.png" group-title="TV Aberta",Agro Brasil
-http://177.54.152.243:1935/agrobrasiltv/agrobrasiltv/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", A&E HD ¹
+http://lista.serverpower.me:80/1992/1992/37555
  
-#EXTINF:-1 tvg-id="CANAL DO BOI" tvg-logo="http://i.imgur.com/NKRWvKq.png" group-title="TV Aberta",Canal do Boi
-https://5c49cd60dfe56.streamlock.net:6443/canaldoboi/live/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", AMC
+http://lista.serverpower.me:80/1992/1992/37043
  
-#EXTINF:-1 tvg-id="CANAL RURAL" tvg-logo="http://i.imgur.com/jtiMetX.png" group-title="TV Aberta",Canal Rural
-http://evpp.mm.uol.com.br:1935/canal_rural/aovivo.sdp/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", AMC ¹
+http://lista.serverpower.me:80/1992/1992/37582
  
-#EXTINF:-1 tvg-id="TV Gazeta" tvg-logo="http://i.imgur.com/Or3Q4WA.png" group-title="TV Aberta",TV Gazeta
-https://vlw22jqafe.singularcdn.net.br/live/TVGAZETA/playlist-720p.m3u8
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", AMC HD
+http://lista.serverpower.me:80/1992/1992/37132
  
-#EXTINF:-1 tvg-id="GLOBO RJ" tvg-logo="http://i.imgur.com/NSHvLCe.png" group-title="TV Aberta",Globo RJ
-https://globolive.akamaized.net/d/c/x2800/s/hls-globo-rj/hls-globo-rj_2316/playlist.m3u8?hdnts=st=1568898891~exp=1668898881~acl=/*~id=vis40n4q2u9jv3frt4nodrehe0~hmac=b9f7a5ee1d308c062b4062b0f57290d7f473f3b0f2813b742a8da9b4127cec07
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", ARTE 1 HD ¹
+http://lista.serverpower.me:80/1992/1992/37641
  
-#EXTINF:-1 tvg-id="BAND SP" tvg-logo="http://i.imgur.com/9bw0Q4n.png" group-title="TV Aberta",Band SP
-https://mj1b2xsspj.singularcdn.net.br/encompass/BandeirantesHD/master_Layer3.m3u8
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", AXN
+http://lista.serverpower.me:80/1992/1992/37077
  
-#EXTINF:-1 tvg-id="SBT" tvg-logo="https://i.imgur.com/Wajw4nv.png" group-title="TV Aberta",SBT SP
-https://evpp.mm.uol.com.br/ne10/ne10.smil/chunklist_w654628617_b216000_sleng.m3u8
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", AXN ¹
+http://lista.serverpower.me:80/1992/1992/37578
  
-#EXTINF:-1 tvg-id="REDE BRASIL" tvg-logo="http://i.imgur.com/uwzYiHs.png" group-title="TV Aberta",Rede Brasil SP
-https://59f2354c05961.streamlock.net:1443/rbtv/rbtv/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", AXN HD
+http://lista.serverpower.me:80/1992/1992/37135
  
-#EXTINF:-1 tvg-id="TV BRASIL" tvg-logo="http://i.imgur.com/0uUPOMx.png" group-title="TV Aberta",TV Brasil (WebTV)
-https://video-rvd-df-gw-4-1.rnp.br/live/ocp(t(FdH8ghFE54U)r(TOqkzw)a(1Y059Q)p(d(Ujo)k(l0g)m(B1W5fbpuPdpuxlLFi1OAmQ)n(a(FHbK7g)s(fuE)'a(LWih8w)s(NX0)'a(P2Baqg)s(N6E)))s(s(t5M)b(QqRA8KePKwRcJgXzMBo3xg_fLCWNET-B8AU8wA2CITf8PyT9tkdpozNWdPhe8Rd8lsRNrTNgrxdF17Iu_g)'s(dzA)b(l0pz4iWigSp5_oG76KZFr5ISZNL5FjDfnelHUFk6kaM8ydGy3VMJRQC3oj6ImSUiZQoal8u1sz6nI39ADDBr3WQkKzsNnSvLe6jfsWWn)'s(UL8)b(o5PvX91l))m(0))/index.m3u8
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", AXN HD ¹
+http://lista.serverpower.me:80/1992/1992/37556
  
-#EXTINF:-1 tvg-id="TV CULTURA" tvg-logo="http://i.imgur.com/kd7IOy7.png" group-title="TV Aberta",TV Cultura
-https://cdn.jmvstream.com/w/LVW-8403/LVW8403_bIBvekk9QA/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", BABY TV ¹
+http://lista.serverpower.me:80/1992/1992/37598
  
-#EXTINF:-1 tvg-id="FUTURA" tvg-logo="http://i.imgur.com/J0vLlTS.png" group-title="TV Aberta",TV Futura RJ
-https://globolive.akamaized.net/d/c/x2800/s/hls-futura24ha/hls-futura24ha_2316/playlist.m3u8?hdnts=st=1568898891~exp=1668898881~acl=/*~id=vis40n4q2u9jv3frt4nodrehe0~hmac=b9f7a5ee1d308c062b4062b0f57290d7f473f3b0f2813b742a8da9b4127cec07
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", BAND NEWS
+http://lista.serverpower.me:80/1992/1992/37104
  
-#EXTINF:-1 tvg-id="RECORD SP" tvg-logo="http://i.imgur.com/5UeQAk9.png" group-title="TV Aberta",Record RJ
-https://playplusrjo-lh.akamaihd.net/i/pp_rj@377859/index_720_av-p.m3u8
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", BAND NEWS ²
+http://lista.serverpower.me:80/1992/1992/46832
  
-#EXTINF:-1 tvg-id="REDE TV" tvg-logo="http://i.imgur.com/k4haEx6.png" group-title="TV Aberta",Rede TV
-https://5b7f3c45ab7c2.streamlock.net:443/9010/ngrp:9010_all/chunklist_w1880434489_b1359872_DVR.m3u8
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", BAND NEWS HD
+http://lista.serverpower.me:80/1992/1992/37136
  
-#EXTINF:-1 tvg-id="TV ESCOLA" tvg-logo="http://i.imgur.com/hbpsGWw.png" group-title="TV Aberta",TV Escola
-https://bkp-slbps-sambatech.akamaized.net/live/348%2C1586%2C7e49d4c314175751675132379c09bfc5%3Bbase64np%3BwJc_sU5fkDpFL1o%21/amlst%3AwJfHqFMUlTtab9aE/chunklist_b1294336.m3u8
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", BAND
+http://lista.serverpower.me:80/1992/1992/37096
  
-#EXTINF:-1 tvg-id="TV TERRA VIVA" tvg-logo="http://i.imgur.com/6vBfgpS.png" group-title="TV Aberta",TV Terra Viva
-http://evpp.mm.uol.com.br:1935/band_live/terraviva/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", BAND¹
+http://lista.serverpower.me:80/1992/1992/37639
  
-#EXTINF:-1 tvg-id="TV JUSTICA" tvg-logo="http://i.imgur.com/vY8jL1a.png" group-title="TV Aberta",TV Justiça
-http://tvmpf.mpf.mp.br:1935/event1900/event1900.stream/live.m3u8
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", BAND HD
+http://lista.serverpower.me:80/1992/1992/37220
  
-#EXTINF:-1 tvg-id="TV CAMARA" tvg-logo="http://i.imgur.com/no1Al0A.png" group-title="TV Aberta",TV Câmara
-https://stream3.camara.gov.br/tv1/manifest.m3u8
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", BAND SP  HD¹
+http://lista.serverpower.me:80/1992/1992/37635
  
-#EXTINF:-1 tvg-id="TV SENADO" tvg-logo="http://i.imgur.com/O3XSUeg.png" group-title="TV Aberta",TV Senado
-http://tvmpf.mpf.mp.br:1935/event455/event455.stream/live.m3u8
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", BAND SPORTS
+http://lista.serverpower.me:80/1992/1992/37103
  
-################################################################################ Esportes
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", BAND SPORTS ¹
+http://lista.serverpower.me:80/1992/1992/37532
  
-#EXTINF:-1 tvg-id="SPORTV" tvg-logo="http://i.imgur.com/knx9dj1.png" group-title="Esportes",SporTV HD
-http://89.187.173.219:80/imp31764509/a3904h/114
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", BAND SPORT ²
+http://lista.serverpower.me:80/1992/1992/46833
  
-#EXTINF:-1 tvg-id="SPORTV 2" tvg-logo="http://i.imgur.com/qpwwQCz.png" group-title="Esportes",SporTV 2 HD
-http://89.187.173.219:80/imp31764509/a3904h/120
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", BAND SPORTS HD
+http://lista.serverpower.me:80/1992/1992/37137
  
-#EXTINF:-1 tvg-id="SPORTV 3" tvg-logo="http://i.imgur.com/8ds9Wv0.png" group-title="Esportes",SporTV 3 HD
-http://89.187.173.219:80/imp31764509/a3904h/124
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", BAND SPORTS HD ¹
+http://lista.serverpower.me:80/1992/1992/37543
  
-#EXTINF:-1 tvg-id="COMBATE" tvg-logo="https://i.imgur.com/sR2puQr.png" group-title="Esportes",Combate HD
-https://globolive.akamaized.net/d/c/x2800/s/hls-cbt24ha/hls-cbt24ha_2126/playlist.m3u8?hdnts=st=1568898891~exp=1668898881~acl=/*~id=vis40n4q2u9jv3frt4nodrehe0~hmac=b9f7a5ee1d308c062b4062b0f57290d7f473f3b0f2813b742a8da9b4127cec07
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", BIS
+http://lista.serverpower.me:80/1992/1992/37101
  
-#EXTINF:-1 tvg-id="PREMIERE CLUBES" tvg-logo="http://i.imgur.com/xmmiHls.png" group-title="Esportes",Premiere Clubes HD
-http://89.187.173.219:80/imp31764509/a3904h/189
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", BIS  ¹
+http://lista.serverpower.me:80/1992/1992/37658
  
-#EXTINF:-1 tvg-id="PREMIERE 2" tvg-logo="http://i.imgur.com/xmmiHls.png" group-title="Esportes",Premiere 2 HD
-https://globolive.akamaized.net:443/d/c/x2800/s/hls-pfc2/hls-pfc2_2764/playlist.m3u8?hdnts=st=1568898891~exp=1668898881~acl=/*~id=vis40n4q2u9jv3frt4nodrehe0~hmac=b9f7a5ee1d308c062b4062b0f57290d7f473f3b0f2813b742a8da9b4127cec07
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", BIS ²
+http://lista.serverpower.me:80/1992/1992/46831
  
-#EXTINF:-1 tvg-id="PREMIERE 3" tvg-logo="http://i.imgur.com/xmmiHls.png" group-title="Esportes",Premiere 3 HD
-https://globolive.akamaized.net:443/d/c/x2800/s/hls-pfc3/hls-pfc3_2764/playlist.m3u8?hdnts=st=1568898891~exp=1668898881~acl=/*~id=vis40n4q2u9jv3frt4nodrehe0~hmac=b9f7a5ee1d308c062b4062b0f57290d7f473f3b0f2813b742a8da9b4127cec07
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", BIS HD ¹
+http://lista.serverpower.me:80/1992/1992/37640
  
-#EXTINF:-1 tvg-id="PREMIERE 4" tvg-logo="http://i.imgur.com/xmmiHls.png" group-title="Esportes",Premiere 4 HD
-https://globolive.akamaized.net:443/d/c/x2800/s/hls-pfc4/hls-pfc4_2764/playlist.m3u8?hdnts=st=1568898891~exp=1668898881~acl=/*~id=vis40n4q2u9jv3frt4nodrehe0~hmac=b9f7a5ee1d308c062b4062b0f57290d7f473f3b0f2813b742a8da9b4127cec07
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", BOOMERANG
+http://lista.serverpower.me:80/1992/1992/37056
  
-#EXTINF:-1 tvg-id="PREMIERE 5" tvg-logo="http://i.imgur.com/xmmiHls.png" group-title="Esportes",Premiere 5 HD
-https://globolive.akamaized.net:443/d/c/x2800/s/hls-pfc5/hls-pfc5_2764/playlist.m3u8?hdnts=st=1568898891~exp=1668898881~acl=/*~id=vis40n4q2u9jv3frt4nodrehe0~hmac=b9f7a5ee1d308c062b4062b0f57290d7f473f3b0f2813b742a8da9b4127cec07
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", BOOMERANG ¹
+http://lista.serverpower.me:80/1992/1992/37601
  
-#EXTINF:-1 tvg-id="PREMIERE 6" tvg-logo="http://i.imgur.com/xmmiHls.png" group-title="Esportes",Premiere 6 HD
-https://globolive.akamaized.net:443/d/c/x2800/s/hls-pfc6/hls-pfc6_2764/playlist.m3u8?hdnts=st=1568898891~exp=1668898881~acl=/*~id=vis40n4q2u9jv3frt4nodrehe0~hmac=b9f7a5ee1d308c062b4062b0f57290d7f473f3b0f2813b742a8da9b4127cec07
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", BOOMERANG HD
+http://lista.serverpower.me:80/1992/1992/37138
  
-#EXTINF:-1 tvg-id="PREMIERE 7" tvg-logo="http://i.imgur.com/xmmiHls.png" group-title="Esportes",Premiere 7 HD
-https://globolive.akamaized.net:443/d/c/x2800/s/hls-pfc7/hls-pfc7_2764/playlist.m3u8?hdnts=st=1568898891~exp=1668898881~acl=/*~id=vis40n4q2u9jv3frt4nodrehe0~hmac=b9f7a5ee1d308c062b4062b0f57290d7f473f3b0f2813b742a8da9b4127cec07
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", BOOMERANG HD ¹
+http://lista.serverpower.me:80/1992/1992/37605
  
-#EXTINF:-1 tvg-id="PREMIERE 8" tvg-logo="http://i.imgur.com/xmmiHls.png" group-title="Esportes",Premiere 8 HD
-https://globolive.akamaized.net:443/d/c/x2800/s/hls-pfc8/hls-pfc8_2764/playlist.m3u8?hdnts=st=1568898891~exp=1668898881~acl=/*~id=vis40n4q2u9jv3frt4nodrehe0~hmac=b9f7a5ee1d308c062b4062b0f57290d7f473f3b0f2813b742a8da9b4127cec07
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", CANAL BRASIL
+http://lista.serverpower.me:80/1992/1992/37105
  
-#EXTINF:-1 tvg-id="ESPN BRASIL" tvg-logo="http://i.imgur.com/rTXcueh.png" group-title="Esportes",ESPN Brasil HD
-https://mj1b2xsspj.singularcdn.net.br/encompass/ESPN_Brasil/master_Layer1.m3u8
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", CANAL BRASIL¹
+http://lista.serverpower.me:80/1992/1992/37637
  
-#EXTINF:-1 tvg-id="ESPN" tvg-logo="http://i.imgur.com/kcxzdPA.png" group-title="Esportes",ESPN HD
-https://mj1b2xsspj.singularcdn.net.br/encompass/ESPN/master_Layer1.m3u8
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", CANAL BRASIL HD
+http://lista.serverpower.me:80/1992/1992/37139
  
-#EXTINF:-1 tvg-id="ESPN 2" tvg-logo="http://i.imgur.com/Qp5B2ZB.png" group-title="Esportes",ESPN 2 HD
-https://mj1b2xsspj.singularcdn.net.br/encompass/ESPN2/master_Layer1.m3u8
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", CANAL BRASIL HD¹
+http://lista.serverpower.me:80/1992/1992/37630
  
-#EXTINF:-1 tvg-id="ESPN EXTRA" tvg-logo="http://i.imgur.com/TW6ZY5p.png" group-title="Esportes",ESPN Extra HD
-https://mj1b2xsspj.singularcdn.net.br/encompass/ESPN_Extra/master_Layer1.m3u8
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", CANAL SONY
+http://lista.serverpower.me:80/1992/1992/37073
  
-#EXTINF:-1 tvg-id="OFF" tvg-logo="http://i.imgur.com/WGoV3TD.png" group-title="Esportes",Off HD
-https://globolive.akamaized.net/d/c/x2800/s/hls-off24ha/hls-off24ha_2126/playlist.m3u8?hdnts=st=1568898891~exp=1668898881~acl=/*~id=vis40n4q2u9jv3frt4nodrehe0~hmac=b9f7a5ee1d308c062b4062b0f57290d7f473f3b0f2813b742a8da9b4127cec07
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", CANAL SONY ²
+http://lista.serverpower.me:80/1992/1992/46835
  
-#EXTINF:-1 tvg-id="BAND SPORTS" tvg-logo="http://i.imgur.com/wuMZB2S.png" group-title="Esportes",Band Sports
-http://89.187.173.219:80/imp31764509/a3904h/180
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", CANAL SONY HD
+http://lista.serverpower.me:80/1992/1992/37140
  
-#EXTINF:-1 tvg-id="FOX SPORTS" tvg-logo="http://i.imgur.com/bYUGfOo.png" group-title="Esportes",Fox Sports
-http://89.187.173.219:80/imp31764509/a3904h/130
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", CANAL SONY HD ¹
+http://lista.serverpower.me:80/1992/1992/37554
  
-#EXTINF:-1 tvg-id="FOX SPORTS 2" tvg-logo="http://i.imgur.com/imNhdzS.png" group-title="Esportes",Fox Sports 2
-http://89.187.173.219:80/imp31764509/a3904h/137
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", CARTOON NETWORK
+http://lista.serverpower.me:80/1992/1992/37041
  
-#EXTINF:-1 tvg-id="ALL SPORTS" tvg-logo="http://i.imgur.com/HozFynS.png" group-title="Esportes",All Sports BR HD
-http://173.236.10.10:1935/dgrau/dgrau/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", CARTOON NETWORK ¹
+http://lista.serverpower.me:80/1992/1992/37602
  
-#EXTINF:-1 tvg-id="A BOLA TV" group-title="Esportes",A Bola TV HD (Portugal)
-http://62.203.143.51:9981/play/BolaTV
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", CARTOON NETWORK HD
+http://lista.serverpower.me:80/1992/1992/37141
  
-#EXTINF:-1 tvg-id="EUROSPORT1" group-title="Esportes",EuroSport1 HD (Portugal)
-http://s.igiptv.com:8000/mohamadxsharefa/r75633/8117
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", CARTOON NETWORK HD ¹
+http://lista.serverpower.me:80/1992/1992/37612
  
-#EXTINF:-1 tvg-id="EUROSPORT2" group-title="Esportes",EuroSport2 HD (Portugal)
-http://s.igiptv.com:8000/mohamadxsharefa/r75633/8116
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", CINEMAX ¹
+http://lista.serverpower.me:80/1992/1992/37575
  
-#EXTINF:-1 tvg-id="" group-title="Esportes",SportTV1 HD (Portugal)
-http://s.igiptv.com:8000/mohamadxsharefa/r75633/8132
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", CINEMAX HD
+http://lista.serverpower.me:80/1992/1992/37222
  
-#EXTINF:-1 tvg-id="" group-title="Esportes",SportTV2 HD (Portugal)
-http://s.igiptv.com:8000/mohamadxsharefa/r75633/8131
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", CINEMAX HD ¹
+http://lista.serverpower.me:80/1992/1992/37553
  
-#EXTINF:-1 tvg-id="" group-title="Esportes",SportTV3 HD (Portugal)
-http://s.igiptv.com:8000/mohamadxsharefa/r75633/8130
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", COMBATE
+http://lista.serverpower.me:80/1992/1992/37106
  
-#EXTINF:-1 tvg-id="" group-title="Esportes",SportTV4 HD (Portugal)
-http://s.igiptv.com:8000/mohamadxsharefa/r75633/8129
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", COMBATE ¹
+http://lista.serverpower.me:80/1992/1992/37529
  
-#EXTINF:-1 tvg-id="" group-title="Esportes",SportTV5 HD (Portugal)
-http://s.igiptv.com:8000/mohamadxsharefa/r75633/8124
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", COMBATE HD
+http://lista.serverpower.me:80/1992/1992/37142
  
-#EXTINF:-1 tvg-id="" group-title="Esportes",Eleven Sports 1 HD (Portugal)
-http://s.igiptv.com:8000/mohamadxsharefa/r75633/36233
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", COMEDY CENTRAL ¹
+http://lista.serverpower.me:80/1992/1992/37660
  
-#EXTINF:-1 tvg-id="" group-title="Esportes",Eleven Sports 2 HD (Portugal)
-http://s.igiptv.com:8000/mohamadxsharefa/r75633/36234
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", COMBATE HD ¹
+http://lista.serverpower.me:80/1992/1992/37546
  
-#EXTINF:-1 tvg-id="" group-title="Esportes",Eleven Sports 3 HD (Portugal)
-http://s.igiptv.com:8000/mohamadxsharefa/r75633/36235
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", COMEDY CENTRAL HD
+http://lista.serverpower.me:80/1992/1992/37143
  
-#EXTINF:-1 tvg-id="" group-title="Esportes",Eleven Sports 4 HD (Portugal)
-http://s.igiptv.com:8000/mohamadxsharefa/r75633/36236
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", COMEDY CENTRAL HD ¹
+http://lista.serverpower.me:80/1992/1992/37643
  
-################################################################################# Infantil
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", CULTURA
+http://lista.serverpower.me:80/1992/1992/37026
  
-#EXTINF:-1 tvg-id="" tvg-logo="http://i.imgur.com/PY0n9bX.jpg" group-title="Infantil",Gospel Cartoon
-http://stmv1.srvstm.com/gospelcartoon/gospelcartoon/playlist.m3u8?wowzasessionid=495096105
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", CULTURA HD
+http://lista.serverpower.me:80/1992/1992/37223
  
-#EXTINF:-1 tvg-id="GLOOBINHO" tvg-logo="http://i.imgur.com/oOdSv91.png" group-title="Infantil",Gloobinho HD
-https://globolive.akamaized.net/d/c/x2800/s/hls-gloobinho24ha/hls-gloobinho24ha_2126/playlist.m3u8?hdnts=st=1568898891~exp=1668898881~acl=/*~id=vis40n4q2u9jv3frt4nodrehe0~hmac=b9f7a5ee1d308c062b4062b0f57290d7f473f3b0f2813b742a8da9b4127cec07
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", CURTA!
+http://lista.serverpower.me:80/1992/1992/37059
  
-#EXTINF:-1 tvg-id="BOOMERANG" tvg-logo="http://i.imgur.com/syou7kI.png" group-title="Infantil",Boomerang
-http://89.187.173.219:80/imp31764509/a3904h/558
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", CURTA! HD
+http://lista.serverpower.me:80/1992/1992/37144
  
-#EXTINF:-1 tvg-id="TOONCAST" tvg-logo="http://i.imgur.com/ggVGWjw.png" group-title="Infantil",Tooncast
-http://89.187.173.219:80/imp31764509/a3904h/570
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", DISCOVERY H&H
+http://lista.serverpower.me:80/1992/1992/37117
  
-#EXTINF:-1 tvg-id="NICK" tvg-logo="http://i.imgur.com/ZjLSLiY.png" group-title="Infantil",Nickelodeon
-http://89.187.173.219:80/imp31764509/a3904h/11180
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", DISCOVERY H&H ¹
+http://lista.serverpower.me:80/1992/1992/37587
  
-#EXTINF:-1 tvg-id="GLOOB" tvg-logo="http://i.imgur.com/mFDFUjt.png" group-title="Infantil",Gloob HD
-https://globolive.akamaized.net/d/c/x2800/s/hls-gloob24ha/hls-gloob24ha_2126/playlist.m3u8?hdnts=st=1568898891~exp=1668898881~acl=/*~id=vis40n4q2u9jv3frt4nodrehe0~hmac=b9f7a5ee1d308c062b4062b0f57290d7f473f3b0f2813b742a8da9b4127cec07
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", DISCOVERY H&H ²
+http://lista.serverpower.me:80/1992/1992/46836
  
-#EXTINF:-1 tvg-id="CARTOON NETWORK" tvg-logo="http://i.imgur.com/S5PsDDR.png" group-title="Infantil",Cartoon Network
-http://89.187.173.219:80/imp31764509/a3904h/564
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", DISCOVERY H&H HD
+http://lista.serverpower.me:80/1992/1992/37145
  
-#EXTINF:-1 tvg-id="DISNEY XD" tvg-logo="http://i.imgur.com/zNNIALN.png" group-title="Infantil",Disney XD HD
-https://mj1b2xsspj.singularcdn.net.br/encompass/DisneyXDBRA/master_Layer1.m3u8
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", DISCOVERY CHANNEL
+http://lista.serverpower.me:80/1992/1992/37024
  
-#EXTINF:-1 tvg-id="DISCOVERY KIDS" tvg-logo="http://i.imgur.com/DpgSKt0.png" group-title="Infantil",Discovery Kids
-http://89.187.173.219:80/imp31764509/a3904h/553
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", DISCOVERY CHANNEL ¹
+http://lista.serverpower.me:80/1992/1992/37586
  
-#EXTINF:-1 tvg-id="DISNEY JR" tvg-logo="http://i.imgur.com/H9AY5z4.png" group-title="Infantil",Disney Junior HD
-https://mj1b2xsspj.singularcdn.net.br/encompass/DisneyJrBRA/master_Layer1.m3u8
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", DISCOVERY CHANNEL HD
+http://lista.serverpower.me:80/1992/1992/37225
  
-#EXTINF:-1 tvg-id="DISNEY CHANNEL" tvg-logo="http://i.imgur.com/ETxffjm.png" group-title="Infantil",Disney Channel HD
-https://mj1b2xsspj.singularcdn.net.br/encompass/DisneyChannelBRA/master_Layer1.m3u8
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", DISCOVERY CHANNEL HD ¹
+http://lista.serverpower.me:80/1992/1992/37589
  
-#EXTINF:-1 tvg-id="TV RATIMBUM" tvg-logo="https://i.imgur.com/wlVLDe1.png" group-title="Infantil",TV Rá-Tim-Bum HD
-https://mj1b2xsspj.singularcdn.net.br/encompass/TVRaTimBum/master_Layer1.m3u8
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", DISNEY CHANNEL
+http://lista.serverpower.me:80/1992/1992/37047
  
-################################################################################# Filmes e Series
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", DISNEY CHANNEL HD
+http://lista.serverpower.me:80/1992/1992/37149
  
-#EXTINF:-1 tvg-id="HBO" tvg-logo="http://i.imgur.com/KOIo5EH.png" group-title="Filmes e Séries",HBO
-http://89.187.173.219:80/imp31764509/a3904h/292
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", DISNEY CHANNEL HD ¹
+http://lista.serverpower.me:80/1992/1992/37594
  
-#EXTINF:-1 tvg-id="HBO 2" tvg-logo="http://i.imgur.com/okiePBA.png" group-title="Filmes e Séries",HBO 2
-http://89.187.173.219:80/imp31764509/a3904h/299
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", DISCOVERY CIVILIZATION HD ¹
+http://lista.serverpower.me:80/1992/1992/37596
  
-#EXTINF:-1 tvg-id="HBO PLUS" tvg-logo="http://i.imgur.com/rjzeynR.png" group-title="Filmes e Séries",HBO Plus
-http://89.187.173.219:80/imp31764509/a3904h/304
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", DISCOVERY KIDS
+http://lista.serverpower.me:80/1992/1992/37102
  
-#EXTINF:-1 tvg-id="HBO SIGNATURE" tvg-logo="http://i.imgur.com/i89AzSA.png" group-title="Filmes e Séries",HBO Signature
-http://89.187.173.219:80/imp31764509/a3904h/316
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", DISCOVERY KIDS ¹
+http://lista.serverpower.me:80/1992/1992/37600
  
-#EXTINF:-1 tvg-id="HBO FAMILY" tvg-logo="http://i.imgur.com/x2Enlmt.png" group-title="Filmes e Séries",HBO Family
-http://89.187.173.219:80/imp31764509/a3904h/311
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", DISCOVERY KIDS HD
+http://lista.serverpower.me:80/1992/1992/37226
  
-#EXTINF:-1 tvg-id="MAX" tvg-logo="http://i.imgur.com/49eEDXa.png" group-title="Filmes e Séries",Max
-http://89.187.173.219:80/imp31764509/a3904h/321
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", DISCOVERY KIDS HD ¹
+http://lista.serverpower.me:80/1992/1992/37606
  
-#EXTINF:-1 tvg-id="MAX PRIME" tvg-logo="http://i.imgur.com/z0DmH95.png" group-title="Filmes e Séries",Max Prime
-http://89.187.173.219:80/imp31764509/a3904h/329
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", DISCOVERY SCIENCE
+http://lista.serverpower.me:80/1992/1992/37020
  
-#EXTINF:-1 tvg-id="MAX UP" tvg-logo="http://i.imgur.com/3Ci9AWu.png" group-title="Filmes e Séries",Max Up
-http://89.187.173.219:80/imp31764509/a3904h/325
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", DISCOVERY SCIENCE HD
+http://lista.serverpower.me:80/1992/1992/37227
  
-#EXTINF:-1 tvg-id="CINEMAX" tvg-logo="http://i.imgur.com/nlGx2t1.png" group-title="Filmes e Séries",Cinemax
-http://89.187.173.219:80/imp31764509/a3904h/371
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", DISCOVERY SCIENCE HD ¹
+http://lista.serverpower.me:80/1992/1992/37591
  
-#EXTINF:-1 tvg-id="TC ACTION" tvg-logo="http://i.imgur.com/Lx3R36Y.png" group-title="Filmes e Séries",Telecine Action
-http://89.187.173.219:80/imp31764509/a3904h/245
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", DISCOVERY THEATER
+http://lista.serverpower.me:80/1992/1992/37042
  
-#EXTINF:-1 tvg-id="TC PREMIUM" tvg-logo="http://i.imgur.com/aMWCWA0.png" group-title="Filmes e Séries",Telecine Premium
-http://89.187.173.219:80/imp31764509/a3904h/238
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", DISCOVERY THEATER HD
+http://lista.serverpower.me:80/1992/1992/37146
  
-#EXTINF:-1 tvg-id="TC TOUCH" tvg-logo="http://i.imgur.com/849pB2j.png" group-title="Filmes e Séries",Telecine Touch
-http://89.187.173.219:80/imp31764509/a3904h/260
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", DISCOVERY THEATER HD ¹
+http://lista.serverpower.me:80/1992/1992/37592
  
-#EXTINF:-1 tvg-id="TC FUN" tvg-logo="http://i.imgur.com/ltpUjbD.png" group-title="Filmes e Séries",Telecine Fun
-http://89.187.173.219:80/imp31764509/a3904h/255
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", DISCOVERY TURBO
+http://lista.serverpower.me:80/1992/1992/37051
  
-#EXTINF:-1 tvg-id="TC PIPOCA" tvg-logo="http://i.imgur.com/lfOS7gF.png" group-title="Filmes e Séries",Telecine Pipoca
-http://89.187.173.219:80/imp31764509/a3904h/251
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", DISCOVERY TURBO ²
+http://lista.serverpower.me:80/1992/1992/46837
  
-#EXTINF:-1 tvg-id="TC CULT" tvg-logo="http://i.imgur.com/CHaWCed.png" group-title="Filmes e Séries",Telecine Cult
-http://89.187.173.219:80/imp31764509/a3904h/266
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", DISCOVERY TURBO HD
+http://lista.serverpower.me:80/1992/1992/37147
  
-#EXTINF:-1 tvg-id="AXN" tvg-logo="http://i.imgur.com/kNNpfSN.png" group-title="Filmes e Séries",AXN
-http://89.187.173.219:80/imp31764509/a3904h/398
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", DISCOVERY TURBO HD ¹
+http://lista.serverpower.me:80/1992/1992/37588
  
-#EXTINF:-1 tvg-id="AMC" tvg-logo="http://i.imgur.com/CHlPB48.png" group-title="Filmes e Séries",AMC
-http://89.187.173.219:80/imp31764509/a3904h/392
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", DISCOVERY WORLD
+http://lista.serverpower.me:80/1992/1992/37036
  
-#EXTINF:-1 tvg-id="FOX" tvg-logo="http://i.imgur.com/Od0wkz3.png" group-title="Filmes e Séries",Fox
-http://89.187.173.219:80/imp31764509/a3904h/340
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", DISCOVERY WORLD HD
+http://lista.serverpower.me:80/1992/1992/37148
  
-#EXTINF:-1 tvg-id="FOX PREMIUM 1" tvg-logo="http://i.imgur.com/m1ixuy7.png" group-title="Filmes e Séries",Fox Premium 1
-http://89.187.173.219:80/imp31764509/a3904h/345
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", DISCOVERY WORLD HD ¹
+http://lista.serverpower.me:80/1992/1992/37593
  
-#EXTINF:-1 tvg-id="FOX PREMIUM 2" tvg-logo="http://i.imgur.com/RjR5EH8.png" group-title="Filmes e Séries",Fox Premium 2
-http://89.187.173.219:80/imp31764509/a3904h/348
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", DISNEY JR
+http://lista.serverpower.me:80/1992/1992/37044
  
-#EXTINF:-1 tvg-id="FX" tvg-logo="http://i.imgur.com/GaQZSu6.png" group-title="Filmes e Séries",FX
-http://89.187.173.219:80/imp31764509/a3904h/353
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", DISNEY JR ¹
+http://lista.serverpower.me:80/1992/1992/37599
  
-#EXTINF:-1 tvg-id="MEGAPIX" tvg-logo="http://i.imgur.com/LewQb1v.png" group-title="Filmes e Séries",Megapix HD
-http://89.187.173.219:80/imp31764509/a3904h/270
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", DISNEY JR HD
+http://lista.serverpower.me:80/1992/1992/37150
  
-#EXTINF:-1 tvg-id="PHILOS" tvg-logo="" group-title="Filmes e Séries",Philos HD
-https://globolive.akamaized.net/d/c/x2800/s/hls-philos24ha/hls-philos24ha_2316/playlist.m3u8?hdnts=st=1568898891~exp=1668898881~acl=/*~id=vis40n4q2u9jv3frt4nodrehe0~hmac=b9f7a5ee1d308c062b4062b0f57290d7f473f3b0f2813b742a8da9b4127cec07
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", E!
+http://lista.serverpower.me:80/1992/1992/37107
  
-#EXTINF:-1 tvg-id="TV CLIMA" tvg-logo="http://www.tvclima.com/images/logo_tv.png" group-title="Filmes e Séries",TV CLIMA
-https://stmv1.srvstm.com/tvcadm/tvcadm/playlist.m3u8?wowzasessionid=853872102
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", E! HD
+http://lista.serverpower.me:80/1992/1992/37151
  
-#EXTINF:-1 tvg-id="SPACE" tvg-logo="http://i.imgur.com/wP2GD1G.png" group-title="Filmes e Séries",Space
-http://89.187.173.219:80/imp31764509/a3904h/368
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", ESPN
+http://lista.serverpower.me:80/1992/1992/37109
  
-#EXTINF:-1 tvg-id="TBS" tvg-logo="http://i.imgur.com/XHUoj3n.png" group-title="Filmes e Séries",TBS
-http://89.187.173.219:80/imp31764509/a3904h/385
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", ESPN 2
+http://lista.serverpower.me:80/1992/1992/37110
  
-#EXTINF:-1 tvg-id="COMEDY CENTRAL" tvg-logo="http://i.imgur.com/ZekUX7A.png" group-title="Filmes e Séries",Comedy Central
-http://89.187.173.219:80/imp31764509/a3904h/387
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", ESPN 2 HD
+http://lista.serverpower.me:80/1992/1992/37155
  
-#EXTINF:-1 tvg-id="SYFY" tvg-logo="http://i.imgur.com/nRBPSZp.png" group-title="Filmes e Séries",Syfy HD
-http://89.187.173.219:80/imp31764509/a3904h/284
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", ESPN 2 HD ¹
+http://lista.serverpower.me:80/1992/1992/37537
  
-#EXTINF:-1 tvg-id="STUDIO UNIVERSAL" tvg-logo="http://i.imgur.com/WnUlcx6.png" group-title="Filmes e Séries",Studio Universal HD
-http://89.187.173.219:80/imp31764509/a3904h/279
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", ESPN BRASIL ²
+http://lista.serverpower.me:80/1992/1992/46838
  
-#EXTINF:-1 tvg-id="SONY" tvg-logo="http://i.imgur.com/eHN8OeK.png" group-title="Filmes e Séries",Sony
-http://89.187.173.219:80/imp31764509/a3904h/356
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", ESPN BRASIL ¹
+http://lista.serverpower.me:80/1992/1992/37534
  
-#EXTINF:-1 tvg-id="TNT SERIES" tvg-logo="http://i.imgur.com/ky7Nxh1.png" group-title="Filmes e Séries",TNT Séries
-http://89.187.173.219:80/imp31764509/a3904h/364
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", ESPN BRASIL HD ¹
+http://lista.serverpower.me:80/1992/1992/37536
  
-#EXTINF:-1 tvg-id="TNT" tvg-logo="http://i.imgur.com/wtLZgX5.png" group-title="Filmes e Séries",TNT
-http://89.187.173.219:80/imp31764509/a3904h/361
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", ESPN EXTRA HD
+http://lista.serverpower.me:80/1992/1992/37153
  
-#EXTINF:-1 tvg-id="UNIVERSAL CHANNEL" tvg-logo="http://i.imgur.com/rd1F3dK.png" group-title="Filmes e Séries",Universal HD
-http://89.187.173.219:80/imp31764509/a3904h/275
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", FASHION TV
+http://lista.serverpower.me:80/1992/1992/37034
  
-#EXTINF:-1 tvg-id="PARAMOUNT CHANNEL" tvg-logo="http://i.imgur.com/yScrn6s.png" group-title="Filmes e Séries",Paramount
-http://89.187.173.219:80/imp31764509/a3904h/376
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", FISH TV
+http://lista.serverpower.me:80/1992/1992/37126
  
-#EXTINF:-1 tvg-id="WARNER CHANNEL" tvg-logo="http://i.imgur.com/HBaycf4.png" group-title="Filmes e Séries",Warner
-http://89.187.173.219:80/imp31764509/a3904h/335
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", FISH TV  ¹
+http://lista.serverpower.me:80/1992/1992/37683
  
-################################################################################# Notícias
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", FISH HD ¹
+http://lista.serverpower.me:80/1992/1992/37548
  
-#EXTINF:-1 tvg-id="RECORD NEWS" tvg-logo="http://i.imgur.com/ac5p192.png" group-title="Notícias",Record News HD
-http://playplusnews-lh.akamaihd.net/i/pp_nws@377849/index_720_av-p.m3u8
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", FOOD NETWORK HD
+http://lista.serverpower.me:80/1992/1992/37228
  
-#EXTINF:-1 tvg-id="GLOBO NEWS" tvg-logo="http://i.imgur.com/gS0ZFOv.png" group-title="Notícias",Globo News HD
-https://globolive.akamaized.net/d/c/x2800/s/hls-gnews24ha/hls-gnews24ha_2126/playlist.m3u8?hdnts=st=1568898891~exp=1668898881~acl=/*~id=vis40n4q2u9jv3frt4nodrehe0~hmac=b9f7a5ee1d308c062b4062b0f57290d7f473f3b0f2813b742a8da9b4127cec07
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", FOX LIFE HD
+http://lista.serverpower.me:80/1992/1992/37159
  
-#EXTINF:-1 tvg-id="BAND NEWS" tvg-logo="http://i.imgur.com/oLcHI8G.png" group-title="Notícias",Band News
-http://89.187.173.219:80/imp31764509/a3904h/531
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", FOX SPORTS 2
+http://lista.serverpower.me:80/1992/1992/37114
  
-#EXTINF:-1 tvg-id="EURONEWS" tvg-logo="" group-title="Notícias",Euronews HD (Portugal)
-http://s.igiptv.com:8000/mohamadxsharefa/r75633/8070
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", FOX SPORTS HD 2 ¹
+http://lista.serverpower.me:80/1992/1992/37527
  
-#EXTINF:-1 tvg-id="RTP1" tvg-logo="http://i.imgur.com/DlY0c61.png" group-title="Notícias",RTP1 HD (Portugal)
-http://s.igiptv.com:8000/mohamadxsharefa/r75633/8162
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", FUTURA
+http://lista.serverpower.me:80/1992/1992/37094
  
-#EXTINF:-1 tvg-id="RTP1" tvg-logo="http://i.imgur.com/DlY0c61.png" group-title="Notícias",RTP1 HD (Alt 1 Portugal)
-http://streaming-live-app.rtp.pt/liverepeater/smil:rtp1HD.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", FX ¹
+http://lista.serverpower.me:80/1992/1992/37580
  
-#EXTINF:-1 tvg-id="RTP2" tvg-logo="http://i.imgur.com/aGpX9CJ.png" group-title="Notícias",RTP2 HD (Portugal)
-http://s.igiptv.com:8000/mohamadxsharefa/r75633/8161
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", FX ²
+http://lista.serverpower.me:80/1992/1992/46840
  
-#EXTINF:-1 tvg-id="RTP2" tvg-logo="http://i.imgur.com/aGpX9CJ.png" group-title="Notícias",RTP2 (Alt 1 Portugal)
-http://streaming-live-app.rtp.pt/liverepeater/smil:rtp2.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", GLOBO BRASILIA
+http://lista.serverpower.me:80/1992/1992/30389
  
-#EXTINF:-1 tvg-id="RTP3" tvg-logo="https://ptiptv.tk/logo?i=RTP3" group-title="Notícias",RTP3 HD (Portugal)
-http://s.igiptv.com:8000/mohamadxsharefa/r75633/5078
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", GLOBO BRASILIA  HD
+http://lista.serverpower.me:80/1992/1992/40458
  
-#EXTINF:-1 tvg-id="RTP3" tvg-logo="https://ptiptv.tk/logo?i=RTP3" group-title="Notícias",RTP3 (Alt 1 Portugal)
-http://streaming-live-app.rtp.pt/liverepeater/smil:rtpn.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", FX HD
+http://lista.serverpower.me:80/1992/1992/37165
  
-#EXTINF:-1 tvg-id="TVI" tvg-logo="http://i.imgur.com/doTfHuK.png" group-title="Notícias",TVI HD (Portugal)
-http://s.igiptv.com:8000/mohamadxsharefa/r75633/8157
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", GLOBO BRASILIA HD
+http://lista.serverpower.me:80/1992/1992/37388
  
-#EXTINF:-1 tvg-id="TVI" tvg-logo="http://i.imgur.com/doTfHuK.png" group-title="Notícias",TVI (Alt 1 Portugal)
-http://video-auth8.iol.pt/live_tvi/live_tvi/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", GLOBO ES HD
+http://lista.serverpower.me:80/1992/1992/27677
  
-#EXTINF:-1 tvg-id="TVI24" tvg-logo="http://i.imgur.com/XTWxRVh.png" group-title="Notícias",TVI24 HD (Portugal)
-http://s.igiptv.com:8000/mohamadxsharefa/r75633/8159
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", GLOBO ES FHD
+http://lista.serverpower.me:80/1992/1992/40477
  
-#EXTINF:-1 tvg-id="TVI24" tvg-logo="http://i.imgur.com/XTWxRVh.png" group-title="Notícias",TVI24 (Alt 1 Portugal)
-http://video-auth7.iol.pt/live_tvi24/live_tvi24/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", GLOBO ES H265
+http://lista.serverpower.me:80/1992/1992/40478
  
-################################################################################# Documentários
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", GLOBO BRASILIA HD
+http://lista.serverpower.me:80/1992/1992/27525
  
-#EXTINF:-1 tvg-id="RTP MEMORIA" tvg-logo="https://ptiptv.tk/logo?i=RTPM" group-title="Documentários",RTP Memória (Portugal)
-http://streaming-live-app.rtp.pt/liverepeater/smil:rtpmem.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", GLOBO MINAS HD
+http://lista.serverpower.me:80/1992/1992/27526
  
-#EXTINF:-1 tvg-id="CLIMATEMPO BIO" tvg-logo="" group-title="Documentários",CLIMATEMPO Bio
-https://demo.cdn.tv.br/media/n/BZjJAde1nJK1mtK2nJq/a/BZjJAde1nJK1mtK2nJq/720p/chunks.m3u8?ch=BZjJAde1nJK1mtK2nJq&t=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE1NzUzMTQwODUsImlhdCI6MTU3NTMwMDA4NSwic3ViIjoiZGVmYXVsdCMxNTQ3NDg2NjcyIn0.KOba4sDNZGXNvbSGq2Iy9ImFlPpkekQV9RDuKgt9l4s
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", GLOBO NEWS
+http://lista.serverpower.me:80/1992/1992/37062
  
-#EXTINF:-1 tvg-id="FOX LIFE" tvg-logo="http://i.imgur.com/QvAbjda.png" group-title="Documentários",Fox Life
-http://89.187.173.219:80/imp31764509/a3904h/350
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", GLOBO NEWS ¹
+http://lista.serverpower.me:80/1992/1992/27533
  
-#EXTINF:-1 tvg-id="AeE" tvg-logo="http://i.imgur.com/jT9k8mt.png" group-title="Documentários",A&E
-http://89.187.173.219:80/imp31764509/a3904h/379
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", GLOBO NEWS HD
+http://lista.serverpower.me:80/1992/1992/37166
  
-#EXTINF:-1 tvg-id="ANIMAL PLANET" tvg-logo="http://i.imgur.com/eY508Ps.png" group-title="Documentários",Animal Planet
-http://89.187.173.219:80/imp31764509/a3904h/475
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", GLOBO NEWS HD ¹
+http://lista.serverpower.me:80/1992/1992/37681
  
-#EXTINF:-1 tvg-id="NATIONAL GEOGRAPHIC" tvg-logo="http://i.imgur.com/caeyoP1.png" group-title="Documentários",National Geographic
-http://89.187.173.219:80/imp31764509/a3904h/509
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", GLOBO RJ HD
+http://lista.serverpower.me:80/1992/1992/27537
  
-#EXTINF:-1 tvg-id="NATGEO WILD" tvg-logo="http://i.imgur.com/MH5AxVt.png" group-title="Documentários",Nat Geo Wild
-http://89.187.173.219:80/imp31764509/a3904h/506
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", GLOBO SP HD
+http://lista.serverpower.me:80/1992/1992/27530
  
-#EXTINF:-1 tvg-id="THE HISTORY CHANNEL" tvg-logo="http://i.imgur.com/0oZXoaE.png" group-title="Documentários",History
-http://89.187.173.219:80/imp31764509/a3904h/515
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", GLOOB
+http://lista.serverpower.me:80/1992/1992/37099
  
-#EXTINF:-1 tvg-id="H2" tvg-logo="http://i.imgur.com/jhiD9Wc.png" group-title="Documentários",H2
-http://89.187.173.219:80/imp31764509/a3904h/519
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", GLOOB ¹
+http://lista.serverpower.me:80/1992/1992/37678
  
-#EXTINF:-1 tvg-id="DISCOVERY CHANNEL" tvg-logo="http://i.imgur.com/sIN7H8e.png" group-title="Documentários",Discovery Channel
-http://89.187.173.219:80/imp31764509/a3904h/484
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", GLOOB HD
+http://lista.serverpower.me:80/1992/1992/37231
  
-#EXTINF:-1 tvg-id="DISCOVERY TURBO" tvg-logo="http://i.imgur.com/2vuY35C.png" group-title="Documentários",Discovery Turbo
-http://89.187.173.219:80/imp31764509/a3904h/413
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", GLOOB HD ¹
+http://lista.serverpower.me:80/1992/1992/37610
  
-#EXTINF:-1 tvg-id="INVESTIGACAO DISCOVERY" tvg-logo="http://i.imgur.com/1nFjk1t.png" group-title="Documentários",Investigação Discovery
-http://89.187.173.219:80/imp31764509/a3904h/480
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", GNT
+http://lista.serverpower.me:80/1992/1992/37093
  
-#EXTINF:-1 tvg-id="DISCOVERY SCIENCE" tvg-logo="http://i.imgur.com/Dx49y4f.png" group-title="Documentários",Discovery Science
-http://89.187.173.219:80/imp31764509/a3904h/503
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", GNT ²
+http://lista.serverpower.me:80/1992/1992/46834
  
-#EXTINF:-1 tvg-id="DISCOVERY HOME e HEALTH" tvg-logo="http://i.imgur.com/FJgwtT5.png" group-title="Documentários",Discovery Home & Health
-http://89.187.173.219:80/imp31764509/a3904h/405
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", GNT HD
+http://lista.serverpower.me:80/1992/1992/37167
  
-#EXTINF:-1 tvg-id="DISCOVERY WORLD" tvg-logo="http://i.imgur.com/pZLvsXH.png" group-title="Documentários",Discovery World
-http://89.187.173.219:80/imp31764509/a3904h/494
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", HBO+ ²
+http://lista.serverpower.me:80/1992/1992/46843
  
-#EXTINF:-1 tvg-id="DISCOVERY THEATER" tvg-logo="http://i.imgur.com/DHNMh5i.png" group-title="Documentários",Discovery Theater
-http://89.187.173.219:80/imp31764509/a3904h/489
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", HBO
+http://lista.serverpower.me:80/1992/1992/37119
  
-################################################################################# Canais Variedade
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", HBO HD
+http://lista.serverpower.me:80/1992/1992/37169
  
-#EXTINF:-1 tvg-id="YEEAH" tvg-logo="http://i.imgur.com/NKXnETl.jpg" group-title="Variedade e Músicas",Yeeah!
-http://stmv1.srvstm.com/yeeaah/yeeaah/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", HBO 2
+http://lista.serverpower.me:80/1992/1992/37123
  
-#EXTINF:-1 tvg-id="TV UNIAO" tvg-logo="http://i.imgur.com/S58zj9m.png" group-title="Variedade e Músicas",TV União
-http://stmv1.ifantasy.com.br:1935/tvu/tvu/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", HBO 2 ²
+http://lista.serverpower.me:80/1992/1992/46844
  
-#EXTINF:-1 tvg-id="TOP TV" tvg-logo="http://i.imgur.com/fwmQYUI.png" group-title="Variedade e Músicas",Top TV
-https://5d23bdca513db.streamlock.net:443/8006/8006/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", HBO 2 ¹
+http://lista.serverpower.me:80/1992/1992/37617
  
-#EXTINF:-1 tvg-id="HIT MUSIC" tvg-logo="http://i.imgur.com/kZSx7gW.png" group-title="Variedade e Músicas",H!T Music Channel
-http://1mstream.digicable.hu/hitmusic/hitmusic.m3u8
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", HBO 2 HD
+http://lista.serverpower.me:80/1992/1992/37172
  
-#EXTINF:-1 tvg-id="VIVA" tvg-logo="http://i.imgur.com/kadMdc9.png" group-title="Variedade e Músicas",Viva HD
-https://globolive.akamaized.net/d/c/x2800/s/hls-viva24ha/hls-viva24ha_2126/playlist.m3u8?hdnts=st=1568898891~exp=1668898881~acl=/*~id=vis40n4q2u9jv3frt4nodrehe0~hmac=b9f7a5ee1d308c062b4062b0f57290d7f473f3b0f2813b742a8da9b4127cec07
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", HBO FAMILY
+http://lista.serverpower.me:80/1992/1992/37118
  
-#EXTINF:-1 tvg-id="GNT" tvg-logo="http://i.imgur.com/cfJR8v5.png" group-title="Variedade e Músicas",GNT HD
-https://globolive.akamaized.net/d/c/x2800/s/hls-gnt24ha/hls-gnt24ha_2126/playlist.m3u8?hdnts=st=1568898891~exp=1668898881~acl=/*~id=vis40n4q2u9jv3frt4nodrehe0~hmac=b9f7a5ee1d308c062b4062b0f57290d7f473f3b0f2813b742a8da9b4127cec07
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", HBO FAMILY HD
+http://lista.serverpower.me:80/1992/1992/37168
  
-#EXTINF:-1 tvg-id="BIS" tvg-logo="http://i.imgur.com/h2pmOca.png" group-title="Variedade e Músicas",Bis HD
-https://globolive.akamaized.net/d/c/x2800/s/hls-bis24ha/hls-bis24ha_2126/playlist.m3u8?hdnts=st=1568898891~exp=1668898881~acl=/*~id=vis40n4q2u9jv3frt4nodrehe0~hmac=b9f7a5ee1d308c062b4062b0f57290d7f473f3b0f2813b742a8da9b4127cec07
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", HBO PLUS
+http://lista.serverpower.me:80/1992/1992/37122
  
-#EXTINF:-1 tvg-id="MULTISHOW" tvg-logo="http://i.imgur.com/YDqoOVf.png" group-title="Variedade e Músicas",Multishow HD
-https://globolive.akamaized.net/d/c/x2800/s/hls-msw24ha/hls-msw24ha_2126/playlist.m3u8?hdnts=st=1568898891~exp=1668898881~acl=/*~id=vis40n4q2u9jv3frt4nodrehe0~hmac=b9f7a5ee1d308c062b4062b0f57290d7f473f3b0f2813b742a8da9b4127cec07
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", HBO PLUS ¹
+http://lista.serverpower.me:80/1992/1992/37618
  
-#EXTINF:-1 tvg-id="CANAL BRASIL" tvg-logo="http://i.imgur.com/sr4qDgo.png" group-title="Variedade e Músicas",Canal Brasil HD
-https://globolive.akamaized.net/d/c/x2800/s/hls-bra24ha/hls-bra24ha_2126/playlist.m3u8?hdnts=st=1568898891~exp=1668898881~acl=/*~id=vis40n4q2u9jv3frt4nodrehe0~hmac=b9f7a5ee1d308c062b4062b0f57290d7f473f3b0f2813b742a8da9b4127cec07
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", HBO PLUS HD
+http://lista.serverpower.me:80/1992/1992/37170
  
-#EXTINF:-1 tvg-id="MAIS GLOBOSAT" tvg-logo="http://i.imgur.com/ep1Op1L.png" group-title="Variedade e Músicas",Mais Globosat HD
-https://globolive.akamaized.net/d/c/x2800/s/hls-maisgsat24ha/hls-maisgsat24ha_2316/playlist.m3u8?hdnts=st=1568898891~exp=1668898881~acl=/*~id=vis40n4q2u9jv3frt4nodrehe0~hmac=b9f7a5ee1d308c062b4062b0f57290d7f473f3b0f2813b742a8da9b4127cec07
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", HBO PLUS HD ¹
+http://lista.serverpower.me:80/1992/1992/37622
  
-#EXTINF:-1 tvg-id="" tvg-logo="http://i.imgur.com/M5FodWF.png" group-title="Variedade e Músicas",VH1
-http://89.187.173.219:80/imp31764509/a3904h/465
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", HBO SIGNATURE
+http://lista.serverpower.me:80/1992/1992/37121
  
-################################################################################# Canais Internacionais
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", HBO SIGNATURE HD
+http://lista.serverpower.me:80/1992/1992/37171
  
-#EXTINF:-1 group-title="Internacional",AniPlus (Indonésia)
-http://210.210.155.35/session/0d216142-f3f5-11e8-ab67-89df93dc8d44/dr9445/h/h02/01.m3u8
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", HBO SIGNATURE HD ¹
+http://lista.serverpower.me:80/1992/1992/37623
  
-#EXTINF:-1 group-title="Internacional",AniMax (Indonésia)
-http://210.210.155.35/session/83bc2526-da69-11e8-881b-c81f66f89318/dr9445/h/h144/index2.m3u8
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", HGTV
+http://lista.serverpower.me:80/1992/1992/37017
  
-#EXTINF:-1 group-title="Internacional",TV Tokyo HD (Japão)
-http://203.162.235.41:16908
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", HGTV HD
+http://lista.serverpower.me:80/1992/1992/37224
  
-#EXTINF:-1 group-title="Internacional",BS TV Tokyo HD (Japão)
-http://203.162.235.41:16915
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", HISTORY 2
+http://lista.serverpower.me:80/1992/1992/37031
  
-#EXTINF:-1 group-title="Internacional",BS Nippon TV HD (Japão)
-http://203.162.235.41:16912
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", HISTORY 2 ²
+http://lista.serverpower.me:80/1992/1992/46845
  
-#EXTINF:-1 group-title="Internacional",MBS HD (Japão)
-http://203.162.235.41:16907
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", HISTORY 2 HD
+http://lista.serverpower.me:80/1992/1992/37232
  
-#EXTINF:-1 group-title="Internacional",ESPN (EUA)
-http://s.igiptv.com:8000/mohamadxsharefa/r75633/60740
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", HISTORY
+http://lista.serverpower.me:80/1992/1992/37072
  
-#EXTINF:-1 group-title="Internacional",ESPN (EUA)(Alt)
-https://d3sjmtxha86r3t.cloudfront.net/nbc/smil:espn.smil/chunklist.m3u8
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", HISTORY ¹
+http://lista.serverpower.me:80/1992/1992/37584
  
-#EXTINF:-1 group-title="Internacional",ESPN2 (EUA)
-http://s.igiptv.com:8000/mohamadxsharefa/r75633/60746
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", HISTORY HD
+http://lista.serverpower.me:80/1992/1992/37173
  
-#EXTINF:-1 group-title="Internacional",ESPN NEWS (EUA)
-#EXTVLCOPT:network-caching=1000
-http://s.igiptv.com:8000/mohamadxsharefa/r75633/37616
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", ID
+http://lista.serverpower.me:80/1992/1992/37035
  
-#EXTINF:-1 tvg-id="EUROSPORT2" group-title="Esportes",EuroSport1 HD (Reino Unido)
-http://s.igiptv.com:8000/mohamadxsharefa/r75633/20081
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", ID ²
+http://lista.serverpower.me:80/1992/1992/46846
  
-#EXTINF:-1 tvg-id="EUROSPORT2" group-title="Esportes",EuroSport2 HD (Reino Unido)
-http://s.igiptv.com:8000/mohamadxsharefa/r75633/20082
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", ID HD
+http://lista.serverpower.me:80/1992/1992/37174
  
-#EXTINF:-1 group-title="Internacional",Fox Sports 1 (EUA)
-http://mypanel.tv:8080/fg6pzvc4qn/unq3z6j2l8/494720
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", ID HD ¹
+http://lista.serverpower.me:80/1992/1992/37597
  
-#EXTINF:-1 group-title="Internacional",Fox Sports 2 (EUA)
-http://mypanel.tv:8080/fg6pzvc4qn/unq3z6j2l8/494259
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", LIFETIME
+http://lista.serverpower.me:80/1992/1992/37030
  
-#EXTINF:-1 group-title="Internacional",NFL Network HD
-http://mypanel.tv:8080/fg6pzvc4qn/unq3z6j2l8/6345
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", LIFETIME ¹
+http://lista.serverpower.me:80/1992/1992/37568
  
-#EXTINF:-1 group-title="Internacional",NHL Network HD
-http://mypanel.tv:8080/fg6pzvc4qn/unq3z6j2l8/14409
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", LIFETIME ²
+http://lista.serverpower.me:80/1992/1992/46847
  
-#EXTINF:-1 group-title="Internacional",MLB Network HD
-http://mlblive-akc.mlb.com/ls01/mlbam/mlb_network/NETWORK_LINEAR_1/master_wired.m3u8
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", LIFETIME HD
+http://lista.serverpower.me:80/1992/1992/37233
  
-#EXTINF:-1 group-title="Internacional",beIN SPORTS HD
-http://s.igiptv.com:8000/mohamadxsharefa/r75633/60605
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", MAIS GLOBOSAT
+http://lista.serverpower.me:80/1992/1992/37677
  
-#EXTINF:-1 group-title="Internacional",beIN SPORTS HD 2
-http://s.igiptv.com:8000/mohamadxsharefa/r75633/37647
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", MAIS GLOBOSAT ²
+http://lista.serverpower.me:80/1992/1992/46850
  
-#EXTINF:-1 group-title="Internacional",beIN SPORTS Espanhol HD
-http://s.igiptv.com:8000/mohamadxsharefa/r75633/37778
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", MAIS GLOBOSAT HD
+http://lista.serverpower.me:80/1992/1992/37234
  
-#EXTINF:-1 group-title="Internacional",BT Sport 1HD
-http://95.170.215.120/hls/m3u8/BT-Sport-1HD.m3u8
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", MAX
+http://lista.serverpower.me:80/1992/1992/37023
  
-#EXTINF:-1 group-title="Internacional",BT Sport 2HD
-http://95.170.215.120/hls/m3u8/BT-Sport-2HD.m3u8
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", MAX HD
+http://lista.serverpower.me:80/1992/1992/37235
  
-#EXTINF:-1 group-title="Internacional",SKY Sports Main Event HD
-http://mypanel.tv:8080/fg6pzvc4qn/unq3z6j2l8/15703
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", MAX UP
+http://lista.serverpower.me:80/1992/1992/37120
  
-#EXTINF:-1 group-title="Internacional",SKY Sports Premier League HD
-http://mypanel.tv:8080/fg6pzvc4qn/unq3z6j2l8/7923
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", MAX UP ²
+http://lista.serverpower.me:80/1992/1992/46848
  
-#EXTINF:-1 group-title="Internacional",Arirang
-http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", MAX UP HD
+http://lista.serverpower.me:80/1992/1992/37176
  
-#EXTINF:-1 group-title="Internacional",BBC World News HD
-https://mj1b2xsspj.singularcdn.net.br/encompass/BBCLat/master_Layer1.m3u8
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", MAX PRIME ¹
+http://lista.serverpower.me:80/1992/1992/37572
  
-#EXTINF:-1 tvg-id="BLOOMBERG" tvg-logo="http://i.imgur.com/U0WCUeM.png" group-title="Internacional",Bloomberg
-https://liveproduseast.akamaized.net/us/Channel-USTV-AWS-virginia-1/Source-USTV-1000-1_live.m3u8
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", MAX PRIME HD
+http://lista.serverpower.me:80/1992/1992/37236
  
-#EXTINF:-1 group-title="Internacional",Deutsche Welle (English)
-https://dwstream1-lh.akamaihd.net/i/dwstream1_live@120422/index_1_av-p.m3u8
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", MAX PRIME HD ¹
+http://lista.serverpower.me:80/1992/1992/37562
  
-#EXTINF:-1 group-title="Internacional",FOX News HD
-http://s.igiptv.com:8000/mohamadxsharefa/r75633/37595
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", MEGAPIX
+http://lista.serverpower.me:80/1992/1992/37068
  
-#EXTINF:-1 group-title="Internacional",FOX News HD (Alt)
-https://1636691764.rsc.cdn77.org/LS-ATL-54548-4/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", MEGAPIX  ¹
+http://lista.serverpower.me:80/1992/1992/37570
  
-#EXTINF:-1 group-title="Internacional",NHK World
-https://b-nhkwlive-xjp.akamaized.net/hls/live/2003458-b/nhkwlive-xjp/index_1180.m3u8
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", MEGAPIX HD
+http://lista.serverpower.me:80/1992/1992/37177
  
-#EXTINF:-1 group-title="Internacional",Sky News HD
-http://s.igiptv.com:8000/mohamadxsharefa/r75633/60431
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", MEGAPIX HD¹
+http://lista.serverpower.me:80/1992/1992/37551
  
-#EXTINF:-1 group-title="Internacional",Sky News HD (Alt)
-http://skydvn-nowtv-atv-prod.skydvn.com/atv/skynews/1404/live/06.m3u8
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", MTV
+http://lista.serverpower.me:80/1992/1992/37050
  
-#EXTINF:-1 group-title="Internacional",TRT World
-https://trtcanlitv-lh.akamaihd.net/i/TRTWORLD_1@321783/index_1080p_av-b.m3u8
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", MTV ²
+http://lista.serverpower.me:80/1992/1992/46849
  
-#EXTINF:-1 group-title="Internacional",National Geo HD (EUA)
-http://livecdnh1.tvanywhere.ae:80/hls/nat_geo/05.m3u8
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", MTV HD
+http://lista.serverpower.me:80/1992/1992/37178
  
-#EXTINF:-1 group-title="Internacional",National Geo Wild HD (EUA)
-http://livecdnh1.tvanywhere.ae/hls/nat_geo_wild/05.m3u8
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", MTV HD ¹
+http://lista.serverpower.me:80/1992/1992/37648
  
-#EXTINF:-1 group-title="Internacional",National Geo People HD (EUA)
-http://livecdnh1.tvanywhere.ae:80/hls/nat_geo_people/05.m3u8
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", MTV LIVE
+http://lista.serverpower.me:80/1992/1992/37032
  
-#EXTINF:-1 tvg-id="THE WEATHER CHANNEL" group-title="Internacional",The Weather Channel HD
-http://weather-lh.akamaihd.net/i/twc_1@92006/master.m3u8
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", MTV LIVE HD
+http://lista.serverpower.me:80/1992/1992/37179
  
-#EXTINF:-1 tvg-id="MTV" tvg-logo="http://i.imgur.com/U6Rgjqs.png" group-title="Internacional",MTV Internacional HD
-http://s.igiptv.com:8000/mohamadxsharefa/r75633/37517
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", MULTISHOW
+http://lista.serverpower.me:80/1992/1992/37092
  
-#EXTINF:-1 tvg-id="MTV" tvg-logo="http://i.imgur.com/U6Rgjqs.png" group-title="Internacional",MTV OMG Internacional HD
-http://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/master.m3u8
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", MULTISHOW  ¹
+http://lista.serverpower.me:80/1992/1992/37655
  
-#EXTINF:-1 tvg-id="MTV CLASSIC" tvg-logo="http://i.imgur.com/U6Rgjqs.png" group-title="Internacional",MTV Classic Internacional HD
-http://s.igiptv.com:8000/mohamadxsharefa/r75633/37518
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", MULTISHOW HD
+http://lista.serverpower.me:80/1992/1992/37180
  
-#EXTINF:-1 tvg-id="VH1" tvg-logo="https://i.imgur.com/ekgIKjw.png" group-title="Internacional",VH1 (EUA)
-http://mypanel.tv:8080/fg6pzvc4qn/unq3z6j2l8/11254
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", MUSIC BOX ¹
+http://lista.serverpower.me:80/1992/1992/37653
  
-#EXTINF:-1 tvg-id="VH1" tvg-logo="https://i.imgur.com/ekgIKjw.png" group-title="Internacional",VH1 (Reino Unido)
-http://mypanel.tv:8080/fg6pzvc4qn/unq3z6j2l8/6519
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", MUSIC BOX BRAZIL HD
+http://lista.serverpower.me:80/1992/1992/37181
  
-#EXTINF:-1 tvg-id="VH1" tvg-logo="https://i.imgur.com/ekgIKjw.png" group-title="Internacional",VH1 Classic (Reino Unido)
-http://mypanel.tv:8080/fg6pzvc4qn/unq3z6j2l8/9509
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", NATGEO WILD
+http://lista.serverpower.me:80/1992/1992/37065
  
-#EXTINF:-1 tvg-id="FOOD NETWORK" tvg-logo="https://i.imgur.com/RXSXBqY.png" group-title="Internacional",Food Network
-http://95.86.32.7:999/food
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", NHK
+http://lista.serverpower.me:80/1992/1992/37131
  
-################################################################################# Canais 18+ Adultos XXX
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", NICK JR ¹
+http://lista.serverpower.me:80/1992/1992/37604
  
-#EXTINF:-1 tvg-id="SEXY HOT" tvg-logo="https://i.imgur.com/60DXnZQ.png" group-title="18+ XXX",18+ Sexy Hot
-https://globolive.akamaized.net/d/c/x2800/s/hls-sexy24ha/hls-sexy24ha_2316/playlist.m3u8?hdnts=st=1568898891~exp=1668898881~acl=/*~id=vis40n4q2u9jv3frt4nodrehe0~hmac=b9f7a5ee1d308c062b4062b0f57290d7f473f3b0f2813b742a8da9b4127cec07
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", OFF
+http://lista.serverpower.me:80/1992/1992/37098
  
-#EXTINF:-1 tvg-id="SEXPRIVE" tvg-logo="https://i.imgur.com/60DXnZQ.png" group-title="18+ XXX",18+ SexPrive
-https://mj1b2xsspj.singularcdn.net.br/encompass/SexPrive/master_Layer1.m3u8
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", OFF HD
+http://lista.serverpower.me:80/1992/1992/37237
+ 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", PARAMOUNT ¹
+http://lista.serverpower.me:80/1992/1992/37574
+ 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", PREMIERE CLUBES
+http://lista.serverpower.me:80/1992/1992/37088
+ 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", PREMIERE CLUBES ²
+http://lista.serverpower.me:80/1992/1992/46858
+ 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", PREMIERE CLUBES HD
+http://lista.serverpower.me:80/1992/1992/37195
+ 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", PREMIERE 2
+http://lista.serverpower.me:80/1992/1992/37090
+ 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", PREMIERE 2 ²
+http://lista.serverpower.me:80/1992/1992/46856
+ 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", PREMIERE 2 HD
+http://lista.serverpower.me:80/1992/1992/37189
+ 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", PREMIERE 3
+http://lista.serverpower.me:80/1992/1992/37112
+ 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", PREMIERE 4 HD
+http://lista.serverpower.me:80/1992/1992/37191
+ 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", PREMIERE 5
+http://lista.serverpower.me:80/1992/1992/37113
+ 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", PREMIERE 6
+http://lista.serverpower.me:80/1992/1992/37125
+ 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", PREMIERE 6 ²
+http://lista.serverpower.me:80/1992/1992/46857
+ 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", PREMIERE 6 HD ¹
+http://lista.serverpower.me:80/1992/1992/37526
+ 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", PRIME BOX BRAZIL HD
+http://lista.serverpower.me:80/1992/1992/37196
+ 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", RECORD SP  HD
+http://lista.serverpower.me:80/1992/1992/40474
+ 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", RECORD SP HD
+http://lista.serverpower.me:80/1992/1992/37704
+ 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", RECORD HD¹
+http://lista.serverpower.me:80/1992/1992/37627
+ 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", RECORD RJ HD
+http://lista.serverpower.me:80/1992/1992/40785
+ 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", RECORD DF HD
+http://lista.serverpower.me:80/1992/1992/37705
+ 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", REDE TV  SD
+http://lista.serverpower.me:80/1992/1992/37638
+ 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", REDE VIDA
+http://lista.serverpower.me:80/1992/1992/37061
+ 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", REDE BRASIL ²
+http://lista.serverpower.me:80/1992/1992/46860
+ 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", RBS PORTO ALEGRE ²
+http://lista.serverpower.me:80/1992/1992/46859
+ 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", SBT ²
+http://lista.serverpower.me:80/1992/1992/46861
+ 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", SBT PR
+http://lista.serverpower.me:80/1992/1992/43890
+ 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", SBT SP HD
+http://lista.serverpower.me:80/1992/1992/37625
+ 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", SPACE
+http://lista.serverpower.me:80/1992/1992/37037
+ 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", SPACE HD
+http://lista.serverpower.me:80/1992/1992/37199
+ 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", SPORTV
+http://lista.serverpower.me:80/1992/1992/37087
+ 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", SPORTV HD
+http://lista.serverpower.me:80/1992/1992/37200
+ 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", SPORTV HD ¹
+http://lista.serverpower.me:80/1992/1992/37682
+ 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", SPORTV 2
+http://lista.serverpower.me:80/1992/1992/37086
+ 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", SPORTV 2 ¹
+http://lista.serverpower.me:80/1992/1992/37530
+ 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", SPORTV 2 HD
+http://lista.serverpower.me:80/1992/1992/37201
+ 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", SPORTV 3
+http://lista.serverpower.me:80/1992/1992/37083
+ 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", SPORTV 3 ¹
+http://lista.serverpower.me:80/1992/1992/37533
+ 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", SPORTV 3 HD
+http://lista.serverpower.me:80/1992/1992/37202
+ 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", STUDIO UNIVERSAL ¹
+http://lista.serverpower.me:80/1992/1992/37576
+ 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", STUDIO UNIVERSAL HD
+http://lista.serverpower.me:80/1992/1992/37239
+ 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", SYFY
+http://lista.serverpower.me:80/1992/1992/37027
+ 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", SYFY ¹
+http://lista.serverpower.me:80/1992/1992/37566
+ 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", SYFY HD ¹
+http://lista.serverpower.me:80/1992/1992/37550
+ 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", TBS
+http://lista.serverpower.me:80/1992/1992/37040
+ 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", TBS ¹
+http://lista.serverpower.me:80/1992/1992/37567
+ 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", TCM ¹
+http://lista.serverpower.me:80/1992/1992/37569
+ 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", TELECINE ACTION
+http://lista.serverpower.me:80/1992/1992/37060
+ 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", TELECINE ACTION ¹
+http://lista.serverpower.me:80/1992/1992/37410
+ 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", TELECINE ACTION HD
+http://lista.serverpower.me:80/1992/1992/37204
+ 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", TELECINE ACTION HD ¹
+http://lista.serverpower.me:80/1992/1992/37402
+ 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", TELECINE CULT
+http://lista.serverpower.me:80/1992/1992/37067
+ 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", TELECINE CULT ¹
+http://lista.serverpower.me:80/1992/1992/37407
+ 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", TELECINE CULT HD
+http://lista.serverpower.me:80/1992/1992/37205
+ 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", TELECINE CULT HD ¹
+http://lista.serverpower.me:80/1992/1992/37409
+ 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", TELECINE FUN
+http://lista.serverpower.me:80/1992/1992/37082
+ 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", TELECINE FUN ²
+http://lista.serverpower.me:80/1992/1992/46867
+ 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", TELECINE FUN HD
+http://lista.serverpower.me:80/1992/1992/37206
+ 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", TELECINE FUN HD ¹
+http://lista.serverpower.me:80/1992/1992/37403
+ 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", TELECINE PIPOCA
+http://lista.serverpower.me:80/1992/1992/37064
+ 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", TELECINE PIPOCA HD
+http://lista.serverpower.me:80/1992/1992/37207
+ 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", TELECINE PREMIUM
+http://lista.serverpower.me:80/1992/1992/37116
+ 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", TELECINE PREMIUM HD
+http://lista.serverpower.me:80/1992/1992/37208
+ 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", TELECINE PREMIUM HD ¹
+http://lista.serverpower.me:80/1992/1992/37405
+ 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", TELECINE TOUCH
+http://lista.serverpower.me:80/1992/1992/37063
+ 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", TELECINE TOUCH HD
+http://lista.serverpower.me:80/1992/1992/37209
+ 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", TELECINE TOUCH HD ¹
+http://lista.serverpower.me:80/1992/1992/37406
+ 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", TLC ²
+http://lista.serverpower.me:80/1992/1992/46864
+ 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", TLC HD ¹
+http://lista.serverpower.me:80/1992/1992/37561
+ 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", TNT
+http://lista.serverpower.me:80/1992/1992/37038
+ 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", TNT HD
+http://lista.serverpower.me:80/1992/1992/38636
+ 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", TNT HD¹
+http://lista.serverpower.me:80/1992/1992/37679
+ 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", TNT SERIES
+http://lista.serverpower.me:80/1992/1992/37039
+ 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", TNT SERIES HD
+http://lista.serverpower.me:80/1992/1992/37211
+ 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", TNT SERIES HD ¹
+http://lista.serverpower.me:80/1992/1992/37559
+ 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", TOONCAST ¹
+http://lista.serverpower.me:80/1992/1992/37565
+ 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", TRAVEL BOX BRAZIL
+http://lista.serverpower.me:80/1992/1992/37033
+ 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", TV BRASIL ²
+http://lista.serverpower.me:80/1992/1992/46865
+ 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", TV CAMERA ²
+http://lista.serverpower.me:80/1992/1992/46866
+ 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", TV APARECIDA HD
+http://lista.serverpower.me:80/1992/1992/27675
+ 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", TV CABO BRANCO HD
+http://lista.serverpower.me:80/1992/1992/37015
+ 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", TV NOVO TEMPO HD
+http://lista.serverpower.me:80/1992/1992/37214
+ 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", TV RA TIM BUM
+http://lista.serverpower.me:80/1992/1992/37242
+ 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", TV RA TIM BUM
+http://lista.serverpower.me:80/1992/1992/37028
+ 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", UNIVERSAL CHANNEL
+http://lista.serverpower.me:80/1992/1992/37085
+ 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", UNIVERSAL CHANNEL HD
+http://lista.serverpower.me:80/1992/1992/37215
+ 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", VH1
+http://lista.serverpower.me:80/1992/1992/37053
+ 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", VH1 ²
+http://lista.serverpower.me:80/1992/1992/46868
+ 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", VH1 HD
+http://lista.serverpower.me:80/1992/1992/37216
+ 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", VIVA
+http://lista.serverpower.me:80/1992/1992/37084
+ 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", VIVA ²
+http://lista.serverpower.me:80/1992/1992/46869
+ 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", VIVA HD
+http://lista.serverpower.me:80/1992/1992/37217
+ 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", WARNER CHANNEL
+http://lista.serverpower.me:80/1992/1992/37078
+ 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", WARNER CHANNEL ²
+http://lista.serverpower.me:80/1992/1992/46870
+ 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", WARNER CHANNEL HD
+http://lista.serverpower.me:80/1992/1992/37218
+ 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", WARNER CHANNEL HD ¹
+http://lista.serverpower.me:80/1992/1992/37558
+ 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", WOOHOO
+http://lista.serverpower.me:80/1992/1992/37021
+ 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", WOOHOO HD
+http://lista.serverpower.me:80/1992/1992/37243
+ 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", ZOOMO HD ¹
+http://lista.serverpower.me:80/1992/1992/37614
+ 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", PAI ENTERNO ²
+http://lista.serverpower.me:80/1992/1992/46854
+ 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", GLOBO EPTV RIBEIRÃO PRETO  HD
+http://lista.serverpower.me:80/1992/1992/40461
+ 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", GLOBO EPTV SAO CARLOS  HD
+http://lista.serverpower.me:80/1992/1992/40462
+ 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", GLOBO INTERNACIONAL  HD
+http://lista.serverpower.me:80/1992/1992/40463
+ 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", GLOBO NORDESTE  HD
+http://lista.serverpower.me:80/1992/1992/40465
+ 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", GLOBO RIBEIRÃO  HD
+http://lista.serverpower.me:80/1992/1992/40466
+ 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", GLOBO RJ  HD
+http://lista.serverpower.me:80/1992/1992/40467
+ 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", GLOBO RPC TV  HD
+http://lista.serverpower.me:80/1992/1992/40468
+ 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", GLOBO TV TRIBUNA SANTOS  HD
+http://lista.serverpower.me:80/1992/1992/40469
+ 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", REDE TV  HD
+http://lista.serverpower.me:80/1992/1992/40476
+ 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", GLOBO ANHANGUERA
+http://lista.serverpower.me:80/1992/1992/40550
+ 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", GLOBO VERDE MARES
+http://lista.serverpower.me:80/1992/1992/40551
+ 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", GLOBO SP HD
+http://lista.serverpower.me:80/1992/1992/41094
+ 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", DAZN BRASIL  SD
+http://lista.serverpower.me:80/1992/1992/42407
+ 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", GLOBO MANAUS HD
+http://lista.serverpower.me:80/1992/1992/43121
+ 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", GLOBO MANAUS SD
+http://lista.serverpower.me:80/1992/1992/43122
+ 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", RECORD ES FHD
+http://lista.serverpower.me:80/1992/1992/45168
+ 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", SBT ES FHD
+http://lista.serverpower.me:80/1992/1992/45169
+ 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", Canção Nova HD
+http://lista.serverpower.me:80/1992/1992/45850
+ 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", FILM & ARTS ²
+http://lista.serverpower.me:80/1992/1992/46841
+ 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", NSC FLORIANOPOLIS HD
+http://lista.serverpower.me:80/1992/1992/46872
+ 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", GLOBO BAHIA
+http://lista.serverpower.me:80/1992/1992/48371
+ 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", GLOBO ACRE
+http://lista.serverpower.me:80/1992/1992/48372
+ 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", TV EVANGELIZAR
+http://lista.serverpower.me:80/1992/1992/48399
+ 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", [24H] A FAMILIA DRACULA
+http://lista.serverpower.me:80/1992/1992/37913
+ 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", [24H] A MUMIA
+http://lista.serverpower.me:80/1992/1992/37914
+ 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", [24H] A TURMA DO PATETA
+http://lista.serverpower.me:80/1992/1992/37915
+ 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", [24H] ALADDIM DESENHO
+http://lista.serverpower.me:80/1992/1992/37917
+ 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", [24H] As Aventuras de Tintim
+http://lista.serverpower.me:80/1992/1992/37919
+ 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", [24H] BIG MOUTH
+http://lista.serverpower.me:80/1992/1992/37921
+ 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", [24H] OS CAVALEIROS DO ZODÍACO
+http://lista.serverpower.me:80/1992/1992/37923
+ 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", [24H] CHAVES
+http://lista.serverpower.me:80/1992/1992/37925
 
 
