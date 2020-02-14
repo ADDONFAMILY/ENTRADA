@@ -1,349 +1,430 @@
 #EXTM3U
  
-#EXTINF:-1 tvg-ID="Amc.br" tvg-name="AMC HD Alternativo" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/2/2d/AMC_logo_2013.png" group-title="Canais: Filmes e Series",AMC HD Alternativo
-http://iptv.csvix.net:8080/luana/luana/4669
+#EXTINF:-1 tvg-logo="https://listaiptvbrasil.com/logo/sbt.png" group-title="CANAL ABERTO", SBT - TV Jornal (PE)
+http://evpp.mm.uol.com.br/ne10/ne10.smil/playlist.m3u8?KeltecMPIPTV
  
-#EXTINF:-1 tvg-id="AMC" tvg-name="AMC" tvg-logo="http://img.starbr.in/1559753228_f9fd5b8ac3ccd2067103ba276a7f7e943752a269.jpg" group-title="Filmes e Series",AMC
-http://list.deeplist.nl:80/live/bg2000609/2000609/9609.m3u8
+#EXTINF:-1 tvg-logo="https://listaiptvbrasil.com/logo/sbt.png" group-title="CANAL ABERTO", SBT - TV Jornal Caruaru (PE)
+http://evpp.mm.uol.com.br/ne10/ne10-tvjornal-caruaru-video-web.sdp/playlist.m3u8?KeltecMPIPTV
  
-#EXTINF:-1 tvg-id="AeE" tvg-name="A&E" tvg-logo="http://img.starbr.in/1559753182_4b72d6156df91099369211265277cf98ca748194.jpg" group-title="Variedades e Musicas",A&E
-http://list.deeplist.nl:80/live/bg2000609/2000609/1120.m3u8
+#EXTINF:-1 tvg-logo="https://listaiptvbrasil.com/logo/sbt.png" group-title="CANAL ABERTO", SBT - TV Cidade Verde - (PI)
+http://192.99.46.182:1935/pioneira-tv3/pioneira-tv3/playlist.m3u8?KeltecMPIPTV
  
-#EXTINF:-1 tvg-ID="A&E" tvg-name="A&E HD H264" tvg-logo="http://img.starbr.in/1559753182_4b72d6156df91099369211265277cf98ca748194.jpg" group-title="Canais: Filmes e Series",A&E HD H264
-http://iptv.csvix.net:8080/luana/luana/11672
+#EXTINF:-1 tvg-logo="https://listaiptvbrasil.com/logo/sbt.png" group-title="CANAL ABERTO",SBT - TV Difusora (MA)
+http://difusorama.zoeweb.tv:1935/z437-live/stream/playlist.m3u8?KeltecMPIPTV
  
-#EXTINF:-1 tvg-ID="A&E" tvg-name="A&E HD Alternativo" tvg-logo="http://img.starbr.in/1559753182_4b72d6156df91099369211265277cf98ca748194.jpg" group-title="Canais: Filmes e Series",A&E HD Alternativo
-http://iptv.csvix.net:8080/luana/luana/4394
+#EXTINF:-1 tvg-logo="https://i0.wp.com/upload.wikimedia.org/wikipedia/pt/1/1d/LOGO_REDETV%21.png" group-title="CANAL ABERTO", RedeTV! (SP)
+http://evpp.mm.uol.com.br/redetv1/redetv1/chunklist_w674014198.m3u8?KeltecMPIPTV
  
-#EXTINF:-1 tvg-id="ANIMAL PLANET" tvg-name="ANIMAL PLANET" tvg-logo="http://img.starbr.in/1559753303_f60845b1da65730c4221605d157659a6205baa87.png" group-title="Documentarios",ANIMAL PLANET
-http://list.deeplist.nl:80/live/bg2000609/2000609/1719.m3u8
+#EXTINF:-1 tvg-logo="http://listaiptvbrasil.com/canais/wp-content/uploads/2018/03/atividade.png" group-title="CANAL ABERTO",TV Cultura - TV Atividade (MG)
+https://59f1cbe63db89.streamlock.net:1443/redeatividade/redeatividade/playlist.m3u8?KeltecMPIPTV
  
-#EXTINF:-1 tvg-ID="Animalplanet.br" tvg-name="Animal Planet HD H264" tvg-logo="http://img.starbr.in/1559753303_f60845b1da65730c4221605d157659a6205baa87.png" group-title="Canais: Documentario",Animal Planet HD H264
-http://iptv.csvix.net:8080/luana/luana/5188
+#EXTINF:-1 tvg-logo="http://www.tvbrasilcentral.com.br/IMAGENS/logotbc.png" group-title="CANAL ABERTO",TV Cultura - TBC (GO)
+http://rsync.com.br:8081/rtsp/tbc/playlist.m3u8?KeltecMPIPTV
  
-#EXTINF:-1 tvg-ID="Animalplanet.br" tvg-name="Animal Planet HD Alternativo" tvg-logo="http://img.starbr.in/1559753303_f60845b1da65730c4221605d157659a6205baa87.png" group-title="Canais: Documentario",Animal Planet HD Alternativo
-http://iptv.csvix.net:8080/luana/luana/4349
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/archive/c/c2/20160712014607%21Logotipo_da_TV_Nova_Nordeste.png" group-title="CANAL ABERTO",TV Cultura - Nova Nordeste (PE)
+http://cdn.comets.com.br/tvnovanordeste/aovivo/playlist.m3u8?KeltecMPIPTV
  
-#EXTINF:-1 tvg-ID="Arte1.br" tvg-name="Arte 1 SD" tvg-logo="http://www.painelvix.com/images/ARTE1.jpg" group-title="Canais: Variedades",Arte 1 SD
-http://iptv.csvix.net:8080/luana/luana/4667
+#EXTINF:-1 tvg-logo="http://digitalradio.it/wp-content/uploads/2016/10/Logo-m2o.png" group-title="CANAL ABERTO", m2o TV
+http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-b.m3u8?www.tecnotv.info?sd=10&rebase=on
  
-#EXTINF:-1 tvg-ID="Arte1.br" tvg-name="Arte 1 HD H264" tvg-logo="http://www.painelvix.com/images/ARTE1.jpg" group-title="Canais: Variedades",Arte 1 HD H264
-http://iptv.csvix.net:8080/luana/luana/23442
+#EXTINF:-1 tvg-logo="http://listaiptvbrasil.com/canais/wp-content/uploads/2018/03/capital.png" group-title="CANAL ABERTO", Capital TiVù SD
+http://capital-live-tv-01-hls.akamai.media.kataweb.it/i/CapitalTv_1@183098/index_5_av-p.m3u8?KeltecMPIPTV
  
-#EXTINF:-1 tvg-id="AXN" tvg-name="AXN" tvg-logo="http://img.starbr.in/1559753616_db15cb1394f9e770c1017f2ac3d1f2e220f817d6.jpg" group-title="Filmes e Series",AXN
-http://list.deeplist.nl:80/live/bg2000609/2000609/1712.m3u8
+#EXTINF:-1 tvg-logo="https://i0.wp.com/willmckinley.files.wordpress.com/2014/05/logo.png?w=640" group-title="CANAL ABERTO", Retrô
+http://stream.mediawork.cz/retrotv//retrotvHQ1/chunklist_w119998573.m3u8?KeltecMPIPTV
  
-#EXTINF:-1 tvg-ID="Axn.br" tvg-name="AXN HD Alternativo" tvg-logo="http://img.starbr.in/1559753616_db15cb1394f9e770c1017f2ac3d1f2e220f817d6.jpg" group-title="Canais: Filmes e Series",AXN HD Alternativo
-http://iptv.csvix.net:8080/luana/luana/4345
+#EXTINF:-1 tvg-logo="https://i0.wp.com/listaiptvbrasil.com/logo/tvjornallimeira.png" group-title="CANAL ABERTO", TV Jornal - Limeira SP
+http://flash1.crossdigital.com.br:1935/1998/1998/playlist.m3u8?KeltecMPIPTV
  
-#EXTINF:-1 tvg-ID="Axn.br" tvg-name="AXN HD H264" tvg-logo="http://img.starbr.in/1559753616_db15cb1394f9e770c1017f2ac3d1f2e220f817d6.jpg" group-title="Canais: Filmes e Series",AXN HD H264
-http://iptv.csvix.net:8080/luana/luana/4998
+#EXTINF:-1 tvg-logo="https://i0.wp.com/i.imgur.com/hHaH74V.png" group-title="CANAL ABERTO", Amazon Sat
+http://liveabr2.sambatech.com.br/abr/amazonsatabr1_3e9c859611a5e7fbedc785bd33c418b5/livestream.m3u8?KeltecMPIPTV
  
-#EXTINF:-1 tvg-ID="Bandsaopaulo.br" tvg-name="Band HD H264" tvg-logo="http://img.starbr.in/1559753792_8a3ff5902c89337e88632304fd198dc92999c3ee.png" group-title="Canais: Canais Abertos",Band HD H264
-http://iptv.csvix.net:8080/luana/luana/11683
+#EXTINF:-1 tvg-logo="https://i0.wp.com/i.imgur.com/Yj9UKv2.png" group-title="CANAL ABERTO", TV Escola
+http://liveabr2.sambatech.com.br:80/abr/acerpTvEscolaABR_1f9a5d00db56b3c3020b6ac3dd693e12/livestreamabr.m3u8?KeltecMPIPTV
  
-#EXTINF:-1 tvg-id="BAND SPORTS" tvg-name="BAND SPORTS" tvg-logo="http://img.starbr.in/1559753919_5ae36f44066af89786ac144fa11f2ad596465922.png" group-title="Esportes",BAND SPORTS
-http://list.deeplist.nl:80/live/bg2000609/2000609/1106.m3u8
+#EXTINF:-1 tvg-logo="https://i0.wp.com/s20.postimg.org/lgw1ti6jx/TV_Brasil.png" group-title="CANAL ABERTO", TVE Bahia - TV Brasil
+http://stream2.ba.gov.br:80/hls-live/livepkgr/_definst_/irdeb/pgm-2.m3u8?KeltecMPIPTV
  
-#EXTINF:-1 tvg-ID="Bandsports.br" tvg-name="BandSports HD H264" tvg-logo="http://img.starbr.in/1559753919_5ae36f44066af89786ac144fa11f2ad596465922.png" group-title="Canais: Esportes",BandSports HD H264
-http://iptv.csvix.net:8080/luana/luana/4951
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/7/71/Logotipo_da_R%C3%A1dio_Evangelizar.png" group-title="CANAL ABERTO", TV Evangelizar
+http://tvevangelizar01.crossdigital.com.br/evangelizar/tv/playlist.m3u8?KeltecMPIPTV
  
-#EXTINF:-1 tvg-ID="Bandsports.br" tvg-name="BandSports HD Alternativo" tvg-logo="http://img.starbr.in/1559753919_5ae36f44066af89786ac144fa11f2ad596465922.png" group-title="Canais: Esportes",BandSports HD Alternativo
-http://iptv.csvix.net:8080/luana/luana/4340
+#EXTINF:-1 tvg-logo="https://i0.wp.com/listaiptvbrasil.com/logo/cancaonova.png" group-title="CANAL ABERTO", Canção Nova HD
+http://tvajuhls-lh.akamaihd.net:80/i/tvdesk_1@147040/index_1080_av-p.m3u8?KeltecMPIPTV
  
-#EXTINF:-1 tvg-id="BIS" tvg-name="BIS SD 1" tvg-logo="http://img.starbr.in/1559754036_35ada28f40070e936faab4cea34b6d1a26228aa3.png" group-title="Variedades e Musicas",BIS SD 1
-http://list.deeplist.nl:80/live/bg2000609/2000609/38740.m3u8
+#EXTINF:-1 tvg-logo="https://i0.wp.com/i.imgur.com/UOMWJH6.png" group-title="CANAL ABERTO", Aparecida
+http://69.46.0.170:1935/tvaparecida/tvaparecida.stream/live.m3u8?KeltecMPIPTV
  
-#EXTINF:-1 tvg-ID="Bis.br" tvg-name="BIS HD Alternativo" tvg-logo="http://img.starbr.in/1559754036_35ada28f40070e936faab4cea34b6d1a26228aa3.png" group-title="Canais: Musica",BIS HD Alternativo
-http://iptv.csvix.net:8080/luana/luana/4338
+#EXTINF:-1 tvg-logo="https://i0.wp.com/i.imgur.com/m7MQIPJ.png" group-title="CANAL ABERTO", Rede Século 21
+http://tvseculo21-lh.akamaihd.net/i/tvseculo_1@16110/master.m3u8?KeltecMPIPTV
  
-#EXTINF:-1 tvg-ID="Bis.br" tvg-name="BIS HD H264" tvg-logo="http://img.starbr.in/1559754036_35ada28f40070e936faab4cea34b6d1a26228aa3.png" group-title="Canais: Musica",BIS HD H264
-http://iptv.csvix.net:8080/luana/luana/5160
+#EXTINF:-1 tvg-logo="https://i0.wp.com/i.imgur.com/IZKxzJ9.png" group-title="CANAL ABERTO", Novo Tempo RS
+http://stream.novotempo.com:1935/tv/smil:TvNovoTempoCom.smil/playlist.m3u8?KeltecMPIPTV
  
-#EXTINF:-1 tvg-id="CANAL BRASIL" tvg-name="CANAL BRASIL SD 1" tvg-logo="http://img.starbr.in/1559754389_28121407418ba7a5e2bbd838ef32e91e687c1a45.jpg" group-title="Filmes e Series",CANAL BRASIL SD 1
-http://list.deeplist.nl:80/live/bg2000609/2000609/38743.m3u8
+#EXTINF:-1 tvg-logo="https://i0.wp.com/i.imgur.com/nt8hDCT.png" group-title="CANAL ABERTO", IMPD TV
+https://58a4464faef53.streamlock.net/impd/ngrp:impd_all/playlist.m3u8?KeltecMPIPTV
  
-#EXTINF:-1 tvg-ID="Canal Brasil" tvg-name="Canal Brasil HD" tvg-logo="http://www.mgconecta.com.br/wp-content/planos/includes/grade/color/Canal%20Brasil%20HD.png" group-title="Canais: Canais Abertos",Canal Brasil HD
-http://iptv.csvix.net:8080/luana/luana/5017
+#EXTINF:-1 tvg-logo="https://listaiptvbrasil.com/logo/redegospel.png" group-title="CANAL ABERTO",Rede Gospel
+http://media.igospel.com.br:1935/live/redegospel/waldo_paes.m3u8?KeltecMPIPTV
  
-#EXTINF:-1 tvg-ID="Cartoonnetwork.br" tvg-name="Cartoon Network HD Alternativo" tvg-logo="http://img.starbr.in/1559754696_e1e9b7ed53cb8474ddcecf70cedb8fd7b98af1b9.jpg" group-title="Canais: Infantis",Cartoon Network HD Alternativo
-http://iptv.csvix.net:8080/luana/luana/4329
+#EXTINF:-1 tvg-logo="http://www.smilinguido.com.br/celular/images/smilinguido.png" group-title="CANAL ABERTO", Gospel Cartoon
+http://stmv1.srvstm.com/gospelcartoon/gospelcartoon/playlist.m3u8?wowzasessionid=495096105
  
-#EXTINF:-1 tvg-id="CINEMAX" tvg-name="CINEMAX" tvg-logo="http://img.starbr.in/1559754776_86c9fb0b20ae009eb96575c87478c74eb229cad5.png" group-title="Filmes e Series",CINEMAX
-http://list.deeplist.nl:80/live/bg2000609/2000609/2483.m3u8
+#EXTINF:-1 tvg-logo="https://listaiptvbrasil.com/logo/futura.png" group-title="CANAL ABERTO",Futura - TVUP
+http://caikron.com.br:1935/unipar/tvup/playlist.m3u8?KeltecMPIPTV
  
-#EXTINF:-1 tvg-ID="Cinemax.br" tvg-name="Cinemax HD H264" tvg-logo="http://img.starbr.in/1559754776_86c9fb0b20ae009eb96575c87478c74eb229cad5.png" group-title="Canais: Filmes e Series",Cinemax HD H264
-http://iptv.csvix.net:8080/luana/luana/5068
+#EXTINF:-1 tvg-logo="https://listaiptvbrasil.com/logo/eparana.png" group-title="CANAL ABERTO",eParaná (PR)
+http://200.189.113.201/hls/tve.m3u8?KeltecMPIPTV
  
-#EXTINF:-1 tvg-ID="Cinemax.br" tvg-name="Cinemax HD Alternativo" tvg-logo="http://img.starbr.in/1559754776_86c9fb0b20ae009eb96575c87478c74eb229cad5.png" group-title="Canais: Filmes e Series",Cinemax HD Alternativo
-http://iptv.csvix.net:8080/luana/luana/4395
+#EXTINF:-1 tvg-logo="http://listaiptvbrasil.com/canais/wp-content/uploads/2018/03/NBR.png" group-title="CANAL ABERTO",NBR (DF)
+http://ebctveventual01-live.hls.adaptive.level3.net/hls-live/ebcremuxlive-ebctveventual01/_definst_/live.m3u8?KeltecMPIPTV
  
-#EXTINF:-1 tvg-id="COMBATE" tvg-name="COMBATE SD 1" tvg-logo="http://img.starbr.in/1559754996_6bf6dde2fbde848d0d4fcaf5e684157bcf127379.jpg" group-title="Esportes",COMBATE SD 1
-http://list.deeplist.nl:80/live/bg2000609/2000609/38746.m3u8
+#EXTINF:-1 tvg-logo="http://www.radiomontecarlo.net/upload/1471439396922.jpg" group-title="CANAL ABERTO", Radio Monte Carlo TV
+http://fms.105.net:1935/live/rmc1/playlist.m3u8?KeltecMPIPTV
  
-#EXTINF:-1 tvg-ID="Combate.br" tvg-name="Combate HD H264" tvg-logo="http://img.starbr.in/1559754996_6bf6dde2fbde848d0d4fcaf5e684157bcf127379.jpg" group-title="Canais: Esportes",Combate HD H264
-http://iptv.csvix.net:8080/luana/luana/4986
+#EXTINF:-1 tvg-logo="http://s30.postimg.org/6gazun6wh/logorodape.png" group-title="CANAL ABERTO",Rede Cultura do Pará
+http://str.portalcultura.com.br:80/funtelpa/tv_funtelpa/playlist.m3u8?KeltecMPIPTV
  
-#EXTINF:-1 tvg-id="DISCOVERY CHANNEL" tvg-name="DISCOVERY CHANNEL" tvg-logo="http://img.starbr.in/1559755433_76b6f1308c3dfca550e4bab589f0710fae32be03.png" group-title="Documentarios",DISCOVERY CHANNEL
-http://list.deeplist.nl:80/live/bg2000609/2000609/1084.m3u8
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/617061411483701248/rTn6wrcV.png" group-title="CANAL ABERTO",TV Transamérica (PR)
+http://tvtransamerica.crossdigital.com.br:1935/ponto2/transamerica2/playlist.m3u8?KeltecMPIPTV
  
-#EXTINF:-1 tvg-id="DISCOVERY CIVILIZATION" tvg-name="DISCOVERY CIVILIZATION" tvg-logo="http://img.starbr.in/1559755509_7dbd08d9e90b35416b4c8e71e36b5c07a65c4aec.png" group-title="Documentarios",DISCOVERY CIVILIZATION
-http://list.deeplist.nl:80/live/bg2000609/2000609/20805.m3u8
+#EXTINF:-1 tvg-logo="http://listaiptvbrasil.com/canais/wp-content/uploads/2018/03/Rede-Fonte.png" group-title="CANAL ABERTO", FonteTV (GO)
+http://wowza.softhost.com.br:1935/fonte/fontetv/playlist.m3u8?KeltecMPIPTV
  
-#EXTINF:-1 tvg-id="DISCOVERY KIDS" tvg-name="DISCOVERY KIDS" tvg-logo="http://img.starbr.in/1559755695_f4da80f7ae58b2e08f09f5effb6f2f271657e0af.jpg" group-title="Infantil",DISCOVERY KIDS
-http://list.deeplist.nl:80/live/bg2000609/2000609/1080.m3u8
+#EXTINF:-1 tvg-logo="http://listaiptvbrasil.com/canais/wp-content/uploads/2018/03/Puc-TV.jpg" group-title="CANAL ABERTO", Puc TV (GO)
+http://flash.softhost.com.br:1935/pucgoias/aovivo/playlist.m3u8?KeltecMPIPTV
  
-#EXTINF:-1 tvg-id="DISNEY CHANNEL" tvg-name="DISNEY CHANNEL SD" tvg-logo="http://img.starbr.in/1559756242_ab48e0dae56c4de49aaf70de3e2dee2ed3f5b268.png" group-title="Infantil",DISNEY CHANNEL SD
-http://list.deeplist.nl:80/live/bg2000609/2000609/38763.m3u8
+#EXTINF:-1 tvg-logo="http://listaiptvbrasil.com/canais/wp-content/uploads/2018/02/tvmaceio.jpg" group-title="CANAL ABERTO",TV Maceió (AL)
+https://59f1cbe63db89.streamlock.net:1443/toptv/toptv/playlist.m3u8?KeltecMPIPTV
  
-#EXTINF:-1 tvg-id="DISNEY JR" tvg-name="DISNEY JR SD 1" tvg-logo="http://img.starbr.in/1559756323_555b826c0721d386d903cac94a608d90e9a1df08.png" group-title="Infantil",DISNEY JR SD 1
-http://list.deeplist.nl:80/live/bg2000609/2000609/38783.m3u8
+#EXTINF:-1 tvg-logo="http://listaiptvbrasil.com/canais/wp-content/uploads/2018/02/tvacaradabhia.png" group-title="CANAL ABERTO",TV A Cara da Bahia
+http://hd4.com.br:1935/tvacaradabahia/tvacaradabahia/playlist.m3u8?KeltecMPIPTV
  
-#EXTINF:-1 tvg-id="DISNEY XD" tvg-name="DISNEY XD SD 1" tvg-logo="http://img.starbr.in/1559756400_7e24f0c974a5bf4f690d48ef7e7d57af994ea274.png" group-title="Infantil",DISNEY XD SD 1
-http://list.deeplist.nl:80/live/bg2000609/2000609/38761.m3u8
+#EXTINF:-1 tvg-logo="http://listaiptvbrasil.com/canais/wp-content/uploads/2018/02/tvjsid.png" group-title="CANAL ABERTO", TV Sjid (BA)
+http://stmv2.srvstm.com/tvjsid/tvjsid/playlist.m3u8?KeltecMPIPTV
  
-#EXTINF:-1 tvg-id="E!" tvg-name="E!" tvg-logo="http://img.starbr.in/1559756477_f47514a7483173bbbe56eb2ef89cae3fb60e8f26.png" group-title="Noticias",E!
-http://list.deeplist.nl:80/live/bg2000609/2000609/1063.m3u8
+#EXTINF:-1 tvg-logo="http://listaiptvbrasil.com/canais/wp-content/uploads/2018/03/TV_Assembleia_Ceará.png" group-title="CANAL ABERTO", TV Assembléia (CE)
+http://srv6.zoeweb.tv:1935/z404-live/stream/livestream.m3u8?KeltecMPIPTV
  
-#EXTINF:-1 tvg-id="ESPN" tvg-name="ESPN 1 SD+" tvg-logo="http://img.starbr.in/1559756717_d4cb144e6fee8a2c3af0690df76f3012f20b739e.jpg" group-title="Esportes",ESPN 1 SD+
-http://list.deeplist.nl:80/live/bg2000609/2000609/38387.m3u8
+#EXTINF:-1 tvg-logo="http://listaiptvbrasil.com/canais/wp-content/uploads/2018/03/tvnbrasil.png" group-title="CANAL ABERTO", TVN Brasil (DF)
+http://wz6.dnip.com.br:1935/tvnbrasil/tvnbrasil.sdp/live.m3u8?KeltecMPIPTV
  
-#EXTINF:-1 tvg-id="ESPN 2" tvg-name="ESPN 2 SD+" tvg-logo="http://img.starbr.in/1559756808_adc99dd47ef5dc2703eb6e051c4010381019531c.png" group-title="Esportes",ESPN 2 SD+
-http://list.deeplist.nl:80/live/bg2000609/2000609/38416.m3u8
+#EXTINF:-1 tvg-logo="http://listaiptvbrasil.com/canais/wp-content/uploads/2018/03/radioesportesbrasilia.png" group-title="CANAL ABERTO", Esportes Brasília (DF)
+http://173.236.10.10:1935/dgrau/dgrau/playlist.m3u8?KeltecMPIPTV
  
-#EXTINF:-1 tvg-id="ESPN BRASIL" tvg-name="ESPN BRASIL SD+" tvg-logo="http://img.starbr.in/1559756987_23f0062b6bdefc600635c86fae1421a82a061edb.png" group-title="Esportes",ESPN BRASIL SD+
-http://list.deeplist.nl:80/live/bg2000609/2000609/38415.m3u8
+#EXTINF:-1 tvg-logo="http://listaiptvbrasil.com/canais/wp-content/uploads/2018/02/tvvitoria.png" group-title="CANAL ABERTO",TV Vitória - RecordTV (ES)
+http://tvvitoria2.viacast.tv/livepl/tvvitoria_2_original.m3u8?KeltecMPIPTV
  
-#EXTINF:-1 tvg-id="ESPN EXTRA" tvg-name="ESPN EXTRA SD+" tvg-logo="http://img.starbr.in/1559757079_4c98ba66857df97e2ae3dc840c8c39ac1a41a704.png" group-title="Esportes",ESPN EXTRA SD+
-http://list.deeplist.nl:80/live/bg2000609/2000609/38417.m3u8
+#EXTINF:-1 tvg-logo="https://listaiptvbrasil.com/logo/tvfaap.png" group-title="CANAL ABERTO",TV Faap
+http://midia.faap.br:80/faaplatamlive-live/stream_720/livestream.m3u8?KeltecMPIPTV
  
-#EXTINF:-1 tvg-id="FOX PREMIUM 1" tvg-name="FOX PREMIUM 1" tvg-logo="http://img.starbr.in/1559757449_4d49d0230e3bcdbddd4cf31f2c2e735023fc6573.png" group-title="Filmes e Series",FOX PREMIUM 1
-http://list.deeplist.nl:80/live/bg2000609/2000609/20815.m3u8
+#EXTINF:-1 tvg-logo="http://listaiptvbrasil.com/canais/wp-content/uploads/2018/03/santacecilia.png" group-title="CANAL ABERTO",TV Santa Cecília (SP)
+http://flash1.crossdigital.com.br:1935/2063/2063/live.m3u8?KeltecMPIPTV
  
-#EXTINF:-1 tvg-id="FOX SPORTS" tvg-name="FOX SPORTS" tvg-logo="http://img.starbr.in/1559757583_5f1bd1eb932e0a1690ccd546d827fc1719220967.png" group-title="Esportes",FOX SPORTS
-http://list.deeplist.nl:80/live/bg2000609/2000609/2391.m3u8
+#EXTINF:-1 tvg-logo="http://listaiptvbrasil.com/canais/wp-content/uploads/2018/03/gospel.jpg" group-title="CANAL ABERTO",Gospel Movie TV
+http://stmv2.srvstm.com/gospelf/gospelf/playlist.m3u8?KeltecMPIPTV
  
-#EXTINF:-1 tvg-id="FOX SPORTS 2" tvg-name="FOX SPORTS 2" tvg-logo="http://img.starbr.in/1559757662_e9fddb85a4659b1af3c9b875e40bcb0703c1870c.jpg" group-title="Esportes",FOX SPORTS 2
-http://list.deeplist.nl:80/live/bg2000609/2000609/1717.m3u8
+#EXTINF:-1 tvg-logo="http://listaiptvbrasil.com/canais/wp-content/uploads/2018/03/tvitapetinga.png" group-title="CANAL ABERTO",TV Itapetinga (SP)
+http://stream02.msolutionbrasil.com.br:1935/tvitape/tvitape/live.m3u8?KeltecMPIPTV
  
-#EXTINF:-1 tvg-id="SONY" tvg-name="SONY" tvg-logo="http://img.starbr.in/1559766866_9c82c923dafb334fa5a7b1b308b61a1a94cc1cd6.png" group-title="Filmes e Series",SONY
-http://list.deeplist.nl:80/live/bg2000609/2000609/1096.m3u8
+#EXTINF:-1 tvg-logo="http://listaiptvbrasil.com/canais/wp-content/uploads/2018/03/realmadrid.png" group-title="CANAL ABERTO",Real Madrid TV
+http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/master.m3u8?KeltecMPIPTV
  
-#EXTINF:-1 tvg-id="SPACE" tvg-name="SPACE" tvg-logo="http://img.starbr.in/1559766918_c0073c730f58bbd5cdaa3143f58a6afb80ebeacd.png" group-title="Filmes e Series",SPACE
-http://list.deeplist.nl:80/live/bg2000609/2000609/2501.m3u8
+#EXTINF:-1 tvg-logo="http://listaiptvbrasil.com/canais/wp-content/uploads/2018/03/redbulltv-300x125.png" group-title="CANAL ABERTO", Red Bull TV
+http://rbtvdiglinear-i.akamaihd.net/hls/live/241719/ATfallback/master.m3u8?KeltecMPIPTV
  
-#EXTINF:-1 tvg-id="SPORTV" tvg-name="SPORTV 1 SD+" tvg-logo="http://img.starbr.in/1559766984_400420869701d90f1b3348ee115aa14467c403ec.png" group-title="Esportes",SPORTV 1 SD+
-http://list.deeplist.nl:80/live/bg2000609/2000609/47527.m3u8
+#EXTINF:-1 tvg-logo="https://listaiptvbrasil.com/logo/arirang.png" group-title="CANAL ABERTO",Arirang
+http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8?KeltecMPIPTV
  
-#EXTINF:-1 tvg-id="TNT" tvg-name="TNT" tvg-logo="http://img.starbr.in/1559768670_0f6919dd5e99410decc40d8a186989957324a660.png" group-title="Filmes e Series",TNT
-http://list.deeplist.nl:80/live/bg2000609/2000609/921.m3u8
+#EXTINF:-1 tvg-logo="http://listaiptvbrasil.com/canais/wp-content/uploads/2018/03/Fm-o-dia-foto.jpg" group-title="CANAL ABERTO",FM O DIA 100.5 - ESTÚDIO AO VIVO
+http://c2901-slbps-sambavideos.akamaized.net/livet/FMoDiaVideo_14d480346fa04ebcb4f03173f2dae707/ngrp:livestream/chunklist_b898304.m3u8?KeltecMPIPTV
  
-#EXTINF:-1 tvg-id="BAND SP" tvg-name="BAND SP" tvg-logo="http://img.starbr.in/1559753792_8a3ff5902c89337e88632304fd198dc92999c3ee.png" group-title="Canais Abertos",BAND SP
-http://list.deeplist.nl:80/live/bg2000609/2000609/1713.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/7tmZnMy.png" group-title="DEPORTES", Viasat Sport | SD
+http://persik.by/stream/2944/263250/10249.m3u8
  
-#EXTINF:-1 tvg-id="BOOMERANG" tvg-name="BOOMERANG HD" tvg-logo="http://img.starbr.in/1559754344_0b0d64ec6c374181c056b5f971543787e13fa60f.png" group-title="Infantil",BOOMERANG HD
-http://list.deeplist.nl:80/live/bg2000609/2000609/20801.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/YyAsaqb.png" group-title="DEPORTES", DeporTV | SD
+https://564e2be0304b6.streamlock.net/DXTV/smil:DXTV/playlist.m3u8?
  
-#EXTINF:-1 tvg-id="CARTOON NETWORK" tvg-name="CARTOON NETWORK SD+" tvg-logo="http://img.starbr.in/1559754696_e1e9b7ed53cb8474ddcecf70cedb8fd7b98af1b9.jpg" group-title="Infantil",CARTOON NETWORK SD+
-http://list.deeplist.nl:80/live/bg2000609/2000609/43516.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bNXH4cj.png" group-title="DEPORTES", Real Madrid TV | SD
+http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/master.m3u8
  
-#EXTINF:-1 tvg-id="" tvg-name="DAZN HD" tvg-logo="http://img.starbr.in/1561322593_32373287e3ebdea2cd918db943cb627089c3e61b.jpg" group-title="Esportes",DAZN HD
-http://list.deeplist.nl:80/live/bg2000609/2000609/46925.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/x5jNF2N.png" group-title="DEPORTES", MLB | HD
+http://mlblive-akc.mlb.com/ls01/mlbam/mlb_network/NETWORK_LINEAR_1/master_wired.m3u8
  
-#EXTINF:-1 tvg-id="DISCOVERY KIDS" tvg-name="DISCOVERY KIDS" tvg-logo="http://img.starbr.in/1559755695_f4da80f7ae58b2e08f09f5effb6f2f271657e0af.jpg" group-title="Infantil",DISCOVERY KIDS
-http://list.deeplist.nl:80/live/bg2000609/2000609/1080.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/IJh5DjE.png" group-title="DEPORTES", Abu Dhabi Sports | SD
+http://adtv.ercdn.net/adsport1/adsport1_480p.m3u8
  
-#EXTINF:-1 tvg-id="DISNEY CHANNEL" tvg-name="DISNEY CHANNEL SD+" tvg-logo="http://img.starbr.in/1559756242_ab48e0dae56c4de49aaf70de3e2dee2ed3f5b268.png" group-title="Infantil",DISNEY CHANNEL SD+
-http://list.deeplist.nl:80/live/bg2000609/2000609/1071.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/IJh5DjE.png" group-title="DEPORTES", Abu Dhabi Sports 2 | SD
+http://adtv.ercdn.net/adsport2/adsport2_480p.m3u8
  
-#EXTINF:-1 tvg-id="" tvg-name="EI PLUS" tvg-logo="http://img.starbr.in/1559756608_2eb8898529463f5a3419367ae56d91372815966e.jpg" group-title="Esportes",EI PLUS
-http://list.deeplist.nl:80/live/bg2000609/2000609/42916.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i62.servimg.com/u/f62/19/82/45/70/music_10.jpg" group-title="MUSIC CHOICE",Play
+http://edge.music-choice-play-chaina1.top.comcast.net/PlayMetadataInserter/play/chunklist.m3u8
  
-#EXTINF:-1 tvg-id="FOX" tvg-name="FOX" tvg-logo="http://img.starbr.in/1559757317_a829fd6d1dd746721747241d7a558d3f14599a5d.png" group-title="Filmes e Series",FOX
-http://list.deeplist.nl:80/live/bg2000609/2000609/1329.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MCGNAMK.png" group-title="MUSIC CHOICE", Music Choice | HD
+https://edge.music-choice-play-chainb1.top.comcast.net/PlayMetadataInserter/play/chunklist.m3u8
  
-#EXTINF:-1 tvg-id="FOX LIFE" tvg-name="FOX LIFE" tvg-logo="http://img.starbr.in/1559757396_e20962937e7e156228a399b034ee63d4de75914f.png" group-title="Variedades e Musicas",FOX LIFE
-http://list.deeplist.nl:80/live/bg2000609/2000609/1038.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/uFbyigf.png" group-title="MUSIC CHOICE", M2O TV | SD
+http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-b.m3u8?sd=10&rebase=on
  
-#EXTINF:-1 tvg-id="FOX PREMIUM 2" tvg-name="FOX PREMIUM 2" tvg-logo="http://img.starbr.in/1559757519_97a846e24637e8062e2c8ec7af9a921750b2448a.png" group-title="Filmes e Series",FOX PREMIUM 2
-http://list.deeplist.nl:80/live/bg2000609/2000609/20816.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/xZSz9Yt.png" group-title="MUSIC CHOICE", Retro TV | SD
+http://stream.mediawork.cz/retrotv/retrotvHQ1/playlist.m3u8
  
-#EXTINF:-1 tvg-id="FUTURA" tvg-name="FUTURA SD+" tvg-logo="http://img.starbr.in/1559757716_6dc77ebcd56e1c00ef7b84bb402a4464b74b3f37.png" group-title="Canais Abertos",FUTURA SD+
-http://list.deeplist.nl:80/live/bg2000609/2000609/38484.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/XX9A1OQ.jpg" group-title="MUSIC CHOICE", DJIng Ibiza | HD
+http://www.djing.com/tv/ibiza.m3u8
  
-#EXTINF:-1 tvg-id="FOX PREMIUM 1" tvg-name="FOX PREMIUM 1 HD" tvg-logo="http://img.starbr.in/1559757449_4d49d0230e3bcdbddd4cf31f2c2e735023fc6573.png" group-title="Filmes e Series",FOX PREMIUM 1 HD
-http://list.deeplist.nl:80/live/bg2000609/2000609/2464.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/VG3m7v1.jpg" group-title="MUSIC CHOICE", Capital TV | SD
+http://capital_tv-lh.akamaihd.net/i/CapitalTv_1@183098/master.m3u8
  
-#EXTINF:-1 tvg-id="FX" tvg-name="FX" tvg-logo="http://img.starbr.in/1559757791_57a7a53ef0ead970525b5a0190a3561a1dd3daf5.jpg" group-title="Filmes e Series",FX
-http://list.deeplist.nl:80/live/bg2000609/2000609/1028.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/VpZPZEv.png" group-title="MUSIC CHOICE", Radio Montecarlo TV | SD
+http://fms.105.net:1935/live/rmc1/.m3u8
  
-#EXTINF:-1 tvg-id="FX" tvg-name="FX HD" tvg-logo="http://img.starbr.in/1559757791_57a7a53ef0ead970525b5a0190a3561a1dd3daf5.jpg" group-title="Filmes e Series",FX HD
-http://list.deeplist.nl:80/live/bg2000609/2000609/2386.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/wpzgjWt.png" group-title="MUSIC CHOICE", Radio Sanborja (Peru) | SD
+https://5949aa132c8fb.streamlock.net:554/iptvsanborja/livesanborjatv/playlist.m3u8
  
-#EXTINF:-1 tvg-id="GLOBO BRASILIA" tvg-name="GLOBO BRASILIA SD+" tvg-logo="http://img.starbr.in/1559758286_ba9c4e2f32ee815a870502f48d3e3f24675d36ab.jpg" group-title="Canais Abertos",GLOBO BRASILIA SD+
-http://list.deeplist.nl:80/live/bg2000609/2000609/22363.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/OXgDjwN.png" group-title="MUSIC CHOICE", Radio Bruno (Italia) | SD
+http://37.48.83.34:80/radiobrunotv/radiobrunotv/playlist.m3u8
  
-#EXTINF:-1 tvg-id="GLOBO BRASILIA" tvg-name="GLOBO BRASILIA HD" tvg-logo="http://img.starbr.in/1559758286_ba9c4e2f32ee815a870502f48d3e3f24675d36ab.jpg" group-title="Canais Abertos",GLOBO BRASILIA HD
-http://list.deeplist.nl:80/live/bg2000609/2000609/17121.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/xsspfDW.png" group-title="MUSIC CHOICE", Radio Contact Feel Good | HD
+http://contact-lh.akamaihd.net/i/CONTACT_1@321283/master.m3u8
  
-#EXTINF:-1 tvg-id="GLOBO NEWS" tvg-name="GLOBO NEWS HD" tvg-logo="http://img.starbr.in/1559760291_7ae44011553f7188028f778d09bc49ed10cb6aa3.png" group-title="Noticias",GLOBO NEWS HD
-http://list.deeplist.nl:80/live/bg2000609/2000609/5085.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/63s1k43.png" group-title="MUSIC CHOICE", Portal FoxMix | HD
+http://149.56.17.92:1935/portalfoxmix/_definst_/portalfoxmix/playlist.m3u8
  
-#EXTINF:-1 tvg-id="GLOBO NEWS" tvg-name="GLOBO NEWS SD+" tvg-logo="http://img.starbr.in/1559760291_7ae44011553f7188028f778d09bc49ed10cb6aa3.png" group-title="Noticias",GLOBO NEWS SD+
-http://list.deeplist.nl:80/live/bg2000609/2000609/23980.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i62.servimg.com/u/f62/19/82/45/70/images10.jpg" group-title="CÂMERAS",Animais Ãfrica do Sul
+http://stream.africam.com:1935/tm/tm.stream_360p/playlist.m3u8?KeltecMPIPTV
  
-#EXTINF:-1 tvg-id="GLOBO NORDESTE" tvg-name="GLOBO NORDESTE HD" tvg-logo="http://img.starbr.in/1559758286_ba9c4e2f32ee815a870502f48d3e3f24675d36ab.jpg" group-title="Canais Abertos",GLOBO NORDESTE HD
-http://list.deeplist.nl:80/live/bg2000609/2000609/17130.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i62.servimg.com/u/f62/19/82/45/70/images10.jpg" group-title="CÂMERAS",EstUdio 91.7 FM Cascavel - PR
+http://stream.catve.com.br:1935/radiocamera/livestream/playlist.m3u8?KeltecMPIPTV
  
-#EXTINF:-1 tvg-id="GLOBO NORDESTE" tvg-name="GLOBO NORDESTE SD+" tvg-logo="http://img.starbr.in/1559758286_ba9c4e2f32ee815a870502f48d3e3f24675d36ab.jpg" group-title="Canais Abertos",GLOBO NORDESTE SD+
-http://list.deeplist.nl:80/live/bg2000609/2000609/22371.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i62.servimg.com/u/f62/19/82/45/70/images10.jpg" group-title="CÂMERAS",EstUdio 96.5 FM Rio de Janeiro - RJ
+http://cdn.rj.assocrj.com.br/live//tupi-estudio-video06/playlist.m3u8?KeltecMPIPTV
  
-#EXTINF:-1 tvg-id="GLOBO RJ" tvg-name="GLOBO RJ HD" tvg-logo="http://img.starbr.in/1559758286_ba9c4e2f32ee815a870502f48d3e3f24675d36ab.jpg" group-title="Canais Abertos",GLOBO RJ HD
-http://list.deeplist.nl:80/live/bg2000609/2000609/1207.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i62.servimg.com/u/f62/19/82/45/70/images10.jpg" group-title="CÂMERAS",EstUdio 100.5 FM Rio de Janeiro - RJ
+http://c2901-slbps-sambavideos.akamaized.net/livet/FMoDiaVideo_14d480346fa04ebcb4f03173f2dae707/ngrp:livestream/playlist.m3u8?KeltecMPIPTV
  
-#EXTINF:-1 tvg-id="GLOBO RJ" tvg-name="GLOBO RJ SD+" tvg-logo="http://img.starbr.in/1559758286_ba9c4e2f32ee815a870502f48d3e3f24675d36ab.jpg" group-title="Canais Abertos",GLOBO RJ SD+
-http://list.deeplist.nl:80/live/bg2000609/2000609/22209.m3u8
+#EXTINF:-1 tvg-logo="http://i.imgur.com/NSHvLCe.png" group-title="TV ABERTA", GLOBO SP
+https://globolive.akamaized.net/d/c/x2800/s/hls-globo-sp1/hls-globo-sp1_964/playlist.m3u8?hdnts=st=1568899416~exp=1668899406~acl=/*~id=0sp9c8skcs800h3cml37evdj43~hmac=5f4bbd91aec7a1fc20617169c106b8d5e0c86bfb4cec5788668b40cc8f9bf80e
  
-#EXTINF:-1 tvg-id="GLOBO SP" tvg-name="GLOBO SP HD" tvg-logo="http://img.starbr.in/1559758286_ba9c4e2f32ee815a870502f48d3e3f24675d36ab.jpg" group-title="Canais Abertos",GLOBO SP HD
-http://list.deeplist.nl:80/live/bg2000609/2000609/17122.m3u8
+#EXTINF:-1 tvg-logo="http://i.imgur.com/NSHvLCe.png" group-title="TV ABERTA", GLOBO RJ
+https://globolive.akamaized.net/d/c/x2800/s/hls-globo-rj/hls-globo-rj_964/playlist.m3u8?hdnts=st=1568899416~exp=1668899406~acl=/*~id=0sp9c8skcs800h3cml37evdj43~hmac=5f4bbd91aec7a1fc20617169c106b8d5e0c86bfb4cec5788668b40cc8f9bf80e
  
-#EXTINF:-1 tvg-id="GLOBO SP" tvg-name="GLOBO SP SD+" tvg-logo="http://img.starbr.in/1559758286_ba9c4e2f32ee815a870502f48d3e3f24675d36ab.jpg" group-title="Canais Abertos",GLOBO SP SD+
-http://list.deeplist.nl:80/live/bg2000609/2000609/22359.m3u8
+#EXTINF:-1 tvg-logo="http://i.imgur.com/NSHvLCe.png" group-title="TV ABERTA", GLOBO RJ
+https://globolive.akamaized.net/d/c/x2800/s/hls-globo-rj/hls-globo-rj_964/playlist.m3u8?hdnts=st=1568899416~exp=1668899406~acl=/*~id=0sp9c8skcs800h3cml37evdj43~hmac=5f4bbd91aec7a1fc20617169c106b8d5e0c86bfb4cec5788668b40cc8f9bf80e
  
-#EXTINF:-1 tvg-id="GLOOB" tvg-name="GLOOB HD" tvg-logo="http://img.starbr.in/1559760817_884370d2e3f71574f4320654097de4dd1895ea8b.jpg" group-title="Infantil",GLOOB HD
-http://list.deeplist.nl:80/live/bg2000609/2000609/5086.m3u8
+#EXTINF:-1 tvg-logo="http://i.imgur.com/7SlZF9B.png" group-title="TV ABERTA", SBT SP INTERIOR
+https://5a1c76baf08c0.streamlock.net/z343-live/stream/playlist.m3u8
  
-#EXTINF:-1 tvg-id="GLOOB" tvg-name="GLOOB SD+" tvg-logo="http://img.starbr.in/1559760817_884370d2e3f71574f4320654097de4dd1895ea8b.jpg" group-title="Infantil",GLOOB SD+
-http://list.deeplist.nl:80/live/bg2000609/2000609/28406.m3u8
+#EXTINF:-1 tvg-logo="http://i.imgur.com/7SlZF9B.png" group-title="TV ABERTA", SBT PI
+http://192.99.46.182:1935/pioneira-tv3/pioneira-tv3/playlist.m3u8
  
-#EXTINF:-1 tvg-id="GNT" tvg-name="GNT HD" tvg-logo="http://img.starbr.in/1559761612_3e88df94dd071b6a1a598be76039a497ef6b7af0.jpg" group-title="Variedades e Musicas",GNT HD
-http://list.deeplist.nl:80/live/bg2000609/2000609/2466.m3u8
+#EXTINF:-1 tvg-logo="http://i.imgur.com/7SlZF9B.png" group-title="TV ABERTA", SBT MA
+http://difusorama.zoeweb.tv:1935/z437-live/stream/playlist.m3u8
  
-#EXTINF:-1 tvg-id="GNT" tvg-name="GNT SD+" tvg-logo="http://img.starbr.in/1559761612_3e88df94dd071b6a1a598be76039a497ef6b7af0.jpg" group-title="Variedades e Musicas",GNT SD+
-http://list.deeplist.nl:80/live/bg2000609/2000609/24290.m3u8
+#EXTINF:-1 tvg-logo="http://i.imgur.com/7SlZF9B.png" group-title="TV ABERTA", SBT PE
+http://evpp.mm.uol.com.br:1935/ne10/ne10-tvjornal-caruaru-video-web.sdp/playlist.m3u8
  
-#EXTINF:-1 tvg-id="H2" tvg-name="H2 HD" tvg-logo="http://img.starbr.in/1559761689_802993f9a839fb6e68d476c3c4f27510ec0ae001.png" group-title="Documentarios",H2 HD
-http://list.deeplist.nl:80/live/bg2000609/2000609/1021.m3u8
+#EXTINF:-1 tvg-logo="http://i.imgur.com/jJBUZ6O.png" group-title="CANAIS ABERTOS", REDE TV RJ
+http://evpp.mm.uol.com.br:1935/redetv2/redetv2/chunklist_w1379590905.m3u8
  
-#EXTINF:-1 tvg-id="H2" tvg-name="H2" tvg-logo="http://img.starbr.in/1559761689_802993f9a839fb6e68d476c3c4f27510ec0ae001.png" group-title="Documentarios",H2
-http://list.deeplist.nl:80/live/bg2000609/2000609/2486.m3u8
+#EXTINF:-1 tvg-logo="http://i.imgur.com/5UeQAk9.png" group-title="TV ABERTA", RECORD SP
+http://playplusspo-lh.akamaihd.net/i/pp_sp@350176/index_360_av-p.m3u8
  
-#EXTINF:-1 tvg-id="HBO 2" tvg-name="HBO 2 HD" tvg-logo="http://img.starbr.in/1559761827_5aaa156f4572e5e678fae272a3c103da9a7a0ed6.png" group-title="Filmes e Series",HBO 2 HD
-http://list.deeplist.nl:80/live/bg2000609/2000609/1017.m3u8
+#EXTINF:-1 tvg-logo="http://i.imgur.com/5UeQAk9.png" group-title="TV ABERTA", RECORD SP HD
+http://playplusspo-lh.akamaihd.net/i/pp_sp@350176/index_720_av-p.m3u8
  
-#EXTINF:-1 tvg-id="HBO FAMILY" tvg-name="HBO FAMILY" tvg-logo="http://img.starbr.in/1559761893_01080c8b3204e55ac25c697b0474c2db0d0ce1c5.png" group-title="Filmes e Series",HBO FAMILY
-http://list.deeplist.nl:80/live/bg2000609/2000609/1016.m3u8
+#EXTINF:-1 tvg-logo="http://i.imgur.com/5UeQAk9.png" group-title="TV ABERTA", RECORD RJ
+http://playplusrjo-lh.akamaihd.net/i/pp_rj@377859/index_360_av-p.m3u8
  
-#EXTINF:-1 tvg-id="HBO FAMILY" tvg-name="HBO FAMILY HD" tvg-logo="http://img.starbr.in/1559761893_01080c8b3204e55ac25c697b0474c2db0d0ce1c5.png" group-title="Filmes e Series",HBO FAMILY HD
-http://list.deeplist.nl:80/live/bg2000609/2000609/2392.m3u8
+#EXTINF:-1 tvg-logo="http://i.imgur.com/5UeQAk9.png" group-title="TV ABERTA", RECORD RJ HD
+http://playplusrjo-lh.akamaihd.net/i/pp_rj@377859/index_720_av-p.m3u8
  
-#EXTINF:-1 tvg-id="HBO" tvg-name="HBO HD" tvg-logo="http://img.starbr.in/1559761759_1d66b76a8b8286f521bdf7f4b0750f9bf10a8ec3.png" group-title="Filmes e Series",HBO HD
-http://list.deeplist.nl:80/live/bg2000609/2000609/1209.m3u8
+#EXTINF:-1 tvg-logo="http://i.imgur.com/jJBUZ6O.png" group-title="CANAIS ABERTOS", REDE TV SP
+http://evpp.mm.uol.com.br:1935/redetv1/redetv1/playlist.m3u8
  
-#EXTINF:-1 tvg-id="HBO PLUS" tvg-name="HBO PLUS" tvg-logo="http://img.starbr.in/1559762040_77185eac2297557cfa23c38270dbf7383daaf5ad.png" group-title="Filmes e Series",HBO PLUS
-http://list.deeplist.nl:80/live/bg2000609/2000609/1014.m3u8
+#EXTINF:-1 tvg-logo="http://i.imgur.com/YDqoOVf.png" group-title="MUSICAS", Multishow
+https://globolive.akamaized.net/d/c/x2800/s/hls-msw24ha/hls-msw24ha_886/playlist.m3u8?hdnts=st=1568899416~exp=1668899406~acl=/*~id=0sp9c8skcs800h3cml37evdj43~hmac=5f4bbd91aec7a1fc20617169c106b8d5e0c86bfb4cec5788668b40cc8f9bf80e
  
-#EXTINF:-1 tvg-id="HBO PLUS" tvg-name="HBO PLUS HD" tvg-logo="http://img.starbr.in/1559762040_77185eac2297557cfa23c38270dbf7383daaf5ad.png" group-title="Filmes e Series",HBO PLUS HD
-http://list.deeplist.nl:80/live/bg2000609/2000609/2467.m3u8
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TVCATV", BIS
+http://playback.imirun.net:8080//BIS/tracks-v1a1/mono.m3u8
  
-#EXTINF:-1 tvg-id="LIKE" tvg-name="L!KE HD" tvg-logo="http://img.myapp.st/1567266424_823eade196e97efbff9af33d7adf3727cb448f1e.jpg" group-title="Variedades e Musicas",L!KE HD
-http://list.deeplist.nl:80/live/bg2000609/2000609/50198.m3u8
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="RELIGIOSO", TV APARECIDA
+http://69.46.0.170:1935/tvaparecida/tvaparecida.stream/live.m3u8
  
-#EXTINF:-1 tvg-id="LIFETIME" tvg-name="LIFETIME" tvg-logo="http://img.starbr.in/1559762507_fc26b265df648c38c77d65cb7285d1e08323b311.png" group-title="Variedades e Musicas",LIFETIME
-http://list.deeplist.nl:80/live/bg2000609/2000609/2492.m3u8
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="EVANGELICO", Tv Novo Tempo
+http://stream.novotempo.com:1935/tv/smil:tvnovotempo.smil/playlist.m3u8
  
-#EXTINF:-1 tvg-id="LIFETIME" tvg-name="LIFETIME HD" tvg-logo="http://img.starbr.in/1559762507_fc26b265df648c38c77d65cb7285d1e08323b311.png" group-title="Variedades e Musicas",LIFETIME HD
-http://list.deeplist.nl:80/live/bg2000609/2000609/5087.m3u8
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/t1qbf9bZXVBD1Ti1YwKQrL7ZFBStacsU49WXfGfwPd337-t5BHyHHZnGzQ_kW8dMvg=h900" group-title="TV Musicas", NOSSA TV
+http://stmv1.srvstm.com:1935/tvcadm/tvcadm/live.m3u8
  
-#EXTINF:-1 tvg-id="MAX PRIME" tvg-name="MAX PRIME" tvg-logo="http://img.starbr.in/1559762733_76ad2d24f8951a33cf71f5f96fa52e896cbd1bbf.jpg" group-title="Filmes e Series",MAX PRIME
-http://list.deeplist.nl:80/live/bg2000609/2000609/1006.m3u8
+#EXTINF:-1 tvg-logo="http://s20.postimg.org/kqthtnn2h/retromusic.jpg" group-title="TV Musicas", Retro Music
+http://stream.mediawork.cz/retrotv//retrotvHQ1/playlist.m3u8
  
-#EXTINF:-1 tvg-id="MAX UP" tvg-name="MAX UP" tvg-logo="http://img.starbr.in/1559762793_4785a97cbcfc7ee1006a920ce8fb383be5d0f3a3.png" group-title="Filmes e Series",MAX UP
-http://list.deeplist.nl:80/live/bg2000609/2000609/1005.m3u8
+#EXTINF:-1 tvg-logo="http://s20.postimg.org/5xeu8wfbd/radio105.png" group-title="TV Musicas", Radio 105 TV
+http://fms.105.net:1935/live/105Test1/playlist.m3u8
  
-#EXTINF:-1 tvg-id="MAX UP" tvg-name="MAX UP HD" tvg-logo="http://img.starbr.in/1559762793_4785a97cbcfc7ee1006a920ce8fb383be5d0f3a3.png" group-title="Filmes e Series",MAX UP HD
-http://list.deeplist.nl:80/live/bg2000609/2000609/5091.m3u8
+#EXTINF:-1 tvg-logo="http://i.imgur.com/MmJBR9j.png" group-title="Sound!", Kids
+http://192.99.150.31:9431/stream
  
-#EXTINF:-1 tvg-id="MEGAPIX" tvg-name="MEGAPIX" tvg-logo="http://img.starbr.in/1559762850_96d6e189ce41f2c1050ec0095ff91dfff5577169.png" group-title="Filmes e Series",MEGAPIX
-http://list.deeplist.nl:80/live/bg2000609/2000609/1004.m3u8
+#EXTINF:-1 tvg-logo="http://i.imgur.com/MmJBR9j.png" group-title="Sound!", MPB
+http://192.99.150.31:8775/stream
  
-#EXTINF:-1 tvg-id="MEGAPIX" tvg-name="MEGAPIX FULL HD" tvg-logo="http://img.starbr.in/1559762850_96d6e189ce41f2c1050ec0095ff91dfff5577169.png" group-title="Filmes e Series",MEGAPIX FULL HD
-http://list.deeplist.nl:80/live/bg2000609/2000609/26019.m3u8
+#EXTINF:-1 tvg-logo="http://i.imgur.com/MmJBR9j.png" group-title="Sound!", Bossa Nova
+http://6d9a.webradio.upx.net.br:9974/stream
  
-#EXTINF:-1 tvg-id="MEGAPIX" tvg-name="MEGAPIX HD" tvg-logo="http://img.starbr.in/1559762850_96d6e189ce41f2c1050ec0095ff91dfff5577169.png" group-title="Filmes e Series",MEGAPIX HD
-http://list.deeplist.nl:80/live/bg2000609/2000609/2470.m3u8
+#EXTINF:-1 tvg-logo="http://i.imgur.com/MmJBR9j.png" group-title="Sound!", Forró
+http://192.99.150.31:9019/stream
  
-#EXTINF:-1 tvg-id="MTV" tvg-name="MTV FULL HD" tvg-logo="http://img.starbr.in/1559762902_95972e29e78aef677d4eb3b94e58b6b51d6d72d7.jpg" group-title="Variedades e Musicas",MTV FULL HD
-http://list.deeplist.nl:80/live/bg2000609/2000609/26018.m3u8
+#EXTINF:-1 tvg-logo="http://i.imgur.com/MmJBR9j.png" group-title="Sound!", Pagode
+http://6d9a.webradio.upx.net.br:9061/stream
  
-#EXTINF:-1 tvg-id="MTV" tvg-name="MTV HD" tvg-logo="http://img.starbr.in/1559762902_95972e29e78aef677d4eb3b94e58b6b51d6d72d7.jpg" group-title="Variedades e Musicas",MTV HD
-http://list.deeplist.nl:80/live/bg2000609/2000609/5092.m3u8
+#EXTINF:-1 tvg-logo="http://i.imgur.com/MmJBR9j.png" group-title="Sound!", Anos 2000
+http://6d9a.webradio.upx.net.br:9940/stream
  
-#EXTINF:-1 tvg-id="MULTISHOW" tvg-name="MULTISHOW HD" tvg-logo="http://img.starbr.in/1559762958_b02df352bf66242149d4418dfedce17c7641cb28.png" group-title="Variedades e Musicas",MULTISHOW HD
-http://list.deeplist.nl:80/live/bg2000609/2000609/2385.m3u8
+#EXTINF:-1 tvg-logo="http://i.imgur.com/MmJBR9j.png" group-title="Sound!", Sertanejo
+http://192.99.150.31:9485/stream
  
-#EXTINF:-1 tvg-id="MULTISHOW" tvg-name="MULTISHOW FULL HD" tvg-logo="http://img.starbr.in/1559762958_b02df352bf66242149d4418dfedce17c7641cb28.png" group-title="Variedades e Musicas",MULTISHOW FULL HD
-http://list.deeplist.nl:80/live/bg2000609/2000609/26017.m3u8
+#EXTINF:-1 tvg-logo="http://i.imgur.com/MmJBR9j.png" group-title="Sound!", Funk
+http://192.99.150.31:9089/stream
  
-#EXTINF:-1 tvg-id="MULTISHOW" tvg-name="MULTISHOW SD+" tvg-logo="http://img.starbr.in/1559762958_b02df352bf66242149d4418dfedce17c7641cb28.png" group-title="Variedades e Musicas",MULTISHOW SD+
-http://list.deeplist.nl:80/live/bg2000609/2000609/24286.m3u8
+#EXTINF:-1 tvg-logo="http://i.imgur.com/MmJBR9j.png" group-title="Sound!", Rock Clássico
+http://192.99.150.31:9125/stream
  
-#EXTINF:-1 tvg-id="NATGEO KIDS" tvg-name="NATGEO KIDS" tvg-logo="http://img.starbr.in/1559763203_6f273c8c781fca8c278db4fe41472e5976070ff6.png" group-title="Infantil",NATGEO KIDS
-http://list.deeplist.nl:80/live/bg2000609/2000609/11965.m3u8
+#EXTINF:-1 tvg-logo="http://i.imgur.com/MmJBR9j.png" group-title="Sound!", Lounge
+http://6d9a.webradio.upx.net.br:9064/stream
  
-#EXTINF:-1 tvg-id="NATGEO KIDS" tvg-name="NATGEO KIDS HD" tvg-logo="http://img.starbr.in/1559763203_6f273c8c781fca8c278db4fe41472e5976070ff6.png" group-title="Infantil",NATGEO KIDS HD
-http://list.deeplist.nl:80/live/bg2000609/2000609/11996.m3u8
+#EXTINF:-1 tvg-logo="http://i.imgur.com/MmJBR9j.png" group-title="Sound!", Pop Rock
+http://6d9a.webradio.upx.net.br:8016/stream
  
-#EXTINF:-1 tvg-id="NICK" tvg-name="NICK HD" tvg-logo="http://img.starbr.in/1559763480_5b7e41329f4ce3cdd75f9cdd9276de4db9cfda70.jpg" group-title="Infantil",NICK HD
-http://list.deeplist.nl:80/live/bg2000609/2000609/5093.m3u8
+#EXTINF:-1 tvg-logo="http://i.imgur.com/MmJBR9j.png" group-title="Sound!", Anos 70
+http://192.99.150.31:8241/stream
  
-#EXTINF:-1 tvg-id="NICK" tvg-name="NICK" tvg-logo="http://img.starbr.in/1559763480_5b7e41329f4ce3cdd75f9cdd9276de4db9cfda70.jpg" group-title="Infantil",NICK
-http://list.deeplist.nl:80/live/bg2000609/2000609/1206.m3u8
+#EXTINF:-1 tvg-logo="http://i.imgur.com/MmJBR9j.png" group-title="Sound!", Anos 80
+http://192.99.150.31:8697/stream
  
-#EXTINF:-1 tvg-id="NICK JR" tvg-name="NICK JR" tvg-logo="http://img.starbr.in/1559763550_26e1a07cd8dbf052da0a3d4c657e8d9e6008c222.png" group-title="Infantil",NICK JR
-http://list.deeplist.nl:80/live/bg2000609/2000609/986.m3u8
+#EXTINF:-1 tvg-logo="http://i.imgur.com/MmJBR9j.png" group-title="Sound!", Anos 90
+http://192.99.150.31:8056/stream
  
-#EXTINF:-1 tvg-id="NICK JR" tvg-name="NICK JR HD" tvg-logo="http://img.starbr.in/1559763550_26e1a07cd8dbf052da0a3d4c657e8d9e6008c222.png" group-title="Infantil",NICK JR HD
-http://list.deeplist.nl:80/live/bg2000609/2000609/16210.m3u8
+#EXTINF:-1 tvg-logo="http://i.imgur.com/MmJBR9j.png" group-title="Sound!", Românticas
+http://192.99.150.31:8962/stream
  
-#EXTINF:-1 tvg-id="OFF" tvg-name="OFF HD" tvg-logo="http://img.starbr.in/1559763661_8e51b43540e7451558db8fdc84b6851cec617d08.png" group-title="Variedades e Musicas",OFF HD
-http://list.deeplist.nl:80/live/bg2000609/2000609/2471.m3u8
+#EXTINF:-1 tvg-logo="http://i.imgur.com/MmJBR9j.png" group-title="Sound!", Rap Nacional
+http://192.99.150.31:8377/stream
  
-#EXTINF:-1 tvg-id="OFF" tvg-name="OFF SD 1" tvg-logo="http://img.starbr.in/1559763661_8e51b43540e7451558db8fdc84b6851cec617d08.png" group-title="Variedades e Musicas",OFF SD 1
-http://list.deeplist.nl:80/live/bg2000609/2000609/38728.m3u8
+#EXTINF:-1 tvg-logo="http://i.imgur.com/MmJBR9j.png" group-title="Sound!", Eletrônica
+http://192.99.150.31:9095/stream
  
-#EXTINF:-1 tvg-id="PARAMOUNT CHANNEL" tvg-name="PARAMOUNT CHANNEL" tvg-logo="http://img.starbr.in/1559763768_da459707ae1064bd6512c81181780fa0af78a857.png" group-title="Filmes e Series",PARAMOUNT CHANNEL
-http://list.deeplist.nl:80/live/bg2000609/2000609/980.m3u8
+#EXTINF:-1 tvg-logo="http://i.imgur.com/MmJBR9j.png" group-title="Sound!", Festa
+http://6d9a.webradio.upx.net.br:9070/stream
  
-#EXTINF:-1 tvg-id="PARAMOUNT CHANNEL" tvg-name="PARAMOUNT CHANNEL FULL HD" tvg-logo="http://img.starbr.in/1559763768_da459707ae1064bd6512c81181780fa0af78a857.png" group-title="Filmes e Series",PARAMOUNT CHANNEL FULL HD
-http://list.deeplist.nl:80/live/bg2000609/2000609/26014.m3u8
+#EXTINF:-1 tvg-logo="http://i.imgur.com/MmJBR9j.png" group-title="Sound!", Gospel
+http://192.99.150.31:9101/stream
  
-#EXTINF:-1 tvg-id="PARAMOUNT CHANNEL" tvg-name="PARAMOUNT CHANNEL HD" tvg-logo="http://img.starbr.in/1559763768_da459707ae1064bd6512c81181780fa0af78a857.png" group-title="Filmes e Series",PARAMOUNT CHANNEL HD
-http://list.deeplist.nl:80/live/bg2000609/2000609/2472.m3u8
+#EXTINF:-1 tvg-logo="http://i.imgur.com/MmJBR9j.png" group-title="Sound!", Hip Hop
+http://192.99.150.31:8721/stream
  
-#EXTINF:-1 tvg-id="PREMIERE 2" tvg-name="PREMIERE 2 FULL HD" tvg-logo="http://img.starbr.in/1559764209_74d30997828ad52da3424f0912a94a9d3d42cc02.jpg" group-title="Esportes",PREMIERE 2 FULL HD
-http://list.deeplist.nl:80/live/bg2000609/2000609/5062.m3u8
+#EXTINF:-1 tvg-logo="http://i.imgur.com/MmJBR9j.png" group-title="Sound!", Jazz
+http://192.99.150.31:8042/stream
  
-#EXTINF:-1 tvg-id="PREMIERE 2" tvg-name="PREMIERE 2 HD" tvg-logo="http://img.starbr.in/1559764209_74d30997828ad52da3424f0912a94a9d3d42cc02.jpg" group-title="Esportes",PREMIERE 2 HD
-http://list.deeplist.nl:80/live/bg2000609/2000609/1213.m3u8
+#EXTINF:-1 tvg-logo="http://i.imgur.com/MmJBR9j.png" group-title="Sound!", Axé
+http://192.99.150.31:8305/stream
  
-#EXTINF:-1 tvg-id="PREMIERE 2" tvg-name="PREMIERE 2 HD 2" tvg-logo="http://img.starbr.in/1559764209_74d30997828ad52da3424f0912a94a9d3d42cc02.jpg" group-title="Esportes",PREMIERE 2 HD 2
-http://list.deeplist.nl:80/live/bg2000609/2000609/50208.m3u8
+#EXTINF:-1 tvg-logo="http://i.imgur.com/MmJBR9j.png" group-title="Sound!", Brega
+http://192.99.150.31:9007/stream
  
-#EXTINF:-1 tvg-id="PREMIERE 2" tvg-name="PREMIERE 2 SD 1" tvg-logo="http://img.starbr.in/1559764209_74d30997828ad52da3424f0912a94a9d3d42cc02.jpg" group-title="Esportes",PREMIERE 2 SD 1
-http://list.deeplist.nl:80/live/bg2000609/2000609/38788.m3u8
+#EXTINF:-1 tvg-logo="http://i.imgur.com/MmJBR9j.png" group-title="Sound!", Música Clássica
+http://6d9a.webradio.upx.net.br:9970/stream
  
-#EXTINF:-1 tvg-id="PREMIERE CLUBES" tvg-name="PREMIERE CLUBES" tvg-logo="http://img.starbr.in/1559764209_74d30997828ad52da3424f0912a94a9d3d42cc02.jpg" group-title="Esportes",PREMIERE CLUBES
-http://list.deeplist.nl:80/live/bg2000609/2000609/50207.m3u8
+#EXTINF:-1 tvg-logo="http://i.imgur.com/MmJBR9j.png" group-title="Sound!", New Rock
+http://6d9a.webradio.upx.net.br:8028/stream
  
-#EXTINF:-1 tvg-id="PREMIERE CLUBES" tvg-name="PREMIERE CLUBES FULL HD" tvg-logo="http://img.starbr.in/1559764209_74d30997828ad52da3424f0912a94a9d3d42cc02.jpg" group-title="Esportes",PREMIERE CLUBES FULL HD
-http://list.deeplist.nl:80/live/bg2000609/2000609/5065.m3u8
+#EXTINF:-1 tvg-logo="http://i.imgur.com/MmJBR9j.png" group-title="Sound!", Reggae
+http://192.99.150.31:8715/stream
  
-#EXTINF:-1 tvg-id="PREMIERE CLUBES" tvg-name="PREMIERE CLUBES HD" tvg-logo="http://img.starbr.in/1559764209_74d30997828ad52da3424f0912a94a9d3d42cc02.jpg" group-title="Esportes",PREMIERE CLUBES HD
-http://list.deeplist.nl:80/live/bg2000609/2000609/1714.m3u8
+#EXTINF:-1 tvg-logo="http://i.imgur.com/MmJBR9j.png" group-title="Sound!", Sertanejo Universitário
+http://192.99.150.31:9191/stream
  
-#EXTINF:-1 tvg-id="PREMIERE CLUBES" tvg-name="PREMIERE CLUBES HD 2" tvg-logo="http://img.starbr.in/1559764209_74d30997828ad52da3424f0912a94a9d3d42cc02.jpg" group-title="Esportes",PREMIERE CLUBES HD 2
-http://list.deeplist.nl:80/live/bg2000609/2000609/50206.m3u8
+#EXTINF:-1 tvg-logo="http://i.imgur.com/MmJBR9j.png" group-title="Sound!", Pop Hits
+http://6d9a.webradio.upx.net.br:9046/stream
  
-#EXTINF:-1 tvg-id="PREMIERE CLUBES" tvg-name="PREMIERE CLUBES SD+" tvg-logo="http://img.starbr.in/1559764209_74d30997828ad52da3424f0912a94a9d3d42cc02.jpg" group-title="Esportes",PREMIERE CLUBES SD+
-http://list.deeplist.nl:80/live/bg2000609/2000609/25246.m3u8
+#EXTINF:-1 tvg-logo="http://i.imgur.com/MmJBR9j.png" group-title="Sound!", Metal
+http://6d9a.webradio.upx.net.br:9898/stream
+ 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/MmJBR9j.png" group-title="Sound!", Trilhas Sonoras
+http://6d9a.webradio.upx.net.br:9896/stream
+ 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/Jotugf0.png" group-title="Canais", SBT PI HD
+http://192.99.46.182:1935/pioneira-tv3/pioneira-tv3/playlist.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/Jotugf0.png" group-title="Canais", SBT - PE | CARUARÚ
+http://evpp.mm.uol.com.br:1935/ne10/ne10-tvjornal-caruaru-video-web.sdp/live.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/Jotugf0.png" group-title="Canais", SBT MA
+http://difusorama.zoeweb.tv:1935/z437-live/stream/chunklist_w1260675550.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/Jotugf0.png" group-title="Canais", SBT - MA | IMPERATRIZ
+http://difusorama.zoeweb.tv:1935/z438-live/stream/chunklist_w264526402.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MEBQV6z.png" group-title="Canais", REDE TV SP
+http://evpp.mm.uol.com.br:1935/redetv1/redetv1/playlist.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MEBQV6z.png" group-title="Canais", REDE TV RJ
+http://evpp.mm.uol.com.br:1935/redetv2/redetv2/playlist.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/oNpqaxy.png?1" group-title="Canais", TVE BRASIL
+http://streaming.procergs.com.br:1935/tve/stve/playlist.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/oNpqaxy.png?1" group-title="Canais", TVE BA HD
+http://stream2.ba.gov.br/hls-live/livepkgr/_definst_/irdeb/pgm-2.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Agw8tsJ.png" group-title="Canais", TV EDUCATIVA
+http://rbc.directradios.com:1935/rbc/smil:rbc.smil/playlist.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Agw8tsJ.png" group-title="Canais", TV EDUCATIVA
+http://rbc.directradios.com:1935/rbc/rbc_720p/playlist.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/4DOaSQC.png" group-title="Canais", TV CULTURA MG
+http://173.236.10.10:1935/redeatividade/redeatividade/playlist.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/4DOaSQC.png" group-title="Canais", TV CULTURA PA
+http://177.74.1.38/funtelpa/tv_funtelpa/playlist.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/VlHeBLa.png?1" group-title="Canais", CAT TVE
+http://wowza4.catve.com.br:1935/live/livestream/chunklist_w708731897.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/EAufOuD.png?1" group-title="Canais", TV UP HD
+http://caikron.com.br:1935/unipar/tvup/chunklist_w737489399.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/EAufOuD.png?1" group-title="Canais", TV UP HD
+http://caikron.com.br:1935/unipar/tvup/playlist.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/xGYSOgE.png" group-title="Canais", AGRO BRASIL
+http://177.54.152.243:1935/agrobrasiltv/agrobrasiltv/playlist.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/174abcdaff2dea4f8a12695f26f6e517.png" group-title="CANAIS", HOP CHANNEL- Canal FutucAndroiD
+https://bcliveunivsecure-lh.akamaihd.net/i/HopeChannel_1@571270/index_3192_av-p.m3u8?sd=10&rebase=on
+ 
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/da98ac6d6b08d276d592769ec21bc17f.png" group-title="CANAIS", GOSPEL MOVIES TELEVISION- Canal FutucAndroiD
+http://stmv2.srvstm.com/gospelf/gospelf/playlist.m3u8?ANTONYGTV
+ 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/oNpqaxy.png?1" group-title="CANAIS", TVE BA HD- Canal FutucAndroiD
+http://stream2.ba.gov.br/hls-live/livepkgr/_definst_/irdeb/pgm-2.m3u8?ANTONIO
+ 
+#EXTINF:-1 tvg-logo="https://goo.gl/Dxnuge" group-title="CANAIS", CINE ANTONIO FILMES 24HS- Canal FutucAndroiD
+http://stmv2.srvstm.com/tvjsid/tvjsid/playlist.m3u8?ANTONYGTV
+ 
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/1d40c5df4382948baeb49aa7d953126b.jpg" group-title="CANAIS", RAI MOVIES- Canal FutucAndroiD
+http://b2everyrai-lh.akamaihd.net/i/raimovie_1@67348/master.m3u8?ANTONYGTV
+ 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/1no2stT.jpg" group-title="CANAIS", RETRÔ MUSIC- Canal FutucAndroiD
+http://stream.mediawork.cz/retrotv//retrotvHQ1/playlist.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/q0weOxZ.png?1" group-title="CANAIS", ARG:CANAL 26 HD- Canal FutucAndroiD
+http://200.115.193.177/live/26hd-720/.m3u8
+ 
+#EXTINF:-1 tvg-logo="/iptv-list.jpg" group-title="FILMES", filmes 1
+http://stmv2.srvstm.com/tvjsid/tvjsid/playlist.m3u8
+ 
+#EXTINF:-1 tvg-logo="/iptv-list.jpg" group-title="TV FECHADA", Cine Filmes 4
+http://stmv2.srvstm.com/tvjsid/tvjsid/playlist.m3u8?wowzasessionid=525649341
+ 
+#EXTINF:-1 tvg-logo="/iptv-list.jpg" group-title="cine", Gospel Cartoon
+http://stmv1.srvstm.com/gospelcartoon/gospelcartoon/playlist.m3u8?wowzasessionid=495096105
