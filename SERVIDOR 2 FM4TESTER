@@ -1,27 +1,39 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="Canal Adulto 3" tvg-name="XXX: CANAL ADULTO 3 SD" tvg-logo="http://img.olx.com.br/images/61/617714029776145.jpg" group-title="CANAIS ADULTO",XXX: CANAL ADULTO 3 SD
-http://painel.ebanonet.com.br:25461/kleber02/kleber02/6198
-#EXTINF:-1 tvg-id="" tvg-name="XXX: JASMIN TV SD" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/jasmim.png" group-title="CANAIS ADULTO",XXX: JASMIN TV SD
-http://painel.ebanonet.com.br:25461/kleber02/kleber02/6201
-#EXTINF:-1 tvg-id="PlayboyTV" tvg-name="XXX: PLAYBOY SD*" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/Logotipo_da_Playboy_TV.png" group-title="CANAIS ADULTO",XXX: PLAYBOY SD*
-http://painel.ebanonet.com.br:25461/kleber02/kleber02/20448
-#EXTINF:-1 tvg-id="PlayboyTV" tvg-name="XXX: PLAYBOY TV HD" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/Logotipo_da_Playboy_TV.png" group-title="CANAIS ADULTO",XXX: PLAYBOY TV HD
-http://painel.ebanonet.com.br:25461/kleber02/kleber02/10358
-#EXTINF:-1 tvg-id="PlayboyTV" tvg-name="XXX: PLAYBOY TV SD" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/Logotipo_da_Playboy_TV.png" group-title="CANAIS ADULTO",XXX: PLAYBOY TV SD
-http://painel.ebanonet.com.br:25461/kleber02/kleber02/4342
-#EXTINF:-1 tvg-id="SexPrive" tvg-name="XXX: SEX PRIVE SD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/sexprive.png" group-title="CANAIS ADULTO",XXX: SEX PRIVE SD
-http://painel.ebanonet.com.br:25461/kleber02/kleber02/20446
-#EXTINF:-1 tvg-id="Sextreme" tvg-name="XXX: SEXTREME HD" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/sex.png" group-title="CANAIS ADULTO",XXX: SEXTREME HD
-http://painel.ebanonet.com.br:25461/kleber02/kleber02/20440
-#EXTINF:-1 tvg-id="Sextreme" tvg-name="XXX: SEXTREME SD" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/sex.png" group-title="CANAIS ADULTO",XXX: SEXTREME SD
-http://painel.ebanonet.com.br:25461/kleber02/kleber02/4330
-#EXTINF:-1 tvg-id="Sextreme" tvg-name="XXX: SEXTREME SD*" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/sex.png" group-title="CANAIS ADULTO",XXX: SEXTREME SD*
-http://painel.ebanonet.com.br:25461/kleber02/kleber02/20449
-#EXTINF:-1 tvg-id="SexyHot" tvg-name="XXX: SEXY HOT HD" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/sexhot.png" group-title="CANAIS ADULTO",XXX: SEXY HOT HD
-http://painel.ebanonet.com.br:25461/kleber02/kleber02/20441
-#EXTINF:-1 tvg-id="SexyHot" tvg-name="XXX: SEXY HOT SD" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/sexhot.png" group-title="CANAIS ADULTO",XXX: SEXY HOT SD
-http://painel.ebanonet.com.br:25461/kleber02/kleber02/4329
-#EXTINF:-1 tvg-id="SexyHot" tvg-name="XXX: SEXY HOT SD*" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/sexhot.png" group-title="CANAIS ADULTO",XXX: SEXY HOT SD*
-http://painel.ebanonet.com.br:25461/kleber02/kleber02/20447
-#EXTINF:-1 tvg-id="Venus" tvg-name="XXX: VENUS SD" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/Canal_Venus_logo.svg_.png" group-title="CANAIS ADULTO",XXX: VENUS SD
-http://painel.ebanonet.com.br:25461/kleber02/kleber02/6081
+#EXTINF:-1,TNT SD [Legendado]
+http://csrv.tv:80/19991503287/AepT3/1508
+#EXTINF:-1,FX HD [Legendado]
+http://csrv.tv:80/19991503287/AepT3/1507
+#EXTINF:-1,FX SD [Legendado]
+http://csrv.tv:80/19991503287/AepT3/1506
+#EXTINF:-1,MAX Up HD [Legendado]
+http://csrv.tv:80/19991503287/AepT3/1505
+#EXTINF:-1,MAX Up SD [Legendado]
+http://csrv.tv:80/19991503287/AepT3/1504
+#EXTINF:-1,Megapix HD [Legendado]
+http://csrv.tv:80/19991503287/AepT3/1503
+#EXTINF:-1,Megapix SD [Legendado]
+http://csrv.tv:80/19991503287/AepT3/1502
+#EXTINF:-1,Space HD [Legendado]
+http://csrv.tv:80/19991503287/AepT3/1501
+#EXTINF:-1,Space SD [Legendado]
+http://csrv.tv:80/19991503287/AepT3/1500
+#EXTINF:-1,TNT Series HD [Legendado]
+http://csrv.tv:80/19991503287/AepT3/1499
+#EXTINF:-1,TNT Series SD [Legendado]
+http://csrv.tv:80/19991503287/AepT3/1498
+#EXTINF:-1,Warner Channel HD [Legendado]
+http://csrv.tv:80/19991503287/AepT3/1497
+#EXTINF:-1,Warner Channel SD [Legendado]
+http://csrv.tv:80/1991503287/AepT3/1496
+#EXTINF:-1,Canal Sony HD [Legendado]
+http://csrv.tv:80/19991503287/AepT3/1495
+#EXTINF:-1,Canal Sony SD [Legendado]
+http://csrv.tv:80/19991503287/AepT3/1494
+#EXTINF:-1,SporTV 4K
+http://csrv.tv:80/19991503287/AepT3/1493
+#EXTINF:-1,Premiere Clubes 4K
+http://csrv.tv:80/19991503287/AepT3/1492
+#EXTINF:-1,Combate 4K
+http://csrv.tv:80/19991503287/AepT3/1491
+#EXTINF:-1,Globo SP 4K
+http://csrv.tv:80/19991503287/AepT3/1490
