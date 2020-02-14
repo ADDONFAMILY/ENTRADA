@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="encurtador.com.br/crUWX" group-title="Tv Aberta" SBT HD
-blob:http://player.aovivo.club/1806ef20-a234-4e01-8951-5b55b1b03a7f
+http://player.aovivo.club/1806ef20-a234-4e01-8951-5b55b1b03a7f
  
 #EXTINF:-1 tvg-logo="encurtador.com.br/qRW68" group-title="Tv Aberta" RECORD HD
 blob:http://player.aovivo.club/578643d0-19df-4bc5-af4b-a1ea3fa17130
