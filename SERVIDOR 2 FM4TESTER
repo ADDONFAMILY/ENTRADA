@@ -1,547 +1,1782 @@
 
  
 
- 
- *******************
- <item>
-<title>[B][COLOR dodgerblue]|||[/COLOR][COLOR white]|||[/COLOR][COLOR dodgerblue]|||[/COLOR] [COLOR white]CANAIS ABERTOS[/COLOR][/B]</title>
-<link>here</link>
-<thumbnail>https://i.imgur.com/pkYeL6E.png</thumbnail>
-</item>
-<item>
-<title>[B][COLOR white]BAND[/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
-<link>http://duocdn.ddns.net/077/myStream/playlist.m3u8</link>
-<thumbnail>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/logos/band.png</thumbnail>
-</item>
-<item>
-<title>[B][COLOR white]GLOBO SP[/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
-<link>http://duocdn.ddns.net/020/myStream/playlist.m3u8</link>
-<thumbnail>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/logos/globo.png</thumbnail>
-</item>
-<item>
-<title>[B][COLOR white]GLOBO RJ[/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
-<link>http://duocdn.ddns.net/021/myStream/playlist.m3u8</link>
-<thumbnail>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/logos/globo.png</thumbnail>
-</item>
-<item>
-<title>[B][COLOR white]RPC TV[/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
-<link>http://duocdn.ddns.net/081/myStream/playlist.m3u8</link>
-<thumbnail>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/logos/globo.png</thumbnail>
-</item>
-<item>
-<title>[B][COLOR white]RECORD[/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
-<link></link>
-<thumbnail>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/logos/record.png</thumbnail>
-</item>
-<item>
-<title>[B][COLOR white]REDE TV[/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
-<link>http://duocdn.ddns.net/063/myStream/playlist.m3u8</link>
-<thumbnail>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/logos/redetv.png</thumbnail>
-</item>
-<item>
-<title>[B][COLOR white]SBT[/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
-<link>http://duocdn.ddns.net/084/myStream/playlist.m3u8</link>
-<thumbnail>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/logos/sbt.png</thumbnail>
-</item>
-<item>
-<title>[B][COLOR white]TV GAZETA[/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
-<link></link>
-<thumbnail>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/logos/tvgazeta.png</thumbnail>
-</item>
-<item>
-<title>[B][COLOR dodgerblue]|||[/COLOR][COLOR white]|||[/COLOR][COLOR dodgerblue]|||[/COLOR] [COLOR white]DOCUMENTÁRIOS[/COLOR][/B]</title>
-<link>here</link>
-<thumbnail>https://i.imgur.com/pkYeL6E.png</thumbnail>
-</item>
-<item>
-<title>[B][COLOR white]ANIMAL PLANET[/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
-<link>http://duocdn.ddns.net/017/myStream/playlist.m3u8</link>
-<thumbnail>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/logos/animal_planet.png</thumbnail>
-</item>
-<item>
-<title>[B][COLOR white]DISCOVERY CHANNEL[/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
-<link>http://duocdn.ddns.net/c011/myStream/playlist.m3u8</link>
-<thumbnail>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/logos/discovery_channel.png</thumbnail>
-</item>
-<item>
-<title>[B][COLOR white]DISCOVERY CIVILIZATION[/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
-<link>http://duocdn.ddns.net/050/myStream/playlist.m3u8</link>
-<thumbnail>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/logos/discovery_civilization.png</thumbnail>
-</item>
-<item>
-<title>[B][COLOR white]DISCOVERY SCIENCE[/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
-<link>http://duocdn.ddns.net/074/myStream/playlist.m3u8</link>
-<thumbnail>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/logos/discovery_science.png</thumbnail>
-</item>
-<item>
-<title>[B][COLOR white]DISCOVERY WORLD[/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
-<link>http://duocdn.ddns.net/094/myStream/playlist.m3u8</link>
-<thumbnail>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/logos/discovery_world.png</thumbnail>
-</item>
-<item>
-<title>[B][COLOR white]HISTORY[/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
-<link>http://duocdn.ddns.net/024/myStream/playlist.m3u8</link>
-<thumbnail>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/logos/history.png</thumbnail>
-</item>
-<item>
-<title>[B][COLOR white]H2[/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
-<link>http://duocdn.ddns.net/054/myStream/playlist.m3u8</link>
-<thumbnail>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/logos/h2.png</thumbnail>
-</item>
-<item>
-<title>[B][COLOR white]NAT GEO[/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
-<link>http://duocdn.ddns.net/101/myStream/playlist.m3u8</link>
-<thumbnail>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/logos/natgeo.png</thumbnail>
-</item>
-<item>
-<title>[B][COLOR white]NAT GEO WILD[/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
-<link>http://duocdn.ddns.net/082/myStream/playlist.m3u8</link>
-<thumbnail>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/logos/natgeo_wild.png</thumbnail>
-</item>
-<item>
-<title>[B][COLOR dodgerblue]|||[/COLOR][COLOR white]|||[/COLOR][COLOR dodgerblue]|||[/COLOR] [COLOR white]ESPORTES[/COLOR][/B]</title>
-<link>here</link>
-<thumbnail>https://i.imgur.com/pkYeL6E.png</thumbnail>
-</item>
-<item>
-<title>[B][COLOR white]BAND SPORTS[/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
-<link>http://duocdn.ddns.net/c015/myStream/playlist.m3u8</link>
-<thumbnail>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/logos/bandsports.png</thumbnail>
-</item>
-<item>
-<title>[B][COLOR white]COMBATE[/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
-<link>http://duocdn.ddns.net/016/myStream/playlist.m3u8</link>
-<thumbnail>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/logos/combate.png</thumbnail>
-</item>
-<item>
-<title>[B][COLOR white]DISCOVERY TURBO[/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
-<link>http://duocdn.ddns.net/026/myStream/playlist.m3u8</link>
-<thumbnail>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/logos/discovery_turbo.png</thumbnail>
-</item>
-<item>
-<title>[B][COLOR white]ESPN[/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
-<link>http://duocdn.ddns.net/c002/myStream/playlist.m3u8</link>
-<thumbnail>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/logos/espn.png</thumbnail>
-</item>
-<item>
-<title>[B][COLOR white]ESPN+[/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
-<link>http://duocdn.ddns.net/c003/myStream/playlist.m3u8</link>
-<thumbnail>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/logos/espn_plus.png</thumbnail>
-</item>
-<item>
-<title>[B][COLOR white]ESPN BRASIL[/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
-<link>http://duocdn.ddns.net/c001/myStream/playlist.m3u8</link>
-<thumbnail>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/logos/espn_brasil.png</thumbnail>
-</item>
-<item>
-<title>[B][COLOR white]ESPORTE INTERATIVO BR[/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
-<link>http://duocdn.ddns.net/048/myStream/playlist.m3u8</link>
-<thumbnail>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/logos/ei1.png</thumbnail>
-</item>
-<item>
-<title>[B][COLOR white]ESPORTE INTERATIVO[/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
-<link>http://duocdn.ddns.net/c004/myStream/playlist.m3u8</link>
-<thumbnail>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/logos/ei1.png</thumbnail>
-</item>
-<item>
-<title>[B][COLOR white]ESPORTE INTERATIVO 2[/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
-<link>http://duocdn.ddns.net/c005/myStream/playlist.m3u8</link>
-<thumbnail>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/logos/ei2.png</thumbnail>
-</item>
-<item>
-<title>[B][COLOR white]FOX SPORTS[/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
-<link>http://duocdn.ddns.net/036/myStream/playlist.m3u8</link>
-<thumbnail>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/logos/foxsports.png</thumbnail>
-</item>
-<item>
-<title>[B][COLOR white]FOX SPORTS 2[/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
-<link>http://duocdn.ddns.net/c009/myStream/playlist.m3u8</link>
-<thumbnail>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/logos/foxsports2.png</thumbnail>
-</item>
-<item>
-<title>[B][COLOR white]PREMIERE CLUBE[/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
-<link>http://duocdn.ddns.net/097/myStream/playlist.m3u8</link>
-<thumbnail>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/logos/premiere.png</thumbnail>
-</item>
-<item>
-<title>[B][COLOR white]PREMIERE 2[/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
-<link>http://duocdn.ddns.net/099/myStream/playlist.m3u8</link>
-<thumbnail>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/logos/premiere.png</thumbnail>
-</item>
-<item>
-<title>[B][COLOR white]PREMIERE 3[/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
-<link>http://duocdn.ddns.net/100/myStream/playlist.m3u8</link>
-<thumbnail>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/logos/premiere.png</thumbnail>
-</item>
-<item>
-<title>[B][COLOR white]PREMIERE 4[/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
-<link>http://duocdn.ddns.net/110/myStream/playlist.m3u8</link>
-<thumbnail>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/logos/premiere.png</thumbnail>
-</item>
-<item>
-<title>[B][COLOR white]PREMIERE 5[/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
-<link>http://duocdn.ddns.net/044/myStream/playlist.m3u8</link>
-<thumbnail>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/logos/premiere.png</thumbnail>
-</item>
-<item>
-<title>[B][COLOR white]PREMIERE 6[/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
-<link>http://duocdn.ddns.net/042/myStream/playlist.m3u8</link>
-<thumbnail>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/logos/premiere.png</thumbnail>
-</item>
-<item>
-<title>[B][COLOR white]PREMIERE 7[/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
-<link>http://duocdn.ddns.net/043/myStream/playlist.m3u8</link>
-<thumbnail>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/logos/premiere.png</thumbnail>
-</item>
-<item>
-<title>[B][COLOR white]SPORTV[/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
-<link>http://duocdn.ddns.net/c008/myStream/playlist.m3u8</link>
-<thumbnail>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/logos/sportv.png</thumbnail>
-</item>
-<item>
-<title>[B][COLOR white]SPORTV 2[/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
-<link>http://duocdn.ddns.net/c007/myStream/playlist.m3u8</link>
-<thumbnail>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/logos/sportv.png</thumbnail>
-</item>
-<item>
-<title>[B][COLOR white]SPORTV 3[/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
-<link>http://duocdn.ddns.net/c016/myStream/playlist.m3u8</link>
-<thumbnail>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/logos/sportv.png</thumbnail>
-</item>
-<item>
-<title>[B][COLOR dodgerblue]|||[/COLOR][COLOR white]|||[/COLOR][COLOR dodgerblue]|||[/COLOR] [COLOR white]FILMES & SÉRIES[/COLOR][/B]</title>
-<link>here</link>
-<thumbnail>https://i.imgur.com/pkYeL6E.png</thumbnail>
-</item>
-<item>
-<title>[B][COLOR white]A&E[/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
-<link>http://duocdn.ddns.net/031/myStream/playlist.m3u8</link>
-<thumbnail>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/logos/ae.png</thumbnail>
-</item>
-<item>
-<title>[B][COLOR white]AMC[/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
-<link>http://duocdn.ddns.net/007/myStream/playlist.m3u8</link>
-<thumbnail>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/logos/amc.png</thumbnail>
-</item>
-<item>
-<title>[B][COLOR white]AXN[/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
-<link>http://duocdn.ddns.net/078/myStream/playlist.m3u8</link>
-<thumbnail>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/logos/axn.png</thumbnail>
-</item>
-<item>
-<title>[B][COLOR white]CINEMAX[/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
-<link>http://duocdn.ddns.net/035/myStream/playlist.m3u8</link>
-<thumbnail>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/logos/cinemax.png</thumbnail>
-</item>
-<item>
-<title>[B][COLOR white]FOX[/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
-<link>http://duocdn.ddns.net/064/myStream/playlist.m3u8</link>
-<thumbnail>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/logos/fox.png</thumbnail>
-</item>
-<item>
-<title>[B][COLOR white]FOX PREMIUM 1[/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
-<link>http://duocdn.ddns.net/018/myStream/playlist.m3u8</link>
-<thumbnail>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/logos/fox_premium.png</thumbnail>
-</item>
-<item>
-<title>[B][COLOR white]FOX PREMIUM 2[/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
-<link>http://duocdn.ddns.net/019/myStream/playlist.m3u8</link>
-<thumbnail>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/logos/fox_premium.png</thumbnail>
-</item>
-<item>
-<title>[B][COLOR white]FX[/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
-<link>http://duocdn.ddns.net/046/myStream/playlist.m3u8</link>
-<thumbnail>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/logos/fx.png</thumbnail>
-</item>
-<item>
-<title>[B][COLOR white]HBO[/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
-<link>http://duocdn.ddns.net/053/myStream/playlist.m3u8</link>
-<thumbnail>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/logos/hbo.png</thumbnail>
-</item>
-<item>
-<title>[B][COLOR white]HBO 2[/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
-<link>http://duocdn.ddns.net/047/myStream/playlist.m3u8</link>
-<thumbnail>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/logos/hbo2.png</thumbnail>
-</item>
-<item>
-<title>[B][COLOR white]HBO FAMILY[/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
-<link>http://duocdn.ddns.net/088/myStream/playlist.m3u8</link>
-<thumbnail>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/logos/hbo_family.png</thumbnail>
-</item>
-<item>
-<title>[B][COLOR white]HBO PLUS[/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
-<link>http://duocdn.ddns.net/037/myStream/playlist.m3u8</link>
-<thumbnail>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/logos/hbo_plus.png</thumbnail>
-</item>
-<item>
-<title>[B][COLOR white]HBO SIGNATURE[/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
-<link>http://duocdn.ddns.net/071/myStream/playlist.m3u8</link>
-<thumbnail>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/logos/hbo_signature.png</thumbnail>
-</item>
-<item>
-<title>[B][COLOR white]MAX[/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
-<link>http://duocdn.ddns.net/051/myStream/playlist.m3u8</link>
-<thumbnail>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/logos/max.png</thumbnail>
-</item>
-<item>
-<title>[B][COLOR white]MAX UP[/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
-<link>http://duocdn.ddns.net/045/myStream/playlist.m3u8</link>
-<thumbnail>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/logos/max_up.png</thumbnail>
-</item>
-<item>
-<title>[B][COLOR white]MAX PRIME[/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
-<link>http://duocdn.ddns.net/092/myStream/playlist.m3u8</link>
-<thumbnail>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/logos/max_prime.png</thumbnail>
-</item>
-<item>
-<title>[B][COLOR white]MEGAPIX[/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
-<link>http://duocdn.ddns.net/033/myStream/playlist.m3u8</link>
-<thumbnail>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/logos/megapix.png</thumbnail>
-</item>
-<item>
-<title>[B][COLOR white]PARAMOUNT[/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
-<link>http://duocdn.ddns.net/004/myStream/playlist.m3u8</link>
-<thumbnail>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/logos/paramount.png</thumbnail>
-</item>
-<item>
-<title>[B][COLOR white]SONY[/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
-<link>http://duocdn.ddns.net/003/myStream/playlist.m3u8</link>
-<thumbnail>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/logos/sony.png</thumbnail>
-</item>
-<item>
-<title>[B][COLOR white]SPACE[/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
-<link>http://duocdn.ddns.net/029/myStream/playlist.m3u8</link>
-<thumbnail>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/logos/space.png</thumbnail>
-</item>
-<item>
-<title>[B][COLOR white]STUDIO UNIVERSAL[/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
-<link>http://duocdn.ddns.net/096/myStream/playlist.m3u8</link>
-<thumbnail>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/logos/studio_universal.png</thumbnail>
-</item>
-<item>
-<title>[B][COLOR white]SYFY[/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
-<link>http://duocdn.ddns.net/093/myStream/playlist.m3u8</link>
-<thumbnail>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/logos/syfy.png</thumbnail>
-</item>
-<item>
-<title>[B][COLOR white]TELECINE ACTION[/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
-<link>http://duocdn.ddns.net/068/myStream/playlist.m3u8</link>
-<thumbnail>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/logos/tc_action.png</thumbnail>
-</item>
-<item>
-<title>[B][COLOR white]TELECINE CULT[/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
-<link>http://duocdn.ddns.net/055/myStream/playlist.m3u8</link>
-<thumbnail>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/logos/tc_cult.png</thumbnail>
-</item>
-<item>
-<title>[B][COLOR white]TELECINE FUN[/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
-<link>http://duocdn.ddns.net/060/myStream/playlist.m3u8</link>
-<thumbnail>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/logos/tc_fun.png</thumbnail>
-</item>
-<item>
-<title>[B][COLOR white]TELECINE PIPOCA[/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
-<link>http://duocdn.ddns.net/065/myStream/playlist.m3u8</link>
-<thumbnail>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/logos/tc_pipoca.png</thumbnail>
-</item>
-<item>
-<title>[B][COLOR white]TELECINE PREMIUM[/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
-<link>http://duocdn.ddns.net/069/myStream/playlist.m3u8</link>
-<thumbnail>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/logos/tc_premium.png</thumbnail>
-</item>
-<item>
-<title>[B][COLOR white]TELECINE TOUCH[/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
-<link>http://duocdn.ddns.net/102/myStream/playlist.m3u8</link>
-<thumbnail>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/logos/tc_touch.png</thumbnail>
-</item>
-<item>
-<title>[B][COLOR white]TNT[/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
-<link>http://duocdn.ddns.net/009/myStream/playlist.m3u8</link>
-<thumbnail>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/logos/tnt.png</thumbnail>
-</item>
-<item>
-<title>[B][COLOR white]TNT SÉRIES[/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
-<link>http://duocdn.ddns.net/025/myStream/playlist.m3u8</link>
-<thumbnail>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/logos/tnt_series.png</thumbnail>
-</item>
-<item>
-<title>[B][COLOR white]UNIVERSAL CHANNEL[/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
-<link>http://duocdn.ddns.net/067/myStream/playlist.m3u8</link>
-<thumbnail>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/logos/universal_channel.png</thumbnail>
-</item>
-<item>
-<title>[B][COLOR white]WARNER[/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
-<link>http://duocdn.ddns.net/080/myStream/playlist.m3u8</link>
-<thumbnail>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/logos/warner_channel.png</thumbnail>
-</item>
-<item>
-<title>[B][COLOR dodgerblue]|||[/COLOR][COLOR white]|||[/COLOR][COLOR dodgerblue]|||[/COLOR] [COLOR white]INFANTIL[/COLOR][/B]</title>
-<link>here</link>
-<thumbnail>https://i.imgur.com/pkYeL6E.png</thumbnail>
-</item>
-<item>
-<title>[B][COLOR white]BOOMERANG[/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
-<link>http://duocdn.ddns.net/091/myStream/playlist.m3u8</link>
-<thumbnail>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/logos/boomerang.png</thumbnail>
-</item>
-<item>
-<title>[B][COLOR white]CARTOON NETWORK[/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
-<link>http://duocdn.ddns.net/027/myStream/playlist.m3u8</link>
-<thumbnail>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/logos/cartoon_network.png</thumbnail>
-</item>
-<item>
-<title>[B][COLOR white]DISCOVERY KIDS[/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
-<link>http://duocdn.ddns.net/c014/myStream/playlist.m3u8</link>
-<thumbnail>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/logos/discovery_kids.png</thumbnail>
-</item>
-<item>
-<title>[B][COLOR white]DISNEY CHANNEL[/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
-<link>http://duocdn.ddns.net/075/myStream/playlist.m3u8</link>
-<thumbnail>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/logos/disney_channel.png</thumbnail>
-</item>
-<item>
-<title>[B][COLOR white]DISNEY XD[/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
-<link>http://duocdn.ddns.net/086/myStream/playlist.m3u8</link>
-<thumbnail>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/logos/disney_xd.png</thumbnail>
-</item>
-<item>
-<title>[B][COLOR white]GLOOB[/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
-<link>http://duocdn.ddns.net/089/myStream/playlist.m3u8</link>
-<thumbnail>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/logos/gloob.png</thumbnail>
-</item>
-<item>
-<title>[B][COLOR white]NICK[/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
-<link>http://duocdn.ddns.net/015/myStream/live.m3u8</link>
-<thumbnail>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/logos/nick.png</thumbnail>
-</item>
-<item>
-<title>[B][COLOR white]NICK JR[/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
-<link>http://duocdn.ddns.net/052/myStream/playlist.m3u8</link>
-<thumbnail>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/logos/nick_jr.png</thumbnail>
-</item>
-<item>
-<title>[B][COLOR white]TOONCAST[/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
-<link>http://duocdn.ddns.net/085/myStream/playlist.m3u8</link>
-<thumbnail>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/logos/tooncast.png</thumbnail>
-</item>
-<item>
-<title>[B][COLOR dodgerblue]|||[/COLOR][COLOR white]|||[/COLOR][COLOR dodgerblue]|||[/COLOR] [COLOR white]MÚSICAS & VARIEDADES[/COLOR][/B]</title>
-<link>here</link>
-<thumbnail>https://i.imgur.com/pkYeL6E.png</thumbnail>
-</item>
-<item>
-<title>[B][COLOR white]CANAL OFF[/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
-<link></link>
-<thumbnail>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/logos/off.png</thumbnail>
-</item>
-<item>
-<title>[B][COLOR white]COMEDY CENTRAL[/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
-<link>http://duocdn.ddns.net/030/myStream/playlist.m3u8</link>
-<thumbnail>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/logos/comedy_central.png</thumbnail>
-</item>
-<item>
-<title>[B][COLOR white]DISCOVERY HOME & HEALTH[/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
-<link>http://duocdn.ddns.net/c013/myStream/playlist.m3u8</link>
-<thumbnail>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/logos/discovery_home_health.png</thumbnail>
-</item>
-<item>
-<title>[B][COLOR white]FISH TV[/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
-<link>http://duocdn.ddns.net/108/myStream/playlist.m3u8</link>
-<thumbnail>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/logos/fishtv.png</thumbnail>
-</item>
-<item>
-<title>[B][COLOR white]FOOD NETWORK[/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
-<link>http://duocdn.ddns.net/c012/myStream/playlist.m3u8</link>
-<thumbnail>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/logos/food_network.png</thumbnail>
-</item>
-<item>
-<title>[B][COLOR white]FOX LIFE[/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
-<link>http://duocdn.ddns.net/083/myStream/playlist.m3u8</link>
-<thumbnail>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/logos/fox_life.png</thumbnail>
-</item>
-<item>
-<title>[B][COLOR white]GNT[/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
-<link>http://duocdn.ddns.net/002/myStream/playlist.m3u8</link>
-<thumbnail>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/logos/gnt.png</thumbnail>
-</item>
-<item>
-<title>[B][COLOR white]ID[/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
-<link>http://duocdn.ddns.net/056/myStream/playlist.m3u8</link>
-<thumbnail>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/logos/discovery_investigation.png</thumbnail>
-</item>
-<item>
-<title>[B][COLOR white]LIFETIME[/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
-<link>http://duocdn.ddns.net/090/myStream/playlist.m3u8</link>
-<thumbnail>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/logos/lifetime.png</thumbnail>
-</item>
-<item>
-<title>[B][COLOR white]MAIS GLOBOSAT[/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
-<link>http://duocdn.ddns.net/073/myStream/playlist.m3u8</link>
-<thumbnail>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/logos/mais_globosat.png</thumbnail>
-</item>
-<item>
-<title>[B][COLOR white]MTV[/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
-<link>http://duocdn.ddns.net/072/myStream/playlist.m3u8</link>
-<thumbnail>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/logos/mtv.png</thumbnail>
-</item>
-<item>
-<title>[B][COLOR white]MULTISHOW[/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
-<link>http://duocdn.ddns.net/022/myStream/playlist.m3u8</link>
-<thumbnail>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/logos/multishow.png</thumbnail>
-</item>
-<item>
-<title>[B][COLOR white]TBS[/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
-<link>http://duocdn.ddns.net/038/myStream/playlist.m3u8</link>
-<thumbnail>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/logos/tbs.png</thumbnail>
-</item>
-<item>
-<title>[B][COLOR white]TCM[/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
-<link>http://duocdn.ddns.net/039/myStream/playlist.m3u8</link>
-<thumbnail>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/logos/tcm.png</thumbnail>
-</item>
-<item>
-<title>[B][COLOR white]TLC[/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
-<link>http://duocdn.ddns.net/034/myStream/playlist.m3u8</link>
-<thumbnail>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/logos/tlc.png</thumbnail>
-</item>
-<item>
-<title>[B][COLOR white]TRUTV[/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
-<link>http://duocdn.ddns.net/103/myStream/playlist.m3u8</link>
-<thumbnail>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/logos/trutv.png</thumbnail>
-</item>
-<item>
-<title>[B][COLOR white]VH1 MEGAHITS[/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
-<link>http://duocdn.ddns.net/040/myStream/playlist.m3u8</link>
-<thumbnail>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/logos/viva.png</thumbnail>
-</item>
-<item>
-<title>[B][COLOR white]VIVA[/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
-<link>http://duocdn.ddns.net/001/myStream/playlist.m3u8</link>
-<thumbnail>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/logos/viva.png</thumbnail>
-</item>
-<item>
-<title>[B][COLOR white]WOOHOO[/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
-<link></link>
-<thumbnail>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/logos/woohoo.png</thumbnail>
-</item>
-<item>
-<title>[B][COLOR dodgerblue]|||[/COLOR][COLOR white]|||[/COLOR][COLOR dodgerblue]|||[/COLOR] [COLOR white]NOTÍCIAS[/COLOR][/B]</title>
-<link>here</link>
-<thumbnail>https://i.imgur.com/pkYeL6E.png</thumbnail>
-</item>
-<item>
-<title>[B][COLOR white]BAND NEWS[/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
-<link>http://duocdn.ddns.net/032/myStream/playlist.m3u8</link>
-<thumbnail>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/logos/band_news.png</thumbnail>
-</item>
-<item>
-<title>[B][COLOR white]GLOBO NEWS[/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
-<link>http://duocdn.ddns.net/013/myStream/playlist.m3u8</link>
-<thumbnail>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/logos/globonews.png</thumbnail>
-</item>
-<item>
-<title>[B][COLOR white]RECORD NEWS[/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
-<link>http://duocdn.ddns.net/049/myStream/playlist.m3u8</link>
-<thumbnail>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/logos/record_news.png</thumbnail>
-</item>
+ #EXTM3U
+#EXTINF:-1,A&E FHD H265 (BR2)
+http://51.15.15.119:80/5050/1234/61906
+#EXTINF:-1,A&E HD (BR1)
+http://51.15.15.119:80/5050/1234/58733
+#EXTINF:-1,A&E HD (BR2)
+http://51.15.15.119:80/5050/1234/61720
+#EXTINF:-1,A&E SD (BR1)
+http://51.15.15.119:80/5050/1234/58732
+#EXTINF:-1,A&E SD (BR2)
+http://51.15.15.119:80/5050/1234/62915
+#EXTINF:-1,AGRO CANAL SD
+http://51.15.15.119:80/5050/1234/32904
+#EXTINF:-1,AMC FHD H265 (BR2)
+http://51.15.15.119:80/5050/1234/61905
+#EXTINF:-1,AMC HD (BR1)
+http://51.15.15.119:80/5050/1234/58731
+#EXTINF:-1,AMC HD (BR2)
+http://51.15.15.119:80/5050/1234/61719
+#EXTINF:-1,AMC SD (BR1)
+http://51.15.15.119:80/5050/1234/58730
+#EXTINF:-1,AMC SD (BR2)
+http://51.15.15.119:80/5050/1234/62914
+#EXTINF:-1,ANIMAL  PLANET FHD (BR1)
+http://51.15.15.119:80/5050/1234/58729
+#EXTINF:-1,ANIMAL PLANET FHD H265 (BR2)
+http://51.15.15.119:80/5050/1234/61904
+#EXTINF:-1,ANIMAL PLANET HD (BR1)
+http://51.15.15.119:80/5050/1234/58728
+#EXTINF:-1,ANIMAL PLANET HD (BR2)
+http://51.15.15.119:80/5050/1234/61718
+#EXTINF:-1,ANIMAL PLANET SD (BR1)
+http://51.15.15.119:80/5050/1234/58727
+#EXTINF:-1,ANIMAL PLANET SD (BR2)
+http://51.15.15.119:80/5050/1234/62913
+#EXTINF:-1,ARTE 1 HD (BR1)
+http://51.15.15.119:80/5050/1234/58726
+#EXTINF:-1,ARTE 1 HD (BR2)
+http://51.15.15.119:80/5050/1234/61717
+#EXTINF:-1,ARTE 1 SD (BR1)
+http://51.15.15.119:80/5050/1234/58725
+#EXTINF:-1,ARTE 1 SD (BR2)
+http://51.15.15.119:80/5050/1234/62912
+#EXTINF:-1,AUTO MOTO TV SD
+http://178.22.187.253:1935/streaming-tv/mp4:myStream3/playlist.m3u8
+#EXTINF:-1,AXN FHD H265 (BR2)
+http://51.15.15.119:80/5050/1234/61903
+#EXTINF:-1,AXN HD (BR1)
+http://51.15.15.119:80/5050/1234/58724
+#EXTINF:-1,AXN HD (BR2)
+http://51.15.15.119:80/5050/1234/61716
+#EXTINF:-1,AXN SD (BR1)
+http://51.15.15.119:80/5050/1234/58723
+#EXTINF:-1,AXN SD (BR2)
+http://51.15.15.119:80/5050/1234/62911
+#EXTINF:-1,BABY HD (BR2)
+http://51.15.15.119:80/5050/1234/61715
+#EXTINF:-1,BABY TV SD (BR1)
+http://51.15.15.119:80/5050/1234/58722
+#EXTINF:-1,BABY TV SD (BR2)
+http://51.15.15.119:80/5050/1234/62910
+#EXTINF:-1,BAND CAMPINAS HD (BR2)
+http://51.15.15.119:80/5050/1234/61714
+#EXTINF:-1,BAND FHD H265 (BR2)
+http://51.15.15.119:80/5050/1234/61902
+#EXTINF:-1,BAND NEWS FHD (BR1)
+http://51.15.15.119:80/5050/1234/58721
+#EXTINF:-1,BAND NEWS FHD H265 (BR2)
+http://51.15.15.119:80/5050/1234/61901
+#EXTINF:-1,BAND NEWS HD (BR1)
+http://51.15.15.119:80/5050/1234/58720
+#EXTINF:-1,BAND NEWS HD (BR2)
+http://51.15.15.119:80/5050/1234/61713
+#EXTINF:-1,BAND NEWS SD (BR1)
+http://51.15.15.119:80/5050/1234/58719
+#EXTINF:-1,BAND NEWS SD (BR2)
+http://51.15.15.119:80/5050/1234/62909
+#EXTINF:-1,BAND SD (BR2)
+http://51.15.15.119:80/5050/1234/62908
+#EXTINF:-1,BAND SP FHD (BR1)
+http://51.15.15.119:80/5050/1234/58718
+#EXTINF:-1,BAND SP HD (BR1)
+http://51.15.15.119:80/5050/1234/58717
+#EXTINF:-1,BAND SP HD (BR2)
+http://51.15.15.119:80/5050/1234/61712
+#EXTINF:-1,BAND SP SD (BR1)
+http://51.15.15.119:80/5050/1234/58716
+#EXTINF:-1,BAND SPORTS FHD H265 (BR2)
+http://51.15.15.119:80/5050/1234/61900
+#EXTINF:-1,BAND SPORTS HD (BR1)
+http://51.15.15.119:80/5050/1234/58715
+#EXTINF:-1,BAND SPORTS HD (BR2)
+http://51.15.15.119:80/5050/1234/61711
+#EXTINF:-1,BAND SPORTS SD (BR1)
+http://51.15.15.119:80/5050/1234/58714
+#EXTINF:-1,BAND SPORTS SD (BR2)
+http://51.15.15.119:80/5050/1234/62907
+#EXTINF:-1,BIS FHD (BR1)
+http://51.15.15.119:80/5050/1234/58684
+#EXTINF:-1,BIS FHD H265 (BR2)
+http://51.15.15.119:80/5050/1234/61899
+#EXTINF:-1,BIS HD (BR1)
+http://51.15.15.119:80/5050/1234/58683
+#EXTINF:-1,BIS HD (BR2)
+http://51.15.15.119:80/5050/1234/61710
+#EXTINF:-1,BIS SD (BR1)
+http://51.15.15.119:80/5050/1234/58682
+#EXTINF:-1,BIS SD (BR2)
+http://51.15.15.119:80/5050/1234/62906
+#EXTINF:-1,BOA VONTADE TV HD (BR1)
+http://51.15.15.119:80/5050/1234/58681
+#EXTINF:-1,BOA VONTADE TV SD (BR2)
+http://51.15.15.119:80/5050/1234/62905
+#EXTINF:-1,BOOMERANG  FHD (BR1)
+http://51.15.15.119:80/5050/1234/58680
+#EXTINF:-1,BOOMERANG FHD H265 (BR2)
+http://51.15.15.119:80/5050/1234/61898
+#EXTINF:-1,BOOMERANG HD (BR1)
+http://51.15.15.119:80/5050/1234/58679
+#EXTINF:-1,BOOMERANG HD (BR2)
+http://51.15.15.119:80/5050/1234/61709
+#EXTINF:-1,BOOMERANG SD (BR1)
+http://51.15.15.119:80/5050/1234/58678
+#EXTINF:-1,BOOMERANG SD (BR2)
+http://51.15.15.119:80/5050/1234/62904
+#EXTINF:-1,CANAL BRASIL HD (BR1)
+http://51.15.15.119:80/5050/1234/58677
+#EXTINF:-1,CANAL BRASIL HD (BR2)
+http://51.15.15.119:80/5050/1234/61708
+#EXTINF:-1,CANAL BRASIL SD (BR1)
+http://51.15.15.119:80/5050/1234/58676
+#EXTINF:-1,CANAL BRASIL SD (BR2)
+http://51.15.15.119:80/5050/1234/62903
+#EXTINF:-1,Canal Cliente G5
+http://51.15.15.119:80/5050/1234/59915
+#EXTINF:-1,Canal do Cliente G5
+http://51.15.15.119:80/5050/1234/63467
+#EXTINF:-1,Canal Rural SD
+http://77149o.ha.azioncdn.net/hlslow/playlist.m3u8
+#EXTINF:-1,CANAL RURAL SD (BR2)
+http://51.15.15.119:80/5050/1234/62902
+#EXTINF:-1,CANAL SONY FHD H265 (BR2)
+http://51.15.15.119:80/5050/1234/61897
+#EXTINF:-1,CANAL SONY HD (BR1)
+http://51.15.15.119:80/5050/1234/58675
+#EXTINF:-1,CANAL SONY HD (BR2)
+http://51.15.15.119:80/5050/1234/61707
+#EXTINF:-1,CANAL SONY SD (BR1)
+http://51.15.15.119:80/5050/1234/58674
+#EXTINF:-1,CANAL SONY SD (BR2)
+http://51.15.15.119:80/5050/1234/62768
+#EXTINF:-1,CANCAO NOVA SD (BR1)
+http://51.15.15.119:80/5050/1234/58673
+#EXTINF:-1,CANCAO NOVA SD (BR2)
+http://51.15.15.119:80/5050/1234/62901
+#EXTINF:-1,CARTOON NETWORK FHD H265 (BR2)
+http://51.15.15.119:80/5050/1234/61896
+#EXTINF:-1,CARTOON NETWORK HD (BR1)
+http://51.15.15.119:80/5050/1234/58672
+#EXTINF:-1,CARTOON NETWORK HD (BR2)
+http://51.15.15.119:80/5050/1234/61706
+#EXTINF:-1,CARTOON NETWORK SD (BR1)
+http://51.15.15.119:80/5050/1234/58671
+#EXTINF:-1,CARTOON NETWORK SD (BR2)
+http://51.15.15.119:80/5050/1234/62900
+#EXTINF:-1,CBN SP SD
+https://stream.sgr.globo.com/hls/vCBNSP/vCBNSP.m3u8
+#EXTINF:-1,CINE SKY 1 SD (BR2)
+http://51.15.15.119:80/5050/1234/61705
+#EXTINF:-1,CINE SKY 2 SD (BR2)
+http://51.15.15.119:80/5050/1234/61704
+#EXTINF:-1,CINE SKY 3 SD (BR2)
+http://51.15.15.119:80/5050/1234/61703
+#EXTINF:-1,CINE SKY 4 SD (BR2)
+http://51.15.15.119:80/5050/1234/61702
+#EXTINF:-1,CINE SKY 5 SD (BR2)
+http://51.15.15.119:80/5050/1234/61701
+#EXTINF:-1,CINEMAX FHD H265 (BR2)
+http://51.15.15.119:80/5050/1234/61895
+#EXTINF:-1,CINEMAX HD (BR1)
+http://51.15.15.119:80/5050/1234/58664
+#EXTINF:-1,CINEMAX HD (BR2)
+http://51.15.15.119:80/5050/1234/61700
+#EXTINF:-1,CINEMAX SD (BR1)
+http://51.15.15.119:80/5050/1234/58663
+#EXTINF:-1,CINEMAX SD (BR2)
+http://51.15.15.119:80/5050/1234/62899
+#EXTINF:-1,CNN ESPANHOL SD (BR2)
+http://51.15.15.119:80/5050/1234/62898
+#EXTINF:-1,CNN INTERNACIONAL SD (BR2)
+http://51.15.15.119:80/5050/1234/62897
+#EXTINF:-1,CNT SD (BR2)
+http://51.15.15.119:80/5050/1234/62896
+#EXTINF:-1,COMBATE FHD (BR1)
+http://51.15.15.119:80/5050/1234/58662
+#EXTINF:-1,COMBATE FHD H265 (BR2)
+http://51.15.15.119:80/5050/1234/61894
+#EXTINF:-1,COMBATE HD (BR1)
+http://51.15.15.119:80/5050/1234/58661
+#EXTINF:-1,COMBATE HD (BR2)
+http://51.15.15.119:80/5050/1234/61699
+#EXTINF:-1,COMBATE SD (BR1)
+http://51.15.15.119:80/5050/1234/58660
+#EXTINF:-1,COMBATE SD (BR2)
+http://51.15.15.119:80/5050/1234/62895
+#EXTINF:-1,COMEDY CENTRAL FHD H265 (BR2)
+http://51.15.15.119:80/5050/1234/61893
+#EXTINF:-1,COMEDY CENTRAL HD (BR1)
+http://51.15.15.119:80/5050/1234/58659
+#EXTINF:-1,COMEDY CENTRAL HD (BR2)
+http://51.15.15.119:80/5050/1234/61698
+#EXTINF:-1,COMEDY CENTRAL SD (BR1)
+http://51.15.15.119:80/5050/1234/58658
+#EXTINF:-1,COMEDY CENTRAL SD (BR2)
+http://51.15.15.119:80/5050/1234/62894
+#EXTINF:-1,COPA LIBERTADORES HD (BR1)
+http://51.15.15.119:80/5050/1234/63866
+#EXTINF:-1,COPA DO NORDESTE (FINAIS)(BR2)
+http://51.15.15.119:80/5050/1234/63788
+#EXTINF:-1,CURTA SD (BR2)
+http://51.15.15.119:80/5050/1234/62893
+#EXTINF:-1,CURTA! HD (BR1)
+http://51.15.15.119:80/5050/1234/58651
+#EXTINF:-1,CURTA! SD (BR1)
+http://51.15.15.119:80/5050/1234/58650
+#EXTINF:-1,DAZN: P01 :: (BR2)
+http://51.15.15.119:80/5050/1234/63869
+#EXTINF:-1,DAZN: G02 :: (BR2)
+http://51.15.15.119:80/5050/1234/63868
+#EXTINF:-1,DAZN: BRASILEIRAO SERIE C HD (BR1)
+http://51.15.15.119:80/5050/1234/63867
+#EXTINF:-1,DAZN: COPA SULAMERICANA HD (BR1)
+http://51.15.15.119:80/5050/1234/63865
+#EXTINF:-1,DISCOVERY CHANNEL FHD (BR1)
+http://51.15.15.119:80/5050/1234/58649
+#EXTINF:-1,DISCOVERY CHANNEL FHD H265 (BR2)
+http://51.15.15.119:80/5050/1234/61892
+#EXTINF:-1,DISCOVERY CHANNEL HD (BR1)
+http://51.15.15.119:80/5050/1234/58648
+#EXTINF:-1,DISCOVERY CHANNEL HD (BR2)
+http://51.15.15.119:80/5050/1234/61697
+#EXTINF:-1,DISCOVERY CHANNEL SD (BR1)
+http://51.15.15.119:80/5050/1234/58647
+#EXTINF:-1,DISCOVERY CHANNEL SD (BR2)
+http://51.15.15.119:80/5050/1234/62891
+#EXTINF:-1,DISCOVERY CIVILIZATION FHD H265 (BR2)
+http://51.15.15.119:80/5050/1234/61891
+#EXTINF:-1,DISCOVERY CIVILIZATION HD (BR1)
+http://51.15.15.119:80/5050/1234/58646
+#EXTINF:-1,DISCOVERY CIVILIZATION HD (BR2)
+http://51.15.15.119:80/5050/1234/61696
+#EXTINF:-1,DISCOVERY CIVILIZATION SD (BR1)
+http://51.15.15.119:80/5050/1234/58645
+#EXTINF:-1,DISCOVERY H&H FHD H265 (BR2)
+http://51.15.15.119:80/5050/1234/61890
+#EXTINF:-1,DISCOVERY H&H HD (BR1)
+http://51.15.15.119:80/5050/1234/58644
+#EXTINF:-1,DISCOVERY H&H HD (BR2)
+http://51.15.15.119:80/5050/1234/61695
+#EXTINF:-1,DISCOVERY H&H SD (BR1)
+http://51.15.15.119:80/5050/1234/58643
+#EXTINF:-1,DISCOVERY H&H SD (BR2)
+http://51.15.15.119:80/5050/1234/62890
+#EXTINF:-1,DISCOVERY HOME & HEALTH FHD (BR1)
+http://51.15.15.119:80/5050/1234/58642
+#EXTINF:-1,DISCOVERY KIDS FHD (BR1)
+http://51.15.15.119:80/5050/1234/58641
+#EXTINF:-1,DISCOVERY KIDS FHD H265 (BR2)
+http://51.15.15.119:80/5050/1234/61889
+#EXTINF:-1,DISCOVERY KIDS HD (BR1)
+http://51.15.15.119:80/5050/1234/58640
+#EXTINF:-1,DISCOVERY KIDS HD (BR2)
+http://51.15.15.119:80/5050/1234/61694
+#EXTINF:-1,DISCOVERY KIDS SD (BR1)
+http://51.15.15.119:80/5050/1234/58639
+#EXTINF:-1,DISCOVERY KIDS SD (BR2)
+http://51.15.15.119:80/5050/1234/62889
+#EXTINF:-1,DISCOVERY SCIENCE FHD H265 (BR2)
+http://51.15.15.119:80/5050/1234/61888
+#EXTINF:-1,DISCOVERY SCIENCE HD (BR1)
+http://51.15.15.119:80/5050/1234/58638
+#EXTINF:-1,DISCOVERY SCIENCE HD (BR2)
+http://51.15.15.119:80/5050/1234/61693
+#EXTINF:-1,DISCOVERY SCIENCE SD (BR1)
+http://51.15.15.119:80/5050/1234/58637
+#EXTINF:-1,DISCOVERY THEATER FHD H265 (BR2)
+http://51.15.15.119:80/5050/1234/61887
+#EXTINF:-1,DISCOVERY THEATER HD (BR1)
+http://51.15.15.119:80/5050/1234/58636
+#EXTINF:-1,DISCOVERY THEATER HD (BR2)
+http://51.15.15.119:80/5050/1234/61692
+#EXTINF:-1,DISCOVERY THEATER SD (BR1)
+http://51.15.15.119:80/5050/1234/58635
+#EXTINF:-1,DISCOVERY TURBO FHD (BR1)
+http://51.15.15.119:80/5050/1234/58634
+#EXTINF:-1,DISCOVERY TURBO FHD H265 (BR2)
+http://51.15.15.119:80/5050/1234/61886
+#EXTINF:-1,DISCOVERY TURBO HD (BR1)
+http://51.15.15.119:80/5050/1234/58633
+#EXTINF:-1,DISCOVERY TURBO HD (BR2)
+http://51.15.15.119:80/5050/1234/61691
+#EXTINF:-1,DISCOVERY TURBO SD (BR1)
+http://51.15.15.119:80/5050/1234/58632
+#EXTINF:-1,DISCOVERY TURBO SD (BR2)
+http://51.15.15.119:80/5050/1234/62888
+#EXTINF:-1,DISCOVERY WORLD  HD (BR1)
+http://51.15.15.119:80/5050/1234/58631
+#EXTINF:-1,DISCOVERY WORLD FHD (BR1)
+http://51.15.15.119:80/5050/1234/58630
+#EXTINF:-1,DISCOVERY WORLD FHD H265 (BR2)
+http://51.15.15.119:80/5050/1234/61885
+#EXTINF:-1,DISCOVERY WORLD HD (BR2)
+http://51.15.15.119:80/5050/1234/61690
+#EXTINF:-1,DISCOVERY WORLD SD (BR1)
+http://51.15.15.119:80/5050/1234/58629
+#EXTINF:-1,DISNEY CHANNEL FHD (BR1)
+http://51.15.15.119:80/5050/1234/58628
+#EXTINF:-1,DISNEY CHANNEL FHD H265 (BR2)
+http://51.15.15.119:80/5050/1234/61884
+#EXTINF:-1,DISNEY CHANNEL HD (BR1)
+http://51.15.15.119:80/5050/1234/58627
+#EXTINF:-1,DISNEY CHANNEL HD (BR2)
+http://51.15.15.119:80/5050/1234/61689
+#EXTINF:-1,DISNEY CHANNEL SD (BR1)
+http://51.15.15.119:80/5050/1234/58626
+#EXTINF:-1,DISNEY CHANNEL SD (BR2)
+http://51.15.15.119:80/5050/1234/62887
+#EXTINF:-1,DISNEY JR FHD H265 (BR2)
+http://51.15.15.119:80/5050/1234/61883
+#EXTINF:-1,DISNEY JR HD (BR1)
+http://51.15.15.119:80/5050/1234/58625
+#EXTINF:-1,DISNEY JR HD (BR2)
+http://51.15.15.119:80/5050/1234/61688
+#EXTINF:-1,DISNEY JUNIOR SD (BR1)
+http://51.15.15.119:80/5050/1234/58624
+#EXTINF:-1,DISNEY JUNIOR SD (BR2)
+http://51.15.15.119:80/5050/1234/62886
+#EXTINF:-1,DISNEY XD HD (BR2)
+http://51.15.15.119:80/5050/1234/61687
+#EXTINF:-1,DISNEY XD SD (BR1)
+http://51.15.15.119:80/5050/1234/58623
+#EXTINF:-1,DISNEY XD SD (BR2)
+http://51.15.15.119:80/5050/1234/62885
+#EXTINF:-1,DW SD (BR2)
+http://51.15.15.119:80/5050/1234/62884
+#EXTINF:-1,E! HD (BR1)
+http://51.15.15.119:80/5050/1234/58622
+#EXTINF:-1,E! HD (BR2)
+http://51.15.15.119:80/5050/1234/61686
+#EXTINF:-1,E! SD (BR1)
+http://51.15.15.119:80/5050/1234/58621
+#EXTINF:-1,E! SD (BR2)
+http://51.15.15.119:80/5050/1234/62883
+#EXTINF:-1,EI PLUS SD (BR2)
+http://51.15.15.119:80/5050/1234/61684
+#EXTINF:-1,ESPN 2 FHD H265 (BR2)
+http://51.15.15.119:80/5050/1234/61882
+#EXTINF:-1,ESPN 2 HD (BR1)
+http://51.15.15.119:80/5050/1234/58620
+#EXTINF:-1,ESPN 2 HD (BR2)
+http://51.15.15.119:80/5050/1234/61683
+#EXTINF:-1,ESPN 2 SD (BR1)
+http://51.15.15.119:80/5050/1234/58619
+#EXTINF:-1,ESPN BRASIL FHD (BR1)
+http://51.15.15.119:80/5050/1234/58618
+#EXTINF:-1,ESPN BRASIL FHD H265 (BR2)
+http://51.15.15.119:80/5050/1234/61881
+#EXTINF:-1,ESPN BRASIL HD (BR1)
+http://51.15.15.119:80/5050/1234/58617
+#EXTINF:-1,ESPN BRASIL HD (BR2)
+http://51.15.15.119:80/5050/1234/61682
+#EXTINF:-1,ESPN BRASIL SD (BR1)
+http://51.15.15.119:80/5050/1234/58616
+#EXTINF:-1,ESPN BRASIL SD (BR2)
+http://51.15.15.119:80/5050/1234/62880
+#EXTINF:-1,ESPN EXTRA FHD (BR1)
+http://51.15.15.119:80/5050/1234/58615
+#EXTINF:-1,ESPN EXTRA FHD (BR2)
+http://51.15.15.119:80/5050/1234/63792
+#EXTINF:-1,ESPN EXTRA HD (BR1)
+http://51.15.15.119:80/5050/1234/58614
+#EXTINF:-1,ESPN EXTRA HD (BR2)
+http://51.15.15.119:80/5050/1234/61681
+#EXTINF:-1,ESPN EXTRA SD (BR1)
+http://51.15.15.119:80/5050/1234/58613
+#EXTINF:-1,ESPN EXTRA SD (BR2)
+http://51.15.15.119:80/5050/1234/62879
+#EXTINF:-1,ESPN FHD (BR1)
+http://51.15.15.119:80/5050/1234/58612
+#EXTINF:-1,ESPN FHD H265 (BR2)
+http://51.15.15.119:80/5050/1234/61880
+#EXTINF:-1,ESPN HD (BR1)
+http://51.15.15.119:80/5050/1234/58611
+#EXTINF:-1,ESPN HD (BR2)
+http://51.15.15.119:80/5050/1234/61680
+#EXTINF:-1,ESPN SD (BR1)
+http://51.15.15.119:80/5050/1234/58610
+#EXTINF:-1,ESPN SD (BR2)
+http://51.15.15.119:80/5050/1234/62878
+#EXTINF:-1,FILM & ARTS SD (BR1)
+http://51.15.15.119:80/5050/1234/58609
+#EXTINF:-1,FISH TV HD (BR1)
+http://51.15.15.119:80/5050/1234/58608
+#EXTINF:-1,FISH TV SD (BR1)
+http://51.15.15.119:80/5050/1234/58607
+#EXTINF:-1,FISH TV SD (BR2)
+http://51.15.15.119:80/5050/1234/62877
+#EXTINF:-1,FOOD NETWORK FHD H265 (BR2)
+http://51.15.15.119:80/5050/1234/61879
+#EXTINF:-1,FOOD NETWORK HD (BR1)
+http://51.15.15.119:80/5050/1234/58606
+#EXTINF:-1,FOOD NETWORK HD (BR2)
+http://51.15.15.119:80/5050/1234/61679
+#EXTINF:-1,FOOD NETWORK SD (BR1)
+http://51.15.15.119:80/5050/1234/58605
+#EXTINF:-1,FOOD NETWORK SD (BR2)
+http://51.15.15.119:80/5050/1234/62876
+#EXTINF:-1,FOX FHD (BR1)
+http://51.15.15.119:80/5050/1234/58604
+#EXTINF:-1,FOX FHD H265 (BR2)
+http://51.15.15.119:80/5050/1234/61878
+#EXTINF:-1,FOX HD (BR1)
+http://51.15.15.119:80/5050/1234/58603
+#EXTINF:-1,FOX HD (BR2)
+http://51.15.15.119:80/5050/1234/61678
+#EXTINF:-1,FOX LIFE FHD H265 (BR2)
+http://51.15.15.119:80/5050/1234/61877
+#EXTINF:-1,FOX LIFE HD (BR1)
+http://51.15.15.119:80/5050/1234/58602
+#EXTINF:-1,FOX LIFE HD (BR2)
+http://51.15.15.119:80/5050/1234/61677
+#EXTINF:-1,FOX LIFE SD (BR1)
+http://51.15.15.119:80/5050/1234/58601
+#EXTINF:-1,FOX LIFE SD (BR2)
+http://51.15.15.119:80/5050/1234/62875
+#EXTINF:-1,FOX PREMIUM 1 HD (BR1)
+http://51.15.15.119:80/5050/1234/58600
+#EXTINF:-1,FOX PREMIUM 1 HD (BR2)
+http://51.15.15.119:80/5050/1234/61676
+#EXTINF:-1,FOX PREMIUM 1 SD (BR1)
+http://51.15.15.119:80/5050/1234/58599
+#EXTINF:-1,FOX PREMIUM 2 FHD (BR1)
+http://51.15.15.119:80/5050/1234/58598
+#EXTINF:-1,FOX PREMIUM 2 HD (BR1)
+http://51.15.15.119:80/5050/1234/58597
+#EXTINF:-1,FOX PREMIUM 2 HD (BR2)
+http://51.15.15.119:80/5050/1234/61675
+#EXTINF:-1,FOX PREMIUM 2 SD (BR1)
+http://51.15.15.119:80/5050/1234/58596
+#EXTINF:-1,FOX SD (BR1)
+http://51.15.15.119:80/5050/1234/58595
+#EXTINF:-1,FOX SD (BR2)
+http://51.15.15.119:80/5050/1234/62874
+#EXTINF:-1,FOX SPORTS 2 FHD (BR1)
+http://51.15.15.119:80/5050/1234/58594
+#EXTINF:-1,FOX SPORTS 2 FHD H265 (BR2)
+http://51.15.15.119:80/5050/1234/61876
+#EXTINF:-1,FOX SPORTS 2 HD (BR1)
+http://51.15.15.119:80/5050/1234/58593
+#EXTINF:-1,FOX SPORTS 2 HD (BR2)
+http://51.15.15.119:80/5050/1234/61674
+#EXTINF:-1,FOX SPORTS 2 SD (BR1)
+http://51.15.15.119:80/5050/1234/58592
+#EXTINF:-1,FOX SPORTS 2 SD (BR2)
+http://51.15.15.119:80/5050/1234/62873
+#EXTINF:-1,FOX SPORTS FHD (BR1)
+http://51.15.15.119:80/5050/1234/58591
+#EXTINF:-1,FOX SPORTS FHD H265 (BR2)
+http://51.15.15.119:80/5050/1234/61875
+#EXTINF:-1,FOX SPORTS HD (BR1)
+http://51.15.15.119:80/5050/1234/58590
+#EXTINF:-1,FOX SPORTS HD (BR2)
+http://51.15.15.119:80/5050/1234/61673
+#EXTINF:-1,FOX SPORTS SD (BR1)
+http://51.15.15.119:80/5050/1234/58589
+#EXTINF:-1,FOX SPORTS SD (BR2)
+http://51.15.15.119:80/5050/1234/62872
+#EXTINF:-1,FUTURA HD (BR1)
+http://51.15.15.119:80/5050/1234/58588
+#EXTINF:-1,FUTURA SD (BR1)
+http://51.15.15.119:80/5050/1234/58587
+#EXTINF:-1,FUTURA SD (BR2)
+http://51.15.15.119:80/5050/1234/62871
+#EXTINF:-1,FX FHD H265 (BR2)
+http://51.15.15.119:80/5050/1234/61874
+#EXTINF:-1,FX HD (BR1)
+http://51.15.15.119:80/5050/1234/58586
+#EXTINF:-1,FX HD (BR2)
+http://51.15.15.119:80/5050/1234/61672
+#EXTINF:-1,FX SD (BR1)
+http://51.15.15.119:80/5050/1234/58585
+#EXTINF:-1,FX SD (BR2)
+http://51.15.15.119:80/5050/1234/62870
+#EXTINF:-1,GLOBO  CAMPINAS HD (BR1)
+http://51.15.15.119:80/5050/1234/58584
+#EXTINF:-1,GLOBO ALTO LITORAL SD (BR2)
+http://51.15.15.119:80/5050/1234/62869
+#EXTINF:-1,GLOBO ASA BRANCA SD (BR2)
+http://51.15.15.119:80/5050/1234/62868
+#EXTINF:-1,GLOBO BAHIA SD (BR2)
+http://51.15.15.119:80/5050/1234/62867
+#EXTINF:-1,GLOBO BAURU SD (BR2)
+http://51.15.15.119:80/5050/1234/62866
+#EXTINF:-1,GLOBO BRASILIA HD (BR1)
+http://51.15.15.119:80/5050/1234/58583
+#EXTINF:-1,GLOBO BRASILIA HD (BR2)
+http://51.15.15.119:80/5050/1234/61671
+#EXTINF:-1,GLOBO BRASILIA SD (BR1)
+http://51.15.15.119:80/5050/1234/58582
+#EXTINF:-1,GLOBO BRASILIA SD (BR2)
+http://51.15.15.119:80/5050/1234/62865
+#EXTINF:-1,GLOBO CABUGI SD (BR2)
+http://51.15.15.119:80/5050/1234/62864
+#EXTINF:-1,GLOBO CAMPINAS SD (BR1)
+http://51.15.15.119:80/5050/1234/58581
+#EXTINF:-1,GLOBO CENTRO AMERICA CUIABA SD (BR2)
+http://51.15.15.119:80/5050/1234/62863
+#EXTINF:-1,GLOBO EPTV CAMPINAS SD (BR2)
+http://51.15.15.119:80/5050/1234/62862
+#EXTINF:-1,GLOBO EPTV CENTRAL SD (BR2)
+http://51.15.15.119:80/5050/1234/62861
+#EXTINF:-1,GLOBO EPTV RIBEIRAO PRETO HD (BR2)
+http://51.15.15.119:80/5050/1234/61670
+#EXTINF:-1,GLOBO EPTV RIBEIRAO PRETO SD (BR2)
+http://51.15.15.119:80/5050/1234/62860
+#EXTINF:-1,GLOBO EPTV SAO CARLOS SD (BR2)
+http://51.15.15.119:80/5050/1234/62859
+#EXTINF:-1,GLOBO EPTV SUL MINAS SD (BR2)
+http://51.15.15.119:80/5050/1234/62858
+#EXTINF:-1,GLOBO FRONTEIRA SD (BR2)
+http://51.15.15.119:80/5050/1234/62857
+#EXTINF:-1,GLOBO GOIANIA HD (BR1)
+http://51.15.15.119:80/5050/1234/58580
+#EXTINF:-1,GLOBO GOIANIA SD (BR1)
+http://51.15.15.119:80/5050/1234/58579
+#EXTINF:-1,GLOBO GOIANIA SD (BR2)
+http://51.15.15.119:80/5050/1234/62855
+#EXTINF:-1,GLOBO GRANDE MINAS SD (BR2)
+http://51.15.15.119:80/5050/1234/62854
+#EXTINF:-1,GLOBO INTEGRACAO SD (BR2)
+http://51.15.15.119:80/5050/1234/62853
+#EXTINF:-1,GLOBO ITAPETININGA SD (BR2)
+http://51.15.15.119:80/5050/1234/62852
+#EXTINF:-1,GLOBO LIBERAL BELEM SD (BR2)
+http://51.15.15.119:80/5050/1234/62851
+#EXTINF:-1,GLOBO MANAUS SD (BR2)
+http://51.15.15.119:80/5050/1234/62850
+#EXTINF:-1,GLOBO MINAS FHD (BR1)
+http://51.15.15.119:80/5050/1234/58578
+#EXTINF:-1,GLOBO MINAS HD (BR1)
+http://51.15.15.119:80/5050/1234/58577
+#EXTINF:-1,GLOBO MINAS HD (BR2)
+http://51.15.15.119:80/5050/1234/61669
+#EXTINF:-1,GLOBO MINAS SD (BR1)
+http://51.15.15.119:80/5050/1234/58576
+#EXTINF:-1,GLOBO MINAS SD (BR2)
+http://51.15.15.119:80/5050/1234/62849
+#EXTINF:-1,GLOBO MIRANTE COCAIS SD (BR2)
+http://51.15.15.119:80/5050/1234/62848
+#EXTINF:-1,GLOBO NEWS FHD (BR1)
+http://51.15.15.119:80/5050/1234/58575
+#EXTINF:-1,GLOBO NEWS FHD H265 (BR2)
+http://51.15.15.119:80/5050/1234/61873
+#EXTINF:-1,GLOBO NEWS HD (BR1)
+http://51.15.15.119:80/5050/1234/58574
+#EXTINF:-1,GLOBO NEWS HD (BR2)
+http://51.15.15.119:80/5050/1234/61668
+#EXTINF:-1,GLOBO NEWS SD (BR1)
+http://51.15.15.119:80/5050/1234/58573
+#EXTINF:-1,GLOBO NEWS SD (BR2)
+http://51.15.15.119:80/5050/1234/62847
+#EXTINF:-1,GLOBO NORDESTE HD (BR1)
+http://51.15.15.119:80/5050/1234/58572
+#EXTINF:-1,GLOBO NORDESTE HD (BR2)
+http://51.15.15.119:80/5050/1234/61667
+#EXTINF:-1,GLOBO NORDESTE SD (BR1)
+http://51.15.15.119:80/5050/1234/58571
+#EXTINF:-1,GLOBO NORDESTE SD (BR2)
+http://51.15.15.119:80/5050/1234/62846
+#EXTINF:-1,GLOBO NSC BLUMENAU SD (BR2)
+http://51.15.15.119:80/5050/1234/62845
+#EXTINF:-1,GLOBO NSC FLORIANOPOLIS HD (BR1)
+http://51.15.15.119:80/5050/1234/58569
+#EXTINF:-1,GLOBO NSC FLORIANOPOLIS SD (BR1)
+http://51.15.15.119:80/5050/1234/58570
+#EXTINF:-1,GLOBO NSC JOINVILLE SD (BR2)
+http://51.15.15.119:80/5050/1234/62844
+#EXTINF:-1,GLOBO RBS POA HD (BR1)
+http://51.15.15.119:80/5050/1234/58568
+#EXTINF:-1,GLOBO RBS PORTO ALEGRE HD (BR2)
+http://51.15.15.119:80/5050/1234/61666
+#EXTINF:-1,GLOBO RBS TV POA FHD H265 (BR2)
+http://51.15.15.119:80/5050/1234/61872
+#EXTINF:-1,GLOBO RBS TV POA SD (BR2)
+http://51.15.15.119:80/5050/1234/62843
+#EXTINF:-1,GLOBO RBS TV PORTO ALEGRE SD (BR1)
+http://51.15.15.119:80/5050/1234/58567
+#EXTINF:-1,GLOBO RIBEIRAO PRETO HD (BR1)
+http://51.15.15.119:80/5050/1234/58566
+#EXTINF:-1,GLOBO RIBEIRAO PRETO SD (BR1)
+http://51.15.15.119:80/5050/1234/58565
+#EXTINF:-1,GLOBO RIO SUL SD (BR2)
+http://51.15.15.119:80/5050/1234/62842
+#EXTINF:-1,GLOBO RJ FHD (BR1)
+http://51.15.15.119:80/5050/1234/58564
+#EXTINF:-1,GLOBO RJ FHD H265 (BR2)
+http://51.15.15.119:80/5050/1234/61871
+#EXTINF:-1,GLOBO RJ HD (BR1)
+http://51.15.15.119:80/5050/1234/58563
+#EXTINF:-1,GLOBO RJ HD (BR2)
+http://51.15.15.119:80/5050/1234/61665
+#EXTINF:-1,GLOBO RJ SD (BR1)
+http://51.15.15.119:80/5050/1234/58562
+#EXTINF:-1,GLOBO RJ SD (BR2)
+http://51.15.15.119:80/5050/1234/62841
+#EXTINF:-1,GLOBO RPC CURITIBA FHD (BR1)
+http://51.15.15.119:80/5050/1234/58561
+#EXTINF:-1,GLOBO RPC CURITIBA HD (BR1)
+http://51.15.15.119:80/5050/1234/58560
+#EXTINF:-1,GLOBO RPC CURITIBA SD (BR1)
+http://51.15.15.119:80/5050/1234/58559
+#EXTINF:-1,GLOBO RPC CURITIBA SD (BR2)
+http://51.15.15.119:80/5050/1234/62840
+#EXTINF:-1,GLOBO S.J RIO PRETO SD (BR2)
+http://51.15.15.119:80/5050/1234/62839
+#EXTINF:-1,GLOBO SANTA CRUZ SD (BR2)
+http://51.15.15.119:80/5050/1234/62838
+#EXTINF:-1,GLOBO SERGIPE SD (BR2)
+http://51.15.15.119:80/5050/1234/62837
+#EXTINF:-1,GLOBO SERRA MAR SD (BR2)
+http://51.15.15.119:80/5050/1234/62836
+#EXTINF:-1,GLOBO SOROCABA SD (BR2)
+http://51.15.15.119:80/5050/1234/62835
+#EXTINF:-1,GLOBO SP FHD (BR1)
+http://51.15.15.119:80/5050/1234/58558
+#EXTINF:-1,GLOBO SP FHD H265 (BR2)
+http://51.15.15.119:80/5050/1234/61870
+#EXTINF:-1,GLOBO SP HD (BR1)
+http://51.15.15.119:80/5050/1234/58557
+#EXTINF:-1,GLOBO SP HD (BR2)
+http://51.15.15.119:80/5050/1234/61664
+#EXTINF:-1,GLOBO SP SD (BR1)
+http://51.15.15.119:80/5050/1234/58556
+#EXTINF:-1,GLOBO SP SD (BR2)
+http://51.15.15.119:80/5050/1234/62834
+#EXTINF:-1,GLOBO SUDOESTE SD (BR2)
+http://51.15.15.119:80/5050/1234/62833
+#EXTINF:-1,GLOBO TRIBUNA SANTOS SD (BR2)
+http://51.15.15.119:80/5050/1234/62832
+#EXTINF:-1,GLOBO TV BAHIA HD (BR1)
+http://51.15.15.119:80/5050/1234/58555
+#EXTINF:-1,GLOBO TV BAHIA SD (BR1)
+http://51.15.15.119:80/5050/1234/58554
+#EXTINF:-1,GLOBO TV SERGIPE HD (BR2)
+http://51.15.15.119:80/5050/1234/61662
+#EXTINF:-1,GLOBO TV TEM BAURU SD (BR1)
+http://51.15.15.119:80/5050/1234/58553
+#EXTINF:-1,GLOBO TV TEM S.J.RIO PRETO HD (BR1)
+http://51.15.15.119:80/5050/1234/58552
+#EXTINF:-1,GLOBO TV TEM S.J.RIO PRETO SD (BR1)
+http://51.15.15.119:80/5050/1234/58551
+#EXTINF:-1,GLOBO TV TEM SOROCABA SD (BR1)
+http://51.15.15.119:80/5050/1234/58550
+#EXTINF:-1,GLOBO TV VERDES MARES FORTALEZA SD (BR1)
+http://51.15.15.119:80/5050/1234/60882
+#EXTINF:-1,GLOBO VANGUARDA S.J CAMPOS SD (BR2)
+http://51.15.15.119:80/5050/1234/62831
+#EXTINF:-1,GLOBO VANGUARDA TAUBATE SD (BR2)
+http://51.15.15.119:80/5050/1234/62830
+#EXTINF:-1,GLOBO VERDES MARES FORTALEZA SD (BR2)
+http://51.15.15.119:80/5050/1234/62829
+#EXTINF:-1,GLOOB FHD (BR1)
+http://51.15.15.119:80/5050/1234/58549
+#EXTINF:-1,GLOOB HD (BR1)
+http://51.15.15.119:80/5050/1234/58548
+#EXTINF:-1,GLOOB HD (BR2)
+http://51.15.15.119:80/5050/1234/61661
+#EXTINF:-1,GLOOB SD (BR1)
+http://51.15.15.119:80/5050/1234/58547
+#EXTINF:-1,GLOOB SD (BR2)
+http://51.15.15.119:80/5050/1234/62828
+#EXTINF:-1,GLOOBINHO HD (BR1)
+http://51.15.15.119:80/5050/1234/58546
+#EXTINF:-1,GLOOBINHO HD (BR2)
+http://51.15.15.119:80/5050/1234/61660
+#EXTINF:-1,GLOOBINHO SD (BR1)
+http://51.15.15.119:80/5050/1234/58545
+#EXTINF:-1,GLOOBINHO SD (BR2)
+http://51.15.15.119:80/5050/1234/62827
+#EXTINF:-1,GNT HD (BR1)
+http://51.15.15.119:80/5050/1234/58544
+#EXTINF:-1,GNT HD (BR2)
+http://51.15.15.119:80/5050/1234/61659
+#EXTINF:-1,GNT SD (BR1)
+http://51.15.15.119:80/5050/1234/58543
+#EXTINF:-1,GNT SD (BR2)
+http://51.15.15.119:80/5050/1234/62826
+#EXTINF:-1,GOSPEL CARTOON TV
+http://51.15.15.119:80/5050/1234/28387
+#EXTINF:-1,H2 FHD H265 (BR2)
+http://51.15.15.119:80/5050/1234/61868
+#EXTINF:-1,H2 HD (BR1)
+http://51.15.15.119:80/5050/1234/58542
+#EXTINF:-1,H2 HD (BR2)
+http://51.15.15.119:80/5050/1234/61658
+#EXTINF:-1,H2 SD (BR1)
+http://51.15.15.119:80/5050/1234/58541
+#EXTINF:-1,H2 SD (BR2)
+http://51.15.15.119:80/5050/1234/62825
+#EXTINF:-1,HBO FHD (BR1)
+http://51.15.15.119:80/5050/1234/58535
+#EXTINF:-1,HBO FHD H265 (BR2)
+http://51.15.15.119:80/5050/1234/61865
+#EXTINF:-1,HBO HD (BR1)
+http://51.15.15.119:80/5050/1234/58534
+#EXTINF:-1,HBO HD (BR2)
+http://51.15.15.119:80/5050/1234/61655
+#EXTINF:-1,HBO SD (BR1)
+http://51.15.15.119:80/5050/1234/58531
+#EXTINF:-1,HBO SD (BR2)
+http://51.15.15.119:80/5050/1234/62821
+#EXTINF:-1,HBO 2 FHD (BR1)
+http://51.15.15.119:80/5050/1234/58540
+#EXTINF:-1,HBO 2 FHD H265 (BR2)
+http://51.15.15.119:80/5050/1234/61867
+#EXTINF:-1,HBO 2 HD (BR1)
+http://51.15.15.119:80/5050/1234/58539
+#EXTINF:-1,HBO 2 HD (BR2)
+http://51.15.15.119:80/5050/1234/61657
+#EXTINF:-1,HBO 2 SD (BR1)
+http://51.15.15.119:80/5050/1234/58538
+#EXTINF:-1,HBO 2 SD (BR2)
+http://51.15.15.119:80/5050/1234/62824
+#EXTINF:-1,HBO FAMILY FHD H265 (BR2)
+http://51.15.15.119:80/5050/1234/61866
+#EXTINF:-1,HBO FAMILY HD (BR1)
+http://51.15.15.119:80/5050/1234/58537
+#EXTINF:-1,HBO FAMILY HD (BR2)
+http://51.15.15.119:80/5050/1234/61656
+#EXTINF:-1,HBO FAMILY SD (BR1)
+http://51.15.15.119:80/5050/1234/58536
+#EXTINF:-1,HBO FAMILY SD (BR2)
+http://51.15.15.119:80/5050/1234/62823
+#EXTINF:-1,HBO+ FHD H265 (BR2)
+http://51.15.15.119:80/5050/1234/61864
+#EXTINF:-1,HBO+ HD (BR1)
+http://51.15.15.119:80/5050/1234/58533
+#EXTINF:-1,HBO+ HD (BR2)
+http://51.15.15.119:80/5050/1234/61654
+#EXTINF:-1,HBO+ SD (BR1)
+http://51.15.15.119:80/5050/1234/58532
+#EXTINF:-1,HBO SIGNATURE FHD H265 (BR2)
+http://51.15.15.119:80/5050/1234/61863
+#EXTINF:-1,HBO SIGNATURE HD (BR1)
+http://51.15.15.119:80/5050/1234/58530
+#EXTINF:-1,HBO SIGNATURE HD (BR2)
+http://51.15.15.119:80/5050/1234/61653
+#EXTINF:-1,HBO SIGNATURE SD (BR1)
+http://51.15.15.119:80/5050/1234/58529
+#EXTINF:-1,HBO SIGNATURE SD (BR2)
+http://51.15.15.119:80/5050/1234/62820
+#EXTINF:-1,HISTORY FHD (BR1)
+http://51.15.15.119:80/5050/1234/58528
+#EXTINF:-1,HISTORY FHD H265 (BR2)
+http://51.15.15.119:80/5050/1234/61862
+#EXTINF:-1,HISTORY HD (BR1)
+http://51.15.15.119:80/5050/1234/58527
+#EXTINF:-1,HISTORY HD (BR2)
+http://51.15.15.119:80/5050/1234/61652
+#EXTINF:-1,HISTORY SD (BR1)
+http://51.15.15.119:80/5050/1234/58526
+#EXTINF:-1,HISTORY SD (BR2)
+http://51.15.15.119:80/5050/1234/62819
+#EXTINF:-1,HIT TV HD (BR2)
+http://51.15.15.119:80/5050/1234/61651
+#EXTINF:-1,HORSE BRASIL HD
+http://490636978.r.worldcdn.net/490636978/_definst_//horsebrasil1/playlist.m3u8?
+#EXTINF:-1,I SAT SD (BR2)
+http://51.15.15.119:80/5050/1234/62818
+#EXTINF:-1,ID DISCOVERY FHD H265 (BR2)
+http://51.15.15.119:80/5050/1234/61861
+#EXTINF:-1,ID DISCOVERY HD (BR2)
+http://51.15.15.119:80/5050/1234/61650
+#EXTINF:-1,ID DISCOVERY SD (BR2)
+http://51.15.15.119:80/5050/1234/62817
+#EXTINF:-1,IDEAL TV SD (BR2)
+http://51.15.15.119:80/5050/1234/62816
+#EXTINF:-1,INVESTIGATION DISCOVERY HD (BR1)
+http://51.15.15.119:80/5050/1234/58525
+#EXTINF:-1,INVESTIGATION DISCOVERY SD (BR1)
+http://51.15.15.119:80/5050/1234/58524
+#EXTINF:-1,JOVEM PAN  3 SD
+https://evpp.mm.uol.com.br/jovempan/jp-panico.sdp/playlist.m3u8
+#EXTINF:-1,JOVEM PAN 2 SD
+https://evpp.mm.uol.com.br/jovempan/tv-jp.sdp/playlist.m3u8
+#EXTINF:-1,JOVEM PAN SD
+https://evpp.mm.uol.com.br/jovempan/jp-jornaldamanha.sdp/playlist.m3u8
+#EXTINF:-1,LIFETIME FHD H265 (BR2)
+http://51.15.15.119:80/5050/1234/61860
+#EXTINF:-1,LIFETIME HD (BR1)
+http://51.15.15.119:80/5050/1234/58523
+#EXTINF:-1,LIFETIME HD (BR2)
+http://51.15.15.119:80/5050/1234/61649
+#EXTINF:-1,LIFETIME SD (BR1)
+http://51.15.15.119:80/5050/1234/58522
+#EXTINF:-1,LIFETIME SD (BR2)
+http://51.15.15.119:80/5050/1234/62815
+#EXTINF:-1,MAIS GLOBOSAT HD (BR1)
+http://51.15.15.119:80/5050/1234/58521
+#EXTINF:-1,MAIS GLOBOSAT HD (BR2)
+http://51.15.15.119:80/5050/1234/61648
+#EXTINF:-1,MAIS GLOBOSAT SD (BR1)
+http://51.15.15.119:80/5050/1234/58520
+#EXTINF:-1,MAIS GLOBOSAT SD (BR2)
+http://51.15.15.119:80/5050/1234/62814
+#EXTINF:-1,MAX FHD H265 (BR2)
+http://51.15.15.119:80/5050/1234/61859
+#EXTINF:-1,MAX HD (BR1)
+http://51.15.15.119:80/5050/1234/58519
+#EXTINF:-1,MAX HD (BR2)
+http://51.15.15.119:80/5050/1234/61647
+#EXTINF:-1,MAX PRIME FHD H265 (BR2)
+http://51.15.15.119:80/5050/1234/61858
+#EXTINF:-1,MAX PRIME HD (BR1)
+http://51.15.15.119:80/5050/1234/58518
+#EXTINF:-1,MAX PRIME HD (BR2)
+http://51.15.15.119:80/5050/1234/61646
+#EXTINF:-1,MAX PRIME SD (BR1)
+http://51.15.15.119:80/5050/1234/58517
+#EXTINF:-1,MAX PRIME SD (BR2)
+http://51.15.15.119:80/5050/1234/62813
+#EXTINF:-1,MAX SD (BR1)
+http://51.15.15.119:80/5050/1234/58516
+#EXTINF:-1,MAX SD (BR2)
+http://51.15.15.119:80/5050/1234/62812
+#EXTINF:-1,MAX UP FHD H265 (BR2)
+http://51.15.15.119:80/5050/1234/61857
+#EXTINF:-1,MAX UP HD (BR1)
+http://51.15.15.119:80/5050/1234/58515
+#EXTINF:-1,MAX UP HD (BR2)
+http://51.15.15.119:80/5050/1234/61645
+#EXTINF:-1,MAX UP SD (BR1)
+http://51.15.15.119:80/5050/1234/58514
+#EXTINF:-1,MAX UP SD (BR2)
+http://51.15.15.119:80/5050/1234/62811
+#EXTINF:-1,MEGAPIX FHD H265 (BR2)
+http://51.15.15.119:80/5050/1234/61856
+#EXTINF:-1,MEGAPIX HD (BR1)
+http://51.15.15.119:80/5050/1234/58513
+#EXTINF:-1,MEGAPIX HD (BR2)
+http://51.15.15.119:80/5050/1234/61644
+#EXTINF:-1,MEGAPIX SD (BR1)
+http://51.15.15.119:80/5050/1234/58512
+#EXTINF:-1,MEGAPIX SD (BR2)
+http://51.15.15.119:80/5050/1234/62810
+#EXTINF:-1,MTV FHD H265 (BR2)
+http://51.15.15.119:80/5050/1234/61855
+#EXTINF:-1,MTV HD (BR1)
+http://51.15.15.119:80/5050/1234/58511
+#EXTINF:-1,MTV HD (BR2)
+http://51.15.15.119:80/5050/1234/61643
+#EXTINF:-1,MTV LIVE HD (BR1)
+http://51.15.15.119:80/5050/1234/58510
+#EXTINF:-1,MTV LIVE SD (BR1)
+http://51.15.15.119:80/5050/1234/58509
+#EXTINF:-1,MTV SD (BR1)
+http://51.15.15.119:80/5050/1234/58508
+#EXTINF:-1,MTV SD (BR2)
+http://51.15.15.119:80/5050/1234/62809
+#EXTINF:-1,MULTISHOW FHD H265 (BR2)
+http://51.15.15.119:80/5050/1234/61854
+#EXTINF:-1,MULTISHOW HD (BR1)
+http://51.15.15.119:80/5050/1234/58507
+#EXTINF:-1,MULTISHOW HD (BR2)
+http://51.15.15.119:80/5050/1234/61642
+#EXTINF:-1,MULTISHOW SD (BR1)
+http://51.15.15.119:80/5050/1234/58506
+#EXTINF:-1,MULTISHOW SD (BR2)
+http://51.15.15.119:80/5050/1234/62808
+#EXTINF:-1,MUNDO AUTO SD
+https://593b04c4c5670.streamlock.net/8702/8702/chunklist_w393925018.m3u8
+#EXTINF:-1,MUSIC BOX BRASIL HD (BR1)
+http://51.15.15.119:80/5050/1234/58505
+#EXTINF:-1,MUSIC BOX BRASIL SD (BR1)
+http://51.15.15.119:80/5050/1234/58504
+#EXTINF:-1,MUSIC BOX BRASIL SD (BR2)
+http://51.15.15.119:80/5050/1234/62807
+#EXTINF:-1,NAT GEO HD (BR1)
+http://51.15.15.119:80/5050/1234/58503
+#EXTINF:-1,NAT GEO KIDS HD (BR1)
+http://51.15.15.119:80/5050/1234/58502
+#EXTINF:-1,NAT GEO KIDS SD (BR1)
+http://51.15.15.119:80/5050/1234/58501
+#EXTINF:-1,NAT GEO SD (BR1)
+http://51.15.15.119:80/5050/1234/58500
+#EXTINF:-1,NAT GEO WILD FHD (BR1)
+http://51.15.15.119:80/5050/1234/58499
+#EXTINF:-1,NAT GEO WILD HD (BR1)
+http://51.15.15.119:80/5050/1234/58498
+#EXTINF:-1,NATGEO FHD H265 (BR2)
+http://51.15.15.119:80/5050/1234/61853
+#EXTINF:-1,NATGEO HD (BR2)
+http://51.15.15.119:80/5050/1234/61641
+#EXTINF:-1,NATGEO KIDS FHD H265 (BR2)
+http://51.15.15.119:80/5050/1234/61852
+#EXTINF:-1,NATGEO KIDS HD (BR2)
+http://51.15.15.119:80/5050/1234/61640
+#EXTINF:-1,NATGEO KIDS SD (BR2)
+http://51.15.15.119:80/5050/1234/62806
+#EXTINF:-1,NATGEO SD (BR2)
+http://51.15.15.119:80/5050/1234/62805
+#EXTINF:-1,NATGEO WILD FHD H265 (BR2)
+http://51.15.15.119:80/5050/1234/61851
+#EXTINF:-1,NATGEO WILD HD (BR2)
+http://51.15.15.119:80/5050/1234/61639
+#EXTINF:-1,NATGEO WILD SD (BR1)
+http://51.15.15.119:80/5050/1234/58497
+#EXTINF:-1,NATGEO WILD SD (BR2)
+http://51.15.15.119:80/5050/1234/62804
+#EXTINF:-1,NBR SD (BR1)
+http://51.15.15.119:80/5050/1234/58496
+#EXTINF:-1,NBR SD (BR2)
+http://51.15.15.119:80/5050/1234/62803
+#EXTINF:-1,NHK SD (BR2)
+http://51.15.15.119:80/5050/1234/62802
+#EXTINF:-1,NICK FHD H265 (BR2)
+http://51.15.15.119:80/5050/1234/61850
+#EXTINF:-1,NICK HD (BR2)
+http://51.15.15.119:80/5050/1234/61638
+#EXTINF:-1,NICK JR FHD (BR1)
+http://51.15.15.119:80/5050/1234/58495
+#EXTINF:-1,NICK JR FHD H265 (BR2)
+http://51.15.15.119:80/5050/1234/61849
+#EXTINF:-1,NICK JR HD (BR1)
+http://51.15.15.119:80/5050/1234/58494
+#EXTINF:-1,NICK JR HD (BR2)
+http://51.15.15.119:80/5050/1234/61637
+#EXTINF:-1,NICK JR SD (BR1)
+http://51.15.15.119:80/5050/1234/58493
+#EXTINF:-1,NICK JR SD (BR2)
+http://51.15.15.119:80/5050/1234/62801
+#EXTINF:-1,NICKELODEN SD (BR1)
+http://51.15.15.119:80/5050/1234/58492
+#EXTINF:-1,NICKELODEON FHD (BR1)
+http://51.15.15.119:80/5050/1234/58491
+#EXTINF:-1,NICKELODEON HD (BR1)
+http://51.15.15.119:80/5050/1234/58490
+#EXTINF:-1,NICKELODEON SD (BR2)
+http://51.15.15.119:80/5050/1234/62800
+#EXTINF:-1,NOVO TEMPO SD (BR2)
+http://51.15.15.119:80/5050/1234/62799
+#EXTINF:-1,OFF HD (BR1)
+http://51.15.15.119:80/5050/1234/58489
+#EXTINF:-1,OFF HD (BR2)
+http://51.15.15.119:80/5050/1234/61636
+#EXTINF:-1,OFF SD (BR1)
+http://51.15.15.119:80/5050/1234/58488
+#EXTINF:-1,OFF SD (BR2)
+http://51.15.15.119:80/5050/1234/62798
+#EXTINF:-1,PARAMOUNT CHANNEL FHD H265 (BR2)
+http://51.15.15.119:80/5050/1234/61848
+#EXTINF:-1,PARAMOUNT CHANNEL HD (BR1)
+http://51.15.15.119:80/5050/1234/58487
+#EXTINF:-1,PARAMOUNT CHANNEL SD (BR1)
+http://51.15.15.119:80/5050/1234/58486
+#EXTINF:-1,PARAMOUNT HD (BR2)
+http://51.15.15.119:80/5050/1234/61635
+#EXTINF:-1,PARAMOUNT SD (BR2)
+http://51.15.15.119:80/5050/1234/62797
+#EXTINF:-1,PLAY TV SD (BR2)
+http://51.15.15.119:80/5050/1234/62796
+#EXTINF:-1,PLAYKIDS HD (BR1)
+http://51.15.15.119:80/5050/1234/58485
+#EXTINF:-1,PLAYKIDS SD (BR1)
+http://51.15.15.119:80/5050/1234/58484
+#EXTINF:-1,POLISHOP TV SD (BR2)
+http://51.15.15.119:80/5050/1234/62795
+#EXTINF:-1,POWER COUPLE BRASIL HD (BR1)
+http://51.15.15.119:80/5050/1234/63432
+#EXTINF:-1,POWER COUPLE BRASIL (BR2)
+http://51.15.15.119:80/5050/1234/63790
+#EXTINF:-1,POWER COUPLE BRASIL HD (BR2)
+http://51.15.15.119:80/5050/1234/63789
+#EXTINF:-1,PREMIERE 2 FHD (BR1)
+http://51.15.15.119:80/5050/1234/58483
+#EXTINF:-1,PREMIERE 2 FHD H265 (BR2)
+http://51.15.15.119:80/5050/1234/61847
+#EXTINF:-1,PREMIERE 2 HD (BR1)
+http://51.15.15.119:80/5050/1234/58482
+#EXTINF:-1,PREMIERE 2 HD (BR2)
+http://51.15.15.119:80/5050/1234/61629
+#EXTINF:-1,PREMIERE 2 SD (BR1)
+http://51.15.15.119:80/5050/1234/58481
+#EXTINF:-1,PREMIERE 2 SD (BR2)
+http://51.15.15.119:80/5050/1234/62794
+#EXTINF:-1,PREMIERE 3 FHD (BR1)
+http://51.15.15.119:80/5050/1234/58480
+#EXTINF:-1,PREMIERE 3 FHD H265 (BR2)
+http://51.15.15.119:80/5050/1234/61846
+#EXTINF:-1,PREMIERE 3 HD (BR1)
+http://51.15.15.119:80/5050/1234/58479
+#EXTINF:-1,PREMIERE 3 HD (BR2)
+http://51.15.15.119:80/5050/1234/61628
+#EXTINF:-1,PREMIERE 3 SD (BR1)
+http://51.15.15.119:80/5050/1234/58478
+#EXTINF:-1,PREMIERE 3 SD (BR2)
+http://51.15.15.119:80/5050/1234/62793
+#EXTINF:-1,PREMIERE 4 FHD (BR1)
+http://51.15.15.119:80/5050/1234/58477
+#EXTINF:-1,PREMIERE 4 FHD H265 (BR2)
+http://51.15.15.119:80/5050/1234/61845
+#EXTINF:-1,PREMIERE 4 HD (BR1)
+http://51.15.15.119:80/5050/1234/58476
+#EXTINF:-1,PREMIERE 4 HD (BR2)
+http://51.15.15.119:80/5050/1234/61627
+#EXTINF:-1,PREMIERE 4 SD (BR1)
+http://51.15.15.119:80/5050/1234/58475
+#EXTINF:-1,PREMIERE 4 SD (BR2)
+http://51.15.15.119:80/5050/1234/62792
+#EXTINF:-1,PREMIERE 5 FHD (BR1)
+http://51.15.15.119:80/5050/1234/58474
+#EXTINF:-1,PREMIERE 5 FHD H265 (BR2)
+http://51.15.15.119:80/5050/1234/61844
+#EXTINF:-1,PREMIERE 5 HD (BR1)
+http://51.15.15.119:80/5050/1234/58473
+#EXTINF:-1,PREMIERE 5 HD (BR2)
+http://51.15.15.119:80/5050/1234/61626
+#EXTINF:-1,PREMIERE 5 SD (BR1)
+http://51.15.15.119:80/5050/1234/58472
+#EXTINF:-1,PREMIERE 5 SD (BR2)
+http://51.15.15.119:80/5050/1234/62791
+#EXTINF:-1,PREMIERE 6 FHD (BR1)
+http://51.15.15.119:80/5050/1234/58471
+#EXTINF:-1,PREMIERE 6 FHD H265 (BR2)
+http://51.15.15.119:80/5050/1234/61843
+#EXTINF:-1,PREMIERE 6 HD (BR1)
+http://51.15.15.119:80/5050/1234/58470
+#EXTINF:-1,PREMIERE 6 HD (BR2)
+http://51.15.15.119:80/5050/1234/61625
+#EXTINF:-1,PREMIERE 6 SD (BR1)
+http://51.15.15.119:80/5050/1234/58469
+#EXTINF:-1,PREMIERE 6 SD (BR2)
+http://51.15.15.119:80/5050/1234/62790
+#EXTINF:-1,PREMIERE 636 HD (BR2)
+http://51.15.15.119:80/5050/1234/61631
+#EXTINF:-1,PREMIERE 7 FHD (BR1)
+http://51.15.15.119:80/5050/1234/58468
+#EXTINF:-1,PREMIERE 7 FHD H265 (BR2)
+http://51.15.15.119:80/5050/1234/61842
+#EXTINF:-1,PREMIERE 7 HD (BR1)
+http://51.15.15.119:80/5050/1234/58467
+#EXTINF:-1,PREMIERE 7 HD (BR2)
+http://51.15.15.119:80/5050/1234/61624
+#EXTINF:-1,PREMIERE 7 SD (BR1)
+http://51.15.15.119:80/5050/1234/58466
+#EXTINF:-1,PREMIERE 7 SD (BR2)
+http://51.15.15.119:80/5050/1234/62789
+#EXTINF:-1,PREMIERE 8 SD (BR2)
+http://51.15.15.119:80/5050/1234/62788
+#EXTINF:-1,PREMIERE CLUBES FHD (BR1)
+http://51.15.15.119:80/5050/1234/58465
+#EXTINF:-1,PREMIERE CLUBES FHD H265 (BR2)
+http://51.15.15.119:80/5050/1234/61841
+#EXTINF:-1,PREMIERE CLUBES HD (BR1)
+http://51.15.15.119:80/5050/1234/58464
+#EXTINF:-1,PREMIERE CLUBES HD (BR2)
+http://51.15.15.119:80/5050/1234/61623
+#EXTINF:-1,PREMIERE CLUBES SD (BR1)
+http://51.15.15.119:80/5050/1234/58463
+#EXTINF:-1,PREMIERE CLUBES SD (BR2)
+http://51.15.15.119:80/5050/1234/62787
+#EXTINF:-1,PRIME BOX BRASIL HD (BR1)
+http://51.15.15.119:80/5050/1234/58462
+#EXTINF:-1,PRIME BOX BRASIL SD (BR1)
+http://51.15.15.119:80/5050/1234/58461
+#EXTINF:-1,PRIME BOX BRASIL SD (BR2)
+http://51.15.15.119:80/5050/1234/62786
+#EXTINF:-1,Rádio: KBOING FM
+http://52.206.124.3:1935/kboing-fm/kbostream/chunklist_w979262028.m3u8
+#EXTINF:-1,RAI SD (BR2)
+http://51.15.15.119:80/5050/1234/62785
+#EXTINF:-1,RBI SD (BR2)
+http://51.15.15.119:80/5050/1234/62784
+#EXTINF:-1,RBI TV SD
+http://51.15.15.119:80/5050/1234/50628
+#EXTINF:-1,RCI SD (BR2)
+http://51.15.15.119:80/5050/1234/62783
+#EXTINF:-1,Real Madrid Tv Online
+http://51.15.15.119:80/5050/1234/23782
+#EXTINF:-1,REAL MADRID TV SD (BR2)
+http://51.15.15.119:80/5050/1234/62782
+#EXTINF:-1,RECORD BA SD (BR2)
+http://51.15.15.119:80/5050/1234/62781
+#EXTINF:-1,RECORD DF FHD (BR2)
+http://51.15.15.119:80/5050/1234/63799
+#EXTINF:-1,RECORD DF SD (BR2)
+http://51.15.15.119:80/5050/1234/62780
+#EXTINF:-1,RECORD GO FHD (BR2)
+http://51.15.15.119:80/5050/1234/63798
+#EXTINF:-1,RECORD GO HD (BR2)
+http://51.15.15.119:80/5050/1234/63797
+#EXTINF:-1,RECORD GO SD (BR2)
+http://51.15.15.119:80/5050/1234/63796
+#EXTINF:-1,RECORD FHD H265 (BR2)
+http://51.15.15.119:80/5050/1234/61840
+#EXTINF:-1,RECORD HD (BR1) ALTERNATIVO
+http://51.15.15.119:80/5050/1234/58460
+#EXTINF:-1,RECORD HD (BR2)
+http://51.15.15.119:80/5050/1234/61622
+#EXTINF:-1,RECORD MG FHD (BR2)
+http://51.15.15.119:80/5050/1234/63795
+#EXTINF:-1,RECORD MG HD (BR2)
+http://51.15.15.119:80/5050/1234/61621
+#EXTINF:-1,RECORD MG SD (BR2)
+http://51.15.15.119:80/5050/1234/62779
+#EXTINF:-1,RECORD NEWS HD (BR1)
+http://51.15.15.119:80/5050/1234/58459
+#EXTINF:-1,RECORD NEWS HD (BR2)
+http://51.15.15.119:80/5050/1234/61620
+#EXTINF:-1,RECORD NEWS SD (BR1)
+http://51.15.15.119:80/5050/1234/58458
+#EXTINF:-1,RECORD NEWS SD (BR2)
+http://51.15.15.119:80/5050/1234/62778
+#EXTINF:-1,RECORD RJ FHD (BR2)
+http://51.15.15.119:80/5050/1234/63794
+#EXTINF:-1,RECORD RJ HD (BR2)
+http://51.15.15.119:80/5050/1234/61619
+#EXTINF:-1,RECORD RJ SD (BR2)
+http://51.15.15.119:80/5050/1234/62777
+#EXTINF:-1,RECORD RS FHD (BR2)
+http://51.15.15.119:80/5050/1234/63793
+#EXTINF:-1,RECORD RS HD (BR2)
+http://51.15.15.119:80/5050/1234/61618
+#EXTINF:-1,RECORD RS SD (BR2)
+http://51.15.15.119:80/5050/1234/62776
+#EXTINF:-1,RECORD SP HD (BR2)
+http://51.15.15.119:80/5050/1234/61617
+#EXTINF:-1,RECORD SP SD (BR1)
+http://51.15.15.119:80/5050/1234/58457
+#EXTINF:-1,RECORD TV SD (BR2)
+http://51.15.15.119:80/5050/1234/62775
+#EXTINF:-1,RECORDTV BA FHD (BR1)
+http://51.15.15.119:80/5050/1234/58456
+#EXTINF:-1,RECORDTV BA HD (BR1)
+http://51.15.15.119:80/5050/1234/58455
+#EXTINF:-1,RECORDTV BA SD (BR1)
+http://51.15.15.119:80/5050/1234/58454
+#EXTINF:-1,RECORDTV DF FHD (BR1)
+http://51.15.15.119:80/5050/1234/58453
+#EXTINF:-1,RECORDTV DF HD (BR1)
+http://51.15.15.119:80/5050/1234/58452
+#EXTINF:-1,RECORDTV DF SD (BR1)
+http://51.15.15.119:80/5050/1234/58451
+#EXTINF:-1,RECORDTV MG FHD (BR1)
+http://51.15.15.119:80/5050/1234/58450
+#EXTINF:-1,RECORDTV MG HD (BR1)
+http://51.15.15.119:80/5050/1234/58449
+#EXTINF:-1,RECORDTV MG SD (BR1)
+http://51.15.15.119:80/5050/1234/58448
+#EXTINF:-1,RECORDTV RIO FHD (BR1)
+http://51.15.15.119:80/5050/1234/58447
+#EXTINF:-1,RECORDTV RIO HD (BR1)
+http://51.15.15.119:80/5050/1234/58446
+#EXTINF:-1,RECORDTV RIO SD (BR1)
+http://51.15.15.119:80/5050/1234/58445
+#EXTINF:-1,RECORDTV RS FHD (BR1)
+http://51.15.15.119:80/5050/1234/58444
+#EXTINF:-1,RECORDTV RS HD (BR1)
+http://51.15.15.119:80/5050/1234/58443
+#EXTINF:-1,RECORDTV RS SD (BR1)
+http://51.15.15.119:80/5050/1234/58442
+#EXTINF:-1,RECORDTV SP FHD (BR1)
+http://51.15.15.119:80/5050/1234/58441
+#EXTINF:-1,RECORDTV SP HD (BR1)
+http://51.15.15.119:80/5050/1234/58440
+#EXTINF:-1,RECORDTV SP SD (BR1)
+http://51.15.15.119:80/5050/1234/58439
+#EXTINF:-1,REDE BRASIL SD (BR1)
+http://51.15.15.119:80/5050/1234/58438
+#EXTINF:-1,REDE BRASIL SD (BR2)
+http://51.15.15.119:80/5050/1234/62774
+#EXTINF:-1,Rede Gênesis
+http://51.15.15.119:80/5050/1234/6012
+#EXTINF:-1,REDE GRAVA SD
+http://stmv2.euroti.com.br:1935/tvareado/tvareado/live.m3u8
+#EXTINF:-1,REDE METRÓPOLE DE COMUNICAÇÃO SD
+http://201.31.2.11:4918/live/tvmetropole.stream/livestream.m3u8
+#EXTINF:-1,REDE SUPER SD
+http://51.15.15.119:80/5050/1234/45127
+#EXTINF:-1,REDE TV HD (BR1)
+http://51.15.15.119:80/5050/1234/58437
+#EXTINF:-1,REDE TV HD (BR2)
+http://51.15.15.119:80/5050/1234/61616
+#EXTINF:-1,REDE TV RJ
+http://51.15.15.119:80/5050/1234/4908
+#EXTINF:-1,REDE TV SD (BR1)
+http://51.15.15.119:80/5050/1234/58436
+#EXTINF:-1,REDE TV SD (BR2)
+http://51.15.15.119:80/5050/1234/62773
+#EXTINF:-1,REDE VIDA HD (BR1)
+http://51.15.15.119:80/5050/1234/58435
+#EXTINF:-1,REDE VIDA SD (BR1)
+http://51.15.15.119:80/5050/1234/58434
+#EXTINF:-1,REDE VIDA SD (BR2)
+http://51.15.15.119:80/5050/1234/62772
+#EXTINF:-1,RIT SD (BR2)
+http://51.15.15.119:80/5050/1234/62771
+#EXTINF:-1,SBT FHD (BR1)
+http://51.15.15.119:80/5050/1234/58433
+#EXTINF:-1,SBT HD (BR1)
+http://51.15.15.119:80/5050/1234/58432
+#EXTINF:-1,SBT HD (BR2)
+http://51.15.15.119:80/5050/1234/61615
+#EXTINF:-1,SBT SD (BR1)
+http://51.15.15.119:80/5050/1234/58431
+#EXTINF:-1,SBT SD (BR2)
+http://51.15.15.119:80/5050/1234/62770
+#EXTINF:-1,SBT SP INTERIOR SD (BR1)
+http://51.15.15.119:80/5050/1234/58430
+#EXTINF:-1,SBT TV JORNAL HD (BR2)
+http://51.15.15.119:80/5050/1234/61614
+#EXTINF:-1,SIC INTERNACIONAL SD (BR2)
+http://51.15.15.119:80/5050/1234/62769
+#EXTINF:-1,SMITHSONIAN CHANNEL HD (BR1)
+http://51.15.15.119:80/5050/1234/63434
+#EXTINF:-1,SMITHSONIAN CHANNEL SD (BR1)
+http://51.15.15.119:80/5050/1234/63433
+#EXTINF:-1,SOBRENATURAL TV SD
+http://51.15.15.119:80/5050/1234/42252
+#EXTINF:-1,SPACE FHD H265 (BR2)
+http://51.15.15.119:80/5050/1234/61839
+#EXTINF:-1,SPACE HD (BR1)
+http://51.15.15.119:80/5050/1234/58429
+#EXTINF:-1,SPACE HD (BR2)
+http://51.15.15.119:80/5050/1234/61613
+#EXTINF:-1,SPACE SD (BR1)
+http://51.15.15.119:80/5050/1234/58428
+#EXTINF:-1,SPACE SD (BR2)
+http://51.15.15.119:80/5050/1234/62767
+#EXTINF:-1,SPORTV 2 FHD (BR1)
+http://51.15.15.119:80/5050/1234/58427
+#EXTINF:-1,SPORTV 2 FHD H265 (BR2)
+http://51.15.15.119:80/5050/1234/61838
+#EXTINF:-1,SPORTV 2 HD (BR1)
+http://51.15.15.119:80/5050/1234/58426
+#EXTINF:-1,SPORTV 2 HD (BR2)
+http://51.15.15.119:80/5050/1234/61612
+#EXTINF:-1,SPORTV 2 SD (BR1)
+http://51.15.15.119:80/5050/1234/58425
+#EXTINF:-1,SPORTV 2 SD (BR2)
+http://51.15.15.119:80/5050/1234/62766
+#EXTINF:-1,SPORTV 3 FHD (BR1)
+http://51.15.15.119:80/5050/1234/58424
+#EXTINF:-1,SPORTV 3 FHD H265 (BR2)
+http://51.15.15.119:80/5050/1234/61837
+#EXTINF:-1,SPORTV 3 HD (BR1)
+http://51.15.15.119:80/5050/1234/58423
+#EXTINF:-1,SPORTV 3 HD (BR2)
+http://51.15.15.119:80/5050/1234/61611
+#EXTINF:-1,SPORTV 3 SD (BR1)
+http://51.15.15.119:80/5050/1234/58422
+#EXTINF:-1,SPORTV 3 SD (BR2)
+http://51.15.15.119:80/5050/1234/62765
+#EXTINF:-1,SPORTV FHD (BR1)
+http://51.15.15.119:80/5050/1234/58421
+#EXTINF:-1,SPORTV FHD H265 (BR2)
+http://51.15.15.119:80/5050/1234/61836
+#EXTINF:-1,SPORTV HD (BR1)
+http://51.15.15.119:80/5050/1234/58420
+#EXTINF:-1,SPORTV HD (BR2)
+http://51.15.15.119:80/5050/1234/61610
+#EXTINF:-1,SPORTV SD (BR1)
+http://51.15.15.119:80/5050/1234/58419
+#EXTINF:-1,SPORTV SD (BR2)
+http://51.15.15.119:80/5050/1234/62764
+#EXTINF:-1,STUDIO UNIVERSAL FHD H265 (BR2)
+http://51.15.15.119:80/5050/1234/61835
+#EXTINF:-1,STUDIO UNIVERSAL HD (BR1)
+http://51.15.15.119:80/5050/1234/58418
+#EXTINF:-1,STUDIO UNIVERSAL HD (BR2)
+http://51.15.15.119:80/5050/1234/61609
+#EXTINF:-1,STUDIO UNIVERSAL SD (BR1)
+http://51.15.15.119:80/5050/1234/58417
+#EXTINF:-1,STUDIO UNIVERSAL SD (BR2)
+http://51.15.15.119:80/5050/1234/62763
+#EXTINF:-1,SYFY FHD H265 (BR2)
+http://51.15.15.119:80/5050/1234/61834
+#EXTINF:-1,SYFY HD (BR1)
+http://51.15.15.119:80/5050/1234/58416
+#EXTINF:-1,SYFY HD (BR2)
+http://51.15.15.119:80/5050/1234/61608
+#EXTINF:-1,SYFY SD (BR1)
+http://51.15.15.119:80/5050/1234/58415
+#EXTINF:-1,SYFY SD (BR2)
+http://51.15.15.119:80/5050/1234/62762
+#EXTINF:-1,TBS HD (BR1)
+http://51.15.15.119:80/5050/1234/58413
+#EXTINF:-1,TBS HD (BR2)
+http://51.15.15.119:80/5050/1234/61607
+#EXTINF:-1,TBS SD (BR1)
+http://51.15.15.119:80/5050/1234/58412
+#EXTINF:-1,TBS SD (BR2)
+http://51.15.15.119:80/5050/1234/62761
+#EXTINF:-1,TCM HD (BR2)
+http://51.15.15.119:80/5050/1234/61606
+#EXTINF:-1,TCM SD (BR1)
+http://51.15.15.119:80/5050/1234/58411
+#EXTINF:-1,TCM SD (BR2)
+http://51.15.15.119:80/5050/1234/62760
+#EXTINF:-1,TELECINE ACTION FHD (BR1)
+http://51.15.15.119:80/5050/1234/58409
+#EXTINF:-1,TELECINE ACTION FHD H265 (BR2)
+http://51.15.15.119:80/5050/1234/61833
+#EXTINF:-1,TELECINE ACTION HD (BR1)
+http://51.15.15.119:80/5050/1234/58408
+#EXTINF:-1,TELECINE ACTION HD (BR2)
+http://51.15.15.119:80/5050/1234/61605
+#EXTINF:-1,TELECINE ACTION SD (BR1)
+http://51.15.15.119:80/5050/1234/58410
+#EXTINF:-1,TELECINE ACTION SD (BR2)
+http://51.15.15.119:80/5050/1234/62759
+#EXTINF:-1,TELECINE CULT FHD H265 (BR2)
+http://51.15.15.119:80/5050/1234/61832
+#EXTINF:-1,TELECINE CULT HD (BR1)
+http://51.15.15.119:80/5050/1234/58407
+#EXTINF:-1,TELECINE CULT HD (BR2)
+http://51.15.15.119:80/5050/1234/61604
+#EXTINF:-1,TELECINE CULT SD (BR1)
+http://51.15.15.119:80/5050/1234/58406
+#EXTINF:-1,TELECINE CULT SD (BR2)
+http://51.15.15.119:80/5050/1234/62758
+#EXTINF:-1,TELECINE FUN FHD (BR1)
+http://51.15.15.119:80/5050/1234/58405
+#EXTINF:-1,TELECINE FUN FHD H265 (BR2)
+http://51.15.15.119:80/5050/1234/61831
+#EXTINF:-1,TELECINE FUN HD (BR1)
+http://51.15.15.119:80/5050/1234/58404
+#EXTINF:-1,TELECINE FUN HD (BR2)
+http://51.15.15.119:80/5050/1234/61603
+#EXTINF:-1,TELECINE FUN SD (BR1)
+http://51.15.15.119:80/5050/1234/58403
+#EXTINF:-1,TELECINE FUN SD (BR2)
+http://51.15.15.119:80/5050/1234/62757
+#EXTINF:-1,TELECINE PIPOCA FHD (BR1)
+http://51.15.15.119:80/5050/1234/58402
+#EXTINF:-1,TELECINE PIPOCA FHD H265 (BR2)
+http://51.15.15.119:80/5050/1234/61830
+#EXTINF:-1,TELECINE PIPOCA HD (BR1)
+http://51.15.15.119:80/5050/1234/58401
+#EXTINF:-1,TELECINE PIPOCA HD (BR2)
+http://51.15.15.119:80/5050/1234/61602
+#EXTINF:-1,TELECINE PIPOCA SD (BR1)
+http://51.15.15.119:80/5050/1234/58400
+#EXTINF:-1,TELECINE PIPOCA SD (BR2)
+http://51.15.15.119:80/5050/1234/62756
+#EXTINF:-1,TELECINE PREMIUM FHD (BR1)
+http://51.15.15.119:80/5050/1234/58399
+#EXTINF:-1,TELECINE PREMIUM FHD H265 (BR2)
+http://51.15.15.119:80/5050/1234/61829
+#EXTINF:-1,TELECINE PREMIUM HD (BR1)
+http://51.15.15.119:80/5050/1234/58398
+#EXTINF:-1,TELECINE PREMIUM HD (BR2)
+http://51.15.15.119:80/5050/1234/61601
+#EXTINF:-1,TELECINE PREMIUM SD (BR1)
+http://51.15.15.119:80/5050/1234/58397
+#EXTINF:-1,TELECINE PREMIUM SD (BR2)
+http://51.15.15.119:80/5050/1234/62755
+#EXTINF:-1,TELECINE TOUCH FHD (BR1)
+http://51.15.15.119:80/5050/1234/58396
+#EXTINF:-1,TELECINE TOUCH FHD H265 (BR2)
+http://51.15.15.119:80/5050/1234/61828
+#EXTINF:-1,TELECINE TOUCH HD (BR1)
+http://51.15.15.119:80/5050/1234/58395
+#EXTINF:-1,TELECINE TOUCH HD (BR2)
+http://51.15.15.119:80/5050/1234/61600
+#EXTINF:-1,TELECINE TOUCH SD (BR1)
+http://51.15.15.119:80/5050/1234/58394
+#EXTINF:-1,TELECINE TOUCH SD (BR2)
+http://51.15.15.119:80/5050/1234/62754
+#EXTINF:-1,TERRA VIVA SD (BR1)
+http://51.15.15.119:80/5050/1234/58393
+#EXTINF:-1,TERRA VIVA SD (BR2)
+http://51.15.15.119:80/5050/1234/62753
+#EXTINF:-1,TLC HD (BR1)
+http://51.15.15.119:80/5050/1234/58392
+#EXTINF:-1,TLC HD (BR2)
+http://51.15.15.119:80/5050/1234/61599
+#EXTINF:-1,TLC SD (BR1)
+http://51.15.15.119:80/5050/1234/58391
+#EXTINF:-1,TLC SD (BR2)
+http://51.15.15.119:80/5050/1234/62752
+#EXTINF:-1,TNT FHD H265 (BR2)
+http://51.15.15.119:80/5050/1234/61827
+#EXTINF:-1,TNT HD (BR1)
+http://51.15.15.119:80/5050/1234/58390
+#EXTINF:-1,TNT HD (BR2)
+http://51.15.15.119:80/5050/1234/61598
+#EXTINF:-1,TNT SD (BR1)
+http://51.15.15.119:80/5050/1234/58389
+#EXTINF:-1,TNT SD (BR2)
+http://51.15.15.119:80/5050/1234/62751
+#EXTINF:-1,TNT SERIES FHD H265 (BR2)
+http://51.15.15.119:80/5050/1234/61826
+#EXTINF:-1,TNT SERIES HD (BR1)
+http://51.15.15.119:80/5050/1234/58388
+#EXTINF:-1,TNT SERIES HD (BR2)
+http://51.15.15.119:80/5050/1234/61597
+#EXTINF:-1,TNT SERIES SD (BR1)
+http://51.15.15.119:80/5050/1234/58387
+#EXTINF:-1,TNT SERIES SD (BR2)
+http://51.15.15.119:80/5050/1234/62750
+#EXTINF:-1,TOONCAST HD (BR2)
+http://51.15.15.119:80/5050/1234/61596
+#EXTINF:-1,TOONCAST SD (BR1)
+http://51.15.15.119:80/5050/1234/58386
+#EXTINF:-1,TOONCAST SD (BR2)
+http://51.15.15.119:80/5050/1234/62749
+#EXTINF:-1,TRANSMAERICA POP FM
+http://transamerica.crossdigital.com.br:1935/transasp02edge/transasp02/playlist.m3u8
+#EXTINF:-1,TRUTV HD (BR1)
+http://51.15.15.119:80/5050/1234/58385
+#EXTINF:-1,TRUTV SD (BR1)
+http://51.15.15.119:80/5050/1234/58384
+#EXTINF:-1,TRUTV SD (BR2)
+http://51.15.15.119:80/5050/1234/62748
+#EXTINF:-1,TV APARECIDA SD (BR1)
+http://51.15.15.119:80/5050/1234/58383
+#EXTINF:-1,TV APARECIDA SD (BR2)
+http://51.15.15.119:80/5050/1234/62747
+#EXTINF:-1,TV BRASIL SD (BR1)
+http://51.15.15.119:80/5050/1234/58382
+#EXTINF:-1,TV BRASIL SD (BR2)
+http://51.15.15.119:80/5050/1234/62746
+#EXTINF:-1,TV CAMARA SD (BR1)
+http://51.15.15.119:80/5050/1234/58381
+#EXTINF:-1,TV CAMARA SD (BR2)
+http://51.15.15.119:80/5050/1234/62745
+#EXTINF:-1,TV CIDADE OESTE SD (BR2)
+http://51.15.15.119:80/5050/1234/62744
+#EXTINF:-1,TV CLIMATEMPO SD (BR2)
+http://51.15.15.119:80/5050/1234/62743
+#EXTINF:-1,TV CULTURA HD (BR1)
+http://51.15.15.119:80/5050/1234/58380
+#EXTINF:-1,TV CULTURA SD (BR1)
+http://51.15.15.119:80/5050/1234/58379
+#EXTINF:-1,TV CULTURA SD (BR2)
+http://51.15.15.119:80/5050/1234/62742
+#EXTINF:-1,TV DIARIO FORTALEZA HD (BR1)
+http://51.15.15.119:80/5050/1234/60891
+#EXTINF:-1,TV DIARIO FORTALEZA SD
+http://51.15.15.119:80/5050/1234/60076
+#EXTINF:-1,TV DIARIO SD (BR2)
+http://51.15.15.119:80/5050/1234/62741
+#EXTINF:-1,TV ESCOLA SD (BR1)
+http://51.15.15.119:80/5050/1234/58378
+#EXTINF:-1,TV ESCOLA SD (BR2)
+http://51.15.15.119:80/5050/1234/62740
+#EXTINF:-1,TV EVANGELIZAR
+http://51.15.15.119:80/5050/1234/23786
+#EXTINF:-1,TV GAZETA SD (BR2)
+http://51.15.15.119:80/5050/1234/62738
+#EXTINF:-1,TV GAZETA SP HD (BR1)
+http://51.15.15.119:80/5050/1234/58377
+#EXTINF:-1,TV JUSTICA SD (BR1)
+http://51.15.15.119:80/5050/1234/58376
+#EXTINF:-1,TV JUSTICA SD (BR2)
+http://51.15.15.119:80/5050/1234/62737
+#EXTINF:-1,TV MUNDO CATÓLICO SD
+http://51.15.15.119:80/5050/1234/50626
+#EXTINF:-1,TV MUNDO MAIOR SD
+https://www.youtube.com/watch?v=Sjy2RPGO8fY
+#EXTINF:-1,TV RA TIM BUM HD (BR1)
+http://51.15.15.119:80/5050/1234/58375
+#EXTINF:-1,TV RA TIM BUM HD (BR2)
+http://51.15.15.119:80/5050/1234/61595
+#EXTINF:-1,TV RA TIM BUM SD (BR1)
+http://51.15.15.119:80/5050/1234/58374
+#EXTINF:-1,TV RA TIM BUM SD (BR2)
+http://51.15.15.119:80/5050/1234/62736
+#EXTINF:-1,TV RIO PRETO SD
+http://186.227.165.118:1935/insatv/livestream/playlist.m3u8?wowzasessionid=918902642
+#EXTINF:-1,TV SENADO SD (BR1)
+http://51.15.15.119:80/5050/1234/58373
+#EXTINF:-1,TV SENADO SD (BR2)
+http://51.15.15.119:80/5050/1234/62735
+#EXTINF:-1,TV5 SD (BR2)
+http://51.15.15.119:80/5050/1234/62734
+#EXTINF:-1,TVE SD (BR2)
+http://51.15.15.119:80/5050/1234/62733
+#EXTINF:-1,UNIVERSAL CHANNEL FHD H265 (BR2)
+http://51.15.15.119:80/5050/1234/61825
+#EXTINF:-1,UNIVERSAL CHANNEL HD (BR1)
+http://51.15.15.119:80/5050/1234/58372
+#EXTINF:-1,UNIVERSAL CHANNEL SD (BR1)
+http://51.15.15.119:80/5050/1234/58371
+#EXTINF:-1,UNIVERSAL CHANNEL SD (BR2)
+http://51.15.15.119:80/5050/1234/62732
+#EXTINF:-1,UNIVERSAL HD (BR2)
+http://51.15.15.119:80/5050/1234/61594
+#EXTINF:-1,VH1 HD (BR1)
+http://51.15.15.119:80/5050/1234/58370
+#EXTINF:-1,VH1 HD (BR2)
+http://51.15.15.119:80/5050/1234/61593
+#EXTINF:-1,VH1 MEGA HITS SD (BR1)
+http://51.15.15.119:80/5050/1234/58369
+#EXTINF:-1,VH1 SD (BR1)
+http://51.15.15.119:80/5050/1234/58368
+#EXTINF:-1,VH1 SD (BR2)
+http://51.15.15.119:80/5050/1234/62731
+#EXTINF:-1,VIVA FHD (BR1)
+http://51.15.15.119:80/5050/1234/58367
+#EXTINF:-1,VIVA HD (BR1)
+http://51.15.15.119:80/5050/1234/58366
+#EXTINF:-1,VIVA HD (BR2)
+http://51.15.15.119:80/5050/1234/61592
+#EXTINF:-1,VIVA SD (BR1)
+http://51.15.15.119:80/5050/1234/58365
+#EXTINF:-1,VIVA SD (BR2)
+http://51.15.15.119:80/5050/1234/62730
+#EXTINF:-1,WARNER CHANNEL FHD H265 (BR2)
+http://51.15.15.119:80/5050/1234/61824
+#EXTINF:-1,WARNER CHANNEL HD (BR1)
+http://51.15.15.119:80/5050/1234/58364
+#EXTINF:-1,WARNER CHANNEL HD (BR2)
+http://51.15.15.119:80/5050/1234/61591
+#EXTINF:-1,WARNER CHANNEL SD (BR1)
+http://51.15.15.119:80/5050/1234/58363
+#EXTINF:-1,WARNER CHANNEL SD (BR2)
+http://51.15.15.119:80/5050/1234/62729
+#EXTINF:-1,WARNER FHD (BR1)
+http://51.15.15.119:80/5050/1234/58362
+#EXTINF:-1,WEB TV LEÃO DE JUDÁ
+http://51.15.15.119:80/5050/1234/32552
+#EXTINF:-1,WOOHOO HD (BR1)
+http://51.15.15.119:80/5050/1234/58361
+#EXTINF:-1,WOOHOO HD (BR2)
+http://51.15.15.119:80/5050/1234/61590
+#EXTINF:-1,WOOHOO SD (BR1)
+http://51.15.15.119:80/5050/1234/58360
+#EXTINF:-1,WOOHOO SD (BR2)
+http://51.15.15.119:80/5050/1234/62728
+#EXTINF:-1,ZOOMOO SD (BR2)
+http://51.15.15.119:80/5050/1234/62727
+#EXTINF:-1,24HS: A Casa do Mickey
+http://51.15.15.119:80/5050/1234/59178
+#EXTINF:-1,24HS: A Guarda do Leão
+http://51.15.15.119:80/5050/1234/59179
+#EXTINF:-1,24HS: A Vila do Chaves
+http://51.15.15.119:80/5050/1234/59546
+#EXTINF:-1,24HS: As Aventuras de Jackie Chan
+http://51.15.15.119:80/5050/1234/60030
+#EXTINF:-1,24HS: As Meninas Superpoderosas
+http://51.15.15.119:80/5050/1234/60032
+#EXTINF:-1,24HS: Avatar: A lenda de Aang
+http://51.15.15.119:80/5050/1234/60035
+#EXTINF:-1,24HS: Batman
+http://51.15.15.119:80/5050/1234/59545
+#EXTINF:-1,24HS: Bob ZooM
+http://51.15.15.119:80/5050/1234/59176
+#EXTINF:-1,24HS: Câmera Escondida Silvio Santos
+http://51.15.15.119:80/5050/1234/63851
+#EXTINF:-1,24HS: Canal G5 Forró
+http://51.15.15.119:80/5050/1234/64185
+#EXTINF:-1,24HS: Canal G5 Funk
+http://51.15.15.119:80/5050/1234/64576
+#EXTINF:-1,24HS: Canal G5 Hip Hop and Rap
+http://51.15.15.119:80/5050/1234/64795
+#EXTINF:-1,24HS: Canal G5 Pagode
+http://51.15.15.119:80/5050/1234/64110
+#EXTINF:-1,24HS: Canal G5 Pop Hits
+http://51.15.15.119:80/5050/1234/64989
+#EXTINF:-1,24HS: Canal G5 Reggae RooTs
+http://51.15.15.119:80/5050/1234/64991
+#EXTINF:-1,24HS: Canal G5 Rock Brazuca
+http://51.15.15.119:80/5050/1234/64787
+#EXTINF:-1,24HS: Canal G5 Sertanejo Top
+http://51.15.15.119:80/5050/1234/63852
+#EXTINF:-1,24HS: Canal G5 Só Romanticas
+http://51.15.15.119:80/5050/1234/65009
+#EXTINF:-1,24HS: Diego GO
+http://51.15.15.119:80/5050/1234/59189
+#EXTINF:-1,24HS: Dora A Aventureira
+http://51.15.15.119:80/5050/1234/59180
+#EXTINF:-1,24HS: DuckTales
+http://51.15.15.119:80/5050/1234/59192
+#EXTINF:-1,24HS: Galinha Pintadinha
+http://51.15.15.119:80/5050/1234/59126
+#EXTINF:-1,24HS: Jakers! As Aventuras de Piggley Winks
+http://51.15.15.119:80/5050/1234/60031
+#EXTINF:-1,24HS: Miraculous: As Aventuras de Ladybug
+http://51.15.15.119:80/5050/1234/59128
+#EXTINF:-1,24HS: Múmias Vivas!
+http://51.15.15.119:80/5050/1234/60034
+#EXTINF:-1,24HS: O Mundo de BIta
+http://51.15.15.119:80/5050/1234/59177
+#EXTINF:-1,24HS: Pegadinhas Mução
+http://51.15.15.119:80/5050/1234/63290
+#EXTINF:-1,24HS: Pegadinhas Mução 2019
+http://51.15.15.119:80/5050/1234/63430
+#EXTINF:-1,24HS: Pegadinhas Mução Véio Davi
+http://51.15.15.119:80/5050/1234/63783
+#EXTINF:-1,24HS: Peppa Pig
+http://51.15.15.119:80/5050/1234/59127
+#EXTINF:-1,24HS: Show da Luna
+http://51.15.15.119:80/5050/1234/59174
+#EXTINF:-1,24HS: Vampirina
+http://51.15.15.119:80/5050/1234/59531
+#EXTINF:-1,24HS: 3 PALAVRINHAS (BR2)
+http://51.15.15.119:80/5050/1234/62570
+#EXTINF:-1,24HS: A FAMILIA ADDAMS (BR2)
+http://51.15.15.119:80/5050/1234/62569
+#EXTINF:-1,24HS: A FORMIGA ATOMICA (BR2)
+http://51.15.15.119:80/5050/1234/62568
+#EXTINF:-1,24HS: A PEQUENA SEREIA (BR2)
+http://51.15.15.119:80/5050/1234/62567
+#EXTINF:-1,24HS: A TURMA DO PERNALONGA (BR2)
+http://51.15.15.119:80/5050/1234/62566
+#EXTINF:-1,24HS: A VACA E O FRANGO (BR2)
+http://51.15.15.119:80/5050/1234/62565
+#EXTINF:-1,24HS: AH QUE KIKO! KIKO E SUA TURMA (BR2)
+http://51.15.15.119:80/5050/1234/62564
+#EXTINF:-1,24HS: ALADDIN (BR2)
+http://51.15.15.119:80/5050/1234/62563
+#EXTINF:-1,24HS: ANIMANIACS (BR2)
+http://51.15.15.119:80/5050/1234/62562
+#EXTINF:-1,24HS: ARNOLD (BR2)
+http://51.15.15.119:80/5050/1234/62561
+#EXTINF:-1,24HS: BATMAN E ROBIN (BR2)
+http://51.15.15.119:80/5050/1234/62560
+#EXTINF:-1,24HS: BEN 10 FORCA ALIENIGENA (BR2)
+http://51.15.15.119:80/5050/1234/62559
+#EXTINF:-1,24HS: BIBO PAI E BOB FILHO (BR2)
+http://51.15.15.119:80/5050/1234/62558
+#EXTINF:-1,24HS: BICUDO O LOBISOMEM (BR2)
+http://51.15.15.119:80/5050/1234/62557
+#EXTINF:-1,24HS: BOB ESPONJA (BR2)
+http://51.15.15.119:80/5050/1234/62556
+#EXTINF:-1,24HS: BUZZ LIGHTYEAR (BR2)
+http://51.15.15.119:80/5050/1234/62555
+#EXTINF:-1,24HS: CASTELO RA TIM BUM (BR2)
+http://51.15.15.119:80/5050/1234/62554
+#EXTINF:-1,24HS: CAVALO DE FOGO (BR2)
+http://51.15.15.119:80/5050/1234/62553
+#EXTINF:-1,24HS: CHANGEMAN (BR2)
+http://51.15.15.119:80/5050/1234/62552
+#EXTINF:-1,24HS: CHAPOLIN (BR2)
+http://51.15.15.119:80/5050/1234/62551
+#EXTINF:-1,24HS: CHAVES (BR2)
+http://51.15.15.119:80/5050/1234/62550
+#EXTINF:-1,24HS: CINE A
+http://51.15.15.119:80/5050/1234/62549
+#EXTINF:-1,24HS: CINE ANIMA
+http://51.15.15.119:80/5050/1234/62548
+#EXTINF:-1,24HS: CINE COMEDIA (BR2)
+http://51.15.15.119:80/5050/1234/62547
+#EXTINF:-1,24HS: CINE DC (BR2)
+http://51.15.15.119:80/5050/1234/62546
+#EXTINF:-1,24HS: CINE DRAMA (BR2)
+http://51.15.15.119:80/5050/1234/62545
+#EXTINF:-1,24HS: CINE FAROESTE (BR2)
+http://51.15.15.119:80/5050/1234/62544
+#EXTINF:-1,24HS: CINE GUERRA (BR2)
+http://51.15.15.119:80/5050/1234/62543
+#EXTINF:-1,24HS: CINE LAN
+http://51.15.15.119:80/5050/1234/62542
+#EXTINF:-1,24HS: CINE MARVEL (BR2)
+http://51.15.15.119:80/5050/1234/62541
+#EXTINF:-1,24HS: CINE NACIONAL (BR2)
+http://51.15.15.119:80/5050/1234/62540
+#EXTINF:-1,24HS: CINE TERROR (BR2)
+http://51.15.15.119:80/5050/1234/62539
+#EXTINF:-1,24HS: COLECAO BOB ZOOM (BR2)
+http://51.15.15.119:80/5050/1234/62538
+#EXTINF:-1,24HS: CORAGEM C
+http://51.15.15.119:80/5050/1234/62537
+#EXTINF:-1,24HS: CORRIDA MALUCA (BR2)
+http://51.15.15.119:80/5050/1234/62536
+#EXTINF:-1,24HS: DE VOLTA PARA O FUTURO (BR2)
+http://51.15.15.119:80/5050/1234/62535
+#EXTINF:-1,24HS: DESENHOS BIBLICOS (BR2)
+http://51.15.15.119:80/5050/1234/62534
+#EXTINF:-1,24HS: DORA A AVENTUREIRA (BR2)
+http://51.15.15.119:80/5050/1234/62533
+#EXTINF:-1,24HS: DOUG (BR2)
+http://51.15.15.119:80/5050/1234/62532
+#EXTINF:-1,24HS: DR HOUSE (BR2)
+http://51.15.15.119:80/5050/1234/62531
+#EXTINF:-1,24HS: DRAGON BALL Z  SAGA DE MAJIN BOO (BR2)
+http://51.15.15.119:80/5050/1234/62530
+#EXTINF:-1,24HS: DRAGON BALL Z: SAGA DE CELL (BR2)
+http://51.15.15.119:80/5050/1234/62529
+#EXTINF:-1,24HS: DRAGON BALL Z: SAGA DE FREEZA (BR2)
+http://51.15.15.119:80/5050/1234/62528
+#EXTINF:-1,24HS: DRAGON BALL Z: SAGA DE GARLIC JR (BR2)
+http://51.15.15.119:80/5050/1234/62527
+#EXTINF:-1,24HS: DRAGON BALL Z: SAGA DOS ANDROIDE (BR2)
+http://51.15.15.119:80/5050/1234/62526
+#EXTINF:-1,24HS: DRAGON BALL Z: SAGA DOS SAYAJINS (BR2)
+http://51.15.15.119:80/5050/1234/62525
+#EXTINF:-1,24HS: DU DUDU E EDU (BR2)
+http://51.15.15.119:80/5050/1234/62524
+#EXTINF:-1,24HS: EU A PATROA E AS CRIAN
+http://51.15.15.119:80/5050/1234/62523
+#EXTINF:-1,24HS: FAMILIA DINOSSAURO (BR2)
+http://51.15.15.119:80/5050/1234/62522
+#EXTINF:-1,24HS: FLASHMAN (BR2)
+http://51.15.15.119:80/5050/1234/62521
+#EXTINF:-1,24HS: FRANKENSTEIN JUNIOR (BR2)
+http://51.15.15.119:80/5050/1234/62520
+#EXTINF:-1,24HS: GALINHA PINTADINHA (BR2)
+http://51.15.15.119:80/5050/1234/62519
+#EXTINF:-1,24HS: JAMBO E RUIVAO (BR2)
+http://51.15.15.119:80/5050/1234/62518
+#EXTINF:-1,24HS: JASPION (BR2)
+http://51.15.15.119:80/5050/1234/62517
+#EXTINF:-1,24HS: JIRAYA (BR2)
+http://51.15.15.119:80/5050/1234/62516
+#EXTINF:-1,24HS: LIGEIRINHO (BR2)
+http://51.15.15.119:80/5050/1234/62515
+#EXTINF:-1,24HS: MASTER CHEF (BR2)
+http://51.15.15.119:80/5050/1234/62514
+#EXTINF:-1,24HS: MOSQUITO E MOSCARDO (BR2)
+http://51.15.15.119:80/5050/1234/62513
+#EXTINF:-1,24HS: MR.BEAN (BR2)
+http://51.15.15.119:80/5050/1234/62512
+#EXTINF:-1,24HS: O INSPETOR (BR2)
+http://51.15.15.119:80/5050/1234/62511
+#EXTINF:-1,24HS: O MASKARA (BR2)
+http://51.15.15.119:80/5050/1234/62510
+#EXTINF:-1,24HS: O SHOW DA LUNA (BR2)
+http://51.15.15.119:80/5050/1234/62509
+#EXTINF:-1,24HS: O SOCIO (BR2)
+http://51.15.15.119:80/5050/1234/62508
+#EXTINF:-1,24HS: OS NORMAIS (BR2)
+http://51.15.15.119:80/5050/1234/62507
+#EXTINF:-1,24HS: OS TRAPALHOES (BR2)
+http://51.15.15.119:80/5050/1234/62506
+#EXTINF:-1,24HS: PATRULHA CANINA (BR2)
+http://51.15.15.119:80/5050/1234/62505
+#EXTINF:-1,24HS: PERNALONGA (BR2)
+http://51.15.15.119:80/5050/1234/62504
+#EXTINF:-1,24HS: PICA PAU (BR2)
+http://51.15.15.119:80/5050/1234/62503
+#EXTINF:-1,24HS: PJ MASKS (BR2)
+http://51.15.15.119:80/5050/1234/62502
+#EXTINF:-1,24HS: RICK AND MORTY (BR2)
+http://51.15.15.119:80/5050/1234/62501
+#EXTINF:-1,24HS: SAMURAI JACK (BR2)
+http://51.15.15.119:80/5050/1234/62500
+#EXTINF:-1,24HS: SILVIO SANTOS (BR2)
+http://51.15.15.119:80/5050/1234/62499
+#EXTINF:-1,24HS: SOUTH PARK (BR2)
+http://51.15.15.119:80/5050/1234/62498
+#EXTINF:-1,24HS: STANDUP (BR2)
+http://51.15.15.119:80/5050/1234/62497
+#EXTINF:-1,24HS: SUPER CAMPEOES (BR2)
+http://51.15.15.119:80/5050/1234/62496
+#EXTINF:-1,24HS: THE BIG BANG THEORY (BR2)
+http://51.15.15.119:80/5050/1234/62495
+#EXTINF:-1,24HS: TITIO AVO (BR2)
+http://51.15.15.119:80/5050/1234/62494
+#EXTINF:-1,24HS: TODO MUNDO ODEIA O CHRIS (BR2)
+http://51.15.15.119:80/5050/1234/62493
+#EXTINF:-1,24HS: TOM & JERRY (BR2)
+http://51.15.15.119:80/5050/1234/62492
+#EXTINF:-1,24HS: TOMA LA DA CA (BR2)
+http://51.15.15.119:80/5050/1234/62491
+#EXTINF:-1,24HS: UFC (BR2)
+http://51.15.15.119:80/5050/1234/62490
+#EXTINF:-1,24HS: ULTRAMAN (BR2)
+http://51.15.15.119:80/5050/1234/62489
+#EXTINF:-1,24HS: UM MALUCO NO PEDACO (BR2)
+http://51.15.15.119:80/5050/1234/62488
+#EXTINF:-1,24HS: WINSPECTOR (BR2)
+http://51.15.15.119:80/5050/1234/62487
+#EXTINF:-1,24HS: X MEN EVOLUTION (BR2)
+http://51.15.15.119:80/5050/1234/62486
  
 
