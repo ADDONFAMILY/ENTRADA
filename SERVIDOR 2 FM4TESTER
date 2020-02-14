@@ -1,36 +1,185 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="encurtador.com.br/crUWX" group-title="Tv Aberta" SBT HD
-http://player.aovivo.club/1806ef20-a234-4e01-8951-5b55b1b03a7f
- 
-#EXTINF:-1 tvg-logo="encurtador.com.br/qRW68" group-title="Tv Aberta" RECORD HD
-blob:http://player.aovivo.club/578643d0-19df-4bc5-af4b-a1ea3fa17130
- 
-#EXTINF:-1 tvg-logo="encurtador.com.br/cjvLY" group-title="Tv Aberta" GLOBO HD
-blob:http://player.aovivo.club/e4f8b77d-80b0-4b74-a414-efc929874253
- 
-#EXTINF:-1 tvg-logo="encurtador.com.br/atHKR" group-title="Tv Aberta" REDE TV HD
-blob:http://player.aovivo.club/441c58c4-ce6e-447e-870c-8535b1708010
- 
-#EXTINF:-1 tvg-logo="encurtador.com.br/pK034" group-title="Tv Aberta" BAND HD
-blob:http://player.aovivo.club/568db630-53dc-4876-aa24-715e041e3f5f
- 
-#EXTINF:-1 tvg-logo="encurtador.com.br/fmIY5" group-title="Tv Sportes" ESPN BRASIL HD
-blob:http://player.aovivo.club/5e4842df-3f7f-41c3-b055-5b2f617b0944
- 
-#EXTINF:-1 tvg-logo="encurtador.com.br/hknt7" group-title="Tv Sportes" FOX SPORTS HD
-blob:http://player.aovivo.club/58628bb4-baac-47d0-aed6-df58fd2eb05c
- 
-#EXTINF:-1 tvg-logo="encurtador.com.br/sAOT8" group-title="Tv Sportes" FOX SPORTS 2 HD
-blob:http://player.aovivo.club/843137ce-0970-4f56-a8d1-06fb9ea64d00
- 
-#EXTINF:-1 tvg-logo="encurtador.com.br/ioJ18" group-title="Tv Sportes" SPORTV HD
-blob:http://player.aovivo.club/a23f20ad-1bb9-48fa-b13c-dfc364b3aba6
- 
-#EXTINF:-1 tvg-logo="encurtador.com.br/bvyR9" group-title="Tv Sportes" SPORTV 2 HD
-blob:http://player.aovivo.club/9954c971-10bd-4d7e-a904-fb8ede0dd5e4
- 
-#EXTINF:-1 tvg-logo="encurtador.com.br/hqQ39" group-title="Tv Sportes" SPORTV 3 HD
-blob:http://player.aovivo.club/41024725-fc7a-495e-9729-15c8323005bd
- 
-#EXTINF:-1 tvg-logo="encurtador.com.br/fnCY0" group-title="Tv Premiere" PREMIERE CLUBES HD
-blob:http://player.aovivo.club/b2d941f2-dc5d-423e-b1c3-5fa0ba6a0714
+#EXTINF:-1 tvg-logo="http://logocanais.ddns.net/Logo/Band.png" group-title="CANAIS ABERTOS", BAND SP
+http://54.39.67.228/~megapaineliptv/redir.php?acesso=9b219bc80391564f5c0c85937ed503ba&usuario=bbb9763bd3a819ce3ea695e677679439
+#EXTINF:-1 tvg-logo="http://logocanais.ddns.net/Logo/Globo1.png" group-title="CANAIS ABERTOS", REDE GLOBO SP
+http://54.39.67.228/~megapaineliptv/redir.php?acesso=a7cd2f7219046ad90ea54526f92644ae&usuario=bbb9763bd3a819ce3ea695e677679439
+#EXTINF:-1 tvg-logo="http://logocanais.ddns.net/Logo/Record1.png" group-title="CANAIS ABERTOS", RECORD TV SP
+http://54.39.67.228/~megapaineliptv/redir.php?acesso=8d050249edb87ae194fb3d0f6f361d4a&usuario=bbb9763bd3a819ce3ea695e677679439
+#EXTINF:-1 tvg-logo="http://logocanais.ddns.net/Logo/RedeTv1.png" group-title="CANAIS ABERTOS", REDETV SP
+http://54.39.67.228/~megapaineliptv/redir.php?acesso=8015e52cbf57936c34c228356b132822&usuario=bbb9763bd3a819ce3ea695e677679439
+#EXTINF:-1 tvg-logo="http://logocanais.ddns.net/Logo/SBT1.png" group-title="CANAIS ABERTOS", SBT SP
+http://54.39.67.228/~megapaineliptv/redir.php?acesso=f0a678c583cf6fe1ce7b1fdc84edd6e5&usuario=bbb9763bd3a819ce3ea695e677679439
+#EXTINF:-1 tvg-logo="http://logocanais.ddns.net/Logo/tvcultura1.png" group-title="CANAIS ABERTOS", TV CULTURA SP
+http://54.39.67.228/~megapaineliptv/redir.php?acesso=f5f122820393537f2054eab3ff0f6c60&usuario=bbb9763bd3a819ce3ea695e677679439
+#EXTINF:-1 tvg-logo="http://logocanais.ddns.net/Logo/gazeta.png" group-title="CANAIS ABERTOS", TV GAZETA SP
+http://54.39.67.228/~megapaineliptv/redir.php?acesso=204269f27a8229c4ad26d0f880c9a4f2&usuario=bbb9763bd3a819ce3ea695e677679439
+#EXTINF:-1 tvg-logo="http://logocanais.ddns.net/Logo/DiscoveryTheater1.png" group-title="CANAIS DE DOCUMENTARIOS", DISCOVERY THEATER
+http://54.39.67.228/~megapaineliptv/redir.php?acesso=0001e443bebff9641dc1d8c41f3f6cfc&usuario=bbb9763bd3a819ce3ea695e677679439
+#EXTINF:-1 tvg-logo="http://logocanais.ddns.net/Logo/DiscoveryWorld1.png" group-title="CANAIS DE DOCUMENTARIOS", DISCOVERY WORLD
+http://54.39.67.228/~megapaineliptv/redir.php?acesso=a20f63fdaf2c21c6216f099eafe82fce&usuario=bbb9763bd3a819ce3ea695e677679439
+#EXTINF:-1 tvg-logo="http://logocanais.ddns.net/Logo/DiscoveryChannel1.png" group-title="CANAIS DE DOCUMENTARIOS", DISCOVERY CHANNEL
+http://54.39.67.228/~megapaineliptv/redir.php?acesso=22a5aff1fb7585ff8e461d807aef981c&usuario=bbb9763bd3a819ce3ea695e677679439
+#EXTINF:-1 tvg-logo="http://logocanais.ddns.net/Logo/DiscoveryCivilization1.png" group-title="CANAIS DE DOCUMENTARIOS", DISCOVERY CIVILIZATION
+http://54.39.67.228/~megapaineliptv/redir.php?acesso=b2be22a31b25f5d93c47dc9a861139b8&usuario=bbb9763bd3a819ce3ea695e677679439
+#EXTINF:-1 tvg-logo="http://logocanais.ddns.net/Logo/DiscoveryTurbo1.png" group-title="CANAIS DE DOCUMENTARIOS", DISCOVERY TURBO
+http://54.39.67.228/~megapaineliptv/redir.php?acesso=e3f3753635fa2aa806305c984dd37dba&usuario=bbb9763bd3a819ce3ea695e677679439
+#EXTINF:-1 tvg-logo="http://logocanais.ddns.net/Logo/Natgeowild1.png" group-title="CANAIS DE DOCUMENTARIOS", NATGEOWILD
+http://54.39.67.228/~megapaineliptv/redir.php?acesso=5a8510e39b93ac338456f84c06f0203b&usuario=bbb9763bd3a819ce3ea695e677679439
+#EXTINF:-1 tvg-logo="http://logocanais.ddns.net/Logo/natgeokids1.png" group-title="CANAIS DE DOCUMENTARIOS", NATGEOGRAPHIC
+http://54.39.67.228/~megapaineliptv/redir.php?acesso=8561330c5a044d3c8cd709615d2519ec&usuario=bbb9763bd3a819ce3ea695e677679439
+#EXTINF:-1 tvg-logo="http://logocanais.ddns.net/Logo/H21.png" group-title="CANAIS DE DOCUMENTARIOS", HISTORY 2
+http://54.39.67.228/~megapaineliptv/redir.php?acesso=5d83de1c9f32e1adaf68625c99c29ac4&usuario=bbb9763bd3a819ce3ea695e677679439
+#EXTINF:-1 tvg-logo="http://logocanais.ddns.net/Logo/DiscoverySCience1.png" group-title="CANAIS DE DOCUMENTARIOS", DISCOVERY SCIENCE
+http://54.39.67.228/~megapaineliptv/redir.php?acesso=c775d437deb8fbef078911a8ab4b86ce&usuario=bbb9763bd3a819ce3ea695e677679439
+#EXTINF:-1 tvg-logo="http://logocanais.ddns.net/Logo/Investiga%C3%A7%C3%A3oDiscovery1.png" group-title="CANAIS DE DOCUMENTARIOS", INVESTIGAÇAO DISCOVERY
+http://54.39.67.228/~megapaineliptv/redir.php?acesso=160325fc1623757f59f92648e896ceef&usuario=bbb9763bd3a819ce3ea695e677679439
+#EXTINF:-1 tvg-logo="http://logocanais.ddns.net/Logo/History1.png" group-title="CANAIS DE DOCUMENTARIOS", HISTORY 1
+http://54.39.67.228/~megapaineliptv/redir.php?acesso=684fbf96a1ad7ff138e5648ceba888c6&usuario=bbb9763bd3a819ce3ea695e677679439
+#EXTINF:-1 tvg-logo="http://logocanais.ddns.net/Logo/AnimalPlanet.png" group-title="CANAIS DE DOCUMENTARIOS", ANIMAL PLANET
+http://54.39.67.228/~megapaineliptv/redir.php?acesso=2b0a880e6a0a499107dc1de609ba78e2&usuario=bbb9763bd3a819ce3ea695e677679439
+#EXTINF:-1 tvg-logo="http://logocanais.ddns.net/Logo/DiscoveryH&H1.png" group-title="CANAIS DE DOCUMENTARIOS", DISCOVERY Home Health
+http://54.39.67.228/~megapaineliptv/redir.php?acesso=c00008766364cd9d999913ca674000c8&usuario=bbb9763bd3a819ce3ea695e677679439
+#EXTINF:-1 tvg-logo="http://logocanais.ddns.net/Logo/PFC1.png" group-title="CANAIS DE ESPORTES", PREMIERE 3
+http://54.39.67.228/~megapaineliptv/redir.php?acesso=b87ef6e6af275f6de4bf6e278351bc9b&usuario=bbb9763bd3a819ce3ea695e677679439
+#EXTINF:-1 tvg-logo="http://logocanais.ddns.net/Logo/PFC1.png" group-title="CANAIS DE ESPORTES", PREMIERE 2
+http://54.39.67.228/~megapaineliptv/redir.php?acesso=d33006f15f9ba7dffe6c76a806fe12af&usuario=bbb9763bd3a819ce3ea695e677679439
+#EXTINF:-1 tvg-logo="http://logocanais.ddns.net/Logo/bandsports.png" group-title="CANAIS DE ESPORTES", BAND SPORTS
+http://54.39.67.228/~megapaineliptv/redir.php?acesso=e5e257eabd77e00183d902af64ea3458&usuario=bbb9763bd3a819ce3ea695e677679439
+#EXTINF:-1 tvg-logo="http://logocanais.ddns.net/Logo/Combate1.png" group-title="CANAIS DE ESPORTES", COMBATE
+http://54.39.67.228/~megapaineliptv/redir.php?acesso=10e37deac423f0b7f45e36f71df462e4&usuario=bbb9763bd3a819ce3ea695e677679439
+#EXTINF:-1 tvg-logo="http://logocanais.ddns.net/Logo/ESPN.png" group-title="CANAIS DE ESPORTES", ESPN 1
+http://54.39.67.228/~megapaineliptv/redir.php?acesso=3c2b15fc17b5d3ad7f48921d6156e7e4&usuario=bbb9763bd3a819ce3ea695e677679439
+#EXTINF:-1 tvg-logo="http://logocanais.ddns.net/Logo/ESPN.png" group-title="CANAIS DE ESPORTES", ESPN 2
+http://54.39.67.228/~megapaineliptv/redir.php?acesso=967aa190723924d64205a95e8a81f029&usuario=bbb9763bd3a819ce3ea695e677679439
+#EXTINF:-1 tvg-logo="http://logocanais.ddns.net/Logo/EspnBrasil.png" group-title="CANAIS DE ESPORTES", ESPN BRASIL
+http://54.39.67.228/~megapaineliptv/redir.php?acesso=d5eb28a142235fa402fd402b21b73b24&usuario=bbb9763bd3a819ce3ea695e677679439
+#EXTINF:-1 tvg-logo="http://logocanais.ddns.net/Logo/ESPN.png" group-title="CANAIS DE ESPORTES", ESPN EXTRA
+http://54.39.67.228/~megapaineliptv/redir.php?acesso=4435e5c835c363b5eed021929f82044e&usuario=bbb9763bd3a819ce3ea695e677679439
+#EXTINF:-1 tvg-logo="http://logocanais.ddns.net/Logo/FoxSports2.png" group-title="CANAIS DE ESPORTES", FOX SPORTS 1
+http://54.39.67.228/~megapaineliptv/redir.php?acesso=198041d07f9eb8758c59e72581492f58&usuario=bbb9763bd3a819ce3ea695e677679439
+#EXTINF:-1 tvg-logo="http://logocanais.ddns.net/Logo/FoxSports1.png" group-title="CANAIS DE ESPORTES", FOX SPORTS 2
+http://54.39.67.228/~megapaineliptv/redir.php?acesso=eb01a4c7746d920a5a3e224414cbd8e1&usuario=bbb9763bd3a819ce3ea695e677679439
+#EXTINF:-1 tvg-logo="http://logocanais.ddns.net/Logo/PFC1.png" group-title="CANAIS DE ESPORTES", PREMIERE CLUBES
+http://54.39.67.228/~megapaineliptv/redir.php?acesso=c6ee4d3254c6472dd4a268e67f3d0c6d&usuario=bbb9763bd3a819ce3ea695e677679439
+#EXTINF:-1 tvg-logo="http://logocanais.ddns.net/Logo/sportv1.png" group-title="CANAIS DE ESPORTES", SPORTV 1
+http://54.39.67.228/~megapaineliptv/redir.php?acesso=75646a1749e53fc9e8efa311de3c9f9f&usuario=bbb9763bd3a819ce3ea695e677679439
+#EXTINF:-1 tvg-logo="http://logocanais.ddns.net/Logo/OFF1.png" group-title="CANAIS DE ESPORTES", CANAL OFF
+http://54.39.67.228/~megapaineliptv/redir.php?acesso=d9a0712971b4bd0362e9a9986d356766&usuario=bbb9763bd3a819ce3ea695e677679439
+#EXTINF:-1 tvg-logo="http://logocanais.ddns.net/Logo/woohoo1.png" group-title="CANAIS DE ESPORTES", WOOHOO
+http://54.39.67.228/~megapaineliptv/redir.php?acesso=722168285ed3137d16e3d1ccb8c73952&usuario=bbb9763bd3a819ce3ea695e677679439
+#EXTINF:-1 tvg-logo="http://logocanais.ddns.net/Logo/Sportv.png" group-title="CANAIS DE ESPORTES", SPORT TV 2
+http://54.39.67.228/~megapaineliptv/redir.php?acesso=688ba93fea4d437ba1eea2bef8988ffd&usuario=bbb9763bd3a819ce3ea695e677679439
+#EXTINF:-1 tvg-logo="http://logocanais.ddns.net/Logo/Sportv.png" group-title="CANAIS DE ESPORTES", SPORT TV 3
+http://54.39.67.228/~megapaineliptv/redir.php?acesso=1874cdcb1b5bfb6ea5919ed17faaaf5c&usuario=bbb9763bd3a819ce3ea695e677679439
+#EXTINF:-1 tvg-logo="http://logocanais.ddns.net/Logo/PFC1.png" group-title="CANAIS DE ESPORTES", PREMIERE 4
+http://54.39.67.228/~megapaineliptv/redir.php?acesso=7bd606bb4d1d854f2a8fbb6ef3ac9900&usuario=bbb9763bd3a819ce3ea695e677679439
+#EXTINF:-1 tvg-logo="http://logocanais.ddns.net/Logo/PFC1.png" group-title="CANAIS DE ESPORTES", PREMIERE 6
+http://54.39.67.228/~megapaineliptv/redir.php?acesso=0166f5cb104d32d4679355d6d7d6156e&usuario=bbb9763bd3a819ce3ea695e677679439
+#EXTINF:-1 tvg-logo="http://logocanais.ddns.net/Logo/PFC1.png" group-title="CANAIS DE ESPORTES", PREMIERE 5
+http://54.39.67.228/~megapaineliptv/redir.php?acesso=8720a2f9149f20193e0b70b7f879211c&usuario=bbb9763bd3a819ce3ea695e677679439
+#EXTINF:-1 tvg-logo="http://logocanais.ddns.net/Logo/PFC1.png" group-title="CANAIS DE ESPORTES", PREMIERE 7
+http://54.39.67.228/~megapaineliptv/redir.php?acesso=c45901ba0dee1d7f00d61c93b4780876&usuario=bbb9763bd3a819ce3ea695e677679439
+#EXTINF:-1 tvg-logo="http://logocanais.ddns.net/Logo/PFC1.png" group-title="CANAIS DE ESPORTES", PREMIERE 8
+http://54.39.67.228/~megapaineliptv/redir.php?acesso=bd41d98669833e13ce6cce042bf8aeb9&usuario=bbb9763bd3a819ce3ea695e677679439
+#EXTINF:-1 tvg-logo="http://logocanais.ddns.net/Logo/Sony1.png" group-title="CANAIS DE FILMES ", SONY
+http://54.39.67.228/~megapaineliptv/redir.php?acesso=2c93940eb8575c8dafc5cc876e2b4eef&usuario=bbb9763bd3a819ce3ea695e677679439
+#EXTINF:-1 tvg-logo="http://logocanais.ddns.net/Logo/Cinemax1.png" group-title="CANAIS DE FILMES ", CINEMAX
+http://54.39.67.228/~megapaineliptv/redir.php?acesso=672ce38e82277c57e68e1620ae637dfe&usuario=bbb9763bd3a819ce3ea695e677679439
+#EXTINF:-1 tvg-logo="http://logocanais.ddns.net/Logo/Fox.png" group-title="CANAIS DE FILMES ", FOX
+http://54.39.67.228/~megapaineliptv/redir.php?acesso=dfc65c0dc7662085fb91a66163c00305&usuario=bbb9763bd3a819ce3ea695e677679439
+#EXTINF:-1 tvg-logo="http://logocanais.ddns.net/Logo/FoxPremium.png" group-title="CANAIS DE FILMES ", FOX PREMIUM 1
+http://54.39.67.228/~megapaineliptv/redir.php?acesso=b5ca73ea8093715b020c40f33998dac7&usuario=bbb9763bd3a819ce3ea695e677679439
+#EXTINF:-1 tvg-logo="http://logocanais.ddns.net/Logo/FoxPremium22.png" group-title="CANAIS DE FILMES ", FOX PREMIUM 2
+http://54.39.67.228/~megapaineliptv/redir.php?acesso=f80842ebb96e97fcaddcabe9e42dc27f&usuario=bbb9763bd3a819ce3ea695e677679439
+#EXTINF:-1 tvg-logo="http://logocanais.ddns.net/Logo/HBO1.png" group-title="CANAIS DE FILMES ", HBO 1
+http://54.39.67.228/~megapaineliptv/redir.php?acesso=017b4bf54c5dd212d3439aa2d5116c0a&usuario=bbb9763bd3a819ce3ea695e677679439
+#EXTINF:-1 tvg-logo="http://logocanais.ddns.net/Logo/HBO21.png" group-title="CANAIS DE FILMES ", HBO 2
+http://54.39.67.228/~megapaineliptv/redir.php?acesso=ceafd37bd1cc429afb06ec9a1b2d3793&usuario=bbb9763bd3a819ce3ea695e677679439
+#EXTINF:-1 tvg-logo="http://logocanais.ddns.net/Logo/HboFamily1.png" group-title="CANAIS DE FILMES ", HBO FAMILY
+http://54.39.67.228/~megapaineliptv/redir.php?acesso=ca5bfeb69def79c2feb6b198bb32005c&usuario=bbb9763bd3a819ce3ea695e677679439
+#EXTINF:-1 tvg-logo="http://logocanais.ddns.net/Logo/HBOSignature1.pn" group-title="CANAIS DE FILMES ", HBO SIGNATURE
+http://54.39.67.228/~megapaineliptv/redir.php?acesso=a80d58e46f9bc45972c75043fc755c67&usuario=bbb9763bd3a819ce3ea695e677679439
+#EXTINF:-1 tvg-logo="http://logocanais.ddns.net/Logo/MaxPrime1.png" group-title="CANAIS DE FILMES ", MAX PRIME
+http://54.39.67.228/~megapaineliptv/redir.php?acesso=c54c55f4345b2e00dfa24472c8bf8b25&usuario=bbb9763bd3a819ce3ea695e677679439
+#EXTINF:-1 tvg-logo="http://logocanais.ddns.net/Logo/Megapix1.png" group-title="CANAIS DE FILMES ", MEGAPIX
+http://54.39.67.228/~megapaineliptv/redir.php?acesso=1dbc425f089f69402973d3391e065d70&usuario=bbb9763bd3a819ce3ea695e677679439
+#EXTINF:-1 tvg-logo="http://logocanais.ddns.net/Logo/MaxUP1.png" group-title="CANAIS DE FILMES ", MAX UP
+http://54.39.67.228/~megapaineliptv/redir.php?acesso=b276b30716cb6ab1a58dbcffe43d9824&usuario=bbb9763bd3a819ce3ea695e677679439
+#EXTINF:-1 tvg-logo="http://logocanais.ddns.net/Logo/Paramount1.png" group-title="CANAIS DE FILMES ", PARAMOUNT
+http://54.39.67.228/~megapaineliptv/redir.php?acesso=3e48cca712d5060410a85a4135606ac8&usuario=bbb9763bd3a819ce3ea695e677679439
+#EXTINF:-1 tvg-logo="http://logocanais.ddns.net/Logo/space1.png" group-title="CANAIS DE FILMES ", SPACE
+http://54.39.67.228/~megapaineliptv/redir.php?acesso=6506ae39fdca9845e3a6de3865183e57&usuario=bbb9763bd3a819ce3ea695e677679439
+#EXTINF:-1 tvg-logo="http://logocanais.ddns.net/Logo/SYFY1.png" group-title="CANAIS DE FILMES ", SYFY
+http://54.39.67.228/~megapaineliptv/redir.php?acesso=8b2b4842e5fd3db22abc12dc94470381&usuario=bbb9763bd3a819ce3ea695e677679439
+#EXTINF:-1 tvg-logo="http://logocanais.ddns.net/Logo/TelecineAction1.png" group-title="CANAIS DE FILMES ", TELECINE ACTION
+http://54.39.67.228/~megapaineliptv/redir.php?acesso=81fd5e47e8febe0b070be32e6265b6ef&usuario=bbb9763bd3a819ce3ea695e677679439
+#EXTINF:-1 tvg-logo="http://logocanais.ddns.net/Logo/TelecineCult1.png" group-title="CANAIS DE FILMES ", TELECINE CULT
+http://54.39.67.228/~megapaineliptv/redir.php?acesso=535a0d673714ef2cceac94bcf31acc1e&usuario=bbb9763bd3a819ce3ea695e677679439
+#EXTINF:-1 tvg-logo="http://logocanais.ddns.net/Logo/TelecineFun1.png" group-title="CANAIS DE FILMES ", TELECINE FUN
+http://54.39.67.228/~megapaineliptv/redir.php?acesso=10d06fd2ed6176af199b8e99c41f0f74&usuario=bbb9763bd3a819ce3ea695e677679439
+#EXTINF:-1 tvg-logo="http://logocanais.ddns.net/Logo/TelecinePipoca1.png" group-title="CANAIS DE FILMES ", TELECINE PIPOCA
+http://54.39.67.228/~megapaineliptv/redir.php?acesso=aa151ca3864fee609f19273126929085&usuario=bbb9763bd3a819ce3ea695e677679439
+#EXTINF:-1 tvg-logo="http://logocanais.ddns.net/Logo/TelecinePremium1.png" group-title="CANAIS DE FILMES ", TELECINE PREMIUM
+http://54.39.67.228/~megapaineliptv/redir.php?acesso=7f18797ac54bc6694dfa6abe85f019f0&usuario=bbb9763bd3a819ce3ea695e677679439
+#EXTINF:-1 tvg-logo="http://logocanais.ddns.net/Logo/TelecineTouch1.png" group-title="CANAIS DE FILMES ", TELECINE TOUCH
+http://54.39.67.228/~megapaineliptv/redir.php?acesso=ac266de8a401f0263835506002a2344f&usuario=bbb9763bd3a819ce3ea695e677679439
+#EXTINF:-1 tvg-logo="http://logocanais.ddns.net/Logo/tnt1.png" group-title="CANAIS DE FILMES ", TNT
+http://54.39.67.228/~megapaineliptv/redir.php?acesso=3ed8d415ab1bbac628429a85851e53b6&usuario=bbb9763bd3a819ce3ea695e677679439
+#EXTINF:-1 tvg-logo="http://logocanais.ddns.net/Logo/tntseries1.png" group-title="CANAIS DE FILMES ", TNT SERIES
+http://54.39.67.228/~megapaineliptv/redir.php?acesso=55ae9d1e5e975700af93ddf5e37e295d&usuario=bbb9763bd3a819ce3ea695e677679439
+#EXTINF:-1 tvg-logo="http://logocanais.ddns.net/Logo/universalchannel1.png" group-title="CANAIS DE FILMES ", UNIVERSAL CHANNEL
+http://54.39.67.228/~megapaineliptv/redir.php?acesso=0fc3885cbafd7bd129e35048c8a477a1&usuario=bbb9763bd3a819ce3ea695e677679439
+#EXTINF:-1 tvg-logo="http://logocanais.ddns.net/Logo/fx1.png" group-title="CANAIS DE FILMES ", FX
+http://54.39.67.228/~megapaineliptv/redir.php?acesso=b8b5089c70ae62534970e2d8aa67e96d&usuario=bbb9763bd3a819ce3ea695e677679439
+#EXTINF:-1 tvg-logo="http://logocanais.ddns.net/Logo/disney1.png" group-title="CANAIS DE FILMES ", DISNEY CHANNEL
+http://54.39.67.228/~megapaineliptv/redir.php?acesso=68ae7ee37d6c97df977a99b8b0cd2f06&usuario=bbb9763bd3a819ce3ea695e677679439
+#EXTINF:-1 tvg-logo="http://logocanais.ddns.net/Logo/universalchannel1.png" group-title="CANAIS DE FILMES ", STUDIO UNIVERSAL
+http://54.39.67.228/~megapaineliptv/redir.php?acesso=d5b04455772e61950ffaf7a2fefd70dd&usuario=bbb9763bd3a819ce3ea695e677679439
+#EXTINF:-1 tvg-logo="http://logocanais.ddns.net/Logo/warner1.png" group-title="CANAIS DE FILMES ", WARNER CHANNEL
+http://54.39.67.228/~megapaineliptv/redir.php?acesso=d9375669f0047aef57ae0f20a28fd2fd&usuario=bbb9763bd3a819ce3ea695e677679439
+#EXTINF:-1 tvg-logo="http://logocanais.ddns.net/Logo/A&E.png" group-title="CANAIS DE FILMES ", A&E
+http://54.39.67.228/~megapaineliptv/redir.php?acesso=bb38d9048b7b91706264169a031f32a4&usuario=bbb9763bd3a819ce3ea695e677679439
+#EXTINF:-1 tvg-logo="http://logocanais.ddns.net/Logo/amc.png" group-title="CANAIS DE FILMES ", AMC
+http://54.39.67.228/~megapaineliptv/redir.php?acesso=5ea3e7d7ea5583ccb5aa0b1f679caee0&usuario=bbb9763bd3a819ce3ea695e677679439
+#EXTINF:-1 tvg-logo="http://logocanais.ddns.net/Logo/AXN1.png" group-title="CANAIS DE FILMES ", AXN
+http://54.39.67.228/~megapaineliptv/redir.php?acesso=79b11c64bb02b1b9dbdcdc0618b5d258&usuario=bbb9763bd3a819ce3ea695e677679439
+#EXTINF:-1 tvg-logo="http://logocanais.ddns.net/Logo/bandnews.png" group-title="CANAIS DE NOTICIAS", BAND NEWS
+http://54.39.67.228/~megapaineliptv/redir.php?acesso=73e70d843723bdfea9ad727140a0bef6&usuario=bbb9763bd3a819ce3ea695e677679439
+#EXTINF:-1 tvg-logo="http://logocanais.ddns.net/Logo/GloboNews1.png" group-title="CANAIS DE NOTICIAS", GLOBO NEWS
+http://54.39.67.228/~megapaineliptv/redir.php?acesso=6b3db506415124ecc7523e0422e8ab5e&usuario=bbb9763bd3a819ce3ea695e677679439
+#EXTINF:-1 tvg-logo="http://logocanais.ddns.net/Logo/RecordNews1.png" group-title="CANAIS DE NOTICIAS", RECORD NEWS
+http://54.39.67.228/~megapaineliptv/redir.php?acesso=1392aaad58028e1048b674931a46dcd7&usuario=bbb9763bd3a819ce3ea695e677679439
+#EXTINF:-1 tvg-logo="http://logocanais.ddns.net/Logo/Bis1.png" group-title="CANAIS DE VARIEDADES", BIS
+http://54.39.67.228/~megapaineliptv/redir.php?acesso=f874a3540c84daa7e6e0e3ea543365bf&usuario=bbb9763bd3a819ce3ea695e677679439
+#EXTINF:-1 tvg-logo="http://logocanais.ddns.net/Logo/FoodNetwork1.png" group-title="CANAIS DE VARIEDADES", FOOD NETWORK
+http://54.39.67.228/~megapaineliptv/redir.php?acesso=b0e7eb6bbedb91ec85734ca5a940718e&usuario=bbb9763bd3a819ce3ea695e677679439
+#EXTINF:-1 tvg-logo="http://logocanais.ddns.net/Logo/GNT1.png" group-title="CANAIS DE VARIEDADES", GNT
+http://54.39.67.228/~megapaineliptv/redir.php?acesso=220ab163e14012078b669a75ffbe66c8&usuario=bbb9763bd3a819ce3ea695e677679439
+#EXTINF:-1 tvg-logo="http://logocanais.ddns.net/Logo/MTV1.png" group-title="CANAIS DE VARIEDADES", MTV BRASIL
+http://54.39.67.228/~megapaineliptv/redir.php?acesso=2b7f64b1a5bed648e9979e7dd8bb3c7a&usuario=bbb9763bd3a819ce3ea695e677679439
+#EXTINF:-1 tvg-logo="http://logocanais.ddns.net/Logo/Multishow1.png" group-title="CANAIS DE VARIEDADES", MULTISHOW
+http://54.39.67.228/~megapaineliptv/redir.php?acesso=1d80cb3631c3f5a88c62306bb4c036a6&usuario=bbb9763bd3a819ce3ea695e677679439
+#EXTINF:-1 tvg-logo="http://logocanais.ddns.net/Logo/Musicboxbrasil1.png" group-title="CANAIS DE VARIEDADES", MUSIC BOX BRASIL
+http://54.39.67.228/~megapaineliptv/redir.php?acesso=370d38bcd6dc5b6b1eda89d31ec26574&usuario=bbb9763bd3a819ce3ea695e677679439
+#EXTINF:-1 tvg-logo="http://logocanais.ddns.net/Logo/viva1.png" group-title="CANAIS DE VARIEDADES", VIVA
+http://54.39.67.228/~megapaineliptv/redir.php?acesso=d8451360c9eb181a3fbd8e1e4e3e6ea2&usuario=bbb9763bd3a819ce3ea695e677679439
+#EXTINF:-1 tvg-logo="http://logocanais.ddns.net/Logo/ComedyCentral1.png" group-title="CANAIS DE VARIEDADES", COMEDY CENTRAL
+http://54.39.67.228/~megapaineliptv/redir.php?acesso=68d2aab1e5be1846eb8b67f8028738cb&usuario=bbb9763bd3a819ce3ea695e677679439
+#EXTINF:-1 tvg-logo="http://logocanais.ddns.net/Logo/Arte1.png" group-title="CANAIS DE VARIEDADES", ARTE 1
+http://54.39.67.228/~megapaineliptv/redir.php?acesso=f668c1b37e2dba9a4c1e4abfc36467a5&usuario=bbb9763bd3a819ce3ea695e677679439
+#EXTINF:-1 tvg-logo="http://logocanais.ddns.net/Logo/DiscoveryKids1.png" group-title="CANAIS INFANTIL", DISCOVERY KIDS
+http://54.39.67.228/~megapaineliptv/redir.php?acesso=62f0e0e381583bb740bc0330a8b53044&usuario=bbb9763bd3a819ce3ea695e677679439
+#EXTINF:-1 tvg-logo="http://logocanais.ddns.net/Logo/CartoonNetwork1.png" group-title="CANAIS INFANTIL", CARTOON NETWORK
+http://54.39.67.228/~megapaineliptv/redir.php?acesso=993b013c251c997907cedf36e9517a9a&usuario=bbb9763bd3a819ce3ea695e677679439
+#EXTINF:-1 tvg-logo="http://logocanais.ddns.net/Logo/DisneyJunior1.png" group-title="CANAIS INFANTIL", DISNEY JUNIOR
+http://54.39.67.228/~megapaineliptv/redir.php?acesso=a6bda1d534fd0dfae66eb9eeaf7ee726&usuario=bbb9763bd3a819ce3ea695e677679439
+#EXTINF:-1 tvg-logo="http://logocanais.ddns.net/Logo/DisneyXD1.png" group-title="CANAIS INFANTIL", DISNEY XD
+http://54.39.67.228/~megapaineliptv/redir.php?acesso=e7e9e885534695fcd2910a9e8bdf94a2&usuario=bbb9763bd3a819ce3ea695e677679439
+#EXTINF:-1 tvg-logo="http://logocanais.ddns.net/Logo/Gloob1.png" group-title="CANAIS INFANTIL", GLOOB
+http://54.39.67.228/~megapaineliptv/redir.php?acesso=b6887c4fb22052489be319e63539fa5b&usuario=bbb9763bd3a819ce3ea695e677679439
+#EXTINF:-1 tvg-logo="http://logocanais.ddns.net/Logo/nick1.png" group-title="CANAIS INFANTIL", NICKELODEON
+http://54.39.67.228/~megapaineliptv/redir.php?acesso=af95cb3856017f82d8e6d3f5f662748f&usuario=bbb9763bd3a819ce3ea695e677679439
+#EXTINF:-1 tvg-logo="http://logocanais.ddns.net/Logo/tooncast1.png" group-title="CANAIS INFANTIL", TOONCAST
+http://54.39.67.228/~megapaineliptv/redir.php?acesso=64152c9fc516f00e43f3a9200b5a0f16&usuario=bbb9763bd3a819ce3ea695e677679439
+#EXTINF:-1 tvg-logo="http://logocanais.ddns.net/Logo/Boomerang1.png" group-title="CANAIS INFANTIL", BOOMERANG
+http://54.39.67.228/~megapaineliptv/redir.php?acesso=2336665748d9da610df39ac9456e49c0&usuario=bbb9763bd3a819ce3ea695e677679439
