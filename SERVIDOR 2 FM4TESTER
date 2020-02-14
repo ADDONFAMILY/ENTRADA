@@ -1,7 +1,8 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/174abcdaff2dea4f8a12695f26f6e517.png" group-title="CANAIS", HOPE CHANNEL - IASD
 https://bcliveunivsecure-lh.akamaihd.net/i/HopeChannel_1@571270/index_3192_av-p.m3u8?sd=10&rebase=on
-
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="EVANGELICO", Tv Novo Tempo
+http://stream.novotempo.com:1935/tv/smil:tvnovotempo.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/7SlZF9B.png" group-title="TV ABERTA", SBT SP INTERIOR
 https://5a1c76baf08c0.streamlock.net/z343-live/stream/playlist.m3u8
  
@@ -53,16 +54,16 @@ http://177.54.152.243:1935/agrobrasiltv/agrobrasiltv/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/da98ac6d6b08d276d592769ec21bc17f.png" group-title="CANAIS", GOSPEL MOVIES TELEVISION
 http://stmv2.srvstm.com/gospelf/gospelf/playlist.m3u8?ANTONYGTV
  
-#EXTINF:-1 tvg-logo="https://i.imgur.com/oNpqaxy.png?1" group-title="CANAIS", TVE BA HD- Canal 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/oNpqaxy.png?1" group-title="CANAIS", TVE BA HD
 http://stream2.ba.gov.br/hls-live/livepkgr/_definst_/irdeb/pgm-2.m3u8?ANTONIO
  
-#EXTINF:-1 tvg-logo="https://goo.gl/Dxnuge" group-title="CANAIS", CINE FILMES 24HS- Canal 
+#EXTINF:-1 tvg-logo="https://goo.gl/Dxnuge" group-title="CANAIS", CINE FILMES 24HS
 http://stmv2.srvstm.com/tvjsid/tvjsid/playlist.m3u8?ANTONYGTV
  
 #EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/1d40c5df4382948baeb49aa7d953126b.jpg" group-title="CANAIS", RAI MOVIES- 
 http://b2everyrai-lh.akamaihd.net/i/raimovie_1@67348/master.m3u8?ANTONYGTV
  
-#EXTINF:-1 tvg-logo="https://i.imgur.com/1no2stT.jpg" group-title="CANAIS", RETRÔ MUSIC- Canal FutucAndroiD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/1no2stT.jpg" group-title="CANAIS", RETRÔ MUSIC
 http://stream.mediawork.cz/retrotv//retrotvHQ1/playlist.m3u8
  
 #EXTINF:-1 tvg-logo="https://i.imgur.com/q0weOxZ.png?1" group-title="CANAIS", ARG:CANAL 26 HD
