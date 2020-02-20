@@ -1,3 +1,4 @@
+
 #EXTM3U
 #EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/174abcdaff2dea4f8a12695f26f6e517.png" group-title="CANAIS", HOPE CHANNEL - IASD
 https://bcliveunivsecure-lh.akamaihd.net/i/HopeChannel_1@571270/index_3192_av-p.m3u8?sd=10&rebase=on
@@ -80,9 +81,7 @@ http://stmv1.srvstm.com/gospelcartoon/gospelcartoon/playlist.m3u8?wowzasessionid
 
 **************
 
-#EXTINF:-1, [B][COLOR  yellow] RAMALHO[/B][/COLOR]  [B][COLOR lime] TV-SERVIDOR 02[/B][/COLOR]
-plugin://plugin.video.f4mTester/?name=On Line&streamtype=TSDOWNLOADER&amp;url=http://canais.servidor
- 
+
  
 #EXTINF:-1,A&E FHD H265
 plugin://plugin.video.f4mTester/?name=On Line&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:80/jeff123/jeff123/9344
