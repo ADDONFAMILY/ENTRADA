@@ -401,15 +401,22 @@ http://187.120.222.12:8000/play/UniversalTV/index.m3u8
 http://187.120.222.12:8000/play/WarnerLEG/index.m3u8
 #EXTINF:-1 ,TV Guarani - WebTV
 http://01.paineldevideo.com/rtguarany/rtguarany/playlist.m3u8
- 
- #EXTINF:-1 tvg-logo="" group-title="sul americana", dazn 1
-http://psrv.io:80/frXv1PWa/coreurl.me/26196
- 
- #EXTINF:-1 tvg-logo="" group-title="", danz 2
-http://load.kudaplay.tv/aovivo/HD_DAZN_1/video.m3u8?token=815a198c807bd2df3c72aecdeea901d4
-#EXTINF:-1 tvg-logo="" group-title="", dazn 3
- 
- 
-#EXTINF:-1 tvg-logo="" group-title="", dazn 4
-http://fsrv.me:80/k0zvbywk/ywkzvbywk/1642
+#EXTINF:-1,DAZN
+http://canais.servidor.tv:8080/live/Araci123/Araci123/2716.ts
+#EXTINF:-1,DAZN 1
+http://cms.accesss.me:25461/511181915211117/112917177117917/28465
+#EXTINF:-1,DAZN 2
+http://cms.accesss.me:25461/511181915211117/112917177117917/28466
+#EXTINF:-1,DAZN 4
+https://sportzonline.co/channels/hd/hd6.php
+#EXTINF:-1,DAZN 5
+http://servicioiptv.com:8000/live/pozaprod@gmail.com/y1Y5c4Vb7s/298.m3u8
+#EXTINF:-1,DAZN 6
+http://servicioiptv.com:8000/live/pozaprod@gmail.com/y1Y5c4Vb7s/297.m3u8
+#EXTINF:-1,DAZN 7
+http://servicioiptv.com:8000/live/pozaprod@gmail.com/y1Y5c4Vb7s/296.m3u8
+#EXTINF:-1,Servus
+http://cms.accesss.me:25461/511181915211117/112917177117917/40358
+#EXTINF:-1,|DE| DAZN 1 BAR HD
+http://king365-tv.com:2103/yhp/1234/84
  ******************************
