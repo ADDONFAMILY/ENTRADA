@@ -402,4 +402,14 @@ http://187.120.222.12:8000/play/WarnerLEG/index.m3u8
 #EXTINF:-1 ,TV Guarani - WebTV
 http://01.paineldevideo.com/rtguarany/rtguarany/playlist.m3u8
  
+ #EXTINF:-1 tvg-logo="" group-title="sul americana", dazn 1
+http://psrv.io:80/frXv1PWa/coreurl.me/26196
+ 
+ #EXTINF:-1 tvg-logo="" group-title="", danz 2
+http://load.kudaplay.tv/aovivo/HD_DAZN_1/video.m3u8?token=815a198c807bd2df3c72aecdeea901d4
+#EXTINF:-1 tvg-logo="" group-title="", dazn 3
+ 
+ 
+#EXTINF:-1 tvg-logo="" group-title="", dazn 4
+http://fsrv.me:80/k0zvbywk/ywkzvbywk/1642
  ******************************
