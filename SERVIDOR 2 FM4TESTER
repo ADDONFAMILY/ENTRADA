@@ -1,45 +1,101 @@
 
 #EXTM3U
  
-####### Canais Aberto #######
-ext,BR: Record Campinas HD,http://iptv.hot-iptv.com:8080/phelpsmurada1@/VpH6KT1jF9/170999
-ext,BR: RECORD HD,http://iptv.hot-iptv.com:8080/phelpsmurada1@/VpH6KT1jF9/170998
-ext,BR: Record News HD,http://iptv.hot-iptv.com:8080/phelpsmurada1@/VpH6KT1jF9/170997
-ext,BR: Record SP HD,http://iptv.hot-iptv.com:8080/phelpsmurada1@/VpH6KT1jF9/170996
-ext,BR: REDE BRASIL TV,http://iptv.hot-iptv.com:8080/phelpsmurada1@/VpH6KT1jF9/170995
-ext,BR: REDE RECORD SP HD,http://iptv.hot-iptv.com:8080/phelpsmurada1@/VpH6KT1jF9/170994
-ext,BR: REDE TV HD,http://iptv.hot-iptv.com:8080/phelpsmurada1@/VpH6KT1jF9/170993
-ext,BR: REDE VIDA,http://iptv.hot-iptv.com:8080/phelpsmurada1@/VpH6KT1jF9/170992
-ext,BR: SBT Brasil HD,http://iptv.hot-iptv.com:8080/phelpsmurada1@/VpH6KT1jF9/170991
-ext,BR: SBT HD,http://iptv.hot-iptv.com:8080/phelpsmurada1@/VpH6KT1jF9/170990
-ext,BR: SBT SP,http://iptv.hot-iptv.com:8080/phelpsmurada1@/VpH6KT1jF9/170989
-ext,BR: Sony HD,http://iptv.hot-iptv.com:8080/phelpsmurada1@/VpH6KT1jF9/170985
-ext,BR: Space HD,http://iptv.hot-iptv.com:8080/phelpsmurada1@/VpH6KT1jF9/170984
-  ###### Canais de Sport ######
-ext,BR: PFC 1 FHD,http://iptv.hot-opta.com:8080/phelpsmurada1@/VpH6KT1jF9/171021
-ext,BR: PFC 2 FHD,http://iptv.hot-iptv.com:8080/phelpsmurada1@/VpH6KT1jF9/171020
-ext,BR: PFC 3 FHD,http://iptv.hot-iptv.com:8080/phelpsmurada1@/VpH6KT1jF9/171019
-ext,BR: PFC 4 FHD,http://iptv.hot-iptv.com:8080/phelpsmurada1@/VpH6KT1jF9/171018
-ext,BR: PFC 5 FHD,http://iptv.hot-iptv.com:8080/phelpsmurada1@/VpH6KT1jF9/171017
-ext,BR: PFC 6 FHD,http://iptv.hot-iptv.com:8080/phelpsmurada1@/VpH6KT1jF9/171016
-ext,BR: PFC 7 FHD,http://iptv.hot-iptv.com:8080/phelpsmurada1@/VpH6KT1jF9/171015
-ext,BR: PFC HD,http://iptv.hot-iptv.com:8080/phelpsmurada1@/VpH6KT1jF9/171014
-ext,BR: PLAY TV,http://iptv.hot-iptv.com:8080/phelpsmurada1@/VpH6KT1jF9/171013
-ext,BR: Popeye O Marinheiro,http://iptv.hot-iptv.com:8080/phelpsmurada1@/VpH6KT1jF9/171012
-ext,BR: PREMIER 2 HD,http://iptv.hot-iptv.com:8080/phelpsmurada1@/VpH6KT1jF9/171011
-ext,BR: PREMIER 7 HD,http://iptv.hot-iptv.com:8080/phelpsmurada1@/VpH6KT1jF9/171010
-ext,BR: PREMIER CLUBE,http://iptv.hot-iptv.com:8080/phelpsmurada1@/VpH6KT1jF9/171009
-ext,BR: PREMIERE,http://iptv.hot-iptv.com:8080/phelpsmurada1@/VpH6KT1jF9/171008
-ext,BR: Premiere 1 HD,http://iptv.hot-iptv.com:8080/phelpsmurada1@/VpH6KT1jF9/171007
-ext,BR: Premiere 3 HD,http://iptv.hot-iptv.com:8080/phelpsmurada1@/VpH6KT1jF9/171006
-ext,BR: Premiere 4,http://iptv.hot-iptv.com:8080/phelpsmurada1@/VpH6KT1jF9/171005
-ext,BR: Premiere 5 HD,http://iptv.hot-iptv.com:8080/phelpsmurada1@/VpH6KT1jF9/171004
-ext,BR: Premiere 6 HD,http://iptv.hot-iptv.com:8080/phelpsmurada1@/VpH6KT1jF9/171003
-ext,BR: Premiere 8,http://iptv.hot-iptv.com:8080/phelpsmurada1@/VpH6KT1jF9/171002
-ext,BR: Premiere 9,http://iptv.hot-iptv.com:8080/phelpsmurada1@/VpH6KT1jF9/171001
-ext,BR: Prime Box,http://iptv.hot-iptv.com:8080/phelpsmurada1@/VpH6KT1jF9/171000
-ext,BR: Spor TV 3,http://iptv.hot-iptv.com:8080/phelpsmurada1@/VpH6KT1jF9/170983
-ext,BR: SPORTV 1 HD,http://iptv.hot-iptv.com:8080/phelpsmurada1@/VpH6KT1jF9/170982
-ext,BR: SPORTV 2 HD,http://iptv.hot-iptv.com:8080/phelpsmurada1@/VpH6KT1jF9/170981
-ext,BR: SPORTV 3 FHD,http://iptv.hot-iptv.com:8080/phelpsmurada1@/VpH6KT1jF9/170980
-ext,BR: SPORTV HD,http://iptv.hot-iptv.com:8080/phelpsmurada1@/VpH6KT1jF9/17097
+#EXTINF:-1 tvg-logo="https://images.app.goo.gl/8zmEbNSnh5sjXn2GA goup-title="TV Aberta",GLOBO SP
+https://d3crvrvnj2hrxz.cloudfront.net/hls1/bobosp.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni8xNy8yMDE5IDk6MjY6MDUgUE0maGFzaF92YWx1ZT1UTXM0VUhmSG5wdHRBYXovSGFkUlBnPT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
+ 
+EXTINF:-1 tvg-logo="https://images.app.goo.gl/jTEzH1LSsKYyitGk6" goup-title="TV Aberta", RECORD SP
+https://d3crvrvnj2hrxz.cloudfront.net/hls1/recordsp.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni8xNy8yMDE5IDk6MzI6NDQgUE0maGFzaF92YWx1ZT1LU05NYlJBT0VTeUNZb2YwVU9hZ0d3PT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
+ 
+EXTINF:-1 tvg-logo="https://images.app.goo.gl/hBL4JY2PAUuXQwi29" goup-title="TV Aberta", SBT SP
+https://evpp.mm.uol.com.br/ne10/ne10.smil/chunklist_w192160329_b216000_sleng.m3u8
+ 
+EXTINF:-1 tvg-logo="https://images.app.goo.gl/eNYLKKwYfuxKZyNA9" goup-title="TV Aberta", BAND SP
+https://d3crvrvnj2hrxz.cloudfront.net/hls1/band.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni8xNy8yMDE5IDk6NDA6MzAgUE0maGFzaF92YWx1ZT02Z2JONlRMNURmU0RUMUlCWUtxcU5nPT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
+ 
+EXTINF:-1 tvg-logo="https://images.app.goo.gl/gM7PdV4dau55YreN7" goup-title="ESPORTS", ESPORTV
+https://d3crvrvnj2hrxz.cloudfront.net/hls1/sportv1.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni8xNy8yMDE5IDk6NDQ6NDMgUE0maGFzaF92YWx1ZT03QmJUZVo3MDE3V00zb0hSdWp0SUxRPT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
+ 
+EXTINF:-1 tvg-logo="" goup-title="ESPORTS",SPORTV 2
+https://d3crvrvnj2hrxz.cloudfront.net/hls1/sportv2.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni8xNy8yMDE5IDk6NDg6NDEgUE0maGFzaF92YWx1ZT12M3hlZzhMVTBOb0ZIeDJRMzg4MGpBPT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
+ 
+EXTINF:-1 tvg-logo="https://images.app.goo.gl/7Szv5BAAQU9ssUsX8" goup-title="FILMES E SERIES",FOX CHANNEL
+https://d3crvrvnj2hrxz.cloudfront.net/hls1/fox.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni8xNy8yMDE5IDk6NTY6MjYgUE0maGFzaF92YWx1ZT1zSi9iUkRoRzQrVm9DSS95MWQyb09nPT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
+ 
+EXTINF:-1 tvg-logo="" goup-title="FILMES E SERIES",FOX PREMIUM 1
+https://d3crvrvnj2hrxz.cloudfront.net/hls1/foxpremium1.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni8xNy8yMDE5IDEwOjAxOjA3IFBNJmhhc2hfdmFsdWU9bVh3eDBsN2lOMnJpYnkvUURHV1BlUT09JnZhbGlkbWludXRlcz02MCZpZD01
+ 
+EXTINF:-1 tvg-logo="" goup-title="FILMES E SERIES",TNT
+https://d3crvrvnj2hrxz.cloudfront.net/hls1/tnt.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni8xNy8yMDE5IDEwOjA2OjQzIFBNJmhhc2hfdmFsdWU9Q0t5bWVyeVBSOVJaUnhHZ3FIVU8wUT09JnZhbGlkbWludXRlcz02MCZpZD01
+ 
+EXTINF:-1 tvg-logo="" goup-title="FILMES E SERIES",TNT SERIES
+https://d3crvrvnj2hrxz.cloudfront.net/hls1/tntseries.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni8xNy8yMDE5IDEwOjEwOjA5IFBNJmhhc2hfdmFsdWU9Z0h6bkk4L1kvbDFJRWlZSmg1S1RPQT09JnZhbGlkbWludXRlcz02MCZpZD01
+ 
+EXTINF:-1 tvg-logo="" goup-title="FILMES E SERIES",MEGAPIX
+https://d3crvrvnj2hrxz.cloudfront.net/hls1/megapix.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni8xNy8yMDE5IDEwOjExOjM0IFBNJmhhc2hfdmFsdWU9MG5QLzBNTzhUSnBIWFVmWkQ0VjN6dz09JnZhbGlkbWludXRlcz02MCZpZD01
+ 
+EXTINF:-1 tvg-logo="" goup-title="FILMES E SERIES",SPACE
+https://d3crvrvnj2hrxz.cloudfront.net/hls1/space.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni8xNy8yMDE5IDEwOjEzOjQ1IFBNJmhhc2hfdmFsdWU9WHhLc2xjS05aZDZEL0grckxoRHRzZz09JnZhbGlkbWludXRlcz02MCZpZD01
+ 
+EXTINF:-1 tvg-logo="" goup-title="FILMED E SERIES",TELECINE PIPOCA
+https://d3crvrvnj2hrxz.cloudfront.net/hls1/telecinepipoca.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni8xNy8yMDE5IDEwOjE1OjE2IFBNJmhhc2hfdmFsdWU9RHA1Y2pGZ0FHSXdtQmR2T2FYSGplUT09JnZhbGlkbWludXRlcz02MCZpZD01
+ 
+EXTINF:-1 tvg-logo="" goup-title="FILMES E SERIES",TELECINE PREMIUM
+https://d3crvrvnj2hrxz.cloudfront.net/hls1/telecinepremium.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni8xNy8yMDE5IDEwOjE2OjMyIFBNJmhhc2hfdmFsdWU9TnlwZzBpeVhxVkNGelJOVmdJejI4Zz09JnZhbGlkbWludXRlcz02MCZpZD01
+ 
+EXTINF:-1 tvg-logo="" goup-title="FILMES E SERIES",AMC Brasil
+https://d3crvrvnj2hrxz.cloudfront.net/hls1/amc.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni8xNy8yMDE5IDEwOjE4OjE2IFBNJmhhc2hfdmFsdWU9eWVBTVdHWXlGdUl2bVRqbFBoektodz09JnZhbGlkbWludXRlcz02MCZpZD01
+ 
+EXTINF:-1 tvg-logo="" goup-title="FILMES E SERIES",HBO 2
+https://d3crvrvnj2hrxz.cloudfront.net/hls1/hbo2.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni8xNy8yMDE5IDEwOjIxOjAxIFBNJmhhc2hfdmFsdWU9ci9hUFFvazZabXVYS2dxcC9yZTlHdz09JnZhbGlkbWludXRlcz02MCZpZD01
+ 
+EXTINF:-1 tvg-logo="" goup-title="FILMES E SERIES",HBO
+https://d3crvrvnj2hrxz.cloudfront.net/hls1/hbo.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni8xNy8yMDE5IDEwOjIyOjMyIFBNJmhhc2hfdmFsdWU9WGExNHUwcmx1c3F5czV3NFp0R21mZz09JnZhbGlkbWludXRlcz02MCZpZD01
+ 
+EXTINF:-1 tvg-logo="" goup-title="FILMES E SERIES",HBO PLUS
+https://d3crvrvnj2hrxz.cloudfront.net/hls1/hboplus.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni8xNy8yMDE5IDEwOjIzOjUyIFBNJmhhc2hfdmFsdWU9ZXV6OE02TXBVUGFXZVpxaFN2NHFWdz09JnZhbGlkbWludXRlcz02MCZpZD01
+ 
+EXTINF:-1 tvg-logo="" goup-title="FILMES E SERIES",HBO FAMILY
+https://d3crvrvnj2hrxz.cloudfront.net/hls1/hbofamily.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni8xNy8yMDE5IDEwOjI1OjAzIFBNJmhhc2hfdmFsdWU9Vlh5RTl2aGU5aytpTXdPOW5aY3FKQT09JnZhbGlkbWludXRlcz02MCZpZD01
+ 
+EXTINF:-1 tvg-logo="" goup-title="FILMES E SERIES",UNIVERSAL TV
+https://d3crvrvnj2hrxz.cloudfront.net/hls1/universal.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni8xNy8yMDE5IDEwOjI3OjM5IFBNJmhhc2hfdmFsdWU9S3BkVHF4WmF2M0Z2WTBEOSt1MGphZz09JnZhbGlkbWludXRlcz02MCZpZD01
+ 
+EXTINF:-1 tvg-logo="" goup-title="FILMES E SERIES",WARNER
+https://d3crvrvnj2hrxz.cloudfront.net/hls1/warner.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni8xNy8yMDE5IDEwOjI5OjIyIFBNJmhhc2hfdmFsdWU9UFVBQzN6cDF5V3hVcTl2Ump5djJLUT09JnZhbGlkbWludXRlcz02MCZpZD01
+ 
+EXTINF:-1 tvg-logo="" goup-title="FILMES E SERIES",PARAMOUNT CHANNEL
+https://d3crvrvnj2hrxz.cloudfront.net/hls1/paramount.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni8xNy8yMDE5IDEwOjMxOjAzIFBNJmhhc2hfdmFsdWU9M0RvYjh0YWZ2RFhiY1M4VnFBRnYzdz09JnZhbGlkbWludXRlcz02MCZpZD01
+ 
+EXTINF:-1 tvg-logo="" goup-title="FILMES E SERIES",SXHT
+https://d3crvrvnj2hrxz.cloudfront.net/hls1/sexhot.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni8xNy8yMDE5IDEwOjMzOjM4IFBNJmhhc2hfdmFsdWU9eXE0Unk2Uzk1TmhtWVJZL1hncCsvQT09JnZhbGlkbWludXRlcz02MCZpZD01
+ 
+EXTINF:-1 tvg-logo="" goup-title="FILMES E SERIES",TCM
+https://d3crvrvnj2hrxz.cloudfront.net/hls1/tcm.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni8xNy8yMDE5IDEwOjM1OjM5IFBNJmhhc2hfdmFsdWU9dkxCLzFFbWpwYXVUVW1IdUdlbzFhZz09JnZhbGlkbWludXRlcz02MCZpZD01
+ 
+EXTINF:-1 tvg-logo="" goup-title="FILMES E SERIES",CENTRAL COMEDY
+https://d3crvrvnj2hrxz.cloudfront.net/hls1/comedycentral.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni8xNy8yMDE5IDEwOjM4OjU1IFBNJmhhc2hfdmFsdWU9SmhHME9HT2N0YkltN1paYWNMMDlGdz09JnZhbGlkbWludXRlcz02MCZpZD01
+ 
+EXTINF:-1 tvg-logo="" goup-title="DOCUMENTARIOS",NATIONAL GEOGRAPHIC CHANNEL
+https://d3crvrvnj2hrxz.cloudfront.net/hls1/natgeo.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni8xNy8yMDE5IDEwOjQxOjEwIFBNJmhhc2hfdmFsdWU9b2l1UGdsZmxrK1AyKzVPN2NvYXRIdz09JnZhbGlkbWludXRlcz02MCZpZD01
+ 
+EXTINF:-1 tvg-logo="" goup-title="DOCUMENTARIOS",ANIMAL PLANET
+https://d3crvrvnj2hrxz.cloudfront.net/hls1/animalplanet.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni8xNy8yMDE5IDEwOjQzOjIwIFBNJmhhc2hfdmFsdWU9Vk5TKzdNa056Smp1SlNSV2tMdk1TQT09JnZhbGlkbWludXRlcz02MCZpZD01
+ 
+EXTINF:-1 tvg-logo="" goup-title="DOCUMENTARIOS",DISCOVERY CHANNEL
+https://d3crvrvnj2hrxz.cloudfront.net/hls1/discovery.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni8xNy8yMDE5IDEwOjQ0OjI5IFBNJmhhc2hfdmFsdWU9NzA4MEYxMFFFMGhjekxPN3BXZmZ2QT09JnZhbGlkbWludXRlcz02MCZpZD01
+ 
+EXTINF:-1 tvg-logo="" goup-title="DOCUMENTARIOS",HISTORY
+https://d3crvrvnj2hrxz.cloudfront.net/hls1/history.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni8xNy8yMDE5IDEwOjQ1OjUyIFBNJmhhc2hfdmFsdWU9VnFOVkRFSWw1UEplYjFld3VCdHpRZz09JnZhbGlkbWludXRlcz02MCZpZD01
+ 
+EXTINF:-1 tvg-logo="" goup-title="INFANTIL",CARTOON NETWORK
+https://d3crvrvnj2hrxz.cloudfront.net/hls1/cartoon.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni8xNy8yMDE5IDEwOjQ3OjU1IFBNJmhhc2hfdmFsdWU9amMzNjlDRFdoa2JpY0R4djc1VXlMdz09JnZhbGlkbWludXRlcz02MCZpZD01
+ 
+EXTINF:-1 tvg-logo="" goup-title="INFANTIL",DISNEY CHANNEL
+https://d3crvrvnj2hrxz.cloudfront.net/hls1/disney.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni8xNy8yMDE5IDEwOjQ5OjQ0IFBNJmhhc2hfdmFsdWU9RWNLanVGclpPZEd5VDNkZStJQ0F6QT09JnZhbGlkbWludXRlcz02MCZpZD01
+ 
+EXTINF:-1 tvg-logo="" goup-title="INFANTIL",BOOMERANG
+https://d3crvrvnj2hrxz.cloudfront.net/hls1/boomerang.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni8xNy8yMDE5IDEwOjUwOjU0IFBNJmhhc2hfdmFsdWU9MnlMOTRwQXhYeHVoaGVqMzdiQUl4dz09JnZhbGlkbWludXRlcz02MCZpZD01
+ 
+EXTINF:-1 tvg-logo="" goup-title="FILMES E SERIES",TELECINE ACTION
+https://d3crvrvnj2hrxz.cloudfront.net/hls1/telecineaction.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni8xNy8yMDE5IDEwOjUyOjQ1IFBNJmhhc2hfdmFsdWU9WFFzaG5ZT2NGZHlzdW8vL0orNy9JZz09JnZhbGlkbWludXRlcz02MCZpZD01
