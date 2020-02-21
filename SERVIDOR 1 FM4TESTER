@@ -62,10 +62,6 @@ http://173.236.10.10:1935/gvnews/gvnews/live.m3u8
 
 
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
- #EXTINF:-1 ,TV TEM SJRP - Globo HD
-http://187.120.222.12:8000/play/TVTEMSJRP/index.m3u8
-#EXTINF:-1 ,GLOBOSAT
-https://r2---sn-gpv7ener.c.2mdn.net/videoplayback/id/2dbe46a02a8c623e/itag/343/source/web_video_ads/ctier/L/acao/yes/ip/0.0.0.0/ipbits/0/expire/3712159797/sparams/acao,ctier,expire,id,ip,ipbits,itag,mip,mm,mn,ms,mv,mvi,pl,source/signature/4CB8D9CC017B09E943D2041F6E0B2EA965638E88.3AE93983D761185494AA8C0B22A339BCC499E5DF/key/cms1/cms_redirect/yes/mip/187.3.249.25/mm/42/mn/sn-gpv7ener/ms/onc/mt/1570637294/mv/u/mvi/1/pl/21/file/file.mp4
 
 #EXTINF:-1 tvg-id="SBT" tvg-logo="http://i.imgur.com/7SlZF9B.png" group-title="TV ABERTA",SBT PI
 http://192.99.46.182:1935/pioneira-tv3/pioneira-tv3/playlist.m3u8
@@ -169,8 +165,7 @@ http://tv01.logicahost.com.br:1935/tvinforbahia/tvinforbahia/live.m3u8
 http://tv02.logicahost.com.br:1935/itutv/itutv/live.m3u8
 #EXTINF:-1 ,IURD TV
 https://14398c.ha.azioncdn.net/primary/smil:tv_universal.smil/playlist.m3u8
-#EXTINF:-1 ,Jogo Aberto (11h00) Band
-https://evpp.mm.uol.com.br/geob_band/jogoaberto/playlist.m3u8
+
 #EXTINF:-1 ,KroneHIT
 https://bitcdn-kronehit.bitmovin.com/v2/hls/playlist.m3u8
 #EXTINF:-1 ,Kuriakos Kids
@@ -179,8 +174,7 @@ http://c2.manasat.com:1935/kkids/kkids2/chunklist_w817493835.m3u8
 http://c2.manasat.com:1935/kkids/kkids3/TeamBlue.m3u8
 #EXTINF:-1 ,TV Jornal - Limeira SP
 http://flash1.crossdigital.com.br:1935/1998/1998/playlist.m3u8?ISAQUE
-#EXTINF:-1 ,listaiptv.gratis
-https://listaiptv.gratis/site.mp4
+
 #EXTINF:-1 ,M2O
 https://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-b.m3u8
 #EXTINF:-1 ,MASTER TV
@@ -355,8 +349,7 @@ http://streaming.procergs.com.br:1935/tve/stve/playlist.m3u8
 https://bcliveunivsecure-lh.akamaihd.net/i/HopeChannel_1@571270/index_3192_av-p.m3u8?sd=10&rebase=on
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="EVANGELICO", Tv Novo Tempo
 http://stream.novotempo.com:1935/tv/smil:tvnovotempo.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://i.imgur.com/7SlZF9B.png" group-title="TV ABERTA", SBT SP INTERIOR
-https://5a1c76baf08c0.streamlock.net/z343-live/stream/playlist.m3u8
+
  
 #EXTINF:-1 tvg-logo="http://i.imgur.com/7SlZF9B.png" group-title="TV ABERTA", SBT PI
 http://192.99.46.182:1935/pioneira-tv3/pioneira-tv3/playlist.m3u8
