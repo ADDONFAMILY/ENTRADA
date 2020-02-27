@@ -1,5 +1,1018 @@
-#EXTM3U
 
+#EXTM3U
+ 
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logos/images/9/92/RedeTV%21_2007.png/revision/latest?cb=20170525180830&path-prefix=pt-br" group-title="CANAIS | ABERTOS", REDE TV (ALT)
+http://painelmegatv-com.umbler.net/redir.php?acesso=0fb07a3d8cf46ffb80080836737601b1&usuario=841016337a5c6d538a95fc1cc12ad559
+ 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/2/22/Logotipo_da_Rede_Globo.png" group-title="CANAIS | ABERTOS", GLOBO RJ
+http://painelmegatv-com.umbler.net/redir.php?acesso=40ccc661172c5bfc4287e1ccc96510d5&usuario=841016337a5c6d538a95fc1cc12ad559
+ 
+#EXTINF:-1 tvg-logo="http://listaiptvbrasil.com/canais/wp-content/uploads/2018/02/logotvambiental1.png" group-title="CANAIS | ABERTOS", TV AMBIENTAL
+http://painelmegatv-com.umbler.net/redir.php?acesso=cc01831f972a13a19910e5204c50bb86&usuario=841016337a5c6d538a95fc1cc12ad559
+ 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/2/22/Logotipo_da_Rede_Globo.png" group-title="CANAIS | ABERTOS", GLOBO RJ HD
+http://painelmegatv-com.umbler.net/redir.php?acesso=2ef542617ccddea6ce5bd5424b5c18a4&usuario=841016337a5c6d538a95fc1cc12ad559
+ 
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2014/02/band-logo-tv-1.png" group-title="CANAIS | ABERTOS", BAND MT
+http://painelmegatv-com.umbler.net/redir.php?acesso=a8a5bbeedca093b94b7f0d3f185b98f7&usuario=841016337a5c6d538a95fc1cc12ad559
+ 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/2/22/Logotipo_da_Rede_Globo.png" group-title="CANAIS | ABERTOS", GLOBO SP HD
+http://painelmegatv-com.umbler.net/redir.php?acesso=07c0cc69ea9b07914c8df7cfa388a18d&usuario=841016337a5c6d538a95fc1cc12ad559
+ 
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2014/02/band-logo-tv-1.png" group-title="CANAIS | ABERTOS", BAND CAMPINAS
+http://painelmegatv-com.umbler.net/redir.php?acesso=cf8d98d10627eb3b86f5189248ebe573&usuario=841016337a5c6d538a95fc1cc12ad559
+ 
+#EXTINF:-1 tvg-logo="https://brazil.mom-rsf.org/typo3temp/_processed_/5/1/csm_7065-1071_company_import_b49fd9ec1a.png" group-title="CANAIS | ABERTOS", RECORD RJ HD
+http://painelmegatv-com.umbler.net/redir.php?acesso=a63ff52655631966523168ef79c1b37b&usuario=841016337a5c6d538a95fc1cc12ad559
+ 
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/sbt-logo-2.png" group-title="CANAIS | ABERTOS", SBT PI
+http://painelmegatv-com.umbler.net/redir.php?acesso=d6627854ea06e089dd8de699dfb57198&usuario=841016337a5c6d538a95fc1cc12ad559
+ 
+#EXTINF:-1 tvg-logo="https://brazil.mom-rsf.org/typo3temp/_processed_/5/1/csm_7065-1071_company_import_b49fd9ec1a.png" group-title="CANAIS | ABERTOS", RECORD SP HD
+http://painelmegatv-com.umbler.net/redir.php?acesso=c30ef811bddb080a78a86708e7bb51c3&usuario=841016337a5c6d538a95fc1cc12ad559
+ 
+#EXTINF:-1 tvg-logo="http://www.rapifutbol.tv/javax.faces.resource/dynamiccontent.properties.jsf?ln=primefaces&pfdrid=H6AojLbKHXAw5VxJc9SUY69uDesOzTvP&pfdrt=sc&id=422&pfdrid_c=true" group-title="CANAIS | ABERTOS", ALL SPORTS
+http://painelmegatv-com.umbler.net/redir.php?acesso=b891fd9f7d68b68ca0203fb9feea38cc&usuario=841016337a5c6d538a95fc1cc12ad559
+ 
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/record-tv-logo.png" group-title="CANAIS | ABERTOS", RECORD RS
+http://painelmegatv-com.umbler.net/redir.php?acesso=21f7254dea9d58ca9de251191cde6c8e&usuario=841016337a5c6d538a95fc1cc12ad559
+ 
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/sbt-logo-1.png" group-title="CANAIS | ABERTOS", SBT
+http://painelmegatv-com.umbler.net/redir.php?acesso=55ebf3fa80824a2fa916e098868b3dc1&usuario=841016337a5c6d538a95fc1cc12ad559
+ 
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/record-tv-logo.png" group-title="CANAIS | ABERTOS", RECORD RS HD
+http://painelmegatv-com.umbler.net/redir.php?acesso=27aa1e4f1c7a37ad71105acb4762e352&usuario=841016337a5c6d538a95fc1cc12ad559
+ 
+#EXTINF:-1 tvg-logo="http://www.rapifutbol.tv/javax.faces.resource/dynamiccontent.properties.jsf?ln=primefaces&pfdrid=H6AojLbKHXAw5VxJc9SUY69uDesOzTvP&pfdrt=sc&id=422&pfdrid_c=true" group-title="CANAIS | ABERTOS", ALL SPORTS HD
+http://painelmegatv-com.umbler.net/redir.php?acesso=de097477ffd79014566d0b6a42043a90&usuario=841016337a5c6d538a95fc1cc12ad559
+ 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/1/10/Logotipo_da_Record.png" group-title="CANAIS | ABERTOS", RECORD MG HD
+http://painelmegatv-com.umbler.net/redir.php?acesso=aa956e2d642a9269cab96d0d39e455f4&usuario=841016337a5c6d538a95fc1cc12ad559
+ 
+#EXTINF:-1 tvg-logo="https://irp-cdn.multiscreensite.com/ec690164/dms3rep/multi/mobile/logo+horizontal+300x91+d.png" group-title="CANAIS | ABERTOS", CONECT TV
+http://painelmegatv-com.umbler.net/redir.php?acesso=5b5907f28c9d15f8b08c2e16b841d42f&usuario=841016337a5c6d538a95fc1cc12ad559
+ 
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/sbt-logo-1.png" group-title="CANAIS | ABERTOS", SBT PR
+http://painelmegatv-com.umbler.net/redir.php?acesso=93766b4ef67890288f761afaf6773341&usuario=841016337a5c6d538a95fc1cc12ad559
+ 
+#EXTINF:-1 tvg-logo="data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkGBxIQEBUREhIVFhUWGBUYGBcYERUXGBYXGhcYFhYZFRUYHCkgGB0mGxYXITEjJSkrLi8uFyAzODMtNygtLi0BCgoKDg0OGxAQGy0lICYtLS0tLS0tLS0tKy0wLS0tLS0tLS0tLS0tLS0tLS0tLSstLS0tLS0tLS0tLS0tLS0tLf/AABEIAOEA4QMBEQACEQEDEQH/" group-title="CANAIS | ABERTOS", REDE RVC
+http://painelmegatv-com.umbler.net/redir.php?acesso=4284da8ed022bcbe1e64ee9475a22983&usuario=841016337a5c6d538a95fc1cc12ad559
+ 
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/record-tv-logo.png" group-title="CANAIS | ABERTOS", RECORD BRASILIA
+http://painelmegatv-com.umbler.net/redir.php?acesso=40e4e130bd61a8abe9362d343a1fa3bf&usuario=841016337a5c6d538a95fc1cc12ad559
+ 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/1/13/Logotipo_da_Rede_Record.png" group-title="CANAIS | ABERTOS", RECORD SP
+http://painelmegatv-com.umbler.net/redir.php?acesso=675f0506fb9e117ce5e9036de440b211&usuario=841016337a5c6d538a95fc1cc12ad559
+ 
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/record-tv-logo.png" group-title="CANAIS | ABERTOS", RECORD BRASILIA HD
+http://painelmegatv-com.umbler.net/redir.php?acesso=1c50e07ed2ee1571361c6d39d9f3e8aa&usuario=841016337a5c6d538a95fc1cc12ad559
+ 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/1/13/Logotipo_da_Rede_Record.png" group-title="CANAIS | ABERTOS", RECORD RJ
+http://painelmegatv-com.umbler.net/redir.php?acesso=636ab65f7266145171ba14d730eaf1a9&usuario=841016337a5c6d538a95fc1cc12ad559
+ 
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/record-tv-logo.png" group-title="CANAIS | ABERTOS", RECORD BH
+http://painelmegatv-com.umbler.net/redir.php?acesso=466e87118daa29429b51900000abc991&usuario=841016337a5c6d538a95fc1cc12ad559
+ 
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/sbt-logo-1.png" group-title="CANAIS | ABERTOS", SBT PE
+http://painelmegatv-com.umbler.net/redir.php?acesso=da7d497dbdfb6f2cb31c3e0b8c7e5122&usuario=841016337a5c6d538a95fc1cc12ad559
+ 
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/record-tv-logo.png" group-title="CANAIS | ABERTOS", RECORD BA
+http://painelmegatv-com.umbler.net/redir.php?acesso=8d7c9f1b70c2ca422bba3c93fe06398e&usuario=841016337a5c6d538a95fc1cc12ad559
+ 
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/sbt-logo-1.png" group-title="CANAIS | ABERTOS", SBT BRASÍLIA
+http://painelmegatv-com.umbler.net/redir.php?acesso=53f3645ee91717fab38cbcb92557cd1a&usuario=841016337a5c6d538a95fc1cc12ad559
+ 
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/record-tv-logo.png" group-title="CANAIS | ABERTOS", RECORD PA
+http://painelmegatv-com.umbler.net/redir.php?acesso=5354434b68d9a9157c56dcc7de24c1aa&usuario=841016337a5c6d538a95fc1cc12ad559
+ 
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/sbt-logo-1.png" group-title="CANAIS | ABERTOS", SBT PE HD
+http://painelmegatv-com.umbler.net/redir.php?acesso=4c717332875495b49895c7450fd5afa4&usuario=841016337a5c6d538a95fc1cc12ad559
+ 
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/record-tv-logo.png" group-title="CANAIS | ABERTOS", RECORD GOIAS
+http://painelmegatv-com.umbler.net/redir.php?acesso=1936d969262734128989dab0fc3cecc9&usuario=841016337a5c6d538a95fc1cc12ad559
+ 
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/sbt-logo-1.png" group-title="CANAIS | ABERTOS", SBT NORDESTE
+http://painelmegatv-com.umbler.net/redir.php?acesso=6148936496e2a7f62efb64c864bbe175&usuario=841016337a5c6d538a95fc1cc12ad559
+ 
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/sbt-logo-1.png" group-title="CANAIS | ABERTOS", SBT SP
+http://painelmegatv-com.umbler.net/redir.php?acesso=0832574ddc9332ce47c0cbc4cf4d6184&usuario=841016337a5c6d538a95fc1cc12ad559
+ 
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/sbt-logo-1.png" group-title="CANAIS | ABERTOS", SBT CARUARU
+http://painelmegatv-com.umbler.net/redir.php?acesso=522bfd47725057fa932ef641b4b43f41&usuario=841016337a5c6d538a95fc1cc12ad559
+ 
+#EXTINF:-1 tvg-logo="data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkGBxIQEBUQEBAVFRUQFxUVFRUXFRYXFRUYFRYYFxgWGBcaHSggGBonGxUWITEhJSkrMC4uGCAzODMsNygtLisBCgoKDg0OGxAQGi4lHyUtLS8tLS0tLSstKy0tLS0rLS0tLS0tLS0rLS0tLy0tLS0tLS0tLS0tLS0tLS0tLS0tMf/AABEIAN4A5AMBIgACEQEDEQH/" group-title="CANAIS | ABERTOS", RECORD SC
+http://painelmegatv-com.umbler.net/redir.php?acesso=6fa4360552321bb386231162b0f0d3d3&usuario=841016337a5c6d538a95fc1cc12ad559
+ 
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/sbt-logo-1.png" group-title="CANAIS | ABERTOS", SBT MA
+http://painelmegatv-com.umbler.net/redir.php?acesso=ee55e9bfea62d4277fbad13740bc8981&usuario=841016337a5c6d538a95fc1cc12ad559
+ 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRqNFNH0UV8qjOEIMxEYPMi4LMpQsCxAHb4JCcCne9OSUOU5oYw" group-title="CANAIS | ABERTOS", FUTURA
+http://painelmegatv-com.umbler.net/redir.php?acesso=86d14c286a88b017ee164ce351a31435&usuario=841016337a5c6d538a95fc1cc12ad559
+ 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/1/10/Logotipo_da_Record.png" group-title="CANAIS | ABERTOS", RECORD RN
+http://painelmegatv-com.umbler.net/redir.php?acesso=ea355e0f7d1394f69e754d57e622f1f2&usuario=841016337a5c6d538a95fc1cc12ad559
+ 
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/sbt-logo-1.png" group-title="CANAIS | ABERTOS", SBT SERRA DOURADA
+http://painelmegatv-com.umbler.net/redir.php?acesso=1f27dfa62ffcabf8b1511899b2fd0dfd&usuario=841016337a5c6d538a95fc1cc12ad559
+ 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcR-0ucd-jHDanRCVNI6zj3njSPuQblgZuJoXxdTckfeM1YNvhOh" group-title="CANAIS | ABERTOS", RECORD ITAPUAN
+http://painelmegatv-com.umbler.net/redir.php?acesso=b47a4169e2b4537bb0f40161633ceb15&usuario=841016337a5c6d538a95fc1cc12ad559
+ 
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2014/02/band-logo-tv-1.png" group-title="CANAIS | ABERTOS", BAND
+http://painelmegatv-com.umbler.net/redir.php?acesso=459d57573080f0e46e5d3e3515944c9c&usuario=841016337a5c6d538a95fc1cc12ad559
+ 
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/02d390172369f40ce5f199223c742866.png" group-title="CANAIS | ABERTOS", REDE TV RIO
+http://painelmegatv-com.umbler.net/redir.php?acesso=d8cb2c703a6dd8fab63e3bad746eab8b&usuario=841016337a5c6d538a95fc1cc12ad559
+ 
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2014/02/band-logo-tv-1.png" group-title="CANAIS | ABERTOS", BAND SP SD
+http://painelmegatv-com.umbler.net/redir.php?acesso=ee68f537400a6be50819c231a1b8e461&usuario=841016337a5c6d538a95fc1cc12ad559
+ 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/nwtkNYt/tvsenado.png" group-title="CANAIS | ABERTOS", TV SENADO
+http://painelmegatv-com.umbler.net/redir.php?acesso=dc0020f2cf71dfcda0fd179845d24034&usuario=841016337a5c6d538a95fc1cc12ad559
+ 
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/365defd359f0551f8ee7f7a21da916c2.png" group-title="CANAIS | ABERTOS", TV BOA ESPERANÇA
+http://painelmegatv-com.umbler.net/redir.php?acesso=dddacd4dcbe3ef45906e86b0f4175285&usuario=841016337a5c6d538a95fc1cc12ad559
+ 
+#EXTINF:-1 tvg-logo="data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkGBxAHBhMSBxMWEhATExgYFRUXFRUYFhcWFRUZFhsXFxYYHTQgGBolHBgVIzEtMSkrOjA6Fx8zODMsNygtLisBCgoKDg0OGhAQGyslIB8tLy4tLy4tMS0tLy4tLS4wLTgtLTUtLS0rLS0tLS8tLS0tLS0tLS0tKy0tLS0tLS0tLf/AABEIALIBHAMBEQACEQEDEQH/" group-title="CANAIS | ABERTOS", REDETV
+http://painelmegatv-com.umbler.net/redir.php?acesso=6932571e0c50c67a839bf82bf6756455&usuario=841016337a5c6d538a95fc1cc12ad559
+ 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c3/Logo_Canal_do_Boi_-_PNG.png" group-title="CANAIS | ABERTOS", CANAL DO BOI
+http://painelmegatv-com.umbler.net/redir.php?acesso=c3f9264f9f82e5d455d831e71a0d5866&usuario=841016337a5c6d538a95fc1cc12ad559
+ 
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/sbt-logo-1.png" group-title="CANAIS | ABERTOS", SBT INTERIOR
+http://painelmegatv-com.umbler.net/redir.php?acesso=5ea392b3acfabd6ce7141918284e4f35&usuario=841016337a5c6d538a95fc1cc12ad559
+ 
+#EXTINF:-1 tvg-logo="https://conteudo.imguol.com.br/c/entretenimento/c1/2018/04/03/logo-da-band-1522794110655_v2_300x300.png" group-title="CANAIS | ABERTOS", BAND SP-HD
+http://painelmegatv-com.umbler.net/redir.php?acesso=ae0adb0d3f24b60913b0a30025b7c72c&usuario=841016337a5c6d538a95fc1cc12ad559
+ 
+#EXTINF:-1 tvg-logo="https://images.app.goo.gl/kdMiMTYpedVYiskb9" group-title="CANAIS | ABERTOS", TV BRASIL
+http://painelmegatv-com.umbler.net/redir.php?acesso=ae477c76c73d1e70c13931e96068f9a0&usuario=841016337a5c6d538a95fc1cc12ad559
+ 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/4/41/Logotipo_da_TV_A_Cr%C3%ADtica.png" group-title="CANAIS | ABERTOS", TV ACRITICA
+http://painelmegatv-com.umbler.net/redir.php?acesso=c827457163dec88768996a7f796c868f&usuario=841016337a5c6d538a95fc1cc12ad559
+ 
+#EXTINF:-1 tvg-logo="https://images.app.goo.gl/kdMiMTYpedVYiskb9" group-title="CANAIS | ABERTOS", TV UP
+http://painelmegatv-com.umbler.net/redir.php?acesso=aec573bcdf8047e17d805cc103c02172&usuario=841016337a5c6d538a95fc1cc12ad559
+ 
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logos/images/9/92/RedeTV%21_2007.png/revision/latest?cb=20170525180830&path-prefix=pt-br" group-title="CANAIS | ABERTOS", REDE TV SD
+http://painelmegatv-com.umbler.net/redir.php?acesso=c563289726528edeea77f0be2b37aaa2&usuario=841016337a5c6d538a95fc1cc12ad559
+ 
+#EXTINF:-1 tvg-logo="https://conteudo.imguol.com.br/c/entretenimento/c1/2018/04/03/logo-da-band-1522794110655_v2_300x300.png" group-title="CANAIS | ABERTOS", BAND SP HD
+http://painelmegatv-com.umbler.net/redir.php?acesso=d13c5f0170a081a9c3b31db22d8808ed&usuario=841016337a5c6d538a95fc1cc12ad559
+ 
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logos/images/9/92/RedeTV%21_2007.png/revision/latest?cb=20170525180830&path-prefix=pt-br" group-title="CANAIS | ABERTOS", REDE TV HD
+http://painelmegatv-com.umbler.net/redir.php?acesso=967e747b6a808414866122fa3fed2149&usuario=841016337a5c6d538a95fc1cc12ad559
+ 
+#EXTINF:-1 tvg-logo="https://conteudo.imguol.com.br/c/entretenimento/c1/2018/04/03/logo-da-band-1522794110655_v2_300x300.png" group-title="CANAIS | ABERTOS", BAND SP
+http://painelmegatv-com.umbler.net/redir.php?acesso=ffd6ad951136c49ae506dc0c70c855da&usuario=841016337a5c6d538a95fc1cc12ad559
+ 
+#EXTINF:-1 tvg-logo="data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkGBxIREhUSEhMVFRUWEhUXGBgXFhYYEBgVFxUXFhcVGBUYHSggGBslGxUVITEhJSkrLi4uGB8zODMtNygtLisBCgoKDg0OGxAQGy0lHyAuLS0tLS0uLS0tLS0tKy0tLS0tLS0tLS0xKy0tLTctListLS0tLS0tLS0tLTUtLi83Lf/AABEIAMsA+AMBIgACEQEDEQH/" group-title="CANAIS | ABERTOS", REDE BRASIL
+http://painelmegatv-com.umbler.net/redir.php?acesso=51a18d75f29d3f36be7c114a1ce3aa66&usuario=841016337a5c6d538a95fc1cc12ad559
+ 
+#EXTINF:-1 tvg-logo="https://tvjornal.ne10.uol.com.br/img/tv-jornal.png" group-title="CANAIS | ABERTOS", SBT RECIFE
+http://painelmegatv-com.umbler.net/redir.php?acesso=324111a6b8fd6136349b1f2ee7e2685c&usuario=841016337a5c6d538a95fc1cc12ad559
+ 
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/sbt-logo-2.png" group-title="CANAIS | ABERTOS", SBT CIDADE VERDE HD
+http://painelmegatv-com.umbler.net/redir.php?acesso=5e7de93420e20dc7ffaed505197fe4dc&usuario=841016337a5c6d538a95fc1cc12ad559
+ 
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logos/images/9/92/RedeTV%21_2007.png/revision/latest?cb=20170525180830&path-prefix=pt-br" group-title="CANAIS | ABERTOS", REDE TV
+http://painelmegatv-com.umbler.net/redir.php?acesso=a55650676ba31b8235073d15deac9963&usuario=841016337a5c6d538a95fc1cc12ad559
+ 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/2/22/Logotipo_da_Rede_Globo.png" group-title="CANAIS | ABERTOS", GLOBO SP
+http://painelmegatv-com.umbler.net/redir.php?acesso=e24da9206d750053c7e610cdbd1761a9&usuario=841016337a5c6d538a95fc1cc12ad559
+ 
+#EXTINF:-1 tvg-logo="https://www.logolynx.com/images/logolynx/a8/a84ada2c321f60374fe7b7e3be47950c.png" group-title="CANAIS | ADULTOS", VENUS
+http://painelmegatv-com.umbler.net/redir.php?acesso=918eb3ec334b4715d1da9371341f1077&usuario=841016337a5c6d538a95fc1cc12ad559
+ 
+#EXTINF:-1 tvg-logo="https://seeklogo.com/images/S/SexyHot-logo-B073A24CCE-seeklogo.com.gif" group-title="CANAIS | ADULTOS", SEX HOT
+http://painelmegatv-com.umbler.net/redir.php?acesso=b20457eeafa3f9e63e78e66764592bcc&usuario=841016337a5c6d538a95fc1cc12ad559
+ 
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/2/23/Sextreme.png/revision/latest?cb=20130927203009" group-title="CANAIS | ADULTOS", SEXTREME
+http://painelmegatv-com.umbler.net/redir.php?acesso=ecc797610fc132491a6c8936eba15e9a&usuario=841016337a5c6d538a95fc1cc12ad559
+ 
+#EXTINF:-1 tvg-logo="https://seeklogo.com/images/P/Playboy_TV-logo-82E63BD182-seeklogo.com.png" group-title="CANAIS | ADULTOS", PLAYBOY TV
+http://painelmegatv-com.umbler.net/redir.php?acesso=59eee30e4eb51ca953fd56acd53f2526&usuario=841016337a5c6d538a95fc1cc12ad559
+ 
+#EXTINF:-1 tvg-logo="http://bit.ly/2NTG8OR" group-title="CANAIS | BIG BROTHER BRASIL", BBB 20 [CAM 01]
+http://painelmegatv-com.umbler.net/redir.php?acesso=dd195b30217e8ec0178e7df6bc874a54&usuario=841016337a5c6d538a95fc1cc12ad559
+ 
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/f/f8/A%26E_%281995%29.svg/revision/latest/scale-to-width-down/200?cb=20180313093028" group-title="CANAIS | DOCUMENTÁRIO", A&E (SKY)
+http://painelmegatv-com.umbler.net/redir.php?acesso=a9dca591ed19b8b5d1f25f832eb1e7f6&usuario=841016337a5c6d538a95fc1cc12ad559
+ 
+#EXTINF:-1 tvg-logo="https://skytvplanos.com.br/img/channels/lg-51-canal-nat-geo.png" group-title="CANAIS | DOCUMENTÁRIO", NATGEO 4K
+http://painelmegatv-com.umbler.net/redir.php?acesso=c1615fa7440c7e038142be0f99526df9&usuario=841016337a5c6d538a95fc1cc12ad559
+ 
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/national-geographic-logo.png" group-title="CANAIS | DOCUMENTÁRIO", NATIONAL GEOGRAPHIC
+http://painelmegatv-com.umbler.net/redir.php?acesso=b6c54f76849819d7898077154958c4d6&usuario=841016337a5c6d538a95fc1cc12ad559
+ 
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/national-geographic-logo.png" group-title="CANAIS | DOCUMENTÁRIO", NATIONAL GEOGRAPHIC HD
+http://painelmegatv-com.umbler.net/redir.php?acesso=a3f0685a5273edd4635af100b7ffbcff&usuario=841016337a5c6d538a95fc1cc12ad559
+ 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/a/a8/LOGO_DISCOVERY_SCIENCE.png" group-title="CANAIS | DOCUMENTÁRIO", DISCOVERY SCIENCE
+http://painelmegatv-com.umbler.net/redir.php?acesso=a0e9c63b10c8cbe243f5e6c85307a407&usuario=841016337a5c6d538a95fc1cc12ad559
+ 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/eb/2008_AETV_Logo.png" group-title="CANAIS | DOCUMENTÁRIO", A&E
+http://painelmegatv-com.umbler.net/redir.php?acesso=bb38d9048b7b91706264169a031f32a4&usuario=841016337a5c6d538a95fc1cc12ad559
+ 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/eb/2008_AETV_Logo.png" group-title="CANAIS | DOCUMENTÁRIO", A&E HD
+http://painelmegatv-com.umbler.net/redir.php?acesso=62310be14e89cf215070e7e9e03ddee4&usuario=841016337a5c6d538a95fc1cc12ad559
+ 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/11/Discovery_Turbo.png" group-title="CANAIS | DOCUMENTÁRIO", DISCOVERY TURBO
+http://painelmegatv-com.umbler.net/redir.php?acesso=e3f3753635fa2aa806305c984dd37dba&usuario=841016337a5c6d538a95fc1cc12ad559
+ 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/11/Discovery_Turbo.png" group-title="CANAIS | DOCUMENTÁRIO", DISCOVERY TURBO HD
+http://painelmegatv-com.umbler.net/redir.php?acesso=ebe281c4b38e87083b7c5d17f228e2de&usuario=841016337a5c6d538a95fc1cc12ad559
+ 
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/nat-geo-wild-logo.png" group-title="CANAIS | DOCUMENTÁRIO", NAT GEO WILD
+http://painelmegatv-com.umbler.net/redir.php?acesso=2560eb85851864912ac7b71a2e72aa0e&usuario=841016337a5c6d538a95fc1cc12ad559
+ 
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/nat-geo-wild-logo.png" group-title="CANAIS | DOCUMENTÁRIO", NAT GEO WILD HD
+http://painelmegatv-com.umbler.net/redir.php?acesso=0e08319bf64543d3b42414c67b630df9&usuario=841016337a5c6d538a95fc1cc12ad559
+ 
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2018/03/history-channel-logo.png" group-title="CANAIS | DOCUMENTÁRIO", HISTORY
+http://painelmegatv-com.umbler.net/redir.php?acesso=5d83de1c9f32e1adaf68625c99c29ac4&usuario=841016337a5c6d538a95fc1cc12ad559
+ 
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2018/03/history-channel-logo.png" group-title="CANAIS | DOCUMENTÁRIO", HISTORY HD
+http://painelmegatv-com.umbler.net/redir.php?acesso=d3fd483b8f423de7d0795f14d650eb6c&usuario=841016337a5c6d538a95fc1cc12ad559
+ 
+#EXTINF:-1 tvg-logo="https://img.pngio.com/history-2png-history-png-600_500.png" group-title="CANAIS | DOCUMENTÁRIO", HISTORY 2
+http://painelmegatv-com.umbler.net/redir.php?acesso=a41a6e9e87a033b50b13d6b66ccd8dad&usuario=841016337a5c6d538a95fc1cc12ad559
+ 
+#EXTINF:-1 tvg-logo="https://img.pngio.com/history-2png-history-png-600_500.png" group-title="CANAIS | DOCUMENTÁRIO", HISTORY 2 HD
+http://painelmegatv-com.umbler.net/redir.php?acesso=9c55c2f0c3ad9fe71fd437a1a7dc310b&usuario=841016337a5c6d538a95fc1cc12ad559
+ 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/2015_Discovery_theater_HD_logo.svg/1280px-2015_Discovery_theater_HD_logo.svg.png" group-title="CANAIS | DOCUMENTÁRIO", DISCOVERY THEATER
+http://painelmegatv-com.umbler.net/redir.php?acesso=0001e443bebff9641dc1d8c41f3f6cfc&usuario=841016337a5c6d538a95fc1cc12ad559
+ 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/2015_Discovery_theater_HD_logo.svg/1280px-2015_Discovery_theater_HD_logo.svg.png" group-title="CANAIS | DOCUMENTÁRIO", DISCOVERY THEATER HD
+http://painelmegatv-com.umbler.net/redir.php?acesso=9ec90a7d73b03d657ca943eb9f366c50&usuario=841016337a5c6d538a95fc1cc12ad559
+ 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/a/a8/LOGO_DISCOVERY_SCIENCE.png" group-title="CANAIS | DOCUMENTÁRIO", DISCOVERY SCIENCE HD
+http://painelmegatv-com.umbler.net/redir.php?acesso=6a4f4b7bf180d0e2ad3f2f39e5bfd605&usuario=841016337a5c6d538a95fc1cc12ad559
+ 
+#EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-N2vaLMDjH8I/TyVaNnvHTKI/AAAAAAAABDo/htjb7tTzX5Q/s1600/Discovery+Civilization+logo+2.png" group-title="CANAIS | DOCUMENTÁRIO", DISCOVERY CIVILIZATION
+http://painelmegatv-com.umbler.net/redir.php?acesso=b2be22a31b25f5d93c47dc9a861139b8&usuario=841016337a5c6d538a95fc1cc12ad559
+ 
+#EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-N2vaLMDjH8I/TyVaNnvHTKI/AAAAAAAABDo/htjb7tTzX5Q/s1600/Discovery+Civilization+logo+2.png" group-title="CANAIS | DOCUMENTÁRIO", DISCOVERY CIVILIZATION HD
+http://painelmegatv-com.umbler.net/redir.php?acesso=ebb236b1e5e6d6bc58fc990d672e1001&usuario=841016337a5c6d538a95fc1cc12ad559
+ 
+#EXTINF:-1 tvg-logo="https://cf-media.press.discovery.com/ugc/logos/2009/08/22/DSC_D_pos.png" group-title="CANAIS | DOCUMENTÁRIO", DISCOVERY CHANNEL
+http://painelmegatv-com.umbler.net/redir.php?acesso=22a5aff1fb7585ff8e461d807aef981c&usuario=841016337a5c6d538a95fc1cc12ad559
+ 
+#EXTINF:-1 tvg-logo="https://cf-media.press.discovery.com/ugc/logos/2009/08/22/DSC_D_pos.png" group-title="CANAIS | DOCUMENTÁRIO", DISCOVERY CHANNEL HD
+http://painelmegatv-com.umbler.net/redir.php?acesso=c4e88432e0807803d682fb8238315a65&usuario=841016337a5c6d538a95fc1cc12ad559
+ 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0b/ID_-_Investiga%C3%A7%C3%A3o_Discovery.png" group-title="CANAIS | DOCUMENTÁRIO", INVESTIGAÇÃO DISCOVERY
+http://painelmegatv-com.umbler.net/redir.php?acesso=0b7b1ef2ad541f005c6051d0a5f808e8&usuario=841016337a5c6d538a95fc1cc12ad559
+ 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0b/ID_-_Investiga%C3%A7%C3%A3o_Discovery.png" group-title="CANAIS | DOCUMENTÁRIO", INVESTIGAÇÃO DISCOVERY HD
+http://painelmegatv-com.umbler.net/redir.php?acesso=8b3cb399bddc55f2131f7f5a0fde6f2c&usuario=841016337a5c6d538a95fc1cc12ad559
+ 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/World_Discovery_HD_logo.svg/1200px-World_Discovery_HD_logo.svg.png" group-title="CANAIS | DOCUMENTÁRIO", DISCOVERY WORLD
+http://painelmegatv-com.umbler.net/redir.php?acesso=a20f63fdaf2c21c6216f099eafe82fce&usuario=841016337a5c6d538a95fc1cc12ad559
+ 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/World_Discovery_HD_logo.svg/1200px-World_Discovery_HD_logo.svg.png" group-title="CANAIS | DOCUMENTÁRIO", DISCOVERY WORLD HD
+http://painelmegatv-com.umbler.net/redir.php?acesso=4ead77c786de89bf0cdec6cb1166077f&usuario=841016337a5c6d538a95fc1cc12ad559
+ 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/ff/Discovery_H%26H.png" group-title="CANAIS | DOCUMENTÁRIO", DISCOVERY HOME & HEALTH
+http://painelmegatv-com.umbler.net/redir.php?acesso=9e42683b22c1d6cf55c2e3f64b4c56c9&usuario=841016337a5c6d538a95fc1cc12ad559
+ 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/ff/Discovery_H%26H.png" group-title="CANAIS | DOCUMENTÁRIO", DISCOVERY HOME & HEALTH HD
+http://painelmegatv-com.umbler.net/redir.php?acesso=83582e937c5671ce3945a36ec56bd278&usuario=841016337a5c6d538a95fc1cc12ad559
+ 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3e/Animal_Planet.png" group-title="CANAIS | DOCUMENTÁRIO", ANIMAL PLANET
+http://painelmegatv-com.umbler.net/redir.php?acesso=2b0a880e6a0a499107dc1de609ba78e2&usuario=841016337a5c6d538a95fc1cc12ad559
+ 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3e/Animal_Planet.png" group-title="CANAIS | DOCUMENTÁRIO", ANIMAL PLANET HD
+http://painelmegatv-com.umbler.net/redir.php?acesso=4e3b724768309e879b783e396bd1356c&usuario=841016337a5c6d538a95fc1cc12ad559
+ 
+#EXTINF:-1 tvg-logo="http://prn.fm/wp-content/uploads/2015/04/natgeo.png" group-title="CANAIS | DOCUMENTÁRIO", NAT GEO 4K (ALT)
+http://painelmegatv-com.umbler.net/redir.php?acesso=0928e400bf4dfb0173ff832385cc8f76&usuario=841016337a5c6d538a95fc1cc12ad559
+ 
+#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/a/AGF-l79MrcMepj4fnV0aaam0uq0P3zVDDfjqgirC9A=s900-c-k-c0xffffffff-no-rj-mo" group-title="CANAIS | DOCUMENTÁRIO", NAT GEO WILD (ALT)
+http://painelmegatv-com.umbler.net/redir.php?acesso=c1bddbcd242d6eb6d565831ca5e7d6a9&usuario=841016337a5c6d538a95fc1cc12ad559
+ 
+#EXTINF:-1 tvg-logo="http://prn.fm/wp-content/uploads/2015/04/natgeo.png" group-title="CANAIS | DOCUMENTÁRIO", NAT GEO²
+http://painelmegatv-com.umbler.net/redir.php?acesso=fe4f17bab1c8fc13e6e878633fe35607&usuario=841016337a5c6d538a95fc1cc12ad559
+ 
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/03/multishow-logo.png" group-title="CANAIS | ENTRETENIMENTO E MUSICA", MULTISHOW
+http://painelmegatv-com.umbler.net/redir.php?acesso=0c4f82a750ddc271913391bf0b9fd6af&usuario=841016337a5c6d538a95fc1cc12ad559
+ 
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/03/multishow-logo.png" group-title="CANAIS | ENTRETENIMENTO E MUSICA", MULTISHOW HD
+http://painelmegatv-com.umbler.net/redir.php?acesso=759acedb284429beb56775cf537ebbb1&usuario=841016337a5c6d538a95fc1cc12ad559
+ 
+#EXTINF:-1 tvg-logo="https://s2.glbimg.com/ymTn9IE0rr_YJHRPbzwhmyCSdFk=/s3.glbimg.com/v1/AUTH_180b9dd048d9434295d27c4b6dadc248/media_kit/d7/69/8ca415a17b57bdc9dff88a951e82.png" group-title="CANAIS | ENTRETENIMENTO E MUSICA", BIS
+http://painelmegatv-com.umbler.net/redir.php?acesso=f874a3540c84daa7e6e0e3ea543365bf&usuario=841016337a5c6d538a95fc1cc12ad559
+ 
+#EXTINF:-1 tvg-logo="https://www.freepnglogos.com/uploads/mtv-png-logo/mtv-music-awards-png-logo-3.png" group-title="CANAIS | ENTRETENIMENTO E MUSICA", MTV HD
+http://painelmegatv-com.umbler.net/redir.php?acesso=0aec6d8d3aa17013ccbba8c78ee972ad&usuario=841016337a5c6d538a95fc1cc12ad559
+ 
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1136763433561546760/yPTPKLoH_400x400.png" group-title="CANAIS | ENTRETENIMENTO E MUSICA", BIS HD
+http://painelmegatv-com.umbler.net/redir.php?acesso=f6148d340bf5584fe8cf04cea82e7269&usuario=841016337a5c6d538a95fc1cc12ad559
+ 
+#EXTINF:-1 tvg-logo="https://www.freepnglogos.com/uploads/mtv-png-logo/mtv-music-awards-png-logo-3.png" group-title="CANAIS | ENTRETENIMENTO E MUSICA", MTV
+http://painelmegatv-com.umbler.net/redir.php?acesso=b49882eae96bb41a7fa1feb6aa7acc18&usuario=841016337a5c6d538a95fc1cc12ad559
+ 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2a/MTV_Live_HD_2013.png" group-title="CANAIS | ENTRETENIMENTO E MUSICA", MTV LIVE
+http://painelmegatv-com.umbler.net/redir.php?acesso=91e1747c1229a43ec9dd84674ff6b4f8&usuario=841016337a5c6d538a95fc1cc12ad559
+ 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2a/MTV_Live_HD_2013.png" group-title="CANAIS | ENTRETENIMENTO E MUSICA", MTV LIVE HD
+http://painelmegatv-com.umbler.net/redir.php?acesso=4f5d7797734c1f68ee0c72229ff19287&usuario=841016337a5c6d538a95fc1cc12ad559
+ 
+#EXTINF:-1 tvg-logo="https://pngimage.net/wp-content/uploads/2018/06/vh1-logo-png-6.png" group-title="CANAIS | ENTRETENIMENTO E MUSICA", VH1
+http://painelmegatv-com.umbler.net/redir.php?acesso=84a46a26239e7d4e251c495ca351b6d6&usuario=841016337a5c6d538a95fc1cc12ad559
+ 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b4/LOGO_VH1_MEGA_HITS.svg" group-title="CANAIS | ENTRETENIMENTO E MUSICA", VH1 MEGA HITS
+http://painelmegatv-com.umbler.net/redir.php?acesso=fe526f55559149ae39b2e2a81cfbd93a&usuario=841016337a5c6d538a95fc1cc12ad559
+ 
+#EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-TNq_WQvu70w/WVrJrd2fhWI/AAAAAAAA8KQ/J02VFD8ys-sKxshHsgbLuXVBJIH_IYlawCLcBGAs/s1600/espnextra.png" group-title="CANAIS | ESPORTES", ESPN EXTRA
+http://painelmegatv-com.umbler.net/redir.php?acesso=e2ac8c9757da68f895d6a9ccb9c8331b&usuario=841016337a5c6d538a95fc1cc12ad559
+ 
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2015/05/espn-logo-4.png" group-title="CANAIS | ESPORTES", ESPN
+http://painelmegatv-com.umbler.net/redir.php?acesso=7b0ef842a6a1233a8a86a8533063a1a1&usuario=841016337a5c6d538a95fc1cc12ad559
+ 
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2015/05/espn-logo-4.png" group-title="CANAIS | ESPORTES", ESPN HD
+http://painelmegatv-com.umbler.net/redir.php?acesso=6864eb578cc3f6317f85ff52f4bc8772&usuario=841016337a5c6d538a95fc1cc12ad559
+ 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ESPN2_logo.svg/1280px-ESPN2_logo.svg.png" group-title="CANAIS | ESPORTES", ESPN 2
+http://painelmegatv-com.umbler.net/redir.php?acesso=7a39b11b9af247053ebd637ff1ca9db8&usuario=841016337a5c6d538a95fc1cc12ad559
+ 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ESPN2_logo.svg/1280px-ESPN2_logo.svg.png" group-title="CANAIS | ESPORTES", ESPN 2 HD
+http://painelmegatv-com.umbler.net/redir.php?acesso=eb9a5c34d48d77e5ae82dccb499d3b0d&usuario=841016337a5c6d538a95fc1cc12ad559
+ 
+#EXTINF:-1 tvg-logo="https://static-wp-tor15-prd.torcedores.com/wp-content/uploads/2016/08/olimpiadas-na-tv.jpg" group-title="CANAIS | ESPORTES", ESPN BRASIL
+http://painelmegatv-com.umbler.net/redir.php?acesso=01887e177c51dab0a75d4bd2c5732d85&usuario=841016337a5c6d538a95fc1cc12ad559
+ 
+#EXTINF:-1 tvg-logo="https://static-wp-tor15-prd.torcedores.com/wp-content/uploads/2016/08/olimpiadas-na-tv.jpg" group-title="CANAIS | ESPORTES", ESPN BRASIL HD
+http://painelmegatv-com.umbler.net/redir.php?acesso=8168dc9216d4d023914828cc6a3462bf&usuario=841016337a5c6d538a95fc1cc12ad559
+ 
+#EXTINF:-1 tvg-logo="http://s2.glbimg.com/nWiPzL7WGQSduafJ9Z0jLcO7-Og=/200x0/filters:quality(70)/i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2018/f/k/PGAPBBQeGWVAMkqdUQsw/logo-combate.png" group-title="CANAIS | ESPORTES", COMBATE HD
+http://painelmegatv-com.umbler.net/redir.php?acesso=052c39d1a0a198e10fcbea7afe1ea33f&usuario=841016337a5c6d538a95fc1cc12ad559
+ 
+#EXTINF:-1 tvg-logo="https://d2z1w4aiblvrwu.cloudfront.net/brand/o4W/o4W_large.png" group-title="CANAIS | ESPORTES", FOX SPORT 2
+http://painelmegatv-com.umbler.net/redir.php?acesso=8491919f1626d88145464bbc3c5acf4f&usuario=841016337a5c6d538a95fc1cc12ad559
+ 
+#EXTINF:-1 tvg-logo="http://upload.wikimedia.org/wikipedia/commons/5/56/SporTV_logo_2011.png" group-title="CANAIS | ESPORTES", SPORTV HD
+http://painelmegatv-com.umbler.net/redir.php?acesso=7a5fa39c3166026539dfc02df53b2267&usuario=841016337a5c6d538a95fc1cc12ad559
+ 
+#EXTINF:-1 tvg-logo="http://upload.wikimedia.org/wikipedia/commons/5/56/SporTV_logo_2011.png" group-title="CANAIS | ESPORTES", SPORTV
+http://painelmegatv-com.umbler.net/redir.php?acesso=fa5af49011aff1c69a7c5f535c789739&usuario=841016337a5c6d538a95fc1cc12ad559
+ 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d2/SporTV_2_logo_2016.png" group-title="CANAIS | ESPORTES", SPORTV 2 HD
+http://painelmegatv-com.umbler.net/redir.php?acesso=248218cbf6287680cc74c921c0cd2586&usuario=841016337a5c6d538a95fc1cc12ad559
+ 
+#EXTINF:-1 tvg-logo="https://sport-tv-guide.live/images/stations/a1242.png" group-title="CANAIS | ESPORTES", SPORTV 3 HD
+http://painelmegatv-com.umbler.net/redir.php?acesso=102dec35f8c4cd15c54652163516ff4f&usuario=841016337a5c6d538a95fc1cc12ad559
+ 
+#EXTINF:-1 tvg-logo="https://famososnaweb.com/wp-content/uploads/2014/06/Fox-Sports-2-Logo.png" group-title="CANAIS | ESPORTES", FOX SPORTS 2 HD
+http://painelmegatv-com.umbler.net/redir.php?acesso=16713264650425b664cc1be317ee39c9&usuario=841016337a5c6d538a95fc1cc12ad559
+ 
+#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/br_sportv2_m.png" group-title="CANAIS | ESPORTES", SPORTV 2
+http://painelmegatv-com.umbler.net/redir.php?acesso=705acb2c3b49c4329c7b071f94e4984e&usuario=841016337a5c6d538a95fc1cc12ad559
+ 
+#EXTINF:-1 tvg-logo="https://cdn.reweb.io/hagah/image/vI5J5iMdS07AKhEezZXvbxmXakk=/300x300/top/smart/hagah/d/de/sportv3-hd-dee951b6.jpg" group-title="CANAIS | ESPORTES", SPORTV 3
+http://painelmegatv-com.umbler.net/redir.php?acesso=3e4b6c94eda8cd05ad63e58c3dea08b7&usuario=841016337a5c6d538a95fc1cc12ad559
+ 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f2/Fox_Sports_Premium_%28Argentina%29_-_2018_logo.png" group-title="CANAIS | ESPORTES", FOX SPORTS
+http://painelmegatv-com.umbler.net/redir.php?acesso=b5b99e75efa3e2814c015fba62543d30&usuario=841016337a5c6d538a95fc1cc12ad559
+ 
+#EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-TNq_WQvu70w/WVrJrd2fhWI/AAAAAAAA8KQ/J02VFD8ys-sKxshHsgbLuXVBJIH_IYlawCLcBGAs/s1600/espnextra.png" group-title="CANAIS | ESPORTES", ESPN EXTRA HD
+http://painelmegatv-com.umbler.net/redir.php?acesso=e9144291b7def66564a0ddcd06a29583&usuario=841016337a5c6d538a95fc1cc12ad559
+ 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f2/Fox_Sports_Premium_%28Argentina%29_-_2018_logo.png" group-title="CANAIS | ESPORTES", FOX SPORTS HD
+http://painelmegatv-com.umbler.net/redir.php?acesso=42c40218e8bdcb4f5bd1ae279baeccb4&usuario=841016337a5c6d538a95fc1cc12ad559
+ 
+#EXTINF:-1 tvg-logo="https://image21.net/103/real_madrid_logo_png/real_madrid_logo_png_51.png" group-title="CANAIS | ESPORTES", REAL MADRID TV
+http://painelmegatv-com.umbler.net/redir.php?acesso=7f5857d4221d8cbaa55705a39376517b&usuario=841016337a5c6d538a95fc1cc12ad559
+ 
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2018/05/canal-combate-logo.png" group-title="CANAIS | ESPORTES", COMBATE
+http://painelmegatv-com.umbler.net/redir.php?acesso=a092c48e9fa9ecf324b2d3a23d61d891&usuario=841016337a5c6d538a95fc1cc12ad559
+ 
+#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/br_premiere-clubes_m.png" group-title="CANAIS | ESPORTES", PREMIERE CLUBES
+http://painelmegatv-com.umbler.net/redir.php?acesso=e48cb6adc297201444d040ff8ef712eb&usuario=841016337a5c6d538a95fc1cc12ad559
+ 
+#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/br_premiere-clubes_m.png" group-title="CANAIS | ESPORTES", PREMIERE CLUBES HD
+http://painelmegatv-com.umbler.net/redir.php?acesso=ba75bc2dd32334eb8ef3c36a402553c4&usuario=841016337a5c6d538a95fc1cc12ad559
+ 
+#EXTINF:-1 tvg-logo="https://static-wp-tor15-prd.torcedores.com/wp-content/uploads/2019/05/premiere-fc-jogosa1.png" group-title="CANAIS | ESPORTES", PREMIERE 2 HD
+http://painelmegatv-com.umbler.net/redir.php?acesso=6b2e68785c79f064e524d5dfd4c03b92&usuario=841016337a5c6d538a95fc1cc12ad559
+ 
+#EXTINF:-1 tvg-logo="https://static-wp-tor15-prd.torcedores.com/wp-content/uploads/2019/05/premiere-fc-jogosa1.png" group-title="CANAIS | ESPORTES", PREMIERE 2
+http://painelmegatv-com.umbler.net/redir.php?acesso=7bd606bb4d1d854f2a8fbb6ef3ac9900&usuario=841016337a5c6d538a95fc1cc12ad559
+ 
+#EXTINF:-1 tvg-logo="https://static-wp-tor15-prd.torcedores.com/wp-content/uploads/2019/05/premiere-fc-jogosa1.png" group-title="CANAIS | ESPORTES", PREMIERE 3
+http://painelmegatv-com.umbler.net/redir.php?acesso=b87ef6e6af275f6de4bf6e278351bc9b&usuario=841016337a5c6d538a95fc1cc12ad559
+ 
+#EXTINF:-1 tvg-logo="https://static-wp-tor15-prd.torcedores.com/wp-content/uploads/2019/05/premiere-fc-jogosa1.png" group-title="CANAIS | ESPORTES", PREMIERE 3 HD
+http://painelmegatv-com.umbler.net/redir.php?acesso=3f15a84e43b7972eeb8c461552abb701&usuario=841016337a5c6d538a95fc1cc12ad559
+ 
+#EXTINF:-1 tvg-logo="https://static-wp-tor15-prd.torcedores.com/wp-content/uploads/2019/05/premiere-fc-jogosa1.png" group-title="CANAIS | ESPORTES", PREMIERE 4
+http://painelmegatv-com.umbler.net/redir.php?acesso=db24dfa074a8dd84443c396a2055eb53&usuario=841016337a5c6d538a95fc1cc12ad559
+ 
+#EXTINF:-1 tvg-logo="https://static-wp-tor15-prd.torcedores.com/wp-content/uploads/2019/05/premiere-fc-jogosa1.png" group-title="CANAIS | ESPORTES", PREMIERE 4 HD
+http://painelmegatv-com.umbler.net/redir.php?acesso=7cc390ead84a98d8f63b420a69c450aa&usuario=841016337a5c6d538a95fc1cc12ad559
+ 
+#EXTINF:-1 tvg-logo="https://static-wp-tor15-prd.torcedores.com/wp-content/uploads/2019/05/premiere-fc-jogosa1.png" group-title="CANAIS | ESPORTES", PREMIERE 5
+http://painelmegatv-com.umbler.net/redir.php?acesso=8720a2f9149f20193e0b70b7f879211c&usuario=841016337a5c6d538a95fc1cc12ad559
+ 
+#EXTINF:-1 tvg-logo="https://static-wp-tor15-prd.torcedores.com/wp-content/uploads/2019/05/premiere-fc-jogosa1.png" group-title="CANAIS | ESPORTES", PREMIERE 5 HD
+http://painelmegatv-com.umbler.net/redir.php?acesso=4fbfbd965f3775b2ae6ebf07fc5fe970&usuario=841016337a5c6d538a95fc1cc12ad559
+ 
+#EXTINF:-1 tvg-logo="https://static-wp-tor15-prd.torcedores.com/wp-content/uploads/2019/05/premiere-fc-jogosa1.png" group-title="CANAIS | ESPORTES", PREMIERE 6
+http://painelmegatv-com.umbler.net/redir.php?acesso=0166f5cb104d32d4679355d6d7d6156e&usuario=841016337a5c6d538a95fc1cc12ad559
+ 
+#EXTINF:-1 tvg-logo="https://static-wp-tor15-prd.torcedores.com/wp-content/uploads/2019/05/premiere-fc-jogosa1.png" group-title="CANAIS | ESPORTES", PREMIERE 7
+http://painelmegatv-com.umbler.net/redir.php?acesso=c45901ba0dee1d7f00d61c93b4780876&usuario=841016337a5c6d538a95fc1cc12ad559
+ 
+#EXTINF:-1 tvg-logo="https://static-wp-tor15-prd.torcedores.com/wp-content/uploads/2019/05/premiere-fc-jogosa1.png" group-title="CANAIS | ESPORTES", PREMIERE 7 HD
+http://painelmegatv-com.umbler.net/redir.php?acesso=0e709466b46f1bb5ec2d94d19f1634a6&usuario=841016337a5c6d538a95fc1cc12ad559
+ 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9e/HBO_Signature.svg" group-title="CANAIS | FILMES E SERIES", HBO SINGNATURE
+http://painelmegatv-com.umbler.net/redir.php?acesso=bf7fc253c4d1a709cceef53cee33869d&usuario=841016337a5c6d538a95fc1cc12ad559
+ 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4e/Telecine_Fun_2.png" group-title="CANAIS | FILMES E SERIES", TELECINE FUN HD
+http://painelmegatv-com.umbler.net/redir.php?acesso=2a7623c21b725d91a68a8a2647ab5733&usuario=841016337a5c6d538a95fc1cc12ad559
+ 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/HBO_Mundi.svg/1200px-HBO_Mundi.svg.png" group-title="CANAIS | FILMES E SERIES", HBO MUNDI HD
+http://painelmegatv-com.umbler.net/redir.php?acesso=67d5149cfdd089bbf25659d843887dd2&usuario=841016337a5c6d538a95fc1cc12ad559
+ 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9e/HBO_Signature.svg" group-title="CANAIS | FILMES E SERIES", HBO SINGNATURE HD
+http://painelmegatv-com.umbler.net/redir.php?acesso=e099f96fbfcf3faabf54589896757d34&usuario=841016337a5c6d538a95fc1cc12ad559
+ 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/37/Telecine_Action_2.png" group-title="CANAIS | FILMES E SERIES", TELECINE ACTION
+http://painelmegatv-com.umbler.net/redir.php?acesso=81fd5e47e8febe0b070be32e6265b6ef&usuario=841016337a5c6d538a95fc1cc12ad559
+ 
+#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/mx_fox-life_m.png" group-title="CANAIS | FILMES E SERIES", FOX LIFE
+http://painelmegatv-com.umbler.net/redir.php?acesso=5587063306aa9fcdce5f11ba7d328fc7&usuario=841016337a5c6d538a95fc1cc12ad559
+ 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3d/HBO_Plus.png" group-title="CANAIS | FILMES E SERIES", HBO PLUS
+http://painelmegatv-com.umbler.net/redir.php?acesso=29023dc667d1998063b2a6aafd2f85ac&usuario=841016337a5c6d538a95fc1cc12ad559
+ 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/37/Telecine_Action_2.png" group-title="CANAIS | FILMES E SERIES", TELECINE ACTION HD
+http://painelmegatv-com.umbler.net/redir.php?acesso=734f638a818c9ee341c249f65072b0c6&usuario=841016337a5c6d538a95fc1cc12ad559
+ 
+#EXTINF:-1 tvg-logo="https://cdn.freebiesupply.com/logos/large/2x/comedy-central-4-logo-png-transparent.png" group-title="CANAIS | FILMES E SERIES", COMEDY CENTRAL FHD
+http://painelmegatv-com.umbler.net/redir.php?acesso=7cfcc3029cbc6ae90a6936ed1be8bf08&usuario=841016337a5c6d538a95fc1cc12ad559
+ 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3d/HBO_Plus.png" group-title="CANAIS | FILMES E SERIES", HBO PLUS HD
+http://painelmegatv-com.umbler.net/redir.php?acesso=19f9c241f01ff2858a0d3b59bef7687e&usuario=841016337a5c6d538a95fc1cc12ad559
+ 
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/5/50/Telecine_Cult_Gato.png" group-title="CANAIS | FILMES E SERIES", TELECINE CULT HD
+http://painelmegatv-com.umbler.net/redir.php?acesso=c0697205de45eabb02604aacd1d1ff4e&usuario=841016337a5c6d538a95fc1cc12ad559
+ 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3a/HBO_Family_logo.png" group-title="CANAIS | FILMES E SERIES", HBO FAMILY
+http://painelmegatv-com.umbler.net/redir.php?acesso=ca5bfeb69def79c2feb6b198bb32005c&usuario=841016337a5c6d538a95fc1cc12ad559
+ 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/TNT_Logo_2016.svg/1200px-TNT_Logo_2016.svg.png" group-title="CANAIS | FILMES E SERIES", TNT
+http://painelmegatv-com.umbler.net/redir.php?acesso=3ed8d415ab1bbac628429a85851e53b6&usuario=841016337a5c6d538a95fc1cc12ad559
+ 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3a/HBO_Family_logo.png" group-title="CANAIS | FILMES E SERIES", HBO FAMILY HD
+http://painelmegatv-com.umbler.net/redir.php?acesso=ac8aa53b33979a75f7a125bf7457032a&usuario=841016337a5c6d538a95fc1cc12ad559
+ 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/TNT_Logo_2016.svg/1200px-TNT_Logo_2016.svg.png" group-title="CANAIS | FILMES E SERIES", TNT HD
+http://painelmegatv-com.umbler.net/redir.php?acesso=60787c4dd762c3e3e0c76bad4736b591&usuario=841016337a5c6d538a95fc1cc12ad559
+ 
+#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/mx_hbo-2_m.png" group-title="CANAIS | FILMES E SERIES", HBO 2
+http://painelmegatv-com.umbler.net/redir.php?acesso=126b2591108210feba8e36b3d0d2c52a&usuario=841016337a5c6d538a95fc1cc12ad559
+ 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/TNT_Series_Logo_2016.png/200px-TNT_Series_Logo_2016.png" group-title="CANAIS | FILMES E SERIES", TNT SÉRIES
+http://painelmegatv-com.umbler.net/redir.php?acesso=af0ada0e6fb41b955f4e9c64ddcfccb7&usuario=841016337a5c6d538a95fc1cc12ad559
+ 
+#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/mx_hbo-2_m.png" group-title="CANAIS | FILMES E SERIES", HBO 2 HD
+http://painelmegatv-com.umbler.net/redir.php?acesso=7b3939d9ecafd3fcc96db5c9cf96f33a&usuario=841016337a5c6d538a95fc1cc12ad559
+ 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/TNT_Series_Logo_2016.png/200px-TNT_Series_Logo_2016.png" group-title="CANAIS | FILMES E SERIES", TNT SÉRIES HD
+http://painelmegatv-com.umbler.net/redir.php?acesso=99a29fa8d76262daae44654706cfbb1c&usuario=841016337a5c6d538a95fc1cc12ad559
+ 
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/hbo-logo.png" group-title="CANAIS | FILMES E SERIES", HBO
+http://painelmegatv-com.umbler.net/redir.php?acesso=509e5f41146e278f9eab1ddaceb34515&usuario=841016337a5c6d538a95fc1cc12ad559
+ 
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2014/10/Warner-Bros-logo-4.png" group-title="CANAIS | FILMES E SERIES", WARNER CHANNEL
+http://painelmegatv-com.umbler.net/redir.php?acesso=d9375669f0047aef57ae0f20a28fd2fd&usuario=841016337a5c6d538a95fc1cc12ad559
+ 
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/hbo-logo.png" group-title="CANAIS | FILMES E SERIES", HBO HD
+http://painelmegatv-com.umbler.net/redir.php?acesso=6c53d913af63c3d24ba8f43fd6442ca5&usuario=841016337a5c6d538a95fc1cc12ad559
+ 
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2014/10/Warner-Bros-logo-4.png" group-title="CANAIS | FILMES E SERIES", WARNER CHANNEL HD
+http://painelmegatv-com.umbler.net/redir.php?acesso=3b4d82ed8e795fc2c7e71b9dfae87c01&usuario=841016337a5c6d538a95fc1cc12ad559
+ 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/FOX_wordmark-orange.svg/1200px-FOX_wordmark-orange.svg.png" group-title="CANAIS | FILMES E SERIES", FOX HD
+http://painelmegatv-com.umbler.net/redir.php?acesso=225e985dfa1beee4a0f9c68a762129e3&usuario=841016337a5c6d538a95fc1cc12ad559
+ 
+#EXTINF:-1 tvg-logo="https://s2.glbimg.com/-POlRdZ0jU-7bM4lxMdNl0fUv1s=/s3.glbimg.com/v1/AUTH_180b9dd048d9434295d27c4b6dadc248/media_kit/8d/59/d7105ab48032cce61c4ddaed535e.png" group-title="CANAIS | FILMES E SERIES", UNIVERSAS CHANNEL
+http://painelmegatv-com.umbler.net/redir.php?acesso=8632b24bea6f870015b7c1e9288196fb&usuario=841016337a5c6d538a95fc1cc12ad559
+ 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/FX_International_logo.svg/1280px-FX_International_logo.svg.png" group-title="CANAIS | FILMES E SERIES", FX HD
+http://painelmegatv-com.umbler.net/redir.php?acesso=d0656b1f10178fcb74b8fad71d578e78&usuario=841016337a5c6d538a95fc1cc12ad559
+ 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Logo_Studio_Universal.svg/606px-Logo_Studio_Universal.svg.png" group-title="CANAIS | FILMES E SERIES", STUDIO UNIVERSAL
+http://painelmegatv-com.umbler.net/redir.php?acesso=d5b04455772e61950ffaf7a2fefd70dd&usuario=841016337a5c6d538a95fc1cc12ad559
+ 
+#EXTINF:-1 tvg-logo="https://www.otvfoco.com.br/wp-content/uploads/2013/10/telecine-620x412.jpg" group-title="CANAIS | FILMES E SERIES", TELECINE ACTION (ALT)
+http://painelmegatv-com.umbler.net/redir.php?acesso=018073457dd5979e7c42f974aef415d6&usuario=841016337a5c6d538a95fc1cc12ad559
+ 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Logo_Studio_Universal.svg/606px-Logo_Studio_Universal.svg.png" group-title="CANAIS | FILMES E SERIES", STUDIO UNIVERSAL HD
+http://painelmegatv-com.umbler.net/redir.php?acesso=95d11efc8544b4f3965847a271dd8be8&usuario=841016337a5c6d538a95fc1cc12ad559
+ 
+#EXTINF:-1 tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/0006/6498/brand.gif?itok=c3RC2qb0" group-title="CANAIS | FILMES E SERIES", HBO 2 (ALT)
+http://painelmegatv-com.umbler.net/redir.php?acesso=ca95011181a65f1e68a15c50727e75c7&usuario=841016337a5c6d538a95fc1cc12ad559
+ 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRSqCe0guzo_EIy8CYdo19fXSRFTTeSTcAh1qplTUtrh7OEDzv7" group-title="CANAIS | FILMES E SERIES", AMC
+http://painelmegatv-com.umbler.net/redir.php?acesso=7c52ed5b8820b7dfd90b5a784bac64b3&usuario=841016337a5c6d538a95fc1cc12ad559
+ 
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/38/dc/17/38dc175da482ae589a0de7c44d21f849.png" group-title="CANAIS | FILMES E SERIES", HBO (ALT)
+http://painelmegatv-com.umbler.net/redir.php?acesso=8f715b54f5ed7d860cfe2508cce66e2f&usuario=841016337a5c6d538a95fc1cc12ad559
+ 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRSqCe0guzo_EIy8CYdo19fXSRFTTeSTcAh1qplTUtrh7OEDzv7" group-title="CANAIS | FILMES E SERIES", AMC HD
+http://painelmegatv-com.umbler.net/redir.php?acesso=9def94b735a6abf1eac881122ab25453&usuario=841016337a5c6d538a95fc1cc12ad559
+ 
+#EXTINF:-1 tvg-logo="https://www.vivo.com.br/content/dam/vivo-sites/vivo-com-br/homepage/imagens/logos/canal-hbo-plus-252x252.png" group-title="CANAIS | FILMES E SERIES", HBO PLUS (ALT)
+http://painelmegatv-com.umbler.net/redir.php?acesso=a12ff6d846a353a834328875206db7a9&usuario=841016337a5c6d538a95fc1cc12ad559
+ 
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2018/11/canal-space-logo.png" group-title="CANAIS | FILMES E SERIES", SPACE
+http://painelmegatv-com.umbler.net/redir.php?acesso=6506ae39fdca9845e3a6de3865183e57&usuario=841016337a5c6d538a95fc1cc12ad559
+ 
+#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/br_telecine-touch_m.png" group-title="CANAIS | FILMES E SERIES", TELECINE TOUCH HD
+http://painelmegatv-com.umbler.net/redir.php?acesso=412cbd507135f9306794bb06709a4717&usuario=841016337a5c6d538a95fc1cc12ad559
+ 
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2018/11/canal-space-logo.png" group-title="CANAIS | FILMES E SERIES", SPACE HD
+http://painelmegatv-com.umbler.net/redir.php?acesso=df7c871b2cbcf22d011a8899cddaf467&usuario=841016337a5c6d538a95fc1cc12ad559
+ 
+#EXTINF:-1 tvg-logo="http://skybrasil.online/img/destaques/cdf0a9f52e9f9062ef4d6e7f674dd8da-1505572709.png" group-title="CANAIS | FILMES E SERIES", FOX PREMIUM 1
+http://painelmegatv-com.umbler.net/redir.php?acesso=17efdd66c29ec7f0c8815de3b1962e22&usuario=841016337a5c6d538a95fc1cc12ad559
+ 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5e/Paramount.png" group-title="CANAIS | FILMES E SERIES", PARAMOUNT CHANNEL
+http://painelmegatv-com.umbler.net/redir.php?acesso=de8479328a0c12f6eb4edf63dfca6069&usuario=841016337a5c6d538a95fc1cc12ad559
+ 
+#EXTINF:-1 tvg-logo="http://skybrasil.online/img/destaques/7edcb60bc25a642fe2bcfd849d581d60-1505572999.png" group-title="CANAIS | FILMES E SERIES", FOX PREMIUM 2
+http://painelmegatv-com.umbler.net/redir.php?acesso=06c56ec94e5604bc87aaf203b224a427&usuario=841016337a5c6d538a95fc1cc12ad559
+ 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6a/Cinemax_LA.png" group-title="CANAIS | FILMES E SERIES", CINEMAX
+http://painelmegatv-com.umbler.net/redir.php?acesso=ea561c74560f38d405a67622947bae32&usuario=841016337a5c6d538a95fc1cc12ad559
+ 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/TNT_Logo_2016.svg/1200px-TNT_Logo_2016.svg.png" group-title="CANAIS | FILMES E SERIES", TNT HD²
+http://painelmegatv-com.umbler.net/redir.php?acesso=4d072acc57758225f2fd8caeacc5f3f4&usuario=841016337a5c6d538a95fc1cc12ad559
+ 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6a/Cinemax_LA.png" group-title="CANAIS | FILMES E SERIES", CINEMAX HD
+http://painelmegatv-com.umbler.net/redir.php?acesso=989e1507f9d7ca7142b153620ba7b487&usuario=841016337a5c6d538a95fc1cc12ad559
+ 
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/hbo-logo.png" group-title="CANAIS | FILMES E SERIES", HBO 4K
+http://painelmegatv-com.umbler.net/redir.php?acesso=9dbc0f0bde07dc661e5454c836feec56&usuario=841016337a5c6d538a95fc1cc12ad559
+ 
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2018/07/canal-axn-logo.png" group-title="CANAIS | FILMES E SERIES", AXN
+http://painelmegatv-com.umbler.net/redir.php?acesso=042dba4d2faaa29cd2fa4c0125416d25&usuario=841016337a5c6d538a95fc1cc12ad559
+ 
+#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/mx_fox-life_m.png" group-title="CANAIS | FILMES E SERIES", FOX LIFE HD
+http://painelmegatv-com.umbler.net/redir.php?acesso=f98d23dccf57a9b31273c905f7c3107d&usuario=841016337a5c6d538a95fc1cc12ad559
+ 
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2018/07/canal-axn-logo.png" group-title="CANAIS | FILMES E SERIES", AXN HD
+http://painelmegatv-com.umbler.net/redir.php?acesso=cf28c1523ef7a291d477862b3e4ffb63&usuario=841016337a5c6d538a95fc1cc12ad559
+ 
+#EXTINF:-1 tvg-logo="http://www.assineasky.com.br/blog/wp-content/uploads/2017/05/Resize-1.png" group-title="CANAIS | FILMES E SERIES", CINE SKY
+http://painelmegatv-com.umbler.net/redir.php?acesso=18bca2afbc5171eaeac6b147becb6c8b&usuario=841016337a5c6d538a95fc1cc12ad559
+ 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/FOX_wordmark-orange.svg/1200px-FOX_wordmark-orange.svg.png" group-title="CANAIS | FILMES E SERIES", FOX
+http://painelmegatv-com.umbler.net/redir.php?acesso=1cbdb8043b37c7c9ca83582f9218c8b4&usuario=841016337a5c6d538a95fc1cc12ad559
+ 
+#EXTINF:-1 tvg-logo="http://skybrasil.online/img/destaques/cdf0a9f52e9f9062ef4d6e7f674dd8da-1505572709.png" group-title="CANAIS | FILMES E SERIES", FOX PREMIUM 1 HD
+http://painelmegatv-com.umbler.net/redir.php?acesso=cacf76ae58e438586320374263a70130&usuario=841016337a5c6d538a95fc1cc12ad559
+ 
+#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/br_cinebrasil-tv_m.png" group-title="CANAIS | FILMES E SERIES", CINE BRASIL TV
+http://painelmegatv-com.umbler.net/redir.php?acesso=ec0af42c0da02879cae154dd5f8bfe13&usuario=841016337a5c6d538a95fc1cc12ad559
+ 
+#EXTINF:-1 tvg-logo="https://cdn.freebiesupply.com/logos/large/2x/comedy-central-4-logo-png-transparent.png" group-title="CANAIS | FILMES E SERIES", COMEDY CENTRAL HD
+http://painelmegatv-com.umbler.net/redir.php?acesso=2a9eddd3d99d3cbad87f6c3b7322cece&usuario=841016337a5c6d538a95fc1cc12ad559
+ 
+#EXTINF:-1 tvg-logo="http://skybrasil.online/img/destaques/7edcb60bc25a642fe2bcfd849d581d60-1505572999.png" group-title="CANAIS | FILMES E SERIES", FOX PREMIUM 2 HD
+http://painelmegatv-com.umbler.net/redir.php?acesso=613f3eac91a04c2546e3ceef7343cc4c&usuario=841016337a5c6d538a95fc1cc12ad559
+ 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Max_Prime_2012_logo.svg/1280px-Max_Prime_2012_logo.svg.png" group-title="CANAIS | FILMES E SERIES", HBO XTREME HD
+http://painelmegatv-com.umbler.net/redir.php?acesso=34d6b3e600a7fdd571f21e98d0d07147&usuario=841016337a5c6d538a95fc1cc12ad559
+ 
+#EXTINF:-1 tvg-logo="http://www.assineasky.com.br/blog/wp-content/uploads/2017/05/Resize-1.png" group-title="CANAIS | FILMES E SERIES", CINE SKY²
+http://painelmegatv-com.umbler.net/redir.php?acesso=1c05b6c689160ab8563553ac2809c3e3&usuario=841016337a5c6d538a95fc1cc12ad559
+ 
+#EXTINF:-1 tvg-logo="https://cdn.freebiesupply.com/logos/large/2x/comedy-central-4-logo-png-transparent.png" group-title="CANAIS | FILMES E SERIES", COMEDY CENTRAL
+http://painelmegatv-com.umbler.net/redir.php?acesso=68d2aab1e5be1846eb8b67f8028738cb&usuario=841016337a5c6d538a95fc1cc12ad559
+ 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/HBO_Pop.svg/1200px-HBO_Pop.svg.png" group-title="CANAIS | FILMES E SERIES", HBO POP
+http://painelmegatv-com.umbler.net/redir.php?acesso=b276b30716cb6ab1a58dbcffe43d9824&usuario=841016337a5c6d538a95fc1cc12ad559
+ 
+#EXTINF:-1 tvg-logo="http://www.assineasky.com.br/blog/wp-content/uploads/2017/05/Resize-1.png" group-title="CANAIS | FILMES E SERIES", CINE SKY 2
+http://painelmegatv-com.umbler.net/redir.php?acesso=20f0114b77f5b63d9bf72d616b2e065b&usuario=841016337a5c6d538a95fc1cc12ad559
+ 
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/5/50/Telecine_Cult_Gato.png" group-title="CANAIS | FILMES E SERIES", TELECINE CULT
+http://painelmegatv-com.umbler.net/redir.php?acesso=535a0d673714ef2cceac94bcf31acc1e&usuario=841016337a5c6d538a95fc1cc12ad559
+ 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ef/Turner_Classic_Movies_%28TCM%2C_Latin_America%29_-_2015_logo.png" group-title="CANAIS | FILMES E SERIES", TCM
+http://painelmegatv-com.umbler.net/redir.php?acesso=a9254defaeee8ed5984a923fe47e5ef8&usuario=841016337a5c6d538a95fc1cc12ad559
+ 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/FX_International_logo.svg/1280px-FX_International_logo.svg.png" group-title="CANAIS | FILMES E SERIES", FX
+http://painelmegatv-com.umbler.net/redir.php?acesso=b8b5089c70ae62534970e2d8aa67e96d&usuario=841016337a5c6d538a95fc1cc12ad559
+ 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/dd/Telecine_Pipoca_2.png" group-title="CANAIS | FILMES E SERIES", TELECINE PIPOCA
+http://painelmegatv-com.umbler.net/redir.php?acesso=aa151ca3864fee609f19273126929085&usuario=841016337a5c6d538a95fc1cc12ad559
+ 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ef/Turner_Classic_Movies_%28TCM%2C_Latin_America%29_-_2015_logo.png" group-title="CANAIS | FILMES E SERIES", TCM²
+http://painelmegatv-com.umbler.net/redir.php?acesso=ad2e8852f5ec09ea927729b5748eea1b&usuario=841016337a5c6d538a95fc1cc12ad559
+ 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/09/Telecine_Premium.png" group-title="CANAIS | FILMES E SERIES", TELECINE PREMIUM
+http://painelmegatv-com.umbler.net/redir.php?acesso=7f18797ac54bc6694dfa6abe85f019f0&usuario=841016337a5c6d538a95fc1cc12ad559
+ 
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/6/65/Film-%26-Arts.png/revision/latest/scale-to-width-down/340?cb=20170101180238" group-title="CANAIS | FILMES E SERIES", CINEMA E ARTES
+http://painelmegatv-com.umbler.net/redir.php?acesso=a23fa574a2e186183f252d5e941f8d92&usuario=841016337a5c6d538a95fc1cc12ad559
+ 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Canal_Sony_logo.svg/1113px-Canal_Sony_logo.svg.png" group-title="CANAIS | FILMES E SERIES", CANAL SONY
+http://painelmegatv-com.umbler.net/redir.php?acesso=2c93940eb8575c8dafc5cc876e2b4eef&usuario=841016337a5c6d538a95fc1cc12ad559
+ 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/09/Telecine_Premium.png" group-title="CANAIS | FILMES E SERIES", TELECINE PREMIUM HD
+http://painelmegatv-com.umbler.net/redir.php?acesso=c5ad72a2d346c3168e23fedba440bca6&usuario=841016337a5c6d538a95fc1cc12ad559
+ 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Kq2pHp3/universaltv.png" group-title="CANAIS | FILMES E SERIES", TV UNIVERSAL
+http://painelmegatv-com.umbler.net/redir.php?acesso=da0e41f1d32cd8fd2c4c88e7d1cf81c6&usuario=841016337a5c6d538a95fc1cc12ad559
+ 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a7/Megapix_logo_2011.png" group-title="CANAIS | FILMES E SERIES", MEGAPIX
+http://painelmegatv-com.umbler.net/redir.php?acesso=1dbc425f089f69402973d3391e065d70&usuario=841016337a5c6d538a95fc1cc12ad559
+ 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/dd/Telecine_Pipoca_2.png" group-title="CANAIS | FILMES E SERIES", TELECINE PIPOCA HD
+http://painelmegatv-com.umbler.net/redir.php?acesso=db88642708c375762dc2687b640ef54c&usuario=841016337a5c6d538a95fc1cc12ad559
+ 
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/0addeb_80b376b8281349c4bea6041c6f49fcb0~mv2.png/v1/fill/w_746,h_720,al_c,q_90/file.jpg" group-title="CANAIS | FILMES E SERIES", CANAL BRASIL
+http://painelmegatv-com.umbler.net/redir.php?acesso=f027ab5b77bed97e045a1f70594be022&usuario=841016337a5c6d538a95fc1cc12ad559
+ 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a7/Megapix_logo_2011.png" group-title="CANAIS | FILMES E SERIES", MEGAPIX HD
+http://painelmegatv-com.umbler.net/redir.php?acesso=cabef2a1459efd4972cf68b384e998e5&usuario=841016337a5c6d538a95fc1cc12ad559
+ 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b6/Telecine_Touch_3.png" group-title="CANAIS | FILMES E SERIES", TELECINE TOUCH
+http://painelmegatv-com.umbler.net/redir.php?acesso=ac266de8a401f0263835506002a2344f&usuario=841016337a5c6d538a95fc1cc12ad559
+ 
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/0addeb_80b376b8281349c4bea6041c6f49fcb0~mv2.png/v1/fill/w_746,h_720,al_c,q_90/file.jpg" group-title="CANAIS | FILMES E SERIES", CANAL BRASIL HD
+http://painelmegatv-com.umbler.net/redir.php?acesso=4bc4cb429d0ebc9417dda4c93609f0bb&usuario=841016337a5c6d538a95fc1cc12ad559
+ 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Max_%28channel%29.svg/1200px-Max_%28channel%29.svg.png" group-title="CANAIS | FILMES E SERIES", MAX
+http://painelmegatv-com.umbler.net/redir.php?acesso=26a4b44a837bf97b972628509912b4a5&usuario=841016337a5c6d538a95fc1cc12ad559
+ 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4e/Telecine_Fun_2.png" group-title="CANAIS | FILMES E SERIES", TELECINE FUN
+http://painelmegatv-com.umbler.net/redir.php?acesso=10d06fd2ed6176af199b8e99c41f0f74&usuario=841016337a5c6d538a95fc1cc12ad559
+ 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/HBO_Mundi.svg/1200px-HBO_Mundi.svg.png" group-title="CANAIS | FILMES E SERIES", HBO MUNDI
+http://painelmegatv-com.umbler.net/redir.php?acesso=cf7a43a895823910cb68e84708a15346&usuario=841016337a5c6d538a95fc1cc12ad559
+ 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/2/22/Logotipo_da_Rede_Globo.png" group-title="CANAIS | GLOBO", GLOBO NORDESTE
+http://painelmegatv-com.umbler.net/redir.php?acesso=34422d7e2a87e0e111710087cdcd42a6&usuario=841016337a5c6d538a95fc1cc12ad559
+ 
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/07/globo-news-logo.png" group-title="CANAIS | GLOBO", GLOBO NEWS
+http://painelmegatv-com.umbler.net/redir.php?acesso=acfcc016d76b827005d3d442a765b746&usuario=841016337a5c6d538a95fc1cc12ad559
+ 
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/07/globo-news-logo.png" group-title="CANAIS | GLOBO", GLOBO NEWS HD
+http://painelmegatv-com.umbler.net/redir.php?acesso=2b67bdeeb5dea3143f4b429f10b109cc&usuario=841016337a5c6d538a95fc1cc12ad559
+ 
+#EXTINF:-1 tvg-logo="https://nofocodatv.files.wordpress.com/2013/11/globo.jpg?w=440" group-title="CANAIS | GLOBO", GLOBO SP (ALT)
+http://painelmegatv-com.umbler.net/redir.php?acesso=a46c272cd7b8ab28c16951c65658101f&usuario=841016337a5c6d538a95fc1cc12ad559
+ 
+#EXTINF:-1 tvg-logo="https://nofocodatv.files.wordpress.com/2013/11/globo.jpg?w=440" group-title="CANAIS | GLOBO", GLOBO NORDESTE (ALT)
+http://painelmegatv-com.umbler.net/redir.php?acesso=dc27149d941866c68f4869febb657184&usuario=841016337a5c6d538a95fc1cc12ad559
+ 
+#EXTINF:-1 tvg-logo="https://nofocodatv.files.wordpress.com/2013/11/globo.jpg?w=440" group-title="CANAIS | GLOBO", Globo PR 4K (ALT)
+http://painelmegatv-com.umbler.net/redir.php?acesso=a2de94ca9df7a206a292b262e4ea3607&usuario=841016337a5c6d538a95fc1cc12ad559
+ 
+#EXTINF:-1 tvg-logo="https://seeklogo.com/images/R/rede-globo-logo-817F928B4F-seeklogo.com.jpg" group-title="CANAIS | GLOBO", GLOBO RJ (SKY)
+http://painelmegatv-com.umbler.net/redir.php?acesso=fd8d8bf2045399b97f66040f0ef1434a&usuario=841016337a5c6d538a95fc1cc12ad559
+ 
+#EXTINF:-1 tvg-logo="https://seeklogo.com/images/R/rede-globo-logo-817F928B4F-seeklogo.com.jpg" group-title="CANAIS | GLOBO", GLOBO SP (SKY)
+http://painelmegatv-com.umbler.net/redir.php?acesso=fbe79adc70a83c9eb49337ac9a6ba3eb&usuario=841016337a5c6d538a95fc1cc12ad559
+ 
+#EXTINF:-1 tvg-logo="https://seeklogo.com/images/R/rede-globo-logo-817F928B4F-seeklogo.com.jpg" group-title="CANAIS | GLOBO", GLOBO NORDESTE (SKY)
+http://painelmegatv-com.umbler.net/redir.php?acesso=c25bcd7d0b2947b187aef31bdd5c880b&usuario=841016337a5c6d538a95fc1cc12ad559
+ 
+#EXTINF:-1 tvg-logo="https://seeklogo.com/images/R/rede-globo-logo-817F928B4F-seeklogo.com.jpg" group-title="CANAIS | GLOBO", GLOBO MG (SKY)
+http://painelmegatv-com.umbler.net/redir.php?acesso=9c39c85e6ec72489f54b0c1bbddfb3b6&usuario=841016337a5c6d538a95fc1cc12ad559
+ 
+#EXTINF:-1 tvg-logo="https://seeklogo.com/images/R/rede-globo-logo-817F928B4F-seeklogo.com.jpg" group-title="CANAIS | GLOBO", GLOBO BRASILIA (SKY)
+http://painelmegatv-com.umbler.net/redir.php?acesso=7d56278877499a3dc84ef56042031b3b&usuario=841016337a5c6d538a95fc1cc12ad559
+ 
+#EXTINF:-1 tvg-logo="https://storageguiademarcas.blob.core.windows.net/guiamarcas/Globosat/thumbnail.png" group-title="CANAIS | GLOBO", GLOBOSAT HD
+http://painelmegatv-com.umbler.net/redir.php?acesso=1dc486c9a9ee4bb0051a5208486b04d7&usuario=841016337a5c6d538a95fc1cc12ad559
+ 
+#EXTINF:-1 tvg-logo="https://www.vegasbrazil.com/wp-content/uploads/2015/05/icone-Rede-Globo.png" group-title="CANAIS | GLOBO", GLOBO PORTO ALEGRE
+http://painelmegatv-com.umbler.net/redir.php?acesso=a58bf0657b13ca200b6ac564a34f2fb3&usuario=841016337a5c6d538a95fc1cc12ad559
+ 
+#EXTINF:-1 tvg-logo="https://www.vegasbrazil.com/wp-content/uploads/2015/05/icone-Rede-Globo.png" group-title="CANAIS | GLOBO", GLOBO SC
+http://painelmegatv-com.umbler.net/redir.php?acesso=1bbc87b87769ea5135b736f299587fdc&usuario=841016337a5c6d538a95fc1cc12ad559
+ 
+#EXTINF:-1 tvg-logo="https://www.vegasbrazil.com/wp-content/uploads/2015/05/icone-Rede-Globo.png" group-title="CANAIS | GLOBO", GLOBO BRASILIA
+http://painelmegatv-com.umbler.net/redir.php?acesso=05577973bf95a6ee94ac7c1e2f129abc&usuario=841016337a5c6d538a95fc1cc12ad559
+ 
+#EXTINF:-1 tvg-logo="https://www.vegasbrazil.com/wp-content/uploads/2015/05/icone-Rede-Globo.png" group-title="CANAIS | GLOBO", GLOBO BELEM
+http://painelmegatv-com.umbler.net/redir.php?acesso=75a7a3b164ef86b02be019ba2f76fd5e&usuario=841016337a5c6d538a95fc1cc12ad559
+ 
+#EXTINF:-1 tvg-logo="https://www.vegasbrazil.com/wp-content/uploads/2015/05/icone-Rede-Globo.png" group-title="CANAIS | GLOBO", GLOBO CURITIBA
+http://painelmegatv-com.umbler.net/redir.php?acesso=036831d7bc1af51038bf8ba1ea5b07b2&usuario=841016337a5c6d538a95fc1cc12ad559
+ 
+#EXTINF:-1 tvg-logo="http://opiniaoenoticia.com.br/wp-content/uploads/2016/04/Globo-20121.jpg" group-title="CANAIS | GLOBO", GLOBO 4K
+http://painelmegatv-com.umbler.net/redir.php?acesso=961be09b60cbdbaf154af4be33afc337&usuario=841016337a5c6d538a95fc1cc12ad559
+ 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/2/22/Logotipo_da_Rede_Globo.png" group-title="CANAIS | GLOBO", GLOBO SD
+http://painelmegatv-com.umbler.net/redir.php?acesso=b07b65f9ed3daa2bf5e075a7add9cd4b&usuario=841016337a5c6d538a95fc1cc12ad559
+ 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/2/22/Logotipo_da_Rede_Globo.png" group-title="CANAIS | GLOBO", GLOBO MG
+http://painelmegatv-com.umbler.net/redir.php?acesso=89b7a9bfc5467c3f0e0bcc6ad9da166b&usuario=841016337a5c6d538a95fc1cc12ad559
+ 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Disney_XD_-_2015.svg/1280px-Disney_XD_-_2015.svg.png" group-title="CANAIS | INFANTIL", DISNEY XD
+http://painelmegatv-com.umbler.net/redir.php?acesso=e7e9e885534695fcd2910a9e8bdf94a2&usuario=841016337a5c6d538a95fc1cc12ad559
+ 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/bb/Disney_Junior.svg/1200px-Disney_Junior.svg.png" group-title="CANAIS | INFANTIL", DISNEY JUNIOR
+http://painelmegatv-com.umbler.net/redir.php?acesso=a6bda1d534fd0dfae66eb9eeaf7ee726&usuario=841016337a5c6d538a95fc1cc12ad559
+ 
+#EXTINF:-1 tvg-logo="https://img.pngio.com/filedisney-channel-logosvg-wikimedia-commons-disney-channel-logo-png-1280_986.png" group-title="CANAIS | INFANTIL", DISNEY CHANNEL HD
+http://painelmegatv-com.umbler.net/redir.php?acesso=1a77dd38b7df8d99d58c6ba0dee1942e&usuario=841016337a5c6d538a95fc1cc12ad559
+ 
+#EXTINF:-1 tvg-logo="https://img.pngio.com/filedisney-channel-logosvg-wikimedia-commons-disney-channel-logo-png-1280_986.png" group-title="CANAIS | INFANTIL", DISNEY CHANNEL
+http://painelmegatv-com.umbler.net/redir.php?acesso=e93b50fba2ffec70a745e3ec558886b7&usuario=841016337a5c6d538a95fc1cc12ad559
+ 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Tooncast_logo.svg/1200px-Tooncast_logo.svg.png" group-title="CANAIS | INFANTIL", TOONCAST
+http://painelmegatv-com.umbler.net/redir.php?acesso=64152c9fc516f00e43f3a9200b5a0f16&usuario=841016337a5c6d538a95fc1cc12ad559
+ 
+#EXTINF:-1 tvg-logo="https://images-eu.ssl-images-amazon.com/images/I/61C2TSxmMwL.png" group-title="CANAIS | INFANTIL", BABY TV
+http://painelmegatv-com.umbler.net/redir.php?acesso=64bbd9cf67a2b7213bfdb51cea7b655a&usuario=841016337a5c6d538a95fc1cc12ad559
+ 
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2018/11/nick-jr-logo.png" group-title="CANAIS | INFANTIL", NICK JR
+http://painelmegatv-com.umbler.net/redir.php?acesso=633dafe1fb7248043e6e72b3521582dd&usuario=841016337a5c6d538a95fc1cc12ad559
+ 
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2018/11/nick-jr-logo.png" group-title="CANAIS | INFANTIL", NICK JR HD
+http://painelmegatv-com.umbler.net/redir.php?acesso=78ea94e37f4ea8c10df8192ceab91fb2&usuario=841016337a5c6d538a95fc1cc12ad559
+ 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/62/Discovery_kids_logo.png" group-title="CANAIS | INFANTIL", DISCOVERY KIDS
+http://painelmegatv-com.umbler.net/redir.php?acesso=62f0e0e381583bb740bc0330a8b53044&usuario=841016337a5c6d538a95fc1cc12ad559
+ 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/62/Discovery_kids_logo.png" group-title="CANAIS | INFANTIL", DISCOVERY KIDS HD
+http://painelmegatv-com.umbler.net/redir.php?acesso=f2256570edd9c45cb2ae5f4adc8eb897&usuario=841016337a5c6d538a95fc1cc12ad559
+ 
+#EXTINF:-1 tvg-logo="https://www.directv.com/images/logos/channels/dark/large/217.png" group-title="CANAIS | INFANTIL", BOOMERANG
+http://painelmegatv-com.umbler.net/redir.php?acesso=2336665748d9da610df39ac9456e49c0&usuario=841016337a5c6d538a95fc1cc12ad559
+ 
+#EXTINF:-1 tvg-logo="https://www.directv.com/images/logos/channels/dark/large/217.png" group-title="CANAIS | INFANTIL", BOOMERANG HD
+http://painelmegatv-com.umbler.net/redir.php?acesso=99978470614ef71fa2ac227cfe6b7f7a&usuario=841016337a5c6d538a95fc1cc12ad559
+ 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/bb/Disney_Junior.svg/1200px-Disney_Junior.svg.png" group-title="CANAIS | INFANTIL", DISNEY JUNIOR HD
+http://painelmegatv-com.umbler.net/redir.php?acesso=6acdbab6f4a365d6e5ff408edaa463f3&usuario=841016337a5c6d538a95fc1cc12ad559
+ 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Disney_XD_-_2015.svg/1280px-Disney_XD_-_2015.svg.png" group-title="CANAIS | INFANTIL", DISNEY XD HD
+http://painelmegatv-com.umbler.net/redir.php?acesso=340e842c07f3a72299fd5e65c6a22c63&usuario=841016337a5c6d538a95fc1cc12ad559
+ 
+#EXTINF:-1 tvg-logo="https://lh6.googleusercontent.com/proxy/14HARZIkIFCppoLRnJS_GglnhBDK4fB8iNC4ahXLgdAqfMF7qGXEt4b_iyCCt5500RdJhXESFp8PX36fH2kTaHF_brguQr3qegq_j6dV5il3osG57rpgEI57ko9_J6WJu3a7bfkH6fiWzmcvCbMQQJK3YA7SWyPeE4JP55FNv4c-xODlVONhOL24UM8_WuaWoHo" group-title="CANAIS | INFANTIL", TV RÁ TIM BUM
+http://painelmegatv-com.umbler.net/redir.php?acesso=c230ad818ddaba76dcd24c0ff9c75ac7&usuario=841016337a5c6d538a95fc1cc12ad559
+ 
+#EXTINF:-1 tvg-logo="https://lh6.googleusercontent.com/proxy/14HARZIkIFCppoLRnJS_GglnhBDK4fB8iNC4ahXLgdAqfMF7qGXEt4b_iyCCt5500RdJhXESFp8PX36fH2kTaHF_brguQr3qegq_j6dV5il3osG57rpgEI57ko9_J6WJu3a7bfkH6fiWzmcvCbMQQJK3YA7SWyPeE4JP55FNv4c-xODlVONhOL24UM8_WuaWoHo" group-title="CANAIS | INFANTIL", TV RÁ TIM BUM HD
+http://painelmegatv-com.umbler.net/redir.php?acesso=1a14b169cde723e93bc6b5ba6a02fbaf&usuario=841016337a5c6d538a95fc1cc12ad559
+ 
+#EXTINF:-1 tvg-logo="https://i2.wp.com/agiliza.nextel.com.br/wp-content/uploads/2019/07/playkidslogo.png?fit=1600%2C1050&ssl=1" group-title="CANAIS | INFANTIL", PLAY KIDS HD
+http://painelmegatv-com.umbler.net/redir.php?acesso=e80b3a3742c385b2605ccb9f2cbe4e11&usuario=841016337a5c6d538a95fc1cc12ad559
+ 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/bb/Disney_Junior.svg/1200px-Disney_Junior.svg.png" group-title="CANAIS | INFANTIL", DISNEY JÚNIOR
+http://painelmegatv-com.umbler.net/redir.php?acesso=779e6a8a4e8fddb630472be83fa83852&usuario=841016337a5c6d538a95fc1cc12ad559
+ 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/bb/Disney_Junior.svg/1200px-Disney_Junior.svg.png" group-title="CANAIS | INFANTIL", DISNEY JÚNIOR HD
+http://painelmegatv-com.umbler.net/redir.php?acesso=055755f4b5691375a314fc3b1561e6d6&usuario=841016337a5c6d538a95fc1cc12ad559
+ 
+#EXTINF:-1 tvg-logo="https://seeklogo.com/images/N/National_Geographic_Kids-logo-DBF8D75F07-seeklogo.com.png" group-title="CANAIS | INFANTIL", NAT GEO KIDS
+http://painelmegatv-com.umbler.net/redir.php?acesso=060d076a0904b0cb570bc5180e318e73&usuario=841016337a5c6d538a95fc1cc12ad559
+ 
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/proxy/Vu-gcuBDQ0YsCXyw4s0jd6l8iy4LugooHX57f_R3GcJKBpSjmM3lkGsXaPj1_AyGcAMb9MeRTFf8dX12PMidCXOdyFRyCzYDN1dHuxdT-OCvJgCBkMSm" group-title="CANAIS | INFANTIL", ZOOMOO
+http://painelmegatv-com.umbler.net/redir.php?acesso=ac11fb6a51c835584ec36927ba57f0f6&usuario=841016337a5c6d538a95fc1cc12ad559
+ 
+#EXTINF:-1 tvg-logo="https://seeklogo.com/images/N/National_Geographic_Kids-logo-DBF8D75F07-seeklogo.com.png" group-title="CANAIS | INFANTIL", NAT GEO KIDS HD
+http://painelmegatv-com.umbler.net/redir.php?acesso=8228f189aa5ebe8849195108de0fdcad&usuario=841016337a5c6d538a95fc1cc12ad559
+ 
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/proxy/Vu-gcuBDQ0YsCXyw4s0jd6l8iy4LugooHX57f_R3GcJKBpSjmM3lkGsXaPj1_AyGcAMb9MeRTFf8dX12PMidCXOdyFRyCzYDN1dHuxdT-OCvJgCBkMSm" group-title="CANAIS | INFANTIL", ZOOMOO HD
+http://painelmegatv-com.umbler.net/redir.php?acesso=23fa20ae69ae855e79d57e56449761ec&usuario=841016337a5c6d538a95fc1cc12ad559
+ 
+#EXTINF:-1 tvg-logo="http://cm1.narvii.com/7087/ec88f2f7d9805eb341824f5fa6acca09457d308b_00.jpg" group-title="CANAIS | INFANTIL", CARTOON NETWORK HD
+http://painelmegatv-com.umbler.net/redir.php?acesso=bc269f06487173210036cdac6f60a45b&usuario=841016337a5c6d538a95fc1cc12ad559
+ 
+#EXTINF:-1 tvg-logo="http://cm1.narvii.com/7087/ec88f2f7d9805eb341824f5fa6acca09457d308b_00.jpg" group-title="CANAIS | INFANTIL", CARTOON NETWORK
+http://painelmegatv-com.umbler.net/redir.php?acesso=993b013c251c997907cedf36e9517a9a&usuario=841016337a5c6d538a95fc1cc12ad559
+ 
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2018/11/nickelodeon-logo.png" group-title="CANAIS | INFANTIL", NICKELODEON
+http://painelmegatv-com.umbler.net/redir.php?acesso=af95cb3856017f82d8e6d3f5f662748f&usuario=841016337a5c6d538a95fc1cc12ad559
+ 
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2018/11/nickelodeon-logo.png" group-title="CANAIS | INFANTIL", NICKELODEON HD
+http://painelmegatv-com.umbler.net/redir.php?acesso=e650a852af0d99f5c42785ce80d331ae&usuario=841016337a5c6d538a95fc1cc12ad559
+ 
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2018/05/gloob-logo.png" group-title="CANAIS | INFANTIL", GLOOB
+http://painelmegatv-com.umbler.net/redir.php?acesso=b6887c4fb22052489be319e63539fa5b&usuario=841016337a5c6d538a95fc1cc12ad559
+ 
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2018/05/gloob-logo.png" group-title="CANAIS | INFANTIL", GLOOB HD
+http://painelmegatv-com.umbler.net/redir.php?acesso=230eca33258acb7c7ccdd5ce0cc931ba&usuario=841016337a5c6d538a95fc1cc12ad559
+ 
+#EXTINF:-1 tvg-logo="https://i2.wp.com/agiliza.nextel.com.br/wp-content/uploads/2019/07/playkidslogo.png?fit=1600%2C1050&ssl=1" group-title="CANAIS | INFANTIL", PLAY KIDS
+http://painelmegatv-com.umbler.net/redir.php?acesso=b880db6e058925f1e4398fcfaa989afc&usuario=841016337a5c6d538a95fc1cc12ad559
+ 
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/f88c0985cd9dcafd1347663418bb3c33.jpg" group-title="CANAIS | REGIONAIS", TV UNIAO RN
+http://painelmegatv-com.umbler.net/redir.php?acesso=79bee032c75ca842ba14a0181903abfe&usuario=841016337a5c6d538a95fc1cc12ad559
+ 
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/937b9d2aa4f593b7b82e9b8e2ef22968.png" group-title="CANAIS | REGIONAIS", TV CN AGITOS
+http://painelmegatv-com.umbler.net/redir.php?acesso=1aa3a6d739a98763d58aefe00afd5b95&usuario=841016337a5c6d538a95fc1cc12ad559
+ 
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/b0b6d3fa5282a8e5943ce10ac40c09ef.jpg" group-title="CANAIS | REGIONAIS", TV COM MACEIO AL
+http://painelmegatv-com.umbler.net/redir.php?acesso=3dcf31b9455cae6fbf8e67b72dbb8503&usuario=841016337a5c6d538a95fc1cc12ad559
+ 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Cultura_logo_2013.svg/1200px-Cultura_logo_2013.svg.png" group-title="CANAIS | REGIONAIS", TV CULTURA MG
+http://painelmegatv-com.umbler.net/redir.php?acesso=96d5c72e359aa580e2a31ca5a1663fa7&usuario=841016337a5c6d538a95fc1cc12ad559
+ 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Cultura_logo_2013.svg/1200px-Cultura_logo_2013.svg.png" group-title="CANAIS | REGIONAIS", TV CULTURA PR
+http://painelmegatv-com.umbler.net/redir.php?acesso=284d22053eaec2e6aa534c65aa83e1a7&usuario=841016337a5c6d538a95fc1cc12ad559
+ 
+#EXTINF:-1 tvg-logo="http://img.starbr.in/1559757716_6dc77ebcd56e1c00ef7b84bb402a4464b74b3f37.png" group-title="CANAIS | REGIONAIS", TV CULTURA PB
+http://painelmegatv-com.umbler.net/redir.php?acesso=214cf3ea33d07d7f8dce48e57b1192c9&usuario=841016337a5c6d538a95fc1cc12ad559
+ 
+#EXTINF:-1 tvg-logo="https://abrilexame.files.wordpress.com/2016/09/size_960_16_9_logo_rede_record4.jpg" group-title="CANAIS | REGIONAIS", RECORD ES
+http://painelmegatv-com.umbler.net/redir.php?acesso=26f55c281379338ce5376650e17d7c91&usuario=841016337a5c6d538a95fc1cc12ad559
+ 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Logo_TVE-Internacional.svg/702px-Logo_TVE-Internacional.svg.png" group-title="CANAIS | REGIONAIS", TVE RS
+http://painelmegatv-com.umbler.net/redir.php?acesso=9c23ad886e179bf0bba1466de862d40c&usuario=841016337a5c6d538a95fc1cc12ad559
+ 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Logo_TVE-Internacional.svg/702px-Logo_TVE-Internacional.svg.png" group-title="CANAIS | REGIONAIS", TVE BA
+http://painelmegatv-com.umbler.net/redir.php?acesso=8f5af0e5bd0978c567d251fd0536d67e&usuario=841016337a5c6d538a95fc1cc12ad559
+ 
+#EXTINF:-1 tvg-logo="http://www.tvosasco.com.br/wp-content/uploads/2017/02/logo_tvosasco.png" group-title="CANAIS | REGIONAIS", TV OSASCO
+http://painelmegatv-com.umbler.net/redir.php?acesso=57c59e10a09ec5dade3976d9332371ae&usuario=841016337a5c6d538a95fc1cc12ad559
+ 
+#EXTINF:-1 tvg-logo="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAANIAAADwCAMAAABCI8pNAAABIFBMVEX///8oN1gVkpYATGwiU3SUlZkAjZEASWqNjpIAi4/29vYAj5MmNVcAQGQjM1UAQ2coX3qur7Hi4+R5l6YARWoARmgfMFPS09SasLwjT3IAPGFJcYkAQmkAOmDLy80RJk0PJU3l8/MAHUjy+vrv8POGh4sANV0RS29EUGvNz9Y6R2Tg5uozQ" group-title="CANAIS | REGIONAIS", TV DO POVO
+http://painelmegatv-com.umbler.net/redir.php?acesso=5f859d56b88d921fea433cbc752d268f&usuario=841016337a5c6d538a95fc1cc12ad559
+ 
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/5c5b936bdd4962ac6b16d023a2cf8f2b.png" group-title="CANAIS | REGIONAIS", TV BNO AC
+http://painelmegatv-com.umbler.net/redir.php?acesso=be4839780f3a924f0dce857bb2c81573&usuario=841016337a5c6d538a95fc1cc12ad559
+ 
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/d684da91fb2351344538a1aef178cf67.png" group-title="CANAIS | REGIONAIS", TV MANCHETE AL
+http://painelmegatv-com.umbler.net/redir.php?acesso=6746fd65ca75b7946726b3780f0b13b3&usuario=841016337a5c6d538a95fc1cc12ad559
+ 
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/4dbb21cc93e282d3314dface3c796a94.jpg" group-title="CANAIS | REGIONAIS", TV RIO LARGO AL
+http://painelmegatv-com.umbler.net/redir.php?acesso=63da337aa0ef7c2412afd480978b118d&usuario=841016337a5c6d538a95fc1cc12ad559
+ 
+#EXTINF:-1 tvg-logo="https://portal.comunique-se.com.br/wp-content/uploads/2016/12/tv-cultura-logo-600x556.png" group-title="CANAIS | REGIONAIS", Cultura Pa
+http://painelmegatv-com.umbler.net/redir.php?acesso=51b7d7e88f13a1b83ed80e7afc844d38&usuario=841016337a5c6d538a95fc1cc12ad559
+ 
+#EXTINF:-1 tvg-logo="https://brazil.mom-rsf.org/typo3temp/_processed_/5/1/csm_7065-1071_company_import_b49fd9ec1a.png" group-title="CANAIS | REGIONAIS", Record Natal
+http://painelmegatv-com.umbler.net/redir.php?acesso=9d6c31a95ed494c87bbb00078b535bfb&usuario=841016337a5c6d538a95fc1cc12ad559
+ 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRihnal8BtNkHUAFkzJe6vfyo-YEOnQRasmSOXp38NhgNxRiXpTBQ&s" group-title="CANAIS | REGIONAIS", TV ZOOM
+http://painelmegatv-com.umbler.net/redir.php?acesso=21a7ec8f077a8f49064e0858fda3b9ff&usuario=841016337a5c6d538a95fc1cc12ad559
+ 
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/99bbf1505fd8b9347d1551de1f02ef78.png" group-title="CANAIS | REGIONAIS", TV JAGUAR - CE
+http://painelmegatv-com.umbler.net/redir.php?acesso=2ae84242cf4314c4dca789bcde6ba052&usuario=841016337a5c6d538a95fc1cc12ad559
+ 
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/6d890efe39471e948822ec802af2d769.png" group-title="CANAIS | REGIONAIS", TV MAIS - CE
+http://painelmegatv-com.umbler.net/redir.php?acesso=29b72ffe9b78d7d420e16570355d083a&usuario=841016337a5c6d538a95fc1cc12ad559
+ 
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/e76047efbc8cdc4d72604f72822fb642.jpg" group-title="CANAIS | REGIONAIS", TV BAIANA -BA
+http://painelmegatv-com.umbler.net/redir.php?acesso=f9d10960442db558d1a59f321ed9a058&usuario=841016337a5c6d538a95fc1cc12ad559
+ 
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/7f2fbca3e30bd64fb87355039c96c1fe.jpg" group-title="CANAIS | REGIONAIS", TV BIRITINGA - BA
+http://painelmegatv-com.umbler.net/redir.php?acesso=f5a092396bef45c0c7f468f5c96400a1&usuario=841016337a5c6d538a95fc1cc12ad559
+ 
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/cc56623a8cbf2f45d462cf93fc540de7.png" group-title="CANAIS | REGIONAIS", TV OURO NEGRO - BA
+http://painelmegatv-com.umbler.net/redir.php?acesso=f3014044cb84872c83a2d91cb9a29f03&usuario=841016337a5c6d538a95fc1cc12ad559
+ 
+#EXTINF:-1 tvg-logo="https://portal4.files.wordpress.com/2014/09/logo-g-gazeta-2014-e1394566177583.jpg" group-title="CANAIS | REGIONAIS", GAZETA SD
+http://painelmegatv-com.umbler.net/redir.php?acesso=9ced38b3640109de5273493332a9f5a0&usuario=841016337a5c6d538a95fc1cc12ad559
+ 
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/188745ccd0f35b5af5b1ce5681878502.jpg" group-title="CANAIS | REGIONAIS", TV SIM LINHARES - ES
+http://painelmegatv-com.umbler.net/redir.php?acesso=bdcad0ed1cd61928fd21f47348d88d90&usuario=841016337a5c6d538a95fc1cc12ad559
+ 
+#EXTINF:-1 tvg-logo="data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkGBxIQEhAPDxAQEA8QEA8XFhYXDQ8SERUXFxEWFhYVFhUYHSggGBolGxUVITEhJSkrLi4uGR8zODMtNygtLisBCgoKDg0OGhAQGy0dHyItLS0rMC0tKy0tLS0tLS0tLS0tLS0tKy0rLS0tKy0tLS0tLS0tLS0tNy03LS03LTctLf/AABEIAOEA4QMBIgACEQEDEQH/" group-title="CANAIS | REGIONAIS", REDE RC
+http://painelmegatv-com.umbler.net/redir.php?acesso=05f658260ca1ca653af2ee5f21fd7c4e&usuario=841016337a5c6d538a95fc1cc12ad559
+ 
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/c1b16402c98da43a39e97fca49875675.png" group-title="CANAIS | REGIONAIS", TV ALTERNATIVA - MA
+http://painelmegatv-com.umbler.net/redir.php?acesso=e916232bb64f7a7707d7490514e42b5d&usuario=841016337a5c6d538a95fc1cc12ad559
+ 
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/29bd5af93095d92009a3090c0b978a60.png" group-title="CANAIS | REGIONAIS", TV DIARIO DO SERTAO
+http://painelmegatv-com.umbler.net/redir.php?acesso=cf9c81ae8e160cff0df23efe11e35fd5&usuario=841016337a5c6d538a95fc1cc12ad559
+ 
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/47a7239c307e792a12c58344a52d69d7.png" group-title="CANAIS | REGIONAIS", NTV - MG
+http://painelmegatv-com.umbler.net/redir.php?acesso=299e40a2cd4acd8e5e86072d303dd13a&usuario=841016337a5c6d538a95fc1cc12ad559
+ 
+#EXTINF:-1 tvg-logo="data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkGBxANDw8NDQ8VDRANFQ8QDw8PDxAPFg8QFREWGBYRFhUYHSggGBolGxcWITIhJSkrLi4uFx8zODMsNygtLisBCgoKDg0OFxAQGi0lICUtLS0tLS0tLS0tLSstLS0tLS0tKy0vLS0tLS0rLS4tLS0tKy0tLS0tLS0tLS0tLS0tLf/AABEIAOEA4QMBEQACEQEDEQH/" group-title="CANAIS | REGIONAIS", TV CARIRI
+http://painelmegatv-com.umbler.net/redir.php?acesso=1be10f579359a0a1b3fd2a2ccf890f28&usuario=841016337a5c6d538a95fc1cc12ad559
+ 
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/c0cd9fb2205fdaca2c43a0dcd8c0bd10.png" group-title="CANAIS | REGIONAIS", TV RIO PRETO - MG
+http://painelmegatv-com.umbler.net/redir.php?acesso=16e38471cd766a2681693be32e3dafaf&usuario=841016337a5c6d538a95fc1cc12ad559
+ 
+#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/a/AGF-l7-kBqmEt5pgeoIj7QOPFmkaW6am0bkgik5jig=s900-c-k-c0xffffffff-no-rj-mo" group-title="CANAIS | REGIONAIS", TV ASSEMBLEIA RN
+http://painelmegatv-com.umbler.net/redir.php?acesso=428bcfb3fc3264cd0a1f0a8c3fc43482&usuario=841016337a5c6d538a95fc1cc12ad559
+ 
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/621257bf486e5ad3003742d01adfdfd6.png" group-title="CANAIS | REGIONAIS", TV ARAPUAN - PB
+http://painelmegatv-com.umbler.net/redir.php?acesso=c3fbaac05690baea8167df7726c49f90&usuario=841016337a5c6d538a95fc1cc12ad559
+ 
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/ILB7ZFKytC9K6lg8hC4GKhUAjBv7tSbHiIwA9lLyuJJQKtSo-i_rkUtEt3OuY2rDvh0" group-title="CANAIS | REGIONAIS", TV CIDADE OESTE RN
+http://painelmegatv-com.umbler.net/redir.php?acesso=b27da4a00bba31ca817de6eab592cbaa&usuario=841016337a5c6d538a95fc1cc12ad559
+ 
+#EXTINF:-1 tvg-logo="http://1.bp.blogspot.com/_ihpmar5a-uo/SiEmjgVn-PI/AAAAAAAAAD4/-SgbTm7XU9Y/s320/TV_FAAP.jpg" group-title="CANAIS | REGIONAIS", TV FAAP SP
+http://painelmegatv-com.umbler.net/redir.php?acesso=fd0568651e51ae8095cb202df3b71088&usuario=841016337a5c6d538a95fc1cc12ad559
+ 
+#EXTINF:-1 tvg-logo="data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkGBw8PDw8NDQ8PDw0PDQ0NDQ8NDw8NDQ0PFREWFhURFRUYHSggGBolGxUVITEhJiorMC46Fx8zODMsQCgvMSsBCgoKDg0OFxAQFy0dHR0tLS0tLjAtLS0vLS8rLS0rLS0rLS0tLS0tLisrLS0rLS0tLSsrLSstLS0tLS0vKy0tLf/AABEIAOEA4QMBEQACEQEDEQH/" group-title="CANAIS | REGIONAIS", TV MACEIO
+http://painelmegatv-com.umbler.net/redir.php?acesso=ea12ed36e44014a6bb646f1c34e9d067&usuario=841016337a5c6d538a95fc1cc12ad559
+ 
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/33004b0a1cb3a43b7a1e6b1aef92c128.png" group-title="CANAIS | REGIONAIS", RECORD NEWS SP
+http://painelmegatv-com.umbler.net/redir.php?acesso=e02737d15372c3e87cb2d05d46a50b67&usuario=841016337a5c6d538a95fc1cc12ad559
+ 
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/b9967b293f4862a6365c6e87009e6efd.jpg" group-title="CANAIS | REGIONAIS", REDE TV SP
+http://painelmegatv-com.umbler.net/redir.php?acesso=d6e904c0c09c405df61921d4204294c9&usuario=841016337a5c6d538a95fc1cc12ad559
+ 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0c/Rede_Vida_logo.png" group-title="CANAIS | RELIGIOSOS", REDE VIDA
+http://painelmegatv-com.umbler.net/redir.php?acesso=4c2ee816869176fee54532f72d9e4115&usuario=841016337a5c6d538a95fc1cc12ad559
+ 
+#EXTINF:-1 tvg-logo="http://logocanais.ddns.net/Logo/boa-vontade.png" group-title="CANAIS | RELIGIOSOS", BOA VONTADE TV
+http://painelmegatv-com.umbler.net/redir.php?acesso=9f2e1686d40377dbdbfb8692e3eb9701&usuario=841016337a5c6d538a95fc1cc12ad559
+ 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/0/07/Logo_2015_-_TV_Novo_Tempo.png" group-title="CANAIS | RELIGIOSOS", TV NOVO TEMPO
+http://painelmegatv-com.umbler.net/redir.php?acesso=ef090e9d8afb967e91e4d152bd56de81&usuario=841016337a5c6d538a95fc1cc12ad559
+ 
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/da98ac6d6b08d276d592769ec21bc17f.png" group-title="CANAIS | RELIGIOSOS", GOSPEL MOVIES
+http://painelmegatv-com.umbler.net/redir.php?acesso=1d7d3a7975808cec2028369f9ab229b1&usuario=841016337a5c6d538a95fc1cc12ad559
+ 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/1/1e/Logotipo_da_TV_Aparecida.png" group-title="CANAIS | RELIGIOSOS", TV APARECIDA
+http://painelmegatv-com.umbler.net/redir.php?acesso=56cf5a93711155e465bda7bd452fce1d&usuario=841016337a5c6d538a95fc1cc12ad559
+ 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/c/c7/Logotipo_da_Record_News_%282016%29.png" group-title="CANAIS | VARIEDADES", RECORD NEWS
+http://painelmegatv-com.umbler.net/redir.php?acesso=9bfbda69bcb5f1a32f5e1d1e7885b735&usuario=841016337a5c6d538a95fc1cc12ad559
+ 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cc/Gnt_logo.jpg" group-title="CANAIS | VARIEDADES", GNT
+http://painelmegatv-com.umbler.net/redir.php?acesso=220ab163e14012078b669a75ffbe66c8&usuario=841016337a5c6d538a95fc1cc12ad559
+ 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/b/b1/Logotipo_da_Record_News.png" group-title="CANAIS | VARIEDADES", RECORD NEWS HD
+http://painelmegatv-com.umbler.net/redir.php?acesso=39f68ef2c767d6272832929063604073&usuario=841016337a5c6d538a95fc1cc12ad559
+ 
+#EXTINF:-1 tvg-logo="http://img.myapp.st/1567266424_823eade196e97efbff9af33d7adf3727cb448f1e.jpg" group-title="CANAIS | VARIEDADES", LIKE HD
+http://painelmegatv-com.umbler.net/redir.php?acesso=8bdfdac5eb8d43bc54373155702b601e&usuario=841016337a5c6d538a95fc1cc12ad559
+ 
+#EXTINF:-1 tvg-logo="https://www.sweetpbbq.com/wp-content/uploads/2016/02/Food-Network.png" group-title="CANAIS | VARIEDADES", FOOD NETWORK
+http://painelmegatv-com.umbler.net/redir.php?acesso=b0e7eb6bbedb91ec85734ca5a940718e&usuario=841016337a5c6d538a95fc1cc12ad559
+ 
+#EXTINF:-1 tvg-logo="https://www.sweetpbbq.com/wp-content/uploads/2016/02/Food-Network.png" group-title="CANAIS | VARIEDADES", FOOD NETWORK HD
+http://painelmegatv-com.umbler.net/redir.php?acesso=24a5a91057af70515f393008e68ed9f9&usuario=841016337a5c6d538a95fc1cc12ad559
+ 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/66/Viva_%28UK_%26_Ireland%29.svg/1200px-Viva_%28UK_%26_Ireland%29.svg.png" group-title="CANAIS | VARIEDADES", CANAL VIVA
+http://painelmegatv-com.umbler.net/redir.php?acesso=852c66396fb2fbaf8d66d04f2972596e&usuario=841016337a5c6d538a95fc1cc12ad559
+ 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/66/Viva_%28UK_%26_Ireland%29.svg/1200px-Viva_%28UK_%26_Ireland%29.svg.png" group-title="CANAIS | VARIEDADES", CANAL VIVA HD
+http://painelmegatv-com.umbler.net/redir.php?acesso=d6b99ce0dac14b8ba27c811b9c2e6722&usuario=841016337a5c6d538a95fc1cc12ad559
+ 
+#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/br_arte-1-hd_m.png" group-title="CANAIS | VARIEDADES", ARTE 1
+http://painelmegatv-com.umbler.net/redir.php?acesso=2ac6e1f35f76442a83e43ca91c74ae0f&usuario=841016337a5c6d538a95fc1cc12ad559
+ 
+#EXTINF:-1 tvg-logo="http://imagem.natelinha.uol.com.br/grande/canal-tbs.jpg" group-title="CANAIS | VARIEDADES", TBS
+http://painelmegatv-com.umbler.net/redir.php?acesso=5ea53fc6f1fec96e1af87bc020275527&usuario=841016337a5c6d538a95fc1cc12ad559
+ 
+#EXTINF:-1 tvg-logo="https://skyassineonline.com.br/img/channels/lg-183-canal-arte-1.png" group-title="CANAIS | VARIEDADES", ARTE 1 HD
+http://painelmegatv-com.umbler.net/redir.php?acesso=6877c0bb436d45d1ad2ceb84e68c478b&usuario=841016337a5c6d538a95fc1cc12ad559
+ 
+#EXTINF:-1 tvg-logo="https://skyassineonline.com.br/img/channels/lg-21-canal-polishop.png" group-title="CANAIS | VARIEDADES", PHOP TIME
+http://painelmegatv-com.umbler.net/redir.php?acesso=63771f6cac7f7023f8a0a98742397636&usuario=841016337a5c6d538a95fc1cc12ad559
+ 
+#EXTINF:-1 tvg-logo="http://genterosarevista.files.wordpress.com/2011/05/e_entertainment_tv.jpg" group-title="CANAIS | VARIEDADES", E! HD
+http://painelmegatv-com.umbler.net/redir.php?acesso=0b69ff32c88335251c11c6b7067dc68a&usuario=841016337a5c6d538a95fc1cc12ad559
+ 
+#EXTINF:-1 tvg-logo="https://imagem.natelinha.uol.com.br/grande/canalcurta.jpg" group-title="CANAIS | VARIEDADES", CURTA HD
+http://painelmegatv-com.umbler.net/redir.php?acesso=70906a213a0191a954d02f26087ef625&usuario=841016337a5c6d538a95fc1cc12ad559
+ 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Globosat_wordmark.svg/1280px-Globosat_wordmark.svg.png" group-title="CANAIS | VARIEDADES", GLOBOSAT
+http://painelmegatv-com.umbler.net/redir.php?acesso=7dd7426f948cb1972c64c0e5347733cd&usuario=841016337a5c6d538a95fc1cc12ad559
+ 
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/5/5b/Logo_gshd.png/revision/latest?cb=20151122172453" group-title="CANAIS | VARIEDADES", MAIS GLOBOSAT
+http://painelmegatv-com.umbler.net/redir.php?acesso=d20cd341f6496f94b6feba306df87700&usuario=841016337a5c6d538a95fc1cc12ad559
+ 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cf/Logo_Woohoo.png" group-title="CANAIS | VARIEDADES", WOOHOO
+http://painelmegatv-com.umbler.net/redir.php?acesso=0d0add97097fbf7893087628353afb49&usuario=841016337a5c6d538a95fc1cc12ad559
+ 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cf/Logo_Woohoo.png" group-title="CANAIS | VARIEDADES", WOOHOO HD
+http://painelmegatv-com.umbler.net/redir.php?acesso=78837a32aaadac0ec67d37318601ce39&usuario=841016337a5c6d538a95fc1cc12ad559
+ 
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/08/canal-off-logo.png" group-title="CANAIS | VARIEDADES", CANAL OFF
+http://painelmegatv-com.umbler.net/redir.php?acesso=b649606d1c502ca6b361ff6dde72dc10&usuario=841016337a5c6d538a95fc1cc12ad559
+ 
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/08/canal-off-logo.png" group-title="CANAIS | VARIEDADES", CANAL OFF HD
+http://painelmegatv-com.umbler.net/redir.php?acesso=0b70171348ef2f8e3c846e4f1c041461&usuario=841016337a5c6d538a95fc1cc12ad559
+ 
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2014/11/CNN-logo-4.png" group-title="CANAIS | VARIEDADES", CNN
+http://painelmegatv-com.umbler.net/redir.php?acesso=2435a45b85628172c5a47122144a7c67&usuario=841016337a5c6d538a95fc1cc12ad559
+ 
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/11/bandnews-logo.png" group-title="CANAIS | VARIEDADES", BAND NEWS
+http://painelmegatv-com.umbler.net/redir.php?acesso=705482c3587a1611fc9ca8e2ebfe4972&usuario=841016337a5c6d538a95fc1cc12ad559
+ 
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/11/bandnews-logo.png" group-title="CANAIS | VARIEDADES", BAND NEWS HD
+http://painelmegatv-com.umbler.net/redir.php?acesso=978eb5b3f063f12b5104e29012f512ce&usuario=841016337a5c6d538a95fc1cc12ad559
+ 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/23/Lifetime_logo17.svg" group-title="CANAIS | VARIEDADES", LIFETIME
+http://painelmegatv-com.umbler.net/redir.php?acesso=0c4408d480b783ccb279ea84bedda77a&usuario=841016337a5c6d538a95fc1cc12ad559
+ 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ab/Syfylogo.png" group-title="CANAIS | VARIEDADES", SYFY
+http://painelmegatv-com.umbler.net/redir.php?acesso=8b2b4842e5fd3db22abc12dc94470381&usuario=841016337a5c6d538a95fc1cc12ad559
+ 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/TLC-Logo_2016.png" group-title="CANAIS | VARIEDADES", TLC
+http://painelmegatv-com.umbler.net/redir.php?acesso=e12a8b6e18ee3d67dc8153f4f4713a40&usuario=841016337a5c6d538a95fc1cc12ad559
+
+*************
 
 
 #EXTINF:-1 tvg-id="" tvg-name="Band" tvg-logo="" group-title="Canais Abertos",Band
