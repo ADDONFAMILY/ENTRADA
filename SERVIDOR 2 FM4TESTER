@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1,Nova Tv Lages
-plugin://plugin.video.f4mTester/?name=On Line&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:25461/regis/12345/33641
 #EXTINF:-1,A&E FHD (DUAL AUDIO)
 plugin://plugin.video.f4mTester/?name=On Line&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:25461/regis/12345/9344
 #EXTINF:-1,A&E HD
