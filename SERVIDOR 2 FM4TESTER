@@ -1,1307 +1,275 @@
 #EXTM3U
-
-#PLAYLISTV: pltv-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" pltv-name="Serio" pltv-description="Lista IPTV" pltv-cover="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" pltv-author="Fernando Henrique Oliveira Melo" pltv-email="henriqur189@gmail.com"
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="INFANTIL",CARTOON NETWORK
-http://89.163.146.52:25461/live/alkfhdaskjfhdakjslhfai798798723948723/skhdfkjlAHDSHLFIUYWERIU43Y87649875943878973DYHFSDUIYFD/1855.ts
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="FILMES E SÉRIES",TBS
-http://89.163.146.52:25461/live/alkfhdaskjfhdakjslhfai798798723948723/skhdfkjlAHDSHLFIUYWERIU43Y87649875943878973DYHFSDUIYFD/1745.ts
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="INFANTIL",NICKELODEON
-http://89.163.146.52:25461/live/alkfhdaskjfhdakjslhfai798798723948723/skhdfkjlAHDSHLFIUYWERIU43Y87649875943878973DYHFSDUIYFD/1782.ts
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="INFANTIL",BOOMERANG
-http://89.163.146.52:25461/live/alkfhdaskjfhdakjslhfai798798723948723/skhdfkjlAHDSHLFIUYWERIU43Y87649875943878973DYHFSDUIYFD/1857.ts
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="INFANTIL",FX
-http://89.163.146.52:25461/live/alkfhdaskjfhdakjslhfai798798723948723/skhdfkjlAHDSHLFIUYWERIU43Y87649875943878973DYHFSDUIYFD/1818.ts
-
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="Esportes",SporTV 2 SD
-http://br1.e-tv.xyz:8081/live/likedi1207/7mX1kNHrBq/3913.m3u8?http://bit.ly/Fga002
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="---☛★Premiere★☚---",Premiere 1 SD
-http://br1.e-tv.xyz:8081/live/likedi1207/7mX1kNHrBq/4616.m3u8?formigatV
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="Esportes",SporTV 3 SD
-http://br1.e-tv.xyz:8081/live/likedi1207/7mX1kNHrBq/3911.m3u8?http://bit.ly/Fga002
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="FILMES&SERIES",Space HD
-http://painel.conectiptv.com:25461/live/blinkbarros/blinkbarros/4235.ts
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="FILMES&SERIES",TNT HD
-http://painel.conectiptv.com:25461/live/blinkbarros/blinkbarros/4203.ts
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="FILMES&SERIES",Telecine Action HD
-http://painel.conectiptv.com:25461/live/blinkbarros/blinkbarros/4218.ts
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="FILMES&SERIES",Telecine Pipoca HD
-http://painel.conectiptv.com:25461/live/blinkbarros/blinkbarros/4212.ts
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="FILMES&SERIES",Telecine Touch HD
-http://painel.conectiptv.com:25461/live/blinkbarros/blinkbarros/4208.ts
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="INFANTIL",Nickelodeon HD
-http://painel.conectiptv.com:25461/live/blinkbarros/blinkbarros/4278.ts
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="FILMES&SERIES",Telecine Cult HD
-http://painel.conectiptv.com:25461/live/blinkbarros/blinkbarros/4216.ts
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="FILMES&SERIES",HBO HD
-http://painel.conectiptv.com:25461/live/blinkbarros/blinkbarros/4319.ts
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="FILMES&SERIES",Telecine Fun HD
-http://painel.conectiptv.com:25461/live/blinkbarros/blinkbarros/4214.ts
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="FILMES&SERIES",Telecine Premium HD
-http://painel.conectiptv.com:25461/live/blinkbarros/blinkbarros/4210.ts
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="FILMES&SERIES",AMC HD
-http://painel.conectiptv.com:25461/live/blinkbarros/blinkbarros/4461.ts
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="FILMES&SERIES",Cinemax HD
-http://painel.conectiptv.com:25461/live/blinkbarros/blinkbarros/4434.ts
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="FILMES&SERIES",Megapix HD
-http://painel.conectiptv.com:25461/live/blinkbarros/blinkbarros/4294.ts
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="FILMES&SERIES",Max HD
-http://painel.conectiptv.com:25461/live/blinkbarros/blinkbarros/4302.ts
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="FILMES&SERIES",HBO 2 HD
-http://painel.conectiptv.com:25461/live/blinkbarros/blinkbarros/4322.ts
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="ESPORTES",Combate HD
-http://painel.conectiptv.com:25461/live/blinkbarros/blinkbarros/4428.ts
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="ESPORTES",ESPORTE INTERATIVO BR HD
-http://painel.conectiptv.com:25461/live/blinkbarros/blinkbarros/11217.ts
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="ESPORTES",Fox Sports 2 HD
-http://painel.conectiptv.com:25461/live/blinkbarros/blinkbarros/4372.ts
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="ESPORTES",SporTV HD
-http://painel.conectiptv.com:25461/live/blinkbarros/blinkbarros/4229.ts
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="ESPORTES",SporTV 3 HD
-http://painel.conectiptv.com:25461/live/blinkbarros/blinkbarros/4230.ts
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="PREMIERE",Premiere 4 HD
-http://painel.conectiptv.com:25461/live/blinkbarros/blinkbarros/4260.ts
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="Esportes",SporTV 2 HD
-http://br1.e-tv.xyz:8081/live/likedi1207/7mX1kNHrBq/3912.m3u8?http://bit.ly/Fga002
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="---☛★SPORT★☚---",Fox Sports HD*
-http://br1.e-tv.xyz:8081/live/likedi1207/7mX1kNHrBq/4113.m3u8?formigatV
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="FILMES&SERIES",TELECINE TOUCH FHD
-http://painel.conectiptv.com:25461/live/blinkbarros/blinkbarros/17558.ts
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="FILMES&SERIES",Telecine Cult HD
-http://painel.conectiptv.com:25461/live/blinkbarros/blinkbarros/4216.ts
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="FILMES&SERIES",TELECINE FUN FHD
-http://painel.conectiptv.com:25461/live/blinkbarros/blinkbarros/17555.ts
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="FILMES&SERIES",Telecine Action FHD
-http://painel.conectiptv.com:25461/live/blinkbarros/blinkbarros/17554.ts
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="INFANTIL",NICKELODEON FHD
-http://painel.conectiptv.com:25461/live/blinkbarros/blinkbarros/17590.ts
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="FILMES&SERIES",TELECINE PREMIUM FHD
-http://painel.conectiptv.com:25461/live/blinkbarros/blinkbarros/17557.ts
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="FILMES&SERIES",Telecine Pipoca FHD
-http://painel.conectiptv.com:25461/live/blinkbarros/blinkbarros/17556.ts
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="FILMES&SERIES",HBO FHD
-http://painel.conectiptv.com:25461/live/blinkbarros/blinkbarros/17550.ts
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="FILMES&SERIES",HBO 2 FHD
-http://painel.conectiptv.com:25461/live/blinkbarros/blinkbarros/17549.ts
-#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="GUIA DO LUIZ BRASIL",SBT GO HD
-http://tvsd2.zoeweb.tv:1935/tvsd2/smil:tvsd2.smil/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="GUIA DO LUIZ BRASIL",SBT GO HD
-http://tvsd2.zoeweb.tv:1935/tvsd2/smil:tvsd2.smil/playlist.m3u8
-
-#PLAYLISTV: pltv-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" pltv-name="Esportes SD" pltv-description="Lista IPTV" pltv-cover="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" pltv-author="Pedro Henrique" pltv-email="peedro1232016@outlook.com"
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="Esportes",SporTV 2 SD
-http://br1.e-tv.xyz:8081/live/likedi1207/7mX1kNHrBq/3913.m3u8?http://bit.ly/Fga002
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="---☛★Premiere★☚---",Premiere 1 SD
-http://br1.e-tv.xyz:8081/live/likedi1207/7mX1kNHrBq/4616.m3u8?formigatV
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="Esportes",SporTV 3 SD
-http://br1.e-tv.xyz:8081/live/likedi1207/7mX1kNHrBq/3911.m3u8?http://bit.ly/Fga002
-
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="FILMES&SERIES",Space HD
-http://painel.conectiptv.com:25461/live/blinkbarros/blinkbarros/4235.ts
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="FILMES&SERIES",TNT HD
-http://painel.conectiptv.com:25461/live/blinkbarros/blinkbarros/4203.ts
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="FILMES&SERIES",Telecine Action HD
-http://painel.conectiptv.com:25461/live/blinkbarros/blinkbarros/4218.ts
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="FILMES&SERIES",Telecine Pipoca HD
-http://painel.conectiptv.com:25461/live/blinkbarros/blinkbarros/4212.ts
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="FILMES&SERIES",Telecine Touch HD
-http://painel.conectiptv.com:25461/live/blinkbarros/blinkbarros/4208.ts
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="INFANTIL",Nickelodeon HD
-http://painel.conectiptv.com:25461/live/blinkbarros/blinkbarros/4278.ts
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="FILMES&SERIES",Telecine Cult HD
-http://painel.conectiptv.com:25461/live/blinkbarros/blinkbarros/4216.ts
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="FILMES&SERIES",HBO HD
-http://painel.conectiptv.com:25461/live/blinkbarros/blinkbarros/4319.ts
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="FILMES&SERIES",Telecine Fun HD
-http://painel.conectiptv.com:25461/live/blinkbarros/blinkbarros/4214.ts
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="FILMES&SERIES",Telecine Premium HD
-http://painel.conectiptv.com:25461/live/blinkbarros/blinkbarros/4210.ts
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="FILMES&SERIES",AMC HD
-http://painel.conectiptv.com:25461/live/blinkbarros/blinkbarros/4461.ts
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="FILMES&SERIES",Cinemax HD
-http://painel.conectiptv.com:25461/live/blinkbarros/blinkbarros/4434.ts
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="FILMES&SERIES",HBO 2 HD
-http://painel.conectiptv.com:25461/live/blinkbarros/blinkbarros/4322.ts
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="FILMES&SERIES",Max HD
-http://painel.conectiptv.com:25461/live/blinkbarros/blinkbarros/4302.ts
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="FILMES&SERIES",Megapix HD
-http://painel.conectiptv.com:25461/live/blinkbarros/blinkbarros/4294.ts
-
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="INFANTIL",BABY TV
-http://painel.conectiptv.com:25461/live/blinkbarros/blinkbarros/17534.ts
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="INFANTIL",Cartoon Network
-http://painel.conectiptv.com:25461/live/blinkbarros/blinkbarros/4440.ts
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="INFANTIL",Discovery Kids
-http://painel.conectiptv.com:25461/live/blinkbarros/blinkbarros/4419.ts
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="INFANTIL",GLOOBINHO
-http://painel.conectiptv.com:25461/live/blinkbarros/blinkbarros/11199.ts
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="INFANTIL",GLOOB FHD
-http://painel.conectiptv.com:25461/live/blinkbarros/blinkbarros/17576.ts
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="ESPORTES",ESPORTE INTERATIVO BR HD
-http://painel.conectiptv.com:25461/live/blinkbarros/blinkbarros/11217.ts
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="ESPORTES",Fox Sports
-http://painel.conectiptv.com:25461/live/blinkbarros/blinkbarros/4374.ts
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="ESPORTES",FOX SPORTS FHD
-http://painel.conectiptv.com:25461/live/blinkbarros/blinkbarros/17560.ts
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="ESPORTES",Fox Sports 2 HD
-http://painel.conectiptv.com:25461/live/blinkbarros/blinkbarros/4372.ts
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="ESPORTES",SporTV HD
-http://painel.conectiptv.com:25461/live/blinkbarros/blinkbarros/4229.ts
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="ESPORTES",SporTV 2
-http://painel.conectiptv.com:25461/live/blinkbarros/blinkbarros/4233.ts
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="ESPORTES",SporTV 3 HD
-http://painel.conectiptv.com:25461/live/blinkbarros/blinkbarros/4230.ts
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="FILMES&SERIES",Fox Life HD
-http://painel.conectiptv.com:25461/live/blinkbarros/blinkbarros/4379.ts
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="FILMES&SERIES",Telecine Action HD
-http://painel.conectiptv.com:25461/live/blinkbarros/blinkbarros/4218.ts
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="FILMES&SERIES",TELECINE FUN FHD
-http://painel.conectiptv.com:25461/live/blinkbarros/blinkbarros/17555.ts
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="FILMES&SERIES",Telecine Pipoca
-http://painel.conectiptv.com:25461/live/blinkbarros/blinkbarros/4213.ts
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="FILMES&SERIES",Telecine Pipoca HD
-http://painel.conectiptv.com:25461/live/blinkbarros/blinkbarros/4212.ts
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="FILMES&SERIES",Telecine Premium
-http://painel.conectiptv.com:25461/live/blinkbarros/blinkbarros/4211.ts
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="FILMES&SERIES",Telecine Pipoca HD
-http://painel.conectiptv.com:25461/live/blinkbarros/blinkbarros/4212.ts
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="FILMES&SERIES",TELECINE PREMIUM FHD
-http://painel.conectiptv.com:25461/live/blinkbarros/blinkbarros/17557.ts
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="FILMES&SERIES",Telecine Touch
-http://painel.conectiptv.com:25461/live/blinkbarros/blinkbarros/4209.ts
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="GUIA DO LUIZ VIP",CINE SKY 2
-http://stmv2.srvstm.com/tvjsid/tvjsid/playlist.m3u8?wowzasessionid=540052745
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="GUIA DO LUIZ VIP",CINE SKY 2
-http://stmv2.srvstm.com/tvjsid/tvjsid/playlist.m3u8?wowzasessionid=540052745
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="SOUTH PARK",01 SOUTH PARK
-http://www.blogger.com/video-play.mp4?contentId=288903fe977b69a8&CompartilhandoIPTV
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="VARIEDADES",Multishow HD
-http://painel.conectiptv.com:25461/live/blinkbarros/blinkbarros/4290.ts
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="Esportes",EI Maxx 2 HD
-http://br1.e-tv.xyz:8081/live/likedi1207/7mX1kNHrBq/4134.m3u8?http://bit.ly/Fga002
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="CANAL ABERTO",GLOBO SP
-http://br1.e-tv.xyz:8081/live/likedi1207/7mX1kNHrBq/4097.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="FILMES E SÉRIES",CINE FILMES 2
-http://stmv2.srvstm.com/tvjsid/tvjsid/playlist.m3u8?wowzasessionid=525649341
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="FILMES E SÉRIES",SÓ FILMES
-http://stmv2.srvstm.com/tvjsid/tvjsid/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="FILMES E SÉRIES",A&E
-http://iptv2017.ddns.net:8100/live/IPtvFull/yx77yonb/3785.ts
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="FILMES E SÉRIES",AMC
-http://br1.e-tv.xyz:8081/live/likedi1207/7mX1kNHrBq/4193.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="FILMES E SÉRIES",AXN
-http://br1.e-tv.xyz:8081/live/likedi1207/7mX1kNHrBq/4185.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="FILMES E SÉRIES",CINE SKY
-http://stmv2.srvstm.com:1935/tvjsid/tvjsid/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="FILMES E SÉRIES",HBO 2
-http://br1.e-tv.xyz:8081/live/likedi1207/7mX1kNHrBq/4089.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="FILMES E SÉRIES",HBO FAMILY
-http://br1.e-tv.xyz:8081/live/likedi1207/7mX1kNHrBq/4086.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="FILMES E SÉRIES",HBO PLUS
-http://br1.e-tv.xyz:8081/live/likedi1207/7mX1kNHrBq/4082.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="FILMES E SÉRIES",HBO SIGNATURE
-http://br1.e-tv.xyz:8081/live/likedi1207/7mX1kNHrBq/4080.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="FILMES E SÉRIES",MAX
-http://br1.e-tv.xyz:8081/live/likedi1207/7mX1kNHrBq/4065.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="FILMES E SÉRIES",MAX PRIME
-http://br1.e-tv.xyz:8081/live/likedi1207/7mX1kNHrBq/4062.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="FILMES E SÉRIES",MAX UP
-http://br1.e-tv.xyz:8081/live/likedi1207/7mX1kNHrBq/4060.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="FILMES E SÉRIES",MEGAPIX
-http://br1.e-tv.xyz:8081/live/likedi1207/7mX1kNHrBq/4058.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="FILMES E SÉRIES",PARAMOUNT CHANNEL
-http://br1.e-tv.xyz:8081/live/likedi1207/7mX1kNHrBq/4035.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="FILMES E SÉRIES",CINE SKY
-http://stmv2.srvstm.com:1935/tvjsid/tvjsid/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="FILMES E SÉRIES",HBO 2
-http://br1.e-tv.xyz:8081/live/likedi1207/7mX1kNHrBq/4089.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="FILMES E SÉRIES",HBO FAMILY
-http://br1.e-tv.xyz:8081/live/likedi1207/7mX1kNHrBq/4086.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="FILMES E SÉRIES",HBO PLUS
-http://br1.e-tv.xyz:8081/live/likedi1207/7mX1kNHrBq/4082.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="FILMES E SÉRIES",HBO SIGNATURE
-http://br1.e-tv.xyz:8081/live/likedi1207/7mX1kNHrBq/4080.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="FILMES E SÉRIES",MAX
-http://br1.e-tv.xyz:8081/live/likedi1207/7mX1kNHrBq/4065.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="FILMES E SÉRIES",MAX PRIME
-http://br1.e-tv.xyz:8081/live/likedi1207/7mX1kNHrBq/4062.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="FILMES E SÉRIES",MEGAPIX
-http://br1.e-tv.xyz:8081/live/likedi1207/7mX1kNHrBq/4058.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="FILMES E SÉRIES",PARAMOUNT CHANNEL
-http://br1.e-tv.xyz:8081/live/likedi1207/7mX1kNHrBq/4035.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="FILMES E SÉRIES",TNT SERIES
-http://mark.jsattv.tk/live/free/free/17.ts
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="FILMES E SÉRIES",TELECINE ACTION
-http://iptv87.ddns.net:8000/live/pina7/bW7EAJA4Gs/1192.ts
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="FILMES E SÉRIES",TELECINE PIPOCA
-http://iptv87.ddns.net:8000/live/pina7/bW7EAJA4Gs/1193.ts
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="FILMES E SÉRIES",TELECINE CULT
-http://iptv87.ddns.net:8000/live/pina7/bW7EAJA4Gs/1191.ts
-
-#PLAYLISTV: pltv-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" pltv-name="Carla" pltv-description="Lista IPTV" pltv-cover="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" pltv-author="Carla" pltv-email="carlinha_htynha@hotmail.com"
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="CANAIS ABERTOS",GLOBO BH FHD
-http://painel.conectiptv.com:25461/live/blinkbarros/blinkbarros/17546.ts
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="CANAIS ABERTOS",Globo RJ HD
-http://painel.conectiptv.com:25461/live/blinkbarros/blinkbarros/4347.ts
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="CANAIS ABERTOS",Band
-http://painel.conectiptv.com:25461/live/blinkbarros/blinkbarros/4454.ts
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="CANAIS ABERTOS",GNT HD
-http://painel.conectiptv.com:25461/live/blinkbarros/blinkbarros/4330.ts
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="CANAIS ABERTOS",RECORDE HD ALTERNATIVO
-http://conectgo.ddns.me:8880/live/Conectgo/oMF1lfeezN/196.ts
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="CANAIS ABERTOS",Rede TV HD
-http://painel.conectiptv.com:25461/live/blinkbarros/blinkbarros/4245.ts
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="CANAIS ABERTOS",SBT
-http://painel.conectiptv.com:25461/live/blinkbarros/blinkbarros/4241.ts
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="CANAIS ABERTOS",SBT HD
-http://painel.conectiptv.com:25461/live/blinkbarros/blinkbarros/4240.ts
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="CANAIS ABERTOS",Tv Escola
-http://slrp.sambavideos.sambatech.com/liveevent/acerpTvEscolaABR_1f9a5d00db56b3c3020b6ac3dd693e12/livestream1/chunklist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="CANAIS ABERTOS",Record SD
-http://wz3.dnip.com.br/tvgazetamt/tvgazetamt.sdp/chunklist_w567263838.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="CANAIS ABERTOS",Band HD
-http://painel.conectiptv.com:25461/live/blinkbarros/blinkbarros/4453.ts
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="INFANTIL",BABY TV
-http://painel.conectiptv.com:25461/live/blinkbarros/blinkbarros/17534.ts
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="INFANTIL",Baby TV ALTERNATIVO
-http://painel.conectiptv.com:25461/live/blinkbarros/blinkbarros/21069.ts
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="INFANTIL",Boomerang HD
-http://painel.conectiptv.com:25461/live/blinkbarros/blinkbarros/4445.ts
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="INFANTIL",Cartoon Network
-http://painel.conectiptv.com:25461/live/blinkbarros/blinkbarros/4440.ts
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="INFANTIL",Discovery Kids
-http://painel.conectiptv.com:25461/live/blinkbarros/blinkbarros/4419.ts
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="INFANTIL",Discovery Kids ALTERNATIVO
-http://painel.conectiptv.com:25461/live/blinkbarros/blinkbarros/21060.ts
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="INFANTIL",Discovery Kids HD
-http://painel.conectiptv.com:25461/live/blinkbarros/blinkbarros/4418.ts
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="INFANTIL",Disney Junior
-http://painel.conectiptv.com:25461/live/blinkbarros/blinkbarros/4407.ts
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="INFANTIL",GLOOBINHO
-http://painel.conectiptv.com:25461/live/blinkbarros/blinkbarros/11199.ts
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="INFANTIL",Gloob
-http://painel.conectiptv.com:25461/live/blinkbarros/blinkbarros/4333.ts
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="INFANTIL",GLOOB FHD
-http://painel.conectiptv.com:25461/live/blinkbarros/blinkbarros/17576.ts
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="INFANTIL",Disney XD
-http://painel.conectiptv.com:25461/live/blinkbarros/blinkbarros/4405.ts
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="INFANTIL",Disney XD ALTERNATIVO
-http://painel.conectiptv.com:25461/live/blinkbarros/blinkbarros/21055.ts
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="INFANTIL",Disney Channel
-http://painel.conectiptv.com:25461/live/blinkbarros/blinkbarros/4409.ts
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="INFANTIL",Disney Channel HD
-http://painel.conectiptv.com:25461/live/blinkbarros/blinkbarros/4408.ts
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="INFANTIL",Nickelodeon
-http://painel.conectiptv.com:25461/live/blinkbarros/blinkbarros/4279.ts
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="INFANTIL",Nickelodeon HD
-http://painel.conectiptv.com:25461/live/blinkbarros/blinkbarros/4278.ts
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="INFANTIL",Nickelodeon HD ALTERNATIVO
-http://painel.conectiptv.com:25461/live/blinkbarros/blinkbarros/21045.ts
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="INFANTIL",Nick Jr
-http://painel.conectiptv.com:25461/live/blinkbarros/blinkbarros/4281.ts
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="INFANTIL",Nick Jr HD
-http://painel.conectiptv.com:25461/live/blinkbarros/blinkbarros/4280.ts
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="INFANTIL",NatGeo Kids ALTERNATIVO
-http://painel.conectiptv.com:25461/live/blinkbarros/blinkbarros/21051.ts
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="INFANTIL",TV Ra Ti Bum
-http://painel.conectiptv.com:25461/live/blinkbarros/blinkbarros/4191.ts
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="INFANTIL",TV RA TIM BUM HD
-http://painel.conectiptv.com:25461/live/blinkbarros/blinkbarros/4179.ts
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="INFANTIL",Tooncast ALTERNATIVO
-http://painel.conectiptv.com:25461/live/blinkbarros/blinkbarros/22084.ts
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="INFANTIL",Zoomoo ALTERNATIVO
-http://painel.conectiptv.com:25461/live/blinkbarros/blinkbarros/21042.ts
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="NOTICIAS",Globo News
-http://painel.conectiptv.com:25461/live/blinkbarros/blinkbarros/4354.ts
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="NOTICIAS",Record News
-http://painel.conectiptv.com:25461/live/blinkbarros/blinkbarros/4248.ts
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="ESPORTES",Combate HD
-http://painel.conectiptv.com:25461/live/blinkbarros/blinkbarros/4428.ts
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="ESPORTES",COMBATE FHD
-http://painel.conectiptv.com:25461/live/blinkbarros/blinkbarros/17544.ts
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="ESPORTES",ESPN FHD
-http://painel.conectiptv.com:25461/live/blinkbarros/blinkbarros/17571.ts
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="ESPORTES",ESPN  FHD
-http://painel.conectiptv.com:25461/live/blinkbarros/blinkbarros/20932.ts
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="ESPORTES",ESPN Brasil
-http://painel.conectiptv.com:25461/live/blinkbarros/blinkbarros/4393.ts
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="ESPORTES",ESPORTE INTERATIVO BR HD
-http://painel.conectiptv.com:25461/live/blinkbarros/blinkbarros/11217.ts
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="ESPORTES",Fox Sports
-http://painel.conectiptv.com:25461/live/blinkbarros/blinkbarros/4374.ts
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="ESPORTES",FOX SPORTS FHD
-http://painel.conectiptv.com:25461/live/blinkbarros/blinkbarros/17560.ts
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="ESPORTES",Fox Sports 2 HD
-http://painel.conectiptv.com:25461/live/blinkbarros/blinkbarros/4372.ts
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="ESPORTES",SporTV HD
-http://painel.conectiptv.com:25461/live/blinkbarros/blinkbarros/4229.ts
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="ESPORTES",SporTV 2
-http://painel.conectiptv.com:25461/live/blinkbarros/blinkbarros/4233.ts
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="ESPORTES",SporTV 3 HD
-http://painel.conectiptv.com:25461/live/blinkbarros/blinkbarros/4230.ts
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="ESPORTES",EI Maxx 2 HD
-http://br1.e-tv.xyz:8081/live/likedi1207/7mX1kNHrBq/4134.m3u8?http://bit.ly/Fga002
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="FILMES&SERIES",AXN
-http://painel.conectiptv.com:25461/live/blinkbarros/blinkbarros/4458.ts
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="FILMES&SERIES",AXN HD
-http://painel.conectiptv.com:25461/live/blinkbarros/blinkbarros/4457.ts
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="FILMES&SERIES",Sony
-http://painel.conectiptv.com:25461/live/blinkbarros/blinkbarros/4442.ts
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="FILMES&SERIES",CINE CONECT GO!
-http://painel.conectiptv.com:25461/live/blinkbarros/blinkbarros/17135.ts
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="FILMES&SERIES",Cinemax HD
-http://painel.conectiptv.com:25461/live/blinkbarros/blinkbarros/4434.ts
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="FILMES&SERIES",Cinemax HD ALTERNATIVO
-http://painel.conectiptv.com:25461/live/blinkbarros/blinkbarros/21028.ts
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="FILMES&SERIES",Classique TV
-http://stmv2.euroti.com.br:1935/classique/classique/live.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="FILMES&SERIES",FX
-http://painel.conectiptv.com:25461/live/blinkbarros/blinkbarros/4368.ts
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="FILMES&SERIES",FX HD
-http://painel.conectiptv.com:25461/live/blinkbarros/blinkbarros/4367.ts
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="FILMES&SERIES",Fox Life HD
-http://painel.conectiptv.com:25461/live/blinkbarros/blinkbarros/4379.ts
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="FILMES&SERIES",Fox Premium 1
-http://painel.conectiptv.com:25461/live/blinkbarros/blinkbarros/4378.ts
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="FILMES&SERIES",Fox Premium 2
-http://painel.conectiptv.com:25461/live/blinkbarros/blinkbarros/4376.ts
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="FILMES&SERIES",HBO
-http://painel.conectiptv.com:25461/live/blinkbarros/blinkbarros/4324.ts
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="FILMES&SERIES",HBO HD
-http://painel.conectiptv.com:25461/live/blinkbarros/blinkbarros/4319.ts
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="FILMES&SERIES",HBO FHD
-http://painel.conectiptv.com:25461/live/blinkbarros/blinkbarros/17550.ts
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="FILMES&SERIES",HBO Family
-http://painel.conectiptv.com:25461/live/blinkbarros/blinkbarros/4321.ts
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="FILMES&SERIES",HBO Family HD
-http://painel.conectiptv.com:25461/live/blinkbarros/blinkbarros/4320.ts
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="FILMES&SERIES",HBO Plus HD
-http://painel.conectiptv.com:25461/live/blinkbarros/blinkbarros/4317.ts
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="FILMES&SERIES",HBO Signature
-http://painel.conectiptv.com:25461/live/blinkbarros/blinkbarros/4314.ts
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="FILMES&SERIES",HBO Signature HD
-http://painel.conectiptv.com:25461/live/blinkbarros/blinkbarros/4313.ts
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="FILMES&SERIES",Locomotion
-http://painel.conectiptv.com:25461/live/blinkbarros/blinkbarros/7596.ts
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="FILMES&SERIES",Space
-http://painel.conectiptv.com:25461/live/blinkbarros/blinkbarros/4236.ts
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="FILMES&SERIES",Space HD
-http://painel.conectiptv.com:25461/live/blinkbarros/blinkbarros/4235.ts
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="FILMES&SERIES",Studio Universal HD
-http://painel.conectiptv.com:25461/live/blinkbarros/blinkbarros/4227.ts
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="FILMES&SERIES",TCM
-http://painel.conectiptv.com:25461/live/blinkbarros/blinkbarros/4221.ts
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="FILMES&SERIES",TNT
-http://painel.conectiptv.com:25461/live/blinkbarros/blinkbarros/4204.ts
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="FILMES&SERIES",TNT HD
-http://painel.conectiptv.com:25461/live/blinkbarros/blinkbarros/4203.ts
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="FILMES&SERIES",TNT Séries HD
-http://painel.conectiptv.com:25461/live/blinkbarros/blinkbarros/4201.ts
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="FILMES&SERIES",Telecine Action HD
-http://painel.conectiptv.com:25461/live/blinkbarros/blinkbarros/4218.ts
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="FILMES&SERIES",Telecine Action FHD
-http://painel.conectiptv.com:25461/live/blinkbarros/blinkbarros/17554.ts
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="FILMES&SERIES",Telecine Cult
-http://painel.conectiptv.com:25461/live/blinkbarros/blinkbarros/4217.ts
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="FILMES&SERIES",Telecine Cult HD
-http://painel.conectiptv.com:25461/live/blinkbarros/blinkbarros/4216.ts
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="FILMES&SERIES",Telecine Fun
-http://painel.conectiptv.com:25461/live/blinkbarros/blinkbarros/4215.ts
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="FILMES&SERIES",TELECINE FUN FHD
-http://painel.conectiptv.com:25461/live/blinkbarros/blinkbarros/17555.ts
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="FILMES&SERIES",Telecine Pipoca
-http://painel.conectiptv.com:25461/live/blinkbarros/blinkbarros/4213.ts
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="FILMES&SERIES",Telecine Pipoca HD
-http://painel.conectiptv.com:25461/live/blinkbarros/blinkbarros/4212.ts
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="FILMES&SERIES",Warner Channel HD
-http://painel.conectiptv.com:25461/live/blinkbarros/blinkbarros/4182.ts
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="FILMES&SERIES",Telecine Premium
-http://painel.conectiptv.com:25461/live/blinkbarros/blinkbarros/4211.ts
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="FILMES&SERIES",Telecine Pipoca HD
-http://painel.conectiptv.com:25461/live/blinkbarros/blinkbarros/4212.ts
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="FILMES&SERIES",TELECINE PREMIUM FHD
-http://painel.conectiptv.com:25461/live/blinkbarros/blinkbarros/17557.ts
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="FILMES&SERIES",Telecine Touch
-http://painel.conectiptv.com:25461/live/blinkbarros/blinkbarros/4209.ts
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="FILMES&SERIES",Telecine Touch HD
-http://painel.conectiptv.com:25461/live/blinkbarros/blinkbarros/4208.ts
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="FILMES&SERIES",Universal Channel HD
-http://painel.conectiptv.com:25461/live/blinkbarros/blinkbarros/4189.ts
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="DOCUMENTARIOS",Animal Planet
-http://painel.conectiptv.com:25461/live/blinkbarros/blinkbarros/4460.ts
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="DOCUMENTARIOS",Animal Planet HD
-http://painel.conectiptv.com:25461/live/blinkbarros/blinkbarros/4459.ts
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="DOCUMENTARIOS",Discovery Channel ALTERNATIVO
-http://painel.conectiptv.com:25461/live/blinkbarros/blinkbarros/20834.ts
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="DOCUMENTARIOS",Discovery Channel HD ALTERNATIVO
-http://painel.conectiptv.com:25461/live/blinkbarros/blinkbarros/20835.ts
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="DOCUMENTARIOS",Discovery H&H HD
-http://painel.conectiptv.com:25461/live/blinkbarros/blinkbarros/4420.ts
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="DOCUMENTARIOS",Discovery Theater
-http://painel.conectiptv.com:25461/live/blinkbarros/blinkbarros/4415.ts
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="DOCUMENTARIOS",Discovery Turbo
-http://painel.conectiptv.com:25461/live/blinkbarros/blinkbarros/4413.ts
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="DOCUMENTARIOS",Discovery Turbo HD
-http://painel.conectiptv.com:25461/live/blinkbarros/blinkbarros/4412.ts
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="DOCUMENTARIOS",NatGeo Wild
-http://painel.conectiptv.com:25461/live/blinkbarros/blinkbarros/4286.ts
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="DOCUMENTARIOS",National Geographic HD
-http://painel.conectiptv.com:25461/live/blinkbarros/blinkbarros/4283.ts
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="VARIEDADES",A&E
-http://painel.conectiptv.com:25461/live/blinkbarros/blinkbarros/4465.ts
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="VARIEDADES",A&E HD
-http://painel.conectiptv.com:25461/live/blinkbarros/blinkbarros/4464.ts
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="VARIEDADES",ARTE 1
-http://painel.conectiptv.com:25461/live/blinkbarros/blinkbarros/11193.ts
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="VARIEDADES",BIS
-http://painel.conectiptv.com:25461/live/blinkbarros/blinkbarros/4448.ts
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="VARIEDADES",BIS HD
-http://painel.conectiptv.com:25461/live/blinkbarros/blinkbarros/4447.ts
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="VARIEDADES",Comedy Central
-http://painel.conectiptv.com:25461/live/blinkbarros/blinkbarros/4427.ts
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="VARIEDADES",DOGTV
-http://painel.conectiptv.com:25461/live/blinkbarros/blinkbarros/11194.ts
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="VARIEDADES",E! HD
-http://painel.conectiptv.com:25461/live/blinkbarros/blinkbarros/4401.ts
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="VARIEDADES",Fish TV
-http://painel.conectiptv.com:25461/live/blinkbarros/blinkbarros/4385.ts
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="VARIEDADES",Food Network
-http://painel.conectiptv.com:25461/live/blinkbarros/blinkbarros/4384.ts
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="VARIEDADES",Lifetime
-http://painel.conectiptv.com:25461/live/blinkbarros/blinkbarros/4305.ts
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="VARIEDADES",MTV
-http://painel.conectiptv.com:25461/live/blinkbarros/blinkbarros/4293.ts
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="VARIEDADES",Multishow HD
-http://painel.conectiptv.com:25461/live/blinkbarros/blinkbarros/4290.ts
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="VARIEDADES",Music Box Brazil
-http://painel.conectiptv.com:25461/live/blinkbarros/blinkbarros/4289.ts
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="VARIEDADES",MUSIC BOX BRASIL HD
-http://painel.conectiptv.com:25461/live/blinkbarros/blinkbarros/11201.ts
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="VARIEDADES",PRIME BOX BRASIL HD
-http://painel.conectiptv.com:25461/live/blinkbarros/blinkbarros/11203.ts
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="VARIEDADES",Planeta HD
-http://painel.conectiptv.com:25461/live/blinkbarros/blinkbarros/7619.ts
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="VARIEDADES",SundanceTV
-http://painel.conectiptv.com:25461/live/blinkbarros/blinkbarros/11191.ts
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="VARIEDADES",SyFy
-http://painel.conectiptv.com:25461/live/blinkbarros/blinkbarros/4225.ts
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="VARIEDADES",TBS
-http://painel.conectiptv.com:25461/live/blinkbarros/blinkbarros/4223.ts
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="VARIEDADES",TLC
-http://painel.conectiptv.com:25461/live/blinkbarros/blinkbarros/4206.ts
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="VARIEDADES",TLC HD
-http://painel.conectiptv.com:25461/live/blinkbarros/blinkbarros/4205.ts
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="VARIEDADES",TV Retrô
-http://painel.conectiptv.com:25461/live/blinkbarros/blinkbarros/7594.ts
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="VARIEDADES",TruTV HD
-http://painel.conectiptv.com:25461/live/blinkbarros/blinkbarros/11198.ts
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="VARIEDADES",VH1 HD
-http://painel.conectiptv.com:25461/live/blinkbarros/blinkbarros/4186.ts
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="VARIEDADES",VH1 MEGA HITS
-http://painel.conectiptv.com:25461/live/blinkbarros/blinkbarros/11204.ts
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="VARIEDADES",VIVA
-http://painel.conectiptv.com:25461/live/blinkbarros/blinkbarros/4185.ts
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="VARIEDADES",Woohoo
-http://painel.conectiptv.com:25461/live/blinkbarros/blinkbarros/4181.ts
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="RELIGIOSO",TV APARECIDA
-http://69.46.0.170:1935/tvaparecida/tvaparecida.stream/live.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="PREMIERE",Premiere 2
-http://painel.conectiptv.com:25461/live/blinkbarros/blinkbarros/4265.ts
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="PREMIERE",PREMIERE 2 FHD
-http://painel.conectiptv.com:25461/live/blinkbarros/blinkbarros/17562.ts
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="PREMIERE",Premiere 3
-http://painel.conectiptv.com:25461/live/blinkbarros/blinkbarros/4263.ts
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="PREMIERE",Premiere 4
-http://painel.conectiptv.com:25461/live/blinkbarros/blinkbarros/4261.ts
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="PREMIERE",Premiere 5 HD
-http://painel.conectiptv.com:25461/live/blinkbarros/blinkbarros/4258.ts
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="PREMIERE",Premiere 6 ALTERNATIVO
-http://painel.conectiptv.com:25461/live/blinkbarros/blinkbarros/22066.ts
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="PREMIERE",Premiere 7
-http://painel.conectiptv.com:25461/live/blinkbarros/blinkbarros/4255.ts
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="PREMIERE",Premiere 8 ALTERNATIVO
-http://painel.conectiptv.com:25461/live/blinkbarros/blinkbarros/22064.ts
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="PREMIERE",PREMIERE CLUBES FHD
-http://painel.conectiptv.com:25461/live/blinkbarros/blinkbarros/17561.ts
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="TV Musicas",Retro Music
-http://stream.mediawork.cz/retrotv//retrotvHQ1/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="TV Musicas",MTV Live HD
-http://mtvam.ru/hlsam/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="TV ABERTA",Rede TV
-http://evpp.mm.uol.com.br/redetv1/redetv1/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="TV ABERTA",Canal Rural
-http://67149o.ha.azioncdn.net/hlsmedium/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="TV ABERTA",TV Diário
-http://slrp.sambavideos.sambatech.com/liveevent/tvdiario_7a683b067e5eee5c8d45e1e1883f69b9/livestream/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="TV ABERTA",TV Escola
-http://slrp.sambavideos.sambatech.com/liveevent/acerpTvEscolaABR_1f9a5d00db56b3c3020b6ac3dd693e12/livestream2/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="TV ABERTA",Terra Viva
-http://evpp.mm.uol.com.br:1935/band/terraviva/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="TV ABERTA",TV Câmara
-http://stream2.camara.leg.br:8134/tv1/manifest.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="GUIA DO LUIZ VIP",CINE SKY 2
-http://stmv2.srvstm.com/tvjsid/tvjsid/playlist.m3u8?wowzasessionid=540052745
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="GUIA DO LUIZ VIP",CINE SKY 2
-http://stmv2.srvstm.com/tvjsid/tvjsid/playlist.m3u8?wowzasessionid=540052745
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="SOUTH PARK",01 SOUTH PARK
-http://www.blogger.com/video-play.mp4?contentId=288903fe977b69a8&CompartilhandoIPTV
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="CANAIS ABERTOS",WEB TV MINAS
-http://173.236.10.10:1935/webtvminas/webtvminas/live.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="CANAIS ABERTOS",TV Cultura MG
-http://srv02.brasilstream.com.br:8080/live/ntv/ntv/mono.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="CANAIS ABERTOS",Rede Minas
-https://slbps-sambatech.akamaized.net/live/3282%2C8114%2Cec4b5a296d97fa99bf990662f5b4f8e1%3Bbase64np%3BMc8VCxqNjXKHAfw%21/amlst%3AMc_tFgfGiHOdQXPB/chunklist_b851968_DVR.m3u8?sts=st=1526809298~exp=1526815898~acl=/*~hmac=fbd2350cf827df0562a7cbc9eb034a95baa355e25adae88b317af76d1dceff58?CIDINHOtv.ts
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="NOTICIAS",BAND NEWS HD
-http://tvipbr.net:25461/live/TESTE7/vs123/8136.ts
-
-#PLAYLISTV: pltv-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" pltv-name="DavidHenrique Lista" pltv-description="Lista IPTV" pltv-cover="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" pltv-author="David Henrique Barbosa" pltv-email="davidhenriquebarbosa96@yahoo.com"
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="CANAIS GLOBO",Globo AMAZÔNIA  HD ALTERNATIVO
-http://painel.conectiptv.com:25461/live/blinkbarros/blinkbarros/20810.ts
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="CANAIS GLOBO",GLOBO TV ANHANGUERA GOIÂNIA
-http://painel.conectiptv.com:25461/live/blinkbarros/blinkbarros/4365.ts
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="CANAIS GLOBO",GLOBO TV ANHANGUERA HD
-http://painel.conectiptv.com:25461/live/blinkbarros/blinkbarros/11225.ts
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="CANAIS GLOBO",Globo HD ANHANGUERA Goiânia ALTERNATIVO
-http://painel.conectiptv.com:25461/live/blinkbarros/blinkbarros/20809.ts
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="CANAIS GLOBO",Globo Brasilia HD
-http://painel.conectiptv.com:25461/live/blinkbarros/blinkbarros/4363.ts
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="CANAIS GLOBO",EPTV Campinas
-http://painel.conectiptv.com:25461/live/blinkbarros/blinkbarros/4361.ts
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="CANAIS GLOBO",Globo EPTV Campinas HD
-http://painel.conectiptv.com:25461/live/blinkbarros/blinkbarros/4360.ts
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="CANAIS GLOBO",Globo EPTV Campinas ALTERNATIVO
-http://painel.conectiptv.com:25461/live/blinkbarros/blinkbarros/20805.ts
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="CANAIS GLOBO",Globo EPTV Campinas HD alternativo
-http://painel.conectiptv.com:25461/live/blinkbarros/blinkbarros/20804.ts
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="CANAIS ABERTOS",AGRO BRASIL Tv
-http://painel.conectiptv.com:25461/live/blinkbarros/blinkbarros/4437.ts
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="CANAIS ABERTOS",Band
-http://painel.conectiptv.com:25461/live/blinkbarros/blinkbarros/4454.ts
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="CANAIS ABERTOS",Band HD
-http://painel.conectiptv.com:25461/live/blinkbarros/blinkbarros/4453.ts
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="CANAIS ABERTOS",BAND FHD
-http://painel.conectiptv.com:25461/live/blinkbarros/blinkbarros/17543.ts
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="CANAIS ABERTOS",Canal Brasil
-http://painel.conectiptv.com:25461/live/blinkbarros/blinkbarros/4444.ts
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="CANAIS ABERTOS",Futura
-http://painel.conectiptv.com:25461/live/blinkbarros/blinkbarros/4370.ts
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="CANAIS ABERTOS",Futura HD
-http://painel.conectiptv.com:25461/live/blinkbarros/blinkbarros/4369.ts
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="CANAIS ABERTOS",GNT
-http://painel.conectiptv.com:25461/live/blinkbarros/blinkbarros/4331.ts
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="CANAIS ABERTOS",GNT
-http://painel.conectiptv.com:25461/live/blinkbarros/blinkbarros/4331.ts
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="CANAIS ABERTOS",GNT HD
-http://painel.conectiptv.com:25461/live/blinkbarros/blinkbarros/4330.ts
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="CANAIS ABERTOS",GO CINENA
-http://painel.conectiptv.com:25461/live/blinkbarros/blinkbarros/11688.ts
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="CANAIS ABERTOS",REDE BRASIL
-http://conectgo.ddns.me:8880/live/Conectgo/oMF1lfeezN/76.ts
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="CANAIS ABERTOS",Rede Brasil HD
-http://painel.conectiptv.com:25461/live/blinkbarros/blinkbarros/11820.ts
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="CANAIS ABERTOS",RECORDE SP HD
-http://painel.conectiptv.com:25461/live/blinkbarros/blinkbarros/11206.ts
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="CANAIS ABERTOS",RECORDE HD ALTERNATIVO
-http://conectgo.ddns.me:8880/live/Conectgo/oMF1lfeezN/196.ts
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="CANAIS ABERTOS",Record SD
-http://painel.conectiptv.com:25461/live/blinkbarros/blinkbarros/4251.ts
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="CANAIS ABERTOS",RECORD FHD
-http://painel.conectiptv.com:25461/live/blinkbarros/blinkbarros/17551.ts
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="CANAIS ABERTOS",Rede TV HD
-http://painel.conectiptv.com:25461/live/blinkbarros/blinkbarros/4245.ts
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="CANAIS ABERTOS",SBT
-http://painel.conectiptv.com:25461/live/blinkbarros/blinkbarros/4241.ts
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="CANAIS ABERTOS",SBT HD
-http://painel.conectiptv.com:25461/live/blinkbarros/blinkbarros/4240.ts
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="CANAIS ABERTOS",SBT FHD
-http://painel.conectiptv.com:25461/live/blinkbarros/blinkbarros/17552.ts
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="CANAIS ABERTOS",TV GAZETA SP HD
-http://painel.conectiptv.com:25461/live/blinkbarros/blinkbarros/4193.ts
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="ESPORTES",ALL SPORTS HD
-http://painel.conectiptv.com:25461/live/blinkbarros/blinkbarros/7621.ts
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="ESPORTES",Band Sports
-http://painel.conectiptv.com:25461/live/blinkbarros/blinkbarros/4450.ts
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="ESPORTES",Band Sports HD
-http://painel.conectiptv.com:25461/live/blinkbarros/blinkbarros/4449.ts
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="ESPORTES",Combate
-http://painel.conectiptv.com:25461/live/blinkbarros/blinkbarros/4430.ts
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="ESPORTES",Combate HD
-http://painel.conectiptv.com:25461/live/blinkbarros/blinkbarros/4428.ts
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="ESPORTES",COMBATE FHD
-http://painel.conectiptv.com:25461/live/blinkbarros/blinkbarros/17544.ts
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="ESPORTES",COMBATE HD ALTERNATIVO
-http://painel.conectiptv.com:25461/live/blinkbarros/blinkbarros/21040.ts
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="ESPORTES",ESPN  HD
-http://painel.conectiptv.com:25461/live/blinkbarros/blinkbarros/4394.ts
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="ESPORTES",ESPN FHD
-http://painel.conectiptv.com:25461/live/blinkbarros/blinkbarros/17571.ts
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="ESPORTES",ESPN  HD ALTERNATIVO
-http://painel.conectiptv.com:25461/live/blinkbarros/blinkbarros/20931.ts
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="ESPORTES",ESPN  FHD
-http://painel.conectiptv.com:25461/live/blinkbarros/blinkbarros/20932.ts
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="ESPORTES",ESPN +
-http://painel.conectiptv.com:25461/live/blinkbarros/blinkbarros/11212.ts
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="ESPORTES",ESPN + HD
-http://painel.conectiptv.com:25461/live/blinkbarros/blinkbarros/11213.ts
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="ESPORTES",ESPN Brasil
-http://painel.conectiptv.com:25461/live/blinkbarros/blinkbarros/4393.ts
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="ESPORTES",ESPN Brasil HD
-http://painel.conectiptv.com:25461/live/blinkbarros/blinkbarros/4392.ts
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="ESPORTES",ESPN BRASIL FHD
-http://painel.conectiptv.com:25461/live/blinkbarros/blinkbarros/17559.ts
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="ESPORTES",ESPN Brasil HD ALTERNATIVO
-http://painel.conectiptv.com:25461/live/blinkbarros/blinkbarros/20934.ts
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="ESPORTES",ESPN Extra FHD
-http://painel.conectiptv.com:25461/live/blinkbarros/blinkbarros/17595.ts
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="ESPORTES",ESPORTE INTERATIVO BR
-http://painel.conectiptv.com:25461/live/blinkbarros/blinkbarros/11216.ts
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="ESPORTES",ESPORTE INTERATIVO BR HD
-http://painel.conectiptv.com:25461/live/blinkbarros/blinkbarros/11217.ts
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="ESPORTES",ESPORTE INTERATIVO BR FHD
-http://painel.conectiptv.com:25461/live/blinkbarros/blinkbarros/17593.ts
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="ESPORTES",2-. Esporte Interativo 2 HD ALTERNATIVO
-http://painel.conectiptv.com:25461/live/blinkbarros/blinkbarros/20927.ts
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="ESPORTES",FIGHT NETWORK
-http://tv.bmx-tv.top:1935/live/2.smil/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="ESPORTES",Fox Sports
-http://painel.conectiptv.com:25461/live/blinkbarros/blinkbarros/4374.ts
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="ESPORTES",Fox Sports HD
-http://painel.conectiptv.com:25461/live/blinkbarros/blinkbarros/4371.ts
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="ESPORTES",FOX SPORTS FHD
-http://painel.conectiptv.com:25461/live/blinkbarros/blinkbarros/17560.ts
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="ESPORTES",Fox Sports ALTERNATIVO
-http://painel.conectiptv.com:25461/live/blinkbarros/blinkbarros/20924.ts
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="ESPORTES",Fox Sports  HD ALTERNATIVO
-http://painel.conectiptv.com:25461/live/blinkbarros/blinkbarros/20925.ts
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="ESPORTES",Fox Sports 2
-http://painel.conectiptv.com:25461/live/blinkbarros/blinkbarros/4373.ts
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="ESPORTES",Fox Sports 2 HD
-http://painel.conectiptv.com:25461/live/blinkbarros/blinkbarros/4372.ts
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="ESPORTES",FOX SPORTS 2 FHD
-http://painel.conectiptv.com:25461/live/blinkbarros/blinkbarros/17574.ts
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="ESPORTES",Fox Sports 2 HD ALTERNATIVO
-http://painel.conectiptv.com:25461/live/blinkbarros/blinkbarros/20923.ts
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="ESPORTES",SporTV
-http://painel.conectiptv.com:25461/live/blinkbarros/blinkbarros/4234.ts
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="ESPORTES",SporTV HD
-http://painel.conectiptv.com:25461/live/blinkbarros/blinkbarros/4229.ts
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="ESPORTES",SPORTV FHD
-http://painel.conectiptv.com:25461/live/blinkbarros/blinkbarros/17553.ts
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="ESPORTES",SporTV ALTERNATIVO
-http://painel.conectiptv.com:25461/live/blinkbarros/blinkbarros/20919.ts
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="ESPORTES",SporTV HD ALTERNATIVO
-http://painel.conectiptv.com:25461/live/blinkbarros/blinkbarros/20920.ts
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="ESPORTES",SporTV 2
-http://painel.conectiptv.com:25461/live/blinkbarros/blinkbarros/4233.ts
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="ESPORTES",SporTV 2 HD
-http://painel.conectiptv.com:25461/live/blinkbarros/blinkbarros/4232.ts
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="ESPORTES",SPORTV 2 FHD
-http://painel.conectiptv.com:25461/live/blinkbarros/blinkbarros/17577.ts
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="ESPORTES",SporTV 2 ALTERNATIVO
-http://painel.conectiptv.com:25461/live/blinkbarros/blinkbarros/20917.ts
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="ESPORTES",SporTV 3
-http://painel.conectiptv.com:25461/live/blinkbarros/blinkbarros/4231.ts
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="ESPORTES",SporTV 3 HD
-http://painel.conectiptv.com:25461/live/blinkbarros/blinkbarros/4230.ts
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="INFANTIL",BABY TV
-http://painel.conectiptv.com:25461/live/blinkbarros/blinkbarros/17534.ts
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="INFANTIL",Baby TV ALTERNATIVO
-http://painel.conectiptv.com:25461/live/blinkbarros/blinkbarros/21069.ts
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="INFANTIL",Baby TV HD ALTERNATIVO
-http://painel.conectiptv.com:25461/live/blinkbarros/blinkbarros/21067.ts
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="INFANTIL",Boomerang
-http://painel.conectiptv.com:25461/live/blinkbarros/blinkbarros/4446.ts
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="INFANTIL",Boomerang ALTERNATIVO
-http://painel.conectiptv.com:25461/live/blinkbarros/blinkbarros/21070.ts
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="INFANTIL",Boomerang HD
-http://painel.conectiptv.com:25461/live/blinkbarros/blinkbarros/4445.ts
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="INFANTIL",Boomerang HD ALTERNATIVO
-http://painel.conectiptv.com:25461/live/blinkbarros/blinkbarros/21064.ts
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="INFANTIL",Boomerang FHD
-http://painel.conectiptv.com:25461/live/blinkbarros/blinkbarros/20683.ts
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="INFANTIL",Cartoon Network
-http://painel.conectiptv.com:25461/live/blinkbarros/blinkbarros/4440.ts
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="INFANTIL",Cartoon Network ALTERNATIVO
-http://painel.conectiptv.com:25461/live/blinkbarros/blinkbarros/21063.ts
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="INFANTIL",Cartoon Network HD
-http://painel.conectiptv.com:25461/live/blinkbarros/blinkbarros/4438.ts
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="INFANTIL",Cartoon Network HD ALTERNATIVO
-http://painel.conectiptv.com:25461/live/blinkbarros/blinkbarros/21061.ts
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="INFANTIL",Discovery Kids
-http://painel.conectiptv.com:25461/live/blinkbarros/blinkbarros/4419.ts
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="INFANTIL",Discovery Kids ALTERNATIVO
-http://painel.conectiptv.com:25461/live/blinkbarros/blinkbarros/21060.ts
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="INFANTIL",Discovery Kids HD
-http://painel.conectiptv.com:25461/live/blinkbarros/blinkbarros/4418.ts
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="INFANTIL",Discovery Kids HD ALTERNATIVO
-http://painel.conectiptv.com:25461/live/blinkbarros/blinkbarros/21059.ts
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="INFANTIL",Disney Junior
-http://painel.conectiptv.com:25461/live/blinkbarros/blinkbarros/4407.ts
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="INFANTIL",Disney Junior ALTERNATIVO
-http://painel.conectiptv.com:25461/live/blinkbarros/blinkbarros/21058.ts
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="INFANTIL",Disney Junior HD ALTERNATIVO
-http://painel.conectiptv.com:25461/live/blinkbarros/blinkbarros/21056.ts
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="INFANTIL",GLOOBINHO HD
-http://painel.conectiptv.com:25461/live/blinkbarros/blinkbarros/11200.ts
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="INFANTIL",GLOOBINHO
-http://painel.conectiptv.com:25461/live/blinkbarros/blinkbarros/11199.ts
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="INFANTIL",Gloob
-http://painel.conectiptv.com:25461/live/blinkbarros/blinkbarros/4333.ts
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="INFANTIL",Gloob HD
-http://painel.conectiptv.com:25461/live/blinkbarros/blinkbarros/4332.ts
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="INFANTIL",GLOOB FHD
-http://painel.conectiptv.com:25461/live/blinkbarros/blinkbarros/17576.ts
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="INFANTIL",Disney XD
-http://painel.conectiptv.com:25461/live/blinkbarros/blinkbarros/4405.ts
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="INFANTIL",Disney XD ALTERNATIVO
-http://painel.conectiptv.com:25461/live/blinkbarros/blinkbarros/21055.ts
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="INFANTIL",Disney XD HD ALTERNATIVO
-http://painel.conectiptv.com:25461/live/blinkbarros/blinkbarros/21054.ts
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="INFANTIL",Disney Channel
-http://painel.conectiptv.com:25461/live/blinkbarros/blinkbarros/4409.ts
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="INFANTIL",Disney Channel ALTERNATIVO
-http://painel.conectiptv.com:25461/live/blinkbarros/blinkbarros/22082.ts
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="INFANTIL",Disney Channel HD
-http://painel.conectiptv.com:25461/live/blinkbarros/blinkbarros/4408.ts
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="INFANTIL",Disney Channel HD ALTERNATIVO
-http://painel.conectiptv.com:25461/live/blinkbarros/blinkbarros/22081.ts
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="INFANTIL",DISNEY CHANNEL FHD
-http://painel.conectiptv.com:25461/live/blinkbarros/blinkbarros/17570.ts
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="INFANTIL",Nickelodeon
-http://painel.conectiptv.com:25461/live/blinkbarros/blinkbarros/4279.ts
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="INFANTIL",Nickelodeon ALTERNATIVO
-http://painel.conectiptv.com:25461/live/blinkbarros/blinkbarros/21046.ts
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="INFANTIL",Nickelodeon HD
-http://painel.conectiptv.com:25461/live/blinkbarros/blinkbarros/4278.ts
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="INFANTIL",Nickelodeon HD ALTERNATIVO
-http://painel.conectiptv.com:25461/live/blinkbarros/blinkbarros/21045.ts
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="INFANTIL",NICKELODEON FHD
-http://painel.conectiptv.com:25461/live/blinkbarros/blinkbarros/17590.ts
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="INFANTIL",Nick Jr
-http://painel.conectiptv.com:25461/live/blinkbarros/blinkbarros/4281.ts
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="INFANTIL",Nick Jr ALTERNATIVO
-http://painel.conectiptv.com:25461/live/blinkbarros/blinkbarros/21049.ts
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="INFANTIL",Nick Jr HD
-http://painel.conectiptv.com:25461/live/blinkbarros/blinkbarros/4280.ts
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="INFANTIL",Nick Jr HD ALTERNATIVO
-http://painel.conectiptv.com:25461/live/blinkbarros/blinkbarros/21047.ts
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="INFANTIL",NICK JR FHD
-http://painel.conectiptv.com:25461/live/blinkbarros/blinkbarros/17589.ts
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="INFANTIL",NatGeo Kids
-http://painel.conectiptv.com:25461/live/blinkbarros/blinkbarros/4288.ts
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="INFANTIL",NatGeo Kids ALTERNATIVO
-http://painel.conectiptv.com:25461/live/blinkbarros/blinkbarros/21051.ts
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="INFANTIL",NatGeo Kids HD
-http://painel.conectiptv.com:25461/live/blinkbarros/blinkbarros/4287.ts
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="INFANTIL",NatGeo Kids HD ALTERNATIVO
-http://painel.conectiptv.com:25461/live/blinkbarros/blinkbarros/21050.ts
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="INFANTIL",TV Ra Ti Bum
-http://painel.conectiptv.com:25461/live/blinkbarros/blinkbarros/4191.ts
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="INFANTIL",TV RA TIM BUM HD
-http://painel.conectiptv.com:25461/live/blinkbarros/blinkbarros/4179.ts
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="INFANTIL",Tooncast ALTERNATIVO
-http://painel.conectiptv.com:25461/live/blinkbarros/blinkbarros/22084.ts
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="INFANTIL",Tooncast HD ALTERNATIVO
-http://painel.conectiptv.com:25461/live/blinkbarros/blinkbarros/21043.ts
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="INFANTIL",Zoomoo ALTERNATIVO
-http://painel.conectiptv.com:25461/live/blinkbarros/blinkbarros/21042.ts
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="INFANTIL",Zoomoo HD ALTERNATIVO
-http://painel.conectiptv.com:25461/live/blinkbarros/blinkbarros/21041.ts
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="VARIEDADES",A&E
-http://painel.conectiptv.com:25461/live/blinkbarros/blinkbarros/4465.ts
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="VARIEDADES",A&E HD
-http://painel.conectiptv.com:25461/live/blinkbarros/blinkbarros/4464.ts
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="VARIEDADES",Fish  TV HD
-http://painel.conectiptv.com:25461/live/blinkbarros/blinkbarros/4386.ts
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="VARIEDADES",TBS HD
-http://painel.conectiptv.com:25461/live/blinkbarros/blinkbarros/4222.ts
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="FILMES&SERIES",AMC HD
-http://painel.conectiptv.com:25461/live/blinkbarros/blinkbarros/4461.ts
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="FILMES&SERIES",AMC ALTERNATIVO
-http://painel.conectiptv.com:25461/live/blinkbarros/blinkbarros/21036.ts
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="FILMES&SERIES",AXN HD
-http://painel.conectiptv.com:25461/live/blinkbarros/blinkbarros/4457.ts
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="FILMES&SERIES",AXN ALTERNATIVO
-http://painel.conectiptv.com:25461/live/blinkbarros/blinkbarros/21034.ts
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="FILMES&SERIES",AXN HD ALTERNATIVO
-http://painel.conectiptv.com:25461/live/blinkbarros/blinkbarros/21033.ts
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="FILMES&SERIES",Cinemax HD
-http://painel.conectiptv.com:25461/live/blinkbarros/blinkbarros/4434.ts
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="FILMES&SERIES",Cinemax ALTERNATIVO
-http://painel.conectiptv.com:25461/live/blinkbarros/blinkbarros/21029.ts
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="FILMES&SERIES",FX HD
-http://painel.conectiptv.com:25461/live/blinkbarros/blinkbarros/4367.ts
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="FILMES&SERIES",Fx alternativo
-http://painel.conectiptv.com:25461/live/blinkbarros/blinkbarros/21037.ts
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="FILMES&SERIES",FX HD ALTERNATIVO
-http://painel.conectiptv.com:25461/live/blinkbarros/blinkbarros/21018.ts
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="FILMES&SERIES",Fox HD
-http://painel.conectiptv.com:25461/live/blinkbarros/blinkbarros/4381.ts
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="FILMES&SERIES",Fox FHD
-http://painel.conectiptv.com:25461/live/blinkbarros/blinkbarros/17545.ts
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="FILMES&SERIES",Fox ALTERNATIVO
-http://painel.conectiptv.com:25461/live/blinkbarros/blinkbarros/21026.ts
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="FILMES&SERIES",HBO Family ALTERNATIVO
-http://painel.conectiptv.com:25461/live/blinkbarros/blinkbarros/21012.ts
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="FILMES&SERIES",HBO Family HD ALTERNATIVO
-http://painel.conectiptv.com:25461/live/blinkbarros/blinkbarros/21011.ts
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="FILMES&SERIES",HBO Plus HD
-http://painel.conectiptv.com:25461/live/blinkbarros/blinkbarros/4317.ts
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="FILMES&SERIES",HBO Plus ALTERNATIVO
-http://painel.conectiptv.com:25461/live/blinkbarros/blinkbarros/21009.ts
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="FILMES&SERIES",HBO Signature ALTERNATIVO
-http://painel.conectiptv.com:25461/live/blinkbarros/blinkbarros/21005.ts
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="FILMES&SERIES",HBO Signature HD
-http://painel.conectiptv.com:25461/live/blinkbarros/blinkbarros/4313.ts
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="FILMES&SERIES",Max
-http://painel.conectiptv.com:25461/live/blinkbarros/blinkbarros/4303.ts
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="FILMES&SERIES",Max HD
-http://painel.conectiptv.com:25461/live/blinkbarros/blinkbarros/4302.ts
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="FILMES&SERIES",Max HD ALTERNATIVO
-http://painel.conectiptv.com:25461/live/blinkbarros/blinkbarros/21002.ts
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="FILMES&SERIES",Space HD
-http://painel.conectiptv.com:25461/live/blinkbarros/blinkbarros/4235.ts
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="FILMES&SERIES",Space ALTERNATIVO
-http://painel.conectiptv.com:25461/live/blinkbarros/blinkbarros/20989.ts
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="FILMES&SERIES",Space HD ALTERNATIVO
-http://painel.conectiptv.com:25461/live/blinkbarros/blinkbarros/20988.ts
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="FILMES&SERIES",TNT
-http://painel.conectiptv.com:25461/live/blinkbarros/blinkbarros/4204.ts
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="FILMES&SERIES",TNT HD
-http://painel.conectiptv.com:25461/live/blinkbarros/blinkbarros/4203.ts
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="FILMES&SERIES",TNT series HD ALTERNATIVO
-http://painel.conectiptv.com:25461/live/blinkbarros/blinkbarros/21039.ts
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="FILMES&SERIES",TNT series ALTERNATIVO
-http://painel.conectiptv.com:25461/live/blinkbarros/blinkbarros/21038.ts
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="FILMES&SERIES",TNT Séries HD
-http://painel.conectiptv.com:25461/live/blinkbarros/blinkbarros/4201.ts
+#EXTINF:-1,AeE
+http://iptv.servidorfull.com:8081/live/008/uzh9xcqfJe/87.ts
+#EXTINF:-1,ANIMAL PLANET
+http://iptv.servidorfull.com:8081/live/008/uzh9xcqfJe/86.ts
+#EXTINF:-1,APARECIDA
+http://iptv.servidorfull.com:8081/live/008/uzh9xcqfJe/161.ts
+#EXTINF:-1,ARTE 1
+http://iptv.servidorfull.com:8081/live/008/uzh9xcqfJe/160.ts
+#EXTINF:-1,AXN
+http://iptv.servidorfull.com:8081/live/008/uzh9xcqfJe/85.ts
+#EXTINF:-1,BAND
+http://iptv.servidorfull.com:8081/live/008/uzh9xcqfJe/88.ts
+#EXTINF:-1,BAND ALTERNATIVO
+http://iptv.servidorfull.com:8081/live/008/uzh9xcqfJe/350.ts
+#EXTINF:-1,BAND SPORTS SD
+http://iptv.servidorfull.com:8081/live/008/uzh9xcqfJe/84.ts
+#EXTINF:-1,BAND NEWS
+http://iptv.servidorfull.com:8081/live/008/uzh9xcqfJe/89.ts
+#EXTINF:-1,BIS
+http://iptv.servidorfull.com:8081/live/008/uzh9xcqfJe/83.ts
+#EXTINF:-1,BOOMERANG
+http://iptv.servidorfull.com:8081/live/008/uzh9xcqfJe/90.ts
+#EXTINF:-1,CANAL BRASIL
+http://iptv.servidorfull.com:8081/live/008/uzh9xcqfJe/159.ts
+#EXTINF:-1,CANAL RURAL
+http://iptv.servidorfull.com:8081/live/008/uzh9xcqfJe/158.ts
+#EXTINF:-1,CANCAO NOVA
+http://iptv.servidorfull.com:8081/live/008/uzh9xcqfJe/157.ts
+#EXTINF:-1,CARTOON NETWORK
+http://iptv.servidorfull.com:8081/live/008/uzh9xcqfJe/82.ts
+#EXTINF:-1,CBS
+http://iptv.servidorfull.com:8081/live/008/uzh9xcqfJe/666.ts
+#EXTINF:-1,CBS NEWS
+http://iptv.servidorfull.com:8081/live/008/uzh9xcqfJe/668.ts
+#EXTINF:-1,CINEMAX
+http://iptv.servidorfull.com:8081/live/008/uzh9xcqfJe/91.ts
+#EXTINF:-1,CURTA!
+http://iptv.servidorfull.com:8081/live/008/uzh9xcqfJe/155.ts
+#EXTINF:-1,COMBATE
+http://iptv.servidorfull.com:8081/live/008/uzh9xcqfJe/135.ts
+#EXTINF:-1,COMEDY CENTRAL
+http://iptv.servidorfull.com:8081/live/008/uzh9xcqfJe/156.ts
+#EXTINF:-1,CULTURA
+http://iptv.servidorfull.com:8081/live/008/uzh9xcqfJe/81.ts
+#EXTINF:-1,DISNEY CHANNEL
+http://iptv.servidorfull.com:8081/live/008/uzh9xcqfJe/96.ts
+#EXTINF:-1,DISCOVERY CIVILIZATION
+http://iptv.servidorfull.com:8081/live/008/uzh9xcqfJe/79.ts
+#EXTINF:-1,DISCOVERY CHANNEL
+http://iptv.servidorfull.com:8081/live/008/uzh9xcqfJe/80.ts
+#EXTINF:-1,Discovery Home e Health
+http://iptv.servidorfull.com:8081/live/008/uzh9xcqfJe/92.ts
+#EXTINF:-1,DISCOVERY KIDS
+http://iptv.servidorfull.com:8081/live/008/uzh9xcqfJe/93.ts
+#EXTINF:-1,DISCOVERY SCIENCE
+http://iptv.servidorfull.com:8081/live/008/uzh9xcqfJe/94.ts
+#EXTINF:-1,DISCOVERY TURBO
+http://iptv.servidorfull.com:8081/live/008/uzh9xcqfJe/95.ts
+#EXTINF:-1,DISNEY JR
+http://iptv.servidorfull.com:8081/live/008/uzh9xcqfJe/97.ts
+#EXTINF:-1,DISNEY XD
+http://iptv.servidorfull.com:8081/live/008/uzh9xcqfJe/98.ts
+#EXTINF:-1,E!
+http://iptv.servidorfull.com:8081/live/008/uzh9xcqfJe/99.ts
+#EXTINF:-1,EI MAXX
+http://iptv.servidorfull.com:8081/live/008/uzh9xcqfJe/100.ts
+#EXTINF:-1,EI MAXX 2
+http://iptv.servidorfull.com:8081/live/008/uzh9xcqfJe/43.ts
+#EXTINF:-1,ESPN
+http://iptv.servidorfull.com:8081/live/008/uzh9xcqfJe/77.ts
+#EXTINF:-1,ESPN+
+http://iptv.servidorfull.com:8081/live/008/uzh9xcqfJe/770.ts
+#EXTINF:-1,ESPN BRASIL
+http://iptv.servidorfull.com:8081/live/008/uzh9xcqfJe/101.ts
+#EXTINF:-1,FISH TV
+rtmp://170.78.77.204:8001/live/162?username=008&password=uzh9xcqfJe
+#EXTINF:-1,FOOD NETWORK
+http://iptv.servidorfull.com:8081/live/008/uzh9xcqfJe/173.ts
+#EXTINF:-1,FOX
+http://iptv.servidorfull.com:8081/live/008/uzh9xcqfJe/75.ts
+#EXTINF:-1,FOX LIFE
+http://iptv.servidorfull.com:8081/live/008/uzh9xcqfJe/74.ts
+#EXTINF:-1,FOX SPORTS
+http://iptv.servidorfull.com:8081/live/008/uzh9xcqfJe/73.ts
+#EXTINF:-1,FOX SPORTS 2
+http://iptv.servidorfull.com:8081/live/008/uzh9xcqfJe/72.ts
+#EXTINF:-1,FX
+http://iptv.servidorfull.com:8081/live/008/uzh9xcqfJe/103.ts
+#EXTINF:-1,FUTURA
+http://iptv.servidorfull.com:8081/live/008/uzh9xcqfJe/102.ts
+#EXTINF:-1,GLOBO BRASILIA
+http://iptv.servidorfull.com:8081/live/008/uzh9xcqfJe/771.ts
+#EXTINF:-1,GLOBO MINAS
+http://iptv.servidorfull.com:8081/live/008/uzh9xcqfJe/175.ts
+#EXTINF:-1,GLOBO NEWS
+http://iptv.servidorfull.com:8081/live/008/uzh9xcqfJe/71.ts
+#EXTINF:-1,GLOBO RJ
+http://iptv.servidorfull.com:8081/live/008/uzh9xcqfJe/772.ts
+#EXTINF:-1,GLOBO SP
+http://iptv.servidorfull.com:8081/live/008/uzh9xcqfJe/351.ts
+#EXTINF:-1,GLOOB
+http://iptv.servidorfull.com:8081/live/008/uzh9xcqfJe/70.ts
+#EXTINF:-1,GNT
+http://iptv.servidorfull.com:8081/live/008/uzh9xcqfJe/105.ts
+#EXTINF:-1,H2
+http://iptv.servidorfull.com:8081/live/008/uzh9xcqfJe/106.ts
+#EXTINF:-1,HBO
+http://iptv.servidorfull.com:8081/live/008/uzh9xcqfJe/69.ts
+#EXTINF:-1,HBO 2
+http://iptv.servidorfull.com:8081/live/008/uzh9xcqfJe/107.ts
+#EXTINF:-1,HBO FAMILY
+http://iptv.servidorfull.com:8081/live/008/uzh9xcqfJe/108.ts
+#EXTINF:-1,HBO PLUS
+http://iptv.servidorfull.com:8081/live/008/uzh9xcqfJe/68.ts
+#EXTINF:-1,HBO PLUS E
+http://iptv.servidorfull.com:8081/live/008/uzh9xcqfJe/352.ts
+#EXTINF:-1,HBO SIGNATURE
+http://iptv.servidorfull.com:8081/live/008/uzh9xcqfJe/67.ts
+#EXTINF:-1,HIT TV
+http://iptv.servidorfull.com:8081/live/008/uzh9xcqfJe/768.ts
+#EXTINF:-1,HISTORY
+http://iptv.servidorfull.com:8081/live/008/uzh9xcqfJe/109.ts
+#EXTINF:-1,HEART TV
+http://iptv.servidorfull.com:8081/live/008/uzh9xcqfJe/767.ts
+#EXTINF:-1,I-SAT
+http://iptv.servidorfull.com:8081/live/008/uzh9xcqfJe/166.ts
+#EXTINF:-1,ID
+http://iptv.servidorfull.com:8081/live/008/uzh9xcqfJe/110.ts
+#EXTINF:-1,LIFETIME
+http://iptv.servidorfull.com:8081/live/008/uzh9xcqfJe/152.ts
+#EXTINF:-1,LIVRE TV
+http://iptv.servidorfull.com:8081/live/008/uzh9xcqfJe/342.ts
+#EXTINF:-1,MAIS GLOBOSAT
+http://iptv.servidorfull.com:8081/live/008/uzh9xcqfJe/151.ts
+#EXTINF:-1,MAX
+http://iptv.servidorfull.com:8081/live/008/uzh9xcqfJe/111.ts
+#EXTINF:-1,MAX PRIME
+http://iptv.servidorfull.com:8081/live/008/uzh9xcqfJe/112.ts
+#EXTINF:-1,MAX UP
+http://iptv.servidorfull.com:8081/live/008/uzh9xcqfJe/66.ts
+#EXTINF:-1,MEGAPIX
+http://iptv.servidorfull.com:8081/live/008/uzh9xcqfJe/113.ts
+#EXTINF:-1,MIX TV
+http://iptv.servidorfull.com:8081/live/008/uzh9xcqfJe/341.ts
+#EXTINF:-1,MULTISHOW
+http://iptv.servidorfull.com:8081/live/008/uzh9xcqfJe/114.ts
+#EXTINF:-1,MUSIC BOX BRASIL
+http://iptv.servidorfull.com:8081/live/008/uzh9xcqfJe/150.ts
+#EXTINF:-1,MTV
+http://iptv.servidorfull.com:8081/live/008/uzh9xcqfJe/65.ts
+#EXTINF:-1,MTV DANCE
+http://iptv.servidorfull.com:8081/live/008/uzh9xcqfJe/769.ts
+#EXTINF:-1,NAT GEO
+http://iptv.servidorfull.com:8081/live/008/uzh9xcqfJe/115.ts
+#EXTINF:-1,NBR
+http://iptv.servidorfull.com:8081/live/008/uzh9xcqfJe/149.ts
+#EXTINF:-1,NFL NOW
+http://iptv.servidorfull.com:8081/live/008/uzh9xcqfJe/667.ts
+#EXTINF:-1,NHK
+http://iptv.servidorfull.com:8081/live/008/uzh9xcqfJe/355.ts
+#EXTINF:-1,NICK
+http://iptv.servidorfull.com:8081/live/008/uzh9xcqfJe/116.ts
+#EXTINF:-1,NICK JR.
+http://iptv.servidorfull.com:8081/live/008/uzh9xcqfJe/117.ts
+#EXTINF:-1,NOVO TEMPO
+http://iptv.servidorfull.com:8081/live/008/uzh9xcqfJe/171.ts
+#EXTINF:-1,NRJ HITS - BELJIQUE
+http://iptv.servidorfull.com:8081/live/008/uzh9xcqfJe/766.ts
+#EXTINF:-1,OFF
+http://iptv.servidorfull.com:8081/live/008/uzh9xcqfJe/64.ts
+#EXTINF:-1,PARAMOUNT
+http://iptv.servidorfull.com:8081/live/008/uzh9xcqfJe/63.ts
+#EXTINF:-1,PREMIERE CLUBES
+http://iptv.servidorfull.com:8081/live/008/uzh9xcqfJe/123.ts
+#EXTINF:-1,PREMIERE 2
+http://iptv.servidorfull.com:8081/live/008/uzh9xcqfJe/118.ts
+#EXTINF:-1,PREMIERE 3
+http://iptv.servidorfull.com:8081/live/008/uzh9xcqfJe/119.ts
+#EXTINF:-1,PREMIERE 4
+http://iptv.servidorfull.com:8081/live/008/uzh9xcqfJe/120.ts
+#EXTINF:-1,PREMIERE 5
+http://iptv.servidorfull.com:8081/live/008/uzh9xcqfJe/59.ts
+#EXTINF:-1,PREMIERE 6
+http://iptv.servidorfull.com:8081/live/008/uzh9xcqfJe/61.ts
+#EXTINF:-1,PREMIERE 7
+http://iptv.servidorfull.com:8081/live/008/uzh9xcqfJe/121.ts
+#EXTINF:-1,PREMIERE 8
+http://iptv.servidorfull.com:8081/live/008/uzh9xcqfJe/60.ts
+#EXTINF:-1,PREMIERE 9
+http://iptv.servidorfull.com:8081/live/008/uzh9xcqfJe/122.ts
+#EXTINF:-1,PRIME BOX BRASIL
+http://iptv.servidorfull.com:8081/live/008/uzh9xcqfJe/147.ts
+#EXTINF:-1,RBI
+http://iptv.servidorfull.com:8081/live/008/uzh9xcqfJe/178.ts
+#EXTINF:-1,RBS TV PORTO ALEGRE
+http://iptv.servidorfull.com:8081/live/008/uzh9xcqfJe/179.ts
+#EXTINF:-1,RECORD
+http://iptv.servidorfull.com:8081/live/008/uzh9xcqfJe/58.ts
+#EXTINF:-1,RECORD NEWS
+http://iptv.servidorfull.com:8081/live/008/uzh9xcqfJe/57.ts
+#EXTINF:-1,REDE BRASIL
+http://iptv.servidorfull.com:8081/live/008/uzh9xcqfJe/146.ts
+#EXTINF:-1,REDE TV
+http://iptv.servidorfull.com:8081/live/008/uzh9xcqfJe/124.ts
+#EXTINF:-1,REDE VIDA
+http://iptv.servidorfull.com:8081/live/008/uzh9xcqfJe/145.ts
+#EXTINF:-1,RIT
+http://iptv.servidorfull.com:8081/live/008/uzh9xcqfJe/180.ts
+#EXTINF:-1,SBT
+http://iptv.servidorfull.com:8081/live/008/uzh9xcqfJe/47.ts
+#EXTINF:-1,SIC INTERNACIONAL
+http://iptv.servidorfull.com:8081/live/008/uzh9xcqfJe/144.ts
+#EXTINF:-1,SONY
+http://iptv.servidorfull.com:8081/live/008/uzh9xcqfJe/125.ts
+#EXTINF:-1,SPACE
+http://iptv.servidorfull.com:8081/live/008/uzh9xcqfJe/126.ts
+#EXTINF:-1,SPORTV
+http://iptv.servidorfull.com:8081/live/008/uzh9xcqfJe/127.ts
+#EXTINF:-1,SPORTV 2
+http://iptv.servidorfull.com:8081/live/008/uzh9xcqfJe/54.ts
+#EXTINF:-1,SPORTV 3
+http://iptv.servidorfull.com:8081/live/008/uzh9xcqfJe/128.ts
+#EXTINF:-1,SPORTV ALTERNATIVO
+http://iptv.servidorfull.com:8081/live/008/uzh9xcqfJe/142.ts
+#EXTINF:-1,SPORTV 2 ALTERNATIVO
+http://iptv.servidorfull.com:8081/live/008/uzh9xcqfJe/143.ts
+#EXTINF:-1,STUDIO UNIVERSAL
+http://iptv.servidorfull.com:8081/live/008/uzh9xcqfJe/129.ts
+#EXTINF:-1,SYFY
+http://iptv.servidorfull.com:8081/live/008/uzh9xcqfJe/141.ts
+#EXTINF:-1,TBS
+http://iptv.servidorfull.com:8081/live/008/uzh9xcqfJe/130.ts
+#EXTINF:-1,TCM
+http://iptv.servidorfull.com:8081/live/008/uzh9xcqfJe/41.ts
+#EXTINF:-1,TELECINE PREMIUM
+http://iptv.servidorfull.com:8081/live/008/uzh9xcqfJe/51.ts
+#EXTINF:-1,TELECINE ACTION
+http://iptv.servidorfull.com:8081/live/008/uzh9xcqfJe/53.ts
+#EXTINF:-1,TELECINE PIPOCA
+http://iptv.servidorfull.com:8081/live/008/uzh9xcqfJe/132.ts
+#EXTINF:-1,TELECINE TOUCH
+http://iptv.servidorfull.com:8081/live/008/uzh9xcqfJe/50.ts
+#EXTINF:-1,TELECINE FUN
+http://iptv.servidorfull.com:8081/live/008/uzh9xcqfJe/131.ts
+#EXTINF:-1,TELECINE CULT
+http://iptv.servidorfull.com:8081/live/008/uzh9xcqfJe/52.ts
+#EXTINF:-1,TERRA VIVA
+http://iptv.servidorfull.com:8081/live/008/uzh9xcqfJe/181.ts
+#EXTINF:-1,TLC
+http://iptv.servidorfull.com:8081/live/008/uzh9xcqfJe/133.ts
+#EXTINF:-1,TNT
+http://iptv.servidorfull.com:8081/live/008/uzh9xcqfJe/49.ts
+#EXTINF:-1,TNT SERIES
+http://iptv.servidorfull.com:8081/live/008/uzh9xcqfJe/140.ts
+#EXTINF:-1,TOONCAST
+http://iptv.servidorfull.com:8081/live/008/uzh9xcqfJe/139.ts
+#EXTINF:-1,TRUTV
+http://iptv.servidorfull.com:8081/live/008/uzh9xcqfJe/138.ts
+#EXTINF:-1,TV ANHANGUERA GOIANIA
+http://iptv.servidorfull.com:8081/live/008/uzh9xcqfJe/773.ts
+#EXTINF:-1,TV TEM BAURU
+http://iptv.servidorfull.com:8081/live/008/uzh9xcqfJe/774.ts
+#EXTINF:-1,TV TEM SOROCABA
+http://iptv.servidorfull.com:8081/live/008/uzh9xcqfJe/775.ts
+#EXTINF:-1,UNIVERSAL
+http://iptv.servidorfull.com:8081/live/008/uzh9xcqfJe/48.ts
+#EXTINF:-1,VIVA
+http://iptv.servidorfull.com:8081/live/008/uzh9xcqfJe/46.ts
+#EXTINF:-1,VH1 MEGA HITS
+http://iptv.servidorfull.com:8081/live/008/uzh9xcqfJe/165.ts
+#EXTINF:-1,WARNER
+http://iptv.servidorfull.com:8081/live/008/uzh9xcqfJe/45.ts
+#EXTINF:-1,WOOHOO
+rtmp://189.8.78.127:8001/live/134?username=008&password=uzh9xcqfJe
