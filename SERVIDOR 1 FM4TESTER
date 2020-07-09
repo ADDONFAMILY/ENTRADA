@@ -76,8 +76,6 @@ http://difusorama.zoeweb.tv:1935/z437-live/stream/playlist.m3u8
 #EXTINF:-1 tvg-id="SBT" tvg-logo="http://i.imgur.com/7SlZF9B.png" group-title="TV ABERTA",SBT PE
 http://evpp.mm.uol.com.br:1935/ne10/ne10-tvjornal-caruaru-video-web.sdp/playlist.m3u8
   
-#EXTINF:-1 tvg-id="RECORD SP" tvg-logo="http://i.imgur.com/5UeQAk9.png" group-title="TV Aberta",Record RJ HD
-http://playplusrjo-lh.akamaihd.net/i/pp_rj@377859/index_720_av-p.m3u8
 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/5UeQAk9.png" group-title="TV ABERTA",RECORD SP
 http://playplusspo-lh.akamaihd.net/i/pp_sp@350176/index_360_av-p.m3u8
@@ -118,10 +116,7 @@ http://wowza4.catve.com.br:1935/live/livestream/chunklist_w708731897.m3u8
 #EXTINF:-1 tvg-id="TV FUTURA" tvg-logo="https://i.imgur.com/EAufOuD.png?1" group-title="Canais", TV UP HD
 http://caikron.com.br:1935/unipar/tvup/chunklist_w737489399.m3u8
 
- 
-#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/174abcdaff2dea4f8a12695f26f6e517.png" tvg-id="0" group-title="CANAIS",HOP CHANNEL
-https://bcliveunivsecure-lh.akamaihd.net/i/HopeChannel_1@571270/index_3192_av-p.m3u8?sd=10&rebase=on
- 
+
 #EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/da98ac6d6b08d276d592769ec21bc17f.png" tvg-id="0" group-title="CANAIS",GOSPEL MOVIES TELEVISION
 http://stmv2.srvstm.com/gospelf/gospelf/playlist.m3u8?ANTONYGTV
  
