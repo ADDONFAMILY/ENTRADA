@@ -1,150 +1,363 @@
-
-#EXTM3U
-#EXTINF:-1,ANIMAL PLANET HD
-http://proxyts.habbo.vg:8084/hls1/animalplanet.m3u8
-#EXTINF:-1,DISCOVERY CHANNEL HD
-http://proxyts.habbo.vg:8084/hls1/discovery.m3u8
-#EXTINF:-1,DISCOVERY CIVILIZATION HD
-http://proxyts.habbo.vg:8084/hls1/discoverycivilization.m3u8
-#EXTINF:-1,DISCOVERY THEATER HD
-http://proxyts.habbo.vg:8084/hls1/discoverytheater.m3u8
-#EXTINF:-1,DISCOVERY SCIENCE HD
-http://proxyts.habbo.vg:8084/hls1/discoverysience.m3u8
-#EXTINF:-1,DISCOVERY WORLD HD
-http://proxyts.habbo.vg:8084/hls1/discoveryworld.m3u8
-#EXTINF:-1,HISTORY  CHANNEL HD
-http://proxyts.habbo.vg:8084/hls1/history.m3u8
-#EXTINF:-1,HISTORY 2 HD
-http://proxyts.habbo.vg:8084/hls1/history2.m3u8
-#EXTINF:-1,NATIONAL GEOGRAPHICS HD
-http://proxyts.habbo.vg:8084/hls1/natgeo.m3u8
-#EXTINF:-1,NATIONAL GEOGRAPHICS WILD HD
-http://proxyts.habbo.vg:8084/hls1/natgeowild.m3u8
-#EXTINF:-1,ARTE 1 HD
-http://proxyts.canais.vip:8084/hls1/arte1.m3u8
-#EXTINF:-1,AeE HD
-http://proxyts.canais.info:8084/hls1/aie.m3u8
-#EXTINF:-1,AMC HD
-http://proxyts.habbo.vg:8084/hls1/amc.m3u8
-#EXTINF:-1,AXN HD
-http://proxyts.canais.info:8084/hls1/axn.m3u8
-#EXTINF:-1,CURTA! HD
-http://proxyts.canais.vip:8084/hls1/curta.m3u8
-#EXTINF:-1,CANAL SONY HD
-http://proxyts.canais.info:8084/hls1/sony.m3u8
-#EXTINF:-1,COMEDY CENTRAL HD
-http://proxyts.canais.info:8084/hls1/comedycentral.m3u8
-#EXTINF:-1,FOX HD
-http://proxyts.canais.info:8084/hls1/fox.m3u8
-#EXTINF:-1,FOX LIFE HD
-http://proxyts.canais.info:8084/hls1/foxlife.m3u8
-#EXTINF:-1,FOX PREMIUM HD
-http://proxyts.canais.info:8084/hls1/foxpremium1.m3u8
-#EXTINF:-1,FOX PREMIUM 2 HD
-http://proxyts.canais.info:8084/hls1/foxpremium2.m3u8
-#EXTINF:-1,FX HD
-http://proxyts.canais.info:8084/hls1/fx.m3u8
-#EXTINF:-1,INVESTIGAÇÃO DISCOVERY HD
-http://proxyts.canais.info:8084/hls1/investigacaodiscovery.m3u8
-#EXTINF:-1,SYFY HD
-http://proxyts.canais.info:8084/hls1/syfy.m3u8
-#EXTINF:-1,TNT SÉRIES HD
-http://proxyts.canais.info:8084/hls1/tntseries.m3u8
-#EXTINF:-1,BOOMERANG HD
-http://proxyts.canais.info:8084/hls1/boomerang.m3u8
-#EXTINF:-1,CARTOON NETWORK HD
-http://proxyts.canais.info:8084/hls1/cartoon.m3u8
-#EXTINF:-1,DISCOVERY KIDS FULLHD
-http://proxyts.canais.info:8084/hls1/discoverykids.m3u8
+CANAIS DE ESPORTES
+BAND SPORTS: bandsports
+https://canaisgratis.org/assistir-band-sports-online-24-horas-ao-vivo_e192145ad.html
  
-#EXTINF:-1,CINEMAX HD
-http://proxyts.canais.info:8084/hls1/cinemax.m3u8
-#EXTINF:-1,HBO HD
-http://proxyts.habbo.vg:8084/hls1/hbo.m3u8
-#EXTINF:-1,HBO 2 HD
-http://proxyts.habbo.vg:8084/hls1/hbo2.m3u8
-#EXTINF:-1,HBO FAMILY HD
-http://proxyts.habbo.vg:8084/hls1/hbofamily.m3u8
-#EXTINF:-1,HBO PLUS HD
-http://proxyts.habbo.vg:8084/hls1/hboplus.m3u8
-#EXTINF:-1,HBO SIGNATURE HD
-http://proxyts.habbo.vg:8084/hls1/hbosignature.m3u8
-#EXTINF:-1,HBO MAX HD
-http://proxyts.habbo.vg:8084/hls1/max.m3u8
-#EXTINF:-1,MAX PRIME HD
-http://proxyts.habbo.vg:8084/hls1/maxprime.m3u8
-#EXTINF:-1,MAX UP HD
-http://proxyts.canais.info:8084/hls1/maxup.m3u8
-#EXTINF:-1,MEGAPIX HD
-http://proxyts.canais.info:8084/hls1/megapix.m3u8
-#EXTINF:-1, MULTISHOW HD
-http://proxyts.canais.vip:8084/hls1/multishow.m3u8
-#EXTINF:-1,PARAMOUNT HD
-http://proxyts.canais.info:8084/hls1/paramount.m3u8
-#EXTINF:-1,SPACE HD
-http://proxyts.canais.info:8084/hls1/space.m3u8
-#EXTINF:-1,STUDIO UNIVERSAL HD
-http://proxyts.canais.info:8084/hls1/studiouniversal.m3u8
-#EXTINF:-1,TCM HD
-http://proxyts.canais.info:8084/hls1/tcm.m3u8
-#EXTINF:-1,TNT HD
-http://proxyts.canais.info:8084/hls1/tnt.m3u8
-#EXTINF:-1,UNIVERSAL CHANNEL HD
-http://proxyts.canais.info:8084/hls1/universal.m3u8
-#EXTINF:-1,WARNER HD
-http://proxyts.canais.info:8084/hls1/warner.m3u8
-#EXTINF:-1,TELECINE ACTION HD
-http://proxyts.habbo.vg:8084/hls1/telecineaction.m3u8
-#EXTINF:-1,TELECINE CUT HD
-http://proxyts.habbo.vg:8084/hls1/telecinecult.m3u8
-#EXTINF:-1,TELECINE FUN HD
-http://proxyts.habbo.vg:8084/hls1/telecinefun.m3u8
-#EXTINF:-1,TELECINE PIPOCA HD
-http://proxyts.habbo.vg:8084/hls1/telecinepipoca.m3u8
-#EXTINF:-1,TELECINE PREMIUM HD
-http://proxyts.habbo.vg:8084/hls1/telecinepremium.m3u8
-#EXTINF:-1,TELECINE TOUCH HD
-http://proxyts.habbo.vg:8084/hls1/telecinetouch.m3u8
-#EXTINF:-1,ESPN HD
-https://playplusespn-lh.akamaihd.net/i/pp_espn@374460/index_720_av-b.m3u8?sd=10&rebase=on
-#EXTINF:-1,ESPN BRASIL HD
-http://proxyts.ec.cx:8084/hls1/espnbrasil.m3u8
-#EXTINF:-1,FOX SPORT HD
-http://proxyts.canais.info:8084/hls1/foxsports1.m3u8
+COMBATE: combate
+https://canaisgratis.org/assistir-combate-lutas-ufc-online-24-horas-ao-vivo_3ac5b0656.html
  
-#EXTINF:-1,FOX SPORT 2 HD
-http://proxyts.canais.info:8084/hls1/foxsports2.m3u8
-#EXTINF:-1,PREMIERE HD
-http://proxyts.canais.info:8084/hls1/premiereclubes.m3u8
-#EXTINF:-1,SPORT TV HD
-http://proxyts.canais.info:8084/hls1/sportv1.m3u8
-#EXTINF:-1,SPORT TV 2 HD
-http://proxyts.canais.info:8084/hls1/sportv2.m3u8
-#EXTINF:-1,SPORT TV 3 HD
-http://proxyts.canais.info:8084/hls1/sportv3.m3u8
-#EXTINF:-1,SBT GO HD
-https://5a7bcfb834235.streamlock.net/tvsd2/smil:9cb929910544f649.smil/chunklist_w1596178621_b1000000.m3u8
+ESPN: espn
+https://canaisgratis.org/assistir-espn-online-24-horas-ao-vivo_ba5c8d411.html
  
-#EXTINF:-1,SBT HD
-https://5a7bcfb834235.streamlock.net/tvsd2/smil:9cb929910544f649.smil/chunklist_w553137014_b1000000.m3u8
+ESPN 2: espn2
+https://canaisgratis.org/assistir-espn-2-online-24-horas-ao-vivo_807c6911c.html
  
-#EXTINF:-1,BAND HD
-https://video01.kshost.com.br/rba2779/rba2779/chunklist_w1899066737.m3u8
+ESPN BRASIL:espnbrasil
+https://canaisgratis.org/assistir-espn-brasil-online-24-horas-ao-vivo_d1dcae581.html
  
-#EXTINF:-1,REDE TV HD
-http://evpp.mm.uol.com.br/redetv1/redetv1/chunklist_w674014198.m3u8
+ESPN EXTRA: espnextra
+https://canaisgratis.org/assistir-espn-extra-online-24-horas-ao-vivo_87c31485b.html
  
-#EXTINF:-1,REDE RECORD HD
-http://proxyts.canais.info:8084/hls1/recordsp.m3u8
-#EXTINF:-1,GOSPEL CARTOON
-https://stmv1.srvstm.com/gospelcartoon/gospelcartoon/playlist.m3u8?wowzasessionid=1656301855
-#EXTINF:-1,TOONCAST HD
-http://proxyts.canais.vip:8084/hls1/tooncast.m3u8
-#EXTINF:-1,VIVA HD
-http://proxyts.canais.vip:8084/hls1/viva.m3u8
-#EXTINF:-1,CHAVES 24 HR
-http://vipeiptv.com:25461/palmeiras/palmeiras/758580
-#EXTINF:-1,CORAGEM O CÃO COVARDE 24 HR
-http://vipeiptv.com:25461/palmeiras/palmeiras/758591
-#EXTINF:-1,CHAVES DESENHO 24 HR
-http://vipeiptv.com:25461/palmeiras/palmeiras/758594
+FOX PREMIUM 1: foxpremium1
+https://canaisgratis.org/assistir-fox-premium-1-online-24-horas-ao-vivo_ca2548d04.html
+ 
+FOX SPORTS 1: foxsports1
+https://canaisgratis.org/assistir-fox-sports-online-24-horas-ao-vivo_a15119895.html
+ 
+FOX SPORTS 2: foxsports2
+https://canaisgratis.org/assistir-fox-sports-2-online-24-horas-ao-vivo_83369ce8c.html
+ 
+OFF: off
+https://canaisgratis.org/assistir-canal-off-online-24-horas-ao-vivo_adfe1d327.html
+ 
+PREMIERE CLUBES: premiereclubes
+https://canaisgratis.org/assistir-premiere-clubes-online-24-horas-ao-vivo_128696632.html
+ 
+PREMIERE 2: premiere2
+https://canaisgratis.org/assistir-premiere-2-online-24-horas-ao-vivo_684de5abf.html
+ 
+PREMIERE 3; premiere3
+https://canaisgratis.org/assistir-premiere-3-online-24-horas-ao-vivo_0deb4691a.html
+ 
+PREMIERE 4: premiere4
+https://canaisgratis.org/assistir-premiere-4-online-24-horas-ao-vivo_b9997a0f8.html
+ 
+PREMIERE 5: premiere5
+https://canaisgratis.org/assistir-premiere-5-online-24-horas-ao-vivo_89e800fbb.html
+ 
+PREMIERE 6: premiere6
+https://canaisgratis.org/assistir-premiere-6-online-24-horas-ao-vivo_5e6a05c10.html
+ 
+PREMIERE 7: premiere7
+https://canaisgratis.org/assistir-premiere-7-online-24-horas-ao-vivo_85def6bd1.html
+ 
+SPACE: space
+https://canaisgratis.org/assistir-space-online-24-horas-ao-vivo_568e0b475.html
+ 
+SPORTV 1: sportv1
+https://canaisgratis.org/assistir-sportv-online-24-horas-ao-vivo_30439d2e3.html
+ 
+SPORTV 2: sportv2
+https://canaisgratis.org/assistir-sportv-2-online-24-horas-ao-vivo_6012803d7.html
+ 
+SPORTV 3: sportv3
+https://canaisgratis.org/assistir-sportv-3-online-24-horas-ao-vivo_b5ba01607.html
+ 
+TNT: tnt
+https://canaisgratis.org/assistir-tnt-online-24-horas-ao-vivo_93b3cd376.html
+ 
+CANAIS ABERTOS
+BAND: band
+https://canaisgratis.org/assistir-rede-bandeirantes-band-online-24-horas-ao-vivo_db41bec29.html
+ 
+RECORD SP: recordsp
+https://canaisgratis.org/assistir-record-tv-sp-online-24-horas-ao-vivo_c22659597.html
+ 
+RECORD NEWS: recordnews
+https://canaisgratis.org/assistir-record-news-online-24-horas-ao-vivo_4bf4f4304.html
+ 
+GLOBO RJ: boborj
+https://canaisgratis.org/assistir-rede-globo-rj-online-24-horas-ao-vivo_89f2ea726.html
+ 
+GLOBO SP: bobosp
+https://canaisgratis.org/assistir-rede-globo-sp-online-24-horas-ao-vivo_5c0180d66.html
+ 
+GLOBO NE: bobone
+https://canaisgratis.org/assistir-rede-globo-nordeste-online-24-horas-ao-vivo_9cbf3cbed.html
+ 
+SBT: sbt
+https://canaisgratis.org/assistir-sbt-online-24-horas-ao-vivo_8a0548907.html
+ 
+NOVOS CANAIS
+TLC: tlc
+https://canaisgratis.org/assistir-tlc-online-24-horas-ao-vivo_64589fa18.html
+ 
+MULTISHOW: multishow
+https://canaisgratis.org/assistir-multishow-online-24-horas-ao-vivo_047ffcc14.html
+ 
+MTV: mtv
+https://canaisgratis.org/assistir-mtv-online-24-horas-ao-vivo_88b75e251.html
+ 
+E: canale
+https://canaisgratis.org/assistir-e-entertainment-television-online-24-horas-ao-vivo_748857630.html
+ 
+VIVA: viva
+https://canaisgratis.org/assistir-viva-online-24-horas-ao-vivo_1a4cc3967.html
+ 
+MAIS GLOBOSAT: maisbobosat
+https://canaisgratis.org/assistir-mais-globosat-online-24-horas-ao-vivo_0a602b563.html
+ 
+LEFETIME: lefetime
+https://canaisgratis.org/assistir-lifetime-online-24-horas-ao-vivo_2716fa8f9.html
+ 
+INVESTIGAÇÃO DISCOVERY: investigacaodiscovery
+https://canaisgratis.org/assistir-investigacao-discovery-online-24-horas-ao-vivo_03cb32c14.html
+ 
+GNT: gnt
+https://canaisgratis.org/assistir-gnt-online-24-horas-ao-vivo_1ce93183e.html
+ 
+FOX LIFE: foxlife
+https://canaisgratis.org/assistir-fox-life-online-24-horas-ao-vivo_14e86fc27.html
+ 
+FISH TV: fishtv
+https://canaisgratis.org/assistir-fish-tv-online-24-horas-ao-vivo_fe50959cd.html
+ 
+DISCOVERY WORLD: discoveryworld
+https://canaisgratis.org/assistir-discovery-world-online-24-horas-ao-vivo_1ee56aa96.html
+ 
+DISCOVERY HOME&HEALTH: discoveryhomeihealth
+https://canaisgratis.org/assistir-discovery-home-health-online-24-horas-ao-vivo_fd7e8223b.html
+ 
+COMEDY CENTRAL: comedycentral
+https://canaisgratis.org/assistir-comedy-central-online-24-horas-ao-vivo_457ae2ac8.html
+ 
+BIS: bis
+https://canaisgratis.org/assistir-bis-online-24-horas-ao-vivo_5c021535e.html
+ 
+CURTA: curta
+https://canaisgratis.org/assistir-curta-online-24-horas-ao-vivo_79b339779.html
+ 
+ARTE 1: arte1
+https://canaisgratis.org/assistir-arte-1-online-24-horas-ao-vivo_ee863a030.html
+ 
+GLOBO NEWS: bobonews
+https://canaisgratis.org/assistir-globo-news-online-24-horas-ao-vivo_cc1736036.html
+ 
+BAND NEWS: bandnews
+https://canaisgratis.org/assistir-band-news-online-24-horas-ao-vivo_55979e4a0.html
+ 
+WARNER: warner
+https://canaisgratis.org/assistir-warner-tv-online-24-horas-ao-vivo_e34c8c7fa.html
+ 
+UNIVERSAL: universal
+https://canaisgratis.org/assistir-universal-channel-online-24-horas-ao-vivo_134f4bd2b.html
+ 
+FOOD NETWORK: foodnetwork
+https://canaisgratis.org/assistir-food-network-online-24-horas-ao-vivo_a4dd21796.html
+ 
+BAND: band
+https://canaisgratis.org/assistir-rede-bandeirantes-band-online-24-horas-ao-vivo_db41bec29.html
+ 
+RECORD NEWS: recordnews
+https://canaisgratis.org/assistir-record-news-online-24-horas-ao-vivo_4bf4f4304.html
+ 
+RECORD SP: recordsp
+https://canaisgratis.org/assistir-record-tv-sp-online-24-horas-ao-vivo_c22659597.html
+ 
+PARAMOUNT: paramount
+https://canaisgratis.org/assistir-paramount-channel-online-24-horas-ao-vivo_7fec5053e.html
+ 
+SYFY: syfty
+https://canaisgratis.org/assistir-syfy-online-24-horas-ao-vivo_274f19512.html
+ 
+STUDIO UNIVERSAL: studiouniversal
+https://canaisgratis.org/assistir-studio-universal-online-24-horas-ao-vivo_2272b2959.html
+ 
+SPACE: space
+https://canaisgratis.org/assistir-space-online-24-horas-ao-vivo_568e0b475.html
+ 
+FX: fx
+https://canaisgratis.org/assistir-fx-online-24-horas-ao-vivo_2c2a8925b.html
+ 
+OFF: off
+https://canaisgratis.org/assistir-canal-off-online-24-horas-ao-vivo_adfe1d327.html
+ 
+ADULTOS
+SEXY HOT: sexhot
+https://canaisgratis.org/assistir-sexy-hot-online-24-horas-ao-vivo-adulto_b847ef553.html
+ 
+EROTIC: erotic
+https://canaisgratis.org/assistir-erotic-online-24-horas-ao-vivo-adulto_6e037c882.html
+ 
+PINKO: pinko
+https://canaisgratis.org/assistir-pink-o-tv-online-24-horas-ao-vivo-adulto_3115a9224.html
+ 
+EVILANGEL: evilangel
+https://canaisgratis.org/assistir-evilangel-tv-online-24-horas-ao-vivo-adulto_82babcc82.html
+ 
+CANAIS INFANTIS
+ZOOMOO: zoomoo
+https://canaisgratis.org/assistir-zoomoo-online-24-horas-ao-vivo_108f562bb.html
+ 
+TOONCAST: tooncast
+https://canaisgratis.org/assistir-tooncast-online-24-horas-ao-vivo_16ec1f228.html
+ 
+NICK JR.: nickjr
+https://canaisgratis.org/assistir-nick-jr-online-24-horas-ao-vivo_a68f7bcb5.html
+ 
+NICK: nick
+https://canaisgratis.org/assistir-nickelodeon-nick-online-24-horas-ao-vivo_b88fae88b.html
+ 
+NAT GEO KIDS: natgeokids
+https://canaisgratis.org/assistir-nat-geo-kids-online-24-horas-ao-vivo_c6593cc33.html
+ 
+GLOOB: gloob
+https://canaisgratis.org/assistir-gloob-online-24-horas-ao-vivo_09b990d48.html
+ 
+DISNEY XD: disneyxd
+https://canaisgratis.org/assistir-disney-xd-online-24-horas-ao-vivo_53c297b77.html
+ 
+DISNEY JUNIOR: disneyjunior
+https://canaisgratis.org/assistir-disney-junior-online-24-horas-ao-vivo_778e6ebb8.html
+ 
+DISNEY: disney
+https://canaisgratis.org/assistir-disney-channel-online-24-horas-ao-vivo_38db52af6.html
+ 
+DISNEY KIDS: discoverykids
+https://canaisgratis.org/assistir-discovery-kids-online-24-horas-ao-vivo_8adae7f39.html
+ 
+CARTOON: cartoon
+https://canaisgratis.org/assistir-cartoon-network-online-24-horas-ao-vivo_ec48ab159.html
+ 
+BOOMERANG: boomerang
+https://canaisgratis.org/assistir-boomerang-online-24-horas-ao-vivo_c7da9d8f9.html
+ 
+CANAIS DE DOCUMENTÁRIOS
+NAT GEO: natgeo
+https://canaisgratis.org/assistir-nat-geo-kids-online-24-horas-ao-vivo_c6593cc33.html
+ 
+NAT GEO WILD: natgeowild
+https://canaisgratis.org/assistir-nat-geo-wild-online-24-horas-ao-vivo_440eee4ff.html
+ 
+HISTORY 2: history2
+https://canaisgratis.org/assistir-history-2-h2-online-24-horas-ao-vivo_bdb310811.html
+ 
+HISTORY: history
+https://canaisgratis.org/assistir-history-channel-online-24-horas-ao-vivo_7e9b58d73.html
+ 
+DISCOVERY THEATER: discoverytheater
+https://canaisgratis.org/assistir-discovery-theater-online-24-horas-ao-vivo_27d095fb2.html
+ 
+DISCOVERY SCIENCE: discoverysience
+https://canaisgratis.org/assistir-discovery-science-online-24-horas-ao-vivo_2f369e9c3.html
+ 
+DISCOVERY CIVILIZATION: discoverycivilization
+https://canaisgratis.org/assistir-discovery-civilization-online-24-horas-ao-vivo_e55342e3c.html
+ 
+DISCOVERY: discovery
+https://canaisgratis.org/assistir-discovery-channel-online-24-horas-ao-vivo_972be3466.html
+ 
+ANIMAL PLANET: animalplanet
+https://canaisgratis.org/assistir-animal-planet-online-24-horas-ao-vivo_b008d98bf.html
+ 
+TLC: tlc
+https://canaisgratis.org/assistir-tlc-online-24-horas-ao-vivo_64589fa18.html
+ 
+FILMES E SÉRIES
+PARAMOUNT: paramount
+https://canaisgratis.org/assistir-paramount-channel-online-24-horas-ao-vivo_7fec5053e.html
+ 
+SYFY: syfy
+https://canaisgratis.org/assistir-syfy-online-24-horas-ao-vivo_274f19512.html
+ 
+STUDIO UNIVERSAL: studiouniversal
+https://canaisgratis.org/assistir-studio-universal-online-24-horas-ao-vivo_2272b2959.html
+ 
+SPACE: space
+https://canaisgratis.org/assistir-space-online-24-horas-ao-vivo_568e0b475.html
+ 
+FX: fx
+https://canaisgratis.org/assistir-fx-online-24-horas-ao-vivo_2c2a8925b.html
+ 
+WARNER: warner
+https://canaisgratis.org/assistir-warner-tv-online-24-horas-ao-vivo_e34c8c7fa.html
+ 
+UNIVERSAL: universal
+https://canaisgratis.org/assistir-universal-channel-online-24-horas-ao-vivo_134f4bd2b.html
+ 
+TNT SÉRIES: tntseries
+https://canaisgratis.org/assistir-tnt-series-online-24-horas-ao-vivo_338620d63.html
+ 
+TNT: tnt
+https://canaisgratis.org/assistir-tnt-online-24-horas-ao-vivo_93b3cd376.html
+ 
+TELECINE CULT: telecinecult
+https://canaisgratis.org/assistir-telecine-cult-online-24-horas-ao-vivo_efbdd89bb.html
+ 
+TELECINE PIPOCA: telecinepipoca
+https://canaisgratis.org/assistir-telecine-pipoca-online-24-horas-ao-vivo_563a37d1a.html
+ 
+TELECINE FUN: telecinefun
+https://canaisgratis.org/assistir-telecine-fun-online-24-horas-ao-vivo_a536c2b27.html
+ 
+TELECINE TOUCH: telecinetouch
+https://canaisgratis.org/assistir-telecine-touch-online-24-horas-ao-vivo_e06631de7.html
+ 
+TELECINE ACTION: telecineaction
+https://canaisgratis.org/assistir-telecine-action-online-24-horas-ao-vivo_74513ff1c.html
+ 
+TELECINE PREMIUM: telecinepremium
+https://canaisgratis.org/search.php?keywords=telecine+premium&video-id=
+ 
+TCM: tcm
+https://canaisgratis.org/assistir-tcm-online-24-horas-ao-vivo_bf145b628.html
+ 
+SONY: sony
+https://canaisgratis.org/assistir-canal-sony-online-24-horas-ao-vivo_f9da253fe.html
+ 
+MEGAPIX: megapix
+https://canaisgratis.org/assistir-megapix-online-24-horas-ao-vivo_267d04e36.html
+ 
+MAX UP: maxup
+https://canaisgratis.org/assistir-max-up-online-24-horas-ao-vivo_e449af1b8.html
+ 
+MAX PRIME: maxprime
+https://canaisgratis.org/assistir-max-prime-online-24-horas-ao-vivo_8586fbbe2.html
+ 
+MAX: max
+https://canaisgratis.org/assistir-max-online-24-horas-ao-vivo_b5817d64b.html
+ 
+HBO SIGNATURE: hbosignature
+https://canaisgratis.org/assistir-hbo-signature-online-24-horas-ao-vivo_421493b85.html
+ 
+HBO PLUS: hboplus
+https://canaisgratis.org/assistir-hbo-plus-online-24-horas-ao-vivo_59818fb97.html
+ 
+HBO FAMILY: hbofamily
+https://canaisgratis.org/assistir-hbo-family-online-24-horas-ao-vivo_b5ced4611.html
+ 
+HBO 2: hbo2
+https://canaisgratis.org/assistir-hbo-2-online-24-horas-ao-vivo_8c78a7e25.html
+ 
+HBO: hbo
+https://canaisgratis.org/assistir-hbo-online-24-horas-ao-vivo_d1160d077.html
+ 
+FOX PREMIUM 2: foxpremium2
+https://canaisgratis.org/assistir-fox-premium-2-online-24-horas-ao-vivo_d62ec1c60.html
+ 
+FOX PREMIUM 1: foxpremium1
+https://canaisgratis.org/assistir-fox-premium-1-online-24-horas-ao-vivo_ca2548d04.html
+ 
+FOX: fox
+https://canaisgratis.org/assistir-fox-online-24-horas-ao-vivo_f620a560b.html
+ 
+CINEMAX: cinemax
+https://canaisgratis.org/assistir-cinemax-online-24-horas-ao-vivo_7a8a40375.html
+ 
+AXN: axn
+https://canaisgratis.org/assistir-axn-online-24-horas-ao-vivo_4f481d7ca.html
+ 
+AMC: amc
+https://canaisgratis.org/assistir-amc-online-24-horas-ao-vivo_c98155054.html
+ 
+A&E: aie
+https://canaisgratis.org/assistir-ae-online-24-horas-ao-vivo_01a411925.html
