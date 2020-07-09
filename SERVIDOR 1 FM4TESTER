@@ -7,6 +7,9 @@ http://stream.novotempo.com:1935/tv/tvnovotempo.stream/live.m3u8
 #EXTINF:-1 tvg-logo="http://www.congressomv.org/wp-content/uploads/2014/05/Logo-Terceiro-Anjo-Branco-700.png" group-title="JORNALISMOS", TV TERCEIRO ANJO
 http://streamer1.streamhost.org:1935/salive/GMI3anjoh/chunklist.m3u8?wowzasessionid=1767639709&
 
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/174abcdaff2dea4f8a12695f26f6e517.png" group-title="CANAIS", HOPE CHANNEL - IASD
+https://bcliveunivsecure-lh.akamaihd.net/i/HopeChannel_1@571270/index_3192_av-p.m3u8?sd=10&rebase=on
+
 #EXTINF:-1 tvg-logo="#EXTINF:-1 tvg-logo="http://listaiptvbrasil.com/canais/wp-content/uploads/2018/03/gospel.jpg" group-title="CANAIS: RELIGIOSOS", GOSPEL MOVIES TV
 http://stmv2.srvstm.com/gospelf/gospelf/playlist.m3u8
  
@@ -123,15 +126,6 @@ https://bcliveunivsecure-lh.akamaihd.net/i/HopeChannel_1@571270/index_3192_av-p.
 http://stmv2.srvstm.com/gospelf/gospelf/playlist.m3u8?ANTONYGTV
  
  
-#EXTINF:-1 tvg-id="0" tvg-logo="https://goo.gl/Dxnuge" group-title="CANAIS", CINE FILMES 24HS
-http://stmv2.srvstm.com/tvjsid/tvjsid/playlist.m3u8?ANTONYGTV
- 
-#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="FILMES",Cine Filmes 1
-http://stmv2.srvstm.com/tvjsid/tvjsid/playlist.m3u8
- 
-#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="TV FECHADA",Cine Filmes 2
-http://stmv2.srvstm.com/tvjsid/tvjsid/playlist.m3u8?wowzasessionid=525649341
- 
 
  
 #EXTINF:-1 tvg-logo="" group-title="TV Musicas",ONE 0
@@ -166,8 +160,6 @@ http://hitmusic.hu/hitmusic.m3u8
 http://tv01.logicahost.com.br:1935/tvinforbahia/tvinforbahia/live.m3u8
 #EXTINF:-1 ,ITU TV
 http://tv02.logicahost.com.br:1935/itutv/itutv/live.m3u8
-#EXTINF:-1 ,IURD TV
-https://14398c.ha.azioncdn.net/primary/smil:tv_universal.smil/playlist.m3u8
 
 #EXTINF:-1 ,KroneHIT
 https://bitcdn-kronehit.bitmovin.com/v2/hls/playlist.m3u8
@@ -215,26 +207,7 @@ http://flash.softhost.com.br:1935/pucgoias/aovivo/live.m3u8
 http://b2everyrai-lh.akamaihd.net/i/raimovie_1@67348/master.m3u8
 #EXTINF:-1 ,RDC
 https://5a7d54e35f9d2.streamlock.net/rdctv/smil:rdctv.smil/playlist.m3u8
-#EXTINF:-1 ,Record News
-https://playplusnews-lh.akamaihd.net/i/pp_nws@377849/master.m3u8
-#EXTINF:-1 ,RecordTV
-https://playplusspo-lh.akamaihd.net/i/pp_sp@350176/master.m3u8
-#EXTINF:-1 ,RecordTV Bahia
-https://playplussdr-lh.akamaihd.net/i/pp_sdr@377858/master.m3u8
-#EXTINF:-1 ,RecordTV Belo Horizonte
-https://playplusbh-lh.akamaihd.net/i/pp_bh@377862/master.m3u8
-#EXTINF:-1 ,RecordTV Distrito Federal
-https://playplusbsa-lh.akamaihd.net/i/pp_bsa@377860/master.m3u8
-#EXTINF:-1 ,RecordTV Goiás
-https://playplusgoya-lh.akamaihd.net/i/pp_gna@377833/master.m3u8
-#EXTINF:-1 ,RecordTV Natal
-https://5ad482a77183d.streamlock.net/raniere73gmail.com/5d864557c902eb4a1e8def33/chunklist_w1009622126.m3u8
-#EXTINF:-1 ,RecordTV Pará
-https://playpluspa-lh.akamaihd.net/i/pp_pa@377468/master.m3u8
-#EXTINF:-1 ,RecordTV Rio de Janeiro
-https://playplusrjo-lh.akamaihd.net/i/pp_rj@377859/master.m3u8
-#EXTINF:-1 ,RecordTV Rio Grande do Sul
-https://playpluspoa-lh.akamaihd.net/i/pp_poa@377864/master.m3u8
+
 #EXTINF:-1 ,REDE ATIVIDADE
 http://tv01.logicahost.com.br:1935/redeatividade/redeatividade/live.m3u8
 #EXTINF:-1 ,Rede Brasil
@@ -281,8 +254,7 @@ http://online.radiodifusion.net:1935/livetv/latinoSD.stream/playlist.m3u8
 https://5d23bdca513db.streamlock.net/8006/8006/playlist.m3u8
 #EXTINF:-1 ,TV A CARA DA BAHIA
 http://hd4.com.br:1935/tvacaradabahia/tvacaradabahia/live.m3u8
-#EXTINF:-1 ,TV A Crítica
-https://v4-slbps-sambavideos.akamaized.net/live/3256%2C7930%2C679f501d2054fc8514ea1fc28fe5f167%3Bbase64np%3BS52I5Up2XHDMC-c%21/amlst%3AS51w_Fc9WXHTS2s2/chunklist.m3u8
+
 #EXTINF:-1 ,TV AMBIENTAL
 http://59e4b6c1beddc.streamlock.net:1935/8168/8168/live.m3u8
 #EXTINF:-1 ,Tv Aparecida
@@ -291,10 +263,7 @@ https://caikron.com.br:8082/tvap/tvap/playlist.m3u8
 https://5b7f3c45ab7c2.streamlock.net/9010/ngrp:9010_all/playlist.m3u8?DVR
 #EXTINF:-1 ,TV Birigui
 https://59f2354c05961.streamlock.net:1443/tvdigitalbirigui/_definst_/tvdigitalbirigui/chunklist_w763334596.m3u8
-#EXTINF:-1 ,TV CANÇÃO NOVA
-http://tvajuhls-lh.akamaihd.net/i/tvdesk_1@147040/master.m3u8?jhonlocao
-#EXTINF:-1 ,TV Canção Nova
-http://tvajuhls-lh.akamaihd.net/i/tvdesk_1@147040/index_1080_av-p.m3u8?sd=10&rebase=on
+
 #EXTINF:-1 ,TV Carioca
 https://5d2c98775bafe.streamlock.net/8180/8180/playlist.m3u8
 #EXTINF:-1 ,SBT - TV Cidade Verde - (PI)
@@ -316,10 +285,7 @@ http://tvevangelizar01.crossdigital.com.br/evangelizar/tv/playlist.m3u8
 http://midia.faap.br:80/faaplatamlive-live/stream_720/livestream.m3u8
 #EXTINF:-1 ,TV FUTURA PR
 http://caikron.com.br:1935/unipar/tvup/playlist.m3u8?EDSONSOUSALIST
-#EXTINF:-1 ,TV FÁTIMA PE.ZEZINHO
-http://tv01.logicahost.com.br:1935/tvfatimaparatibe/tvfatimaparatibe/live.m3u8
-#EXTINF:-1 ,TV GIDEÕES HD
-http://streaming02.zas.media:1935/gideoes/programacao/live.m3u8
+
 #EXTINF:-1 ,Record News - TV Guará (MA)
 https://59f2354c05961.streamlock.net:1443/tvguara/_definst_/tvguara/chunklist.m3u8
 
@@ -348,8 +314,7 @@ http://tvvitoria2.viacast.tv/livepl/tvvitoria_2_original.m3u8
 https://cdn.jmvstream.com/w/LVW-8215/ngrp:LVW8215_fL5vRbpRn1_all/playlist.m3u8
 #EXTINF:-1 ,TVE BRASIL
 http://streaming.procergs.com.br:1935/tve/stve/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/174abcdaff2dea4f8a12695f26f6e517.png" group-title="CANAIS", HOPE CHANNEL - IASD
-https://bcliveunivsecure-lh.akamaihd.net/i/HopeChannel_1@571270/index_3192_av-p.m3u8?sd=10&rebase=on
+
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="EVANGELICO", Tv Novo Tempo
 http://stream.novotempo.com:1935/tv/smil:tvnovotempo.smil/playlist.m3u8
 
@@ -361,15 +326,8 @@ http://rbc.directradios.com:1935/rbc/rbc_720p/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/xGYSOgE.png" group-title="Canais", AGRO BRASIL
 http://177.54.152.243:1935/agrobrasiltv/agrobrasiltv/playlist.m3u8
  
+
  
-#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/da98ac6d6b08d276d592769ec21bc17f.png" group-title="CANAIS", GOSPEL MOVIES TELEVISION
-http://stmv2.srvstm.com/gospelf/gospelf/playlist.m3u8?ANTONYGTV
- 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/oNpqaxy.png?1" group-title="CANAIS", TVE BA HD
-http://stream2.ba.gov.br/hls-live/livepkgr/_definst_/irdeb/pgm-2.m3u8?ANTONIO
- 
-#EXTINF:-1 tvg-logo="https://goo.gl/Dxnuge" group-title="CANAIS", CINE FILMES 24HS
-http://stmv2.srvstm.com/tvjsid/tvjsid/playlist.m3u8?ANTONYGTV
  
 #EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/1d40c5df4382948baeb49aa7d953126b.jpg" group-title="CANAIS", RAI MOVIES- 
 http://b2everyrai-lh.akamaihd.net/i/raimovie_1@67348/master.m3u8?ANTONYGTV
@@ -380,14 +338,8 @@ http://stream.mediawork.cz/retrotv//retrotvHQ1/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/q0weOxZ.png?1" group-title="CANAIS", ARG:CANAL 26 HD
 http://200.115.193.177/live/26hd-720/.m3u8
  
-#EXTINF:-1 tvg-logo="/iptv-list.jpg" group-title="FILMES", filmes 1
-http://stmv2.srvstm.com/tvjsid/tvjsid/playlist.m3u8
+
  
-#EXTINF:-1 tvg-logo="/iptv-list.jpg" group-title="TV FECHADA", Cine Filmes 4
-http://stmv2.srvstm.com/tvjsid/tvjsid/playlist.m3u8?wowzasessionid=525649341
- 
-#EXTINF:-1 tvg-logo="/iptv-list.jpg" group-title="cine", Gospel Cartoon
-http://stmv1.srvstm.com/gospelcartoon/gospelcartoon/playlist.m3u8?wowzasessionid=495096105
 
 #EXTINF:-1 ,TV Guarani - WebTV
 http://01.paineldevideo.com/rtguarany/rtguarany/playlist.m3u8
